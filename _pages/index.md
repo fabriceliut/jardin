@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hello ! 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first seed]]</span> to get started on your exploration.
+  Faites un tour sur la présentation de mon [[Jardin Numérique]] pour commencer vos explorations.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Au fil de l'évolution de mes notes, vous verrez cette page principale devenir un réel aiguillage vers différents sujets d'explorations. Vous pourrez ensuite facilement rebondir de concepts en concepts, à la manière d'un Wikipedia mais sur des sujets et contenus très personnels et très souvent, en travaux ! Un [[Jardin Numérique]] est un réel espace d'expression en continuelle mutation !
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+Je vous souhaite une belle exploration ! ⛵
 
 <style>
   .wrapper {
