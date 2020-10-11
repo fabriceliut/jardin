@@ -20,25 +20,31 @@ En effet, je suis pas certain que beaucoup de profiles soient prêts à déclenc
 
 # Connaître sincèrement son interlocuteur
 Comment est-ce qu'on l'a découvert ? 
-    - Article ? Podcast ? Evènement ?
-    - Via #Veille_partenaires
+- Article ? Podcast ? Evènement ?
 	
 Quel est son propos de fond ?
+
 Quel est sa forme de langage, son vocabulaire, son modèle mental ?
+
 Quel est sont contexte pro ? Son historique pro ? 
-    - Se renseigner en partant de toutes les informations accessibles en public sur lui et son entreprise
+- Se renseigner en partant de toutes les informations accessibles en public sur lui et son entreprise
 Quel est son contexte perso ? Son historique perso ?
+
 Qu'est-ce qui le rassure, permet de tisser la confiance avec lui ?
-    - Une marque forte ? Un label ? Un certificat ? Des recommandations ?
+- Une marque forte ? Un label ? Un certificat ? Des recommandations ?
+
+
 Quel est sa temporalité ? La temporalité de son organisation ?
-    - Lien avec [[Temporalités des transformations]]
+- Lien avec [[Temporalités des transformations]]
 	
 **Quel est le meilleur environnement pour le contacter ?**
-    - LinkedIn message ? Mail ? Téléphone direct ? Déplacement physique ? Evènement ?
+- LinkedIn message ? Mail ? Téléphone direct ? Déplacement physique ? Evènement ?
+
+
 **Est-ce qu'on peut se connecter avec une personne proche de lui, de confiance pour lui ?**
-    - Cette personne peut nous partager le contact direct
-    - Cette personne peut faire le lien et une introduction rassurante
-    - Le nom de cette personne peut servir en support lors de la première accroche
-    - Il y a des stratégie de réseau sur LinkedIn utilisable pour créer ce cadre de confiance en numérique
+- Cette personne peut nous partager le contact direct
+- Cette personne peut faire le lien et une introduction rassurante
+- Le nom de cette personne peut servir en support lors de la première accroche
+- Il y a des stratégie de réseau sur LinkedIn utilisable pour créer ce cadre de confiance en numérique
 
 # Suite en écriture...
