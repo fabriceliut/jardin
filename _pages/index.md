@@ -11,6 +11,9 @@ permalink: /
   Faites un tour sur la présentation de mon [[Jardin Numérique]] pour commencer vos explorations.
 </p>
 
+## Premières explorations.
+[[Guide book apprendre à vendre]]
+
 Au fil de l'évolution de mes notes, vous verrez cette page principale devenir un réel aiguillage vers différents sujets d'explorations. Vous pourrez ensuite facilement rebondir de concepts en concepts, à la manière d'un Wikipedia mais sur des sujets et contenus très personnels et très souvent, en travaux ! Un [[Jardin Numérique]] est un réel espace d'expression en continuelle mutation !
 
 Je vous souhaite une belle exploration ! ⛵
