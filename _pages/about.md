@@ -4,9 +4,9 @@ title: About
 permalink: /about
 ---
 
-*Vous voulez en savoir plus à propose de Fabrice liut ?*
+*Vous voulez en savoir plus à propos de Fabrice liut ?*
 
-N'hésitez pa sà me demander ce que vous voulez ! Pour le moment mon jardin numérique actuel est sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
+N'hésitez pas à me demander ce que vous voulez ! Pour le moment mon jardin numérique actuel est sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
 
 Ce site est en expérimentation, comme très souvent dans le monde très émergent des jardins numériques !
 
