@@ -11,8 +11,8 @@ Pour ce site, j'utilise un thème qui permet cette navigation, je pourrais même
 C'est actuellement l'app qui héberge [Mon jardin numérique actuel](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956)
 Elle permet de gérer une présentation du contenu très propre en pages webs dynamiques, avec le fonctionnement des [[Liens bidirectionnels]] bien spécifiques aux jardins numériques.
 
-## Roam Research
+## [[Roam Research]]
 Je vous propose une [[Découverte de Roam]] qui reste pour moi le système le plus abouti pour construire un véritable jardinn numérique, même à plusieurs !
 
-## Workflowly
+## Workflowy
 C'est pour moi actuellement le meilleur outil pous structurer tout mon "arbre de pensées" & ma structure mentale. Bientôt un tour découverte.
