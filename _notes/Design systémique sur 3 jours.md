@@ -1,6 +1,6 @@
 ---
 title: Design systémique sur 3 jours
-image: /assets/3jours.jpg
+image: /assets/troisjours.jpeg
 ---
 
 ![]({{page.image}})
