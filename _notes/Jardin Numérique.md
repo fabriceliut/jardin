@@ -6,6 +6,8 @@ Qu'est-ce qu'un jardin numérique ? Je tenterais dans cette série de "notes rel
 
 Pour ce site, j'utilise un thème qui permet cette navigation, je pourrais même dire cette "plantation". Je vous laisse découvrir la logique du créateur ici > [[Your first seed]]
 
+La démarche de jardin numérique est une des bases de fonctionnement de [[Archipel Kyosei]] permettant la recherche et le partage de la connaissance en commun.
+
 # Les outils pour construire son jardin.
 ## Notion
 C'est actuellement l'app qui héberge [Mon jardin numérique actuel](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956)
