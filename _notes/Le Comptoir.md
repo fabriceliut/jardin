@@ -12,19 +12,20 @@ Le monde actuel ? Un monde plus conscient, en changement continu et profondémen
 > Découvrir en détail le [[Manifeste du Comptoir]]
 
 ## Le Comptoir en 4 étapes.
-1. ☕ Une rencontre conviviale.
+
+### ☕ Une rencontre conviviale.
 
 Une premier café avec 3 experts au Comptoir, pour comprendre votre projet de transformation et initier une coopération en confiance.
 
-2. 🔍 Un diagnostic systémique.
+### 🔍 Un diagnostic systémique.
 
 Ensemble, nous questionnons et détectons les points de frictions et de fluidités de votre organisation et leurs causes, pour prendre conscience et prioriser les actions « de soin » à mettre en place.
 
-3. 🍟 Des actions en coopération.
+### 🍟 Des actions en coopération.
 
 Nous faisons des problématiques causes des opportunités d’ateliers coopératifs intégrant les experts du réseau nécessaires.
 
-4. 🏗️ Une transformation pas à pas.
+### 🏗️ Une transformation pas à pas.
 
 L’aventure commune est lancée ! Continuons main dans la main durant les différentes phases de votre transformation globale jusqu’à votre mise en autonomie !
 
