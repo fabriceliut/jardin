@@ -1,6 +1,9 @@
 ---
 title: Design systémique sur 3 jours
+image: /assets/3jours.jpg
 ---
+
+![]({{page.image}})
 
 *L’approche systémique [[Le Comptoir]] se met en place grâce à 3 journées construites spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles priorités d’actions & de transformations à initier.*
 

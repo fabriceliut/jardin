@@ -39,6 +39,7 @@ Suivant cette logique, le Comptoir est porté par un système riche & agile, per
 Concrètement, cette approche repose sur 3 premiers jours socles de Design Systémique, mêlant experts du Comptoir et parties prenants des organisations.
 
 > Découvrir l'approche [[Design systémique sur 3 jours]]
+> Découvrir l'approche [[Design circulaire sur 1 jour]]
 
 # Le Comptoir pour construire en commun et concrétiser, étape après étape.
 

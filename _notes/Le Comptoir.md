@@ -7,7 +7,7 @@ title: Le Comptoir
 
 **Le Comptoir est un macro-écosystème qui met en synergie et accompagne les individus, organisations et territoires dans leurs transitions afin qu’ils s’adaptent à la complexité du monde actuel.**
 
-Le monde actuel ? Un monde plus conscient, en changement continu et profondément complexe. S’adapter se développe par la coopération et le partage en commun de nos inspirations & connaissances. Ce monde est un système socio-économique, politique et culturel qui doit s’inspirer du vivant (biomimétisme) et rechercher constamment et radicalement la prospérité et la résilience.
+Le monde actuel ? Un monde plus conscient, en changement continu et profondément complexe. S’adapter se développe par la coopération et le partage en commun de nos inspirations & connaissances. Ce monde est un système socio-économique, politique et culturel qui doit s’inspirer du vivant ([[Bio-inspiration]]) et rechercher constamment et radicalement la prospérité et la résilience.
 
 > Découvrir en détail le [[Manifeste du Comptoir]]
 
@@ -30,6 +30,7 @@ Nous faisons des problématiques causes des opportunités d’ateliers coopérat
 L’aventure commune est lancée ! Continuons main dans la main durant les différentes phases de votre transformation globale jusqu’à votre mise en autonomie !
 
 > Découvrir en détail [[Approche du Comptoir]]
+> Récolter quelques premières [[Ressources du Comptoir]]
 
 ## 🗄️ Cas d’études du Comptoir.
 
@@ -42,8 +43,11 @@ Une anthropologue, un designer et un consultant sur les organisations et les usa
 ### [[Transformation du système éducatif d’un établissement d’enseignement supérieur.]]
 Multiples ateliers documentés avec les intervenants designers et développeurs du Comptoir.
 
-### [[Accompagnement des communs lyonnais pour les municipales 2020.]]
+### [[Transformer le territoire lyonnais par une Fabrique.]]
 Intervention des experts en prospective politique, des designers, des agents de la métropole & des communs avec les citoyens lyonnais.
+
+### [[Institut de la pensée intégrale]]
+Pour faire nouvelle société il faut de nouveaux instituts structurés sur les bases de nouveaux paradigmes permettant de développer une pensée plus large, libre, consciente & systémique.
 
 
 
