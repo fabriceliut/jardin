@@ -13,6 +13,7 @@ permalink: /
 
 ## Premières explorations.
 
+- [[Pensée systémique]]
 - [[Guide book apprendre à vendre]]
 - [[Archipel Kyosei]]
 - [[Le Comptoir]]
