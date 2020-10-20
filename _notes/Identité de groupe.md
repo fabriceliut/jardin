@@ -22,19 +22,19 @@ Qu'est-ce qui va orienter son choix ?
 
 C'est souvent ici qu'entre en jeu les plans, les projections, les objectifs & les prochaines étapes. En entrant dans l'action & le faire ensemble les deux individus commencent à faire "corps commun". Leur identité propre commence à s'ouvrir à l'autre ou parfois s'adapter, voir se dilluer... Si l'un prend une posture de "leader" l'autre se mettra dans son "aspiration", mais dans tous les cas, ils sont désormais parties d'une même entité. Elle n'est pas l'un ou l'autre, **elle est les deux et en même temps nouvelle.**
 Je vois alors ici 2 choix :
-**- S'il y a nouvelle entité, qui est-elle ? Comment est-ce qu'elle s'appelle ?**
-**- S'il n'y a pas nouvelle entité alors comment définir cette association & le fait de faire ensemble, d'avoir un projet commun ?**
+- **S'il y a nouvelle entité, qui est-elle ? Comment est-ce qu'elle s'appelle ?**
+- **S'il n'y a pas nouvelle entité alors comment définir cette association & le fait de faire ensemble, d'avoir un projet commun ?**
 
-De mon point de vue, et c'est ce que je questionne ici,** le premier choix** est bien plus fréquent que l'autre. Il est plus simple à appréhender et nous y sommes culturellement habitués. Quand on crée une association, une entreprise, c'est un objet intellectuel dont nous avons accepté l'existence, c'est une [[Personne Morale]]. **Cette entité n'existe pas physiquement car rien de plus n'existe que les individus & les objets qui la compose. Pourtant, dans notre esprit, elle existe.** Juridiquement, elle existe. La plupart du temps même, les individus ont besoin de son existence pour évoluer ensemble, sinon il ne se sentent pas "appartenir à" quelque chose. 
+De mon point de vue, et c'est ce que je questionne ici, **le premier choix** est bien plus fréquent que l'autre. Il est plus simple à appréhender et nous y sommes culturellement habitués. Quand on crée une association, une entreprise, c'est un objet intellectuel dont nous avons accepté l'existence, c'est une [[Personne Morale]]. **Cette entité n'existe pas physiquement car rien de plus n'existe que les individus & les objets qui la compose. Pourtant, dans notre esprit, elle existe.** Juridiquement, elle existe. La plupart du temps même, les individus ont besoin de son existence pour évoluer ensemble, sinon il ne se sentent pas "appartenir à" quelque chose. 
 C'est avec cette [[Personne Morale]] et toutes les règles qu'on crée pour la définir que l'on crée une **identité de groupe**. Cette identité nous permet de faire "un", en partageant un raison d'être, des intentions, des valeurs & des principles de fonctionnement, etc...
 
-## Et quand est-il du second choix ?
-Il est bien plus complexe à accepter culturellement & intellectuellement. Je dirais même que c'est un paradigme différent du premier. En faisant ce choix on accepte qu'il n'y a rien qui existe de plus que les individus en train de faire, échanger, coopérer. Qu'on soit 1, 2, 10, 10000, il n'y aura toujours rien de plus que ces individus qui font chacun des choses les uns avec les autres, chacun à leur échelle. Une entreprise n'existe pas, un pays n'existe pas. Aucune [[Personne Morale]] et juridique n'existe. Il n'y a que des individus qui ont crée des objets & des règles de language & de logique pour pouvoir se comprendre et évoluer dans une réalité qui serait trop complexe & pas supportable sans ces objets. Les humains se sont accordés sur des concepts pour en faire des réalités à grande échelle.
+## Et qu'en est-il du second choix ?
+Il est bien plus complexe à accepter culturellement & intellectuellement. **Je dirais même que c'est un paradigme différent du premier**. En faisant ce choix on accepte qu'il n'y a rien qui existe de plus que les individus en train de faire, échanger, coopérer. Qu'on soit 1, 2, 10, 10000, il n'y aura toujours rien de plus que ces individus qui font chacun des choses les uns avec les autres, chacun à leur échelle. Une entreprise n'existe pas, un pays n'existe pas. Aucune [[Personne Morale]] et juridique n'existe. Il n'y a que des individus qui ont crée des objets & des règles de language & de logique pour pouvoir se comprendre et évoluer dans une réalité qui serait trop complexe & pas supportable sans ces objets. Les humains se sont accordés sur des concepts pour en faire des réalités à grande échelle.
 
 **Désormais, la démarche n'est plus de choisir mais de rentrer dans des cases préétablis.**
 
-Ce que propose pour moi ce second choix, "pas de nouvelle entité" lorsque des individus veulent évoluer ensemble, est une opportunité d'imaginer, de faire émerger de nouveaux objets, de nouveaux concepts & de nouvelles manière de vivre ensemble,  de créer et j'irais même à dire, de nouvelles manière de "faire réalité".
-Les objets intellectuels et de culture dont nous avons hérité sont de précieux héritages, mais ce ne sont que des héritages, ils sont eux même prêts à muter, à se transformer.
+Ce que propose pour moi ce second choix, "pas de nouvelle entité" lorsque des individus veulent évoluer ensemble, est une opportunité d'imaginer, de faire émerger de nouveaux objets, de nouveaux concepts & de nouvelles manières de vivre ensemble,  de créer et j'irais même à dire, **de nouvelles manière de "faire réalité"**.
+Les objets intellectuels et de culture dont nous avons hérité sont de précieux ancrages, mais ce ne sont que des héritages, ils sont eux même prêts à muter, à se transformer.
 
 **Choisir qu'il n'y a pas de nouvelle entité et donc pas d'identité de groupe fait entrer de plein pied dans une nouvelle dimension d'existence. Tout autour de nous est structuré par des personnes morales : la famille, le collectif, la communauté, l'écosystème, l'humanité, le vivant...**
 
@@ -42,7 +42,7 @@ Les objets intellectuels et de culture dont nous avons hérité sont de précieu
 
 ---
 
-Si je conclue cette première note très personnellement, je dirais qu'il y a tout intérêt à considérer le groupe le plus large qui nous est accessible pour le moment pour définir notre raison d'être, nos intentions, nos valeurs et notre "identité de groupe".
+Si je conclue cette première note très personnellement, je dirais qu'il y a tout intérêt à considérer le groupe le plus large qui nous est accessible pour le moment pour définir notre raison d'être, nos intentions, nos valeurs et notre "identité de groupe" plutôt que de se limiter à des "groupes intermédiaires".
 
 ## Le vivant.
 L'ether, le minéral, le végétal, l'animal... Voilà qui nous sommes. Nous sommes chacun des parties de ce groupe, un groupe qui n'a pas de limites ni d'espace ni de temps. **À ce moment de lecture et de perception, tout peu devenir perturbant parce que trop abstrait.** Je vis aussi cet effet, mon identité propre pourrait presque se diluer... Surtout quand j'accepte en conscience que mon propre corps n'est qu'un "groupe", un concept que je porte comme objet mental pour me définir, me donner des limites, me donner une existence...
