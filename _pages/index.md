@@ -13,6 +13,7 @@ permalink: /
 
 ## Premières explorations.
 
+- [[Design Régénératif]]
 - [[Pensée systémique]]
 - [[Guide book apprendre à vendre]]
 - [[Archipel Kyosei]]
