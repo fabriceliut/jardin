@@ -3,6 +3,7 @@ title: Personne Morale
 ---
 
 [Wiki](https://fr.wikipedia.org/wiki/Personne_morale)
+
 Concept venant du droit & du juridique. une personne morale est une entité dotée de la **personnalité juridique**, ce qui lui permet d'être directement titulaire de droits et d'obligations en lieu et place des personnes physiques ou morales qui la composent ou qui l'ont créée (par exemple : entreprises, associations...).
 
 *"Une personne morale est généralement constituée par un regroupement de personnes physiques ou morales qui souhaitent accomplir quelque chose en commun"*

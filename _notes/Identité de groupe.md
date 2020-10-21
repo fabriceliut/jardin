@@ -44,6 +44,8 @@ Les objets intellectuels et de culture dont nous avons hérité sont de précieu
 
 Si je conclue cette première note très personnellement, je dirais qu'il y a tout intérêt à considérer le groupe le plus large qui nous est accessible pour le moment pour définir notre raison d'être, nos intentions, nos valeurs et notre "identité de groupe" plutôt que de se limiter à des "groupes intermédiaires".
 
+> "*La notion d’objet obstrue de sa masse opaque et homogène l’accès à toute idée de système ou organisation.*" - Edgar Morin
+
 ## Le vivant.
 L'ether, le minéral, le végétal, l'animal... Voilà qui nous sommes. Nous sommes chacun des parties de ce groupe, un groupe qui n'a pas de limites ni d'espace ni de temps. **À ce moment de lecture et de perception, tout peu devenir perturbant parce que trop abstrait.** Je vis aussi cet effet, mon identité propre pourrait presque se diluer... Surtout quand j'accepte en conscience que mon propre corps n'est qu'un "groupe", un concept que je porte comme objet mental pour me définir, me donner des limites, me donner une existence...
 **Je vois alors ici encore deux choix.** Laisser aussi "mon corps" glisser, cet objet se diluer dans le vivant... Si j'y arrive ! Ou alors, garder ce concept, garder mon identité propre car c'est ce qui me permet d'Être ici, de sentir, de percevoir, de penser & de faire, de créer, de découvrir & de partager, avec d'autres.

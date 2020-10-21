@@ -40,6 +40,7 @@ Concrètement, cette approche repose sur 3 premiers jours socles de Design Syst�
 
 > Découvrir l'approche [[Design systémique sur 3 jours]]
 > Découvrir l'approche [[Design circulaire sur 1 jour]]
+> Découvrez l'approche [[Design Régénératif]]
 
 # Le Comptoir pour construire en commun et concrétiser, étape après étape.
 
