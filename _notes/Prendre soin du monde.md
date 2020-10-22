@@ -16,7 +16,7 @@ Ce sont surtout des questions qui doivent nous inspirer alors et par curiosité,
 - ...(et vous ?)
 
 ## Des projets pour prendre soin du monde.
-Ce n'est qu'une toute petite liste encore, je tenterais de la compléter au fil du temps et du développement de ce [[Jardin Numérique]]
+Ce n'est qu'une toute petite liste encore, je tenterais de la compléter au fil du temps et du développement de ce [[Jardin Numérique]].
 
 - [[Archipel Kyosei]]
 - [[Le Comptoir]]
