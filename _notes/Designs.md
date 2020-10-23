@@ -21,5 +21,5 @@ Finissons cette présentation globale par quelques exemples d'applications conc
 - **Par le [[Design Systémique]]**, prendre conscience de la structure de nos organisations, des priorités et urgences d'actions réelles mais aussi des modes d'échanges d'informations, des axes de frictions, etc... *(ex : Lego qui se restructure sur une logique horizontale et qui optimise ainsi tous ses services d'activités en fluidifiant les échanges, les collaborations et les prises de décisions)*
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-Pour découvrir tous les Designs, ça se passe 👉 [Sur mon espace Notion](https://www.notion.so/liutnotes/Des-Designs-pour-demain-3965e13dab2c4f0a91a4f0339b43bfc1)
+Vous pourrez découvrir ici prochainement une liste complète de tous les Designs.
 </p>

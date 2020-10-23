@@ -14,13 +14,13 @@ Richard vient au Comptoir suite à une demande prioritaire de son groupe : il fa
 
 ### **Le diagnostic au Comptoir.**
 
-Nos 3 premiers experts se lancent dans un jeu de question/réponses, la dialectique s’installe en toute décontraction. L’objectif de ces rebonds d’esprit à esprit est de faire émerger les difficultés causes du projet.
+Nos 3 premiers experts se lancent dans un jeu de question/réponses, la [[Dialectique]] s’installe en toute décontraction. L’objectif de ces rebonds d’esprit à esprit est de faire émerger les difficultés causes du projet.
 
 Pour commencer, Richard nous donnes les axes les plus important : devenir une entreprise plateforme, démarche phygitale, éco-système global de 100 000 leaders, etc…
 
 Les experts remarques ici les hypothèses de notre temps : c’est comme si le numérique était la solution en elle-même et pas simplement un outil, un moyen. En gros, ces lignes portent sur la mise en place de solutions, via la transformation digitale. Et pourtant, comme soulève Fanny, le numérique, c’est surtout une culture à part entière. C’est cette culture qui fait évoluer les groupes humains et leur manière de travailler, ce n’est pas l’outil numérique en soi. Hugo souligne également l’importance de ne pas s’enfermer dans l’outil ainsi que la dimension systémique de ce genre de transformation : il faut prendre en compte l’humain, l’état actuel de leur quotidien, leur environnement et leur contexte et avancer avec eux dans leur évolution.
 
-De plus, le groupe étant mondial, il regroupe plusieurs cultures différentes et plusieurs enseignes et donc autant de sous-cultures. Impossible alors d’écrire des stratégies descendantes qui vont coller à tout le monde : chaque pays et enseigne fonctionne à sa manière, **c’est un vrai système complexe à prendre en compte.**
+De plus, le groupe étant mondial, il regroupe plusieurs cultures différentes et plusieurs enseignes et donc autant de sous-cultures. Impossible alors d’écrire des stratégies descendantes qui vont coller à tout le monde : chaque pays et enseigne fonctionne à sa manière, **c’est un vrai [[Système Complexe]] à prendre en compte.**
 
 ### **Les recommandations.**
 
@@ -42,6 +42,6 @@ Depuis septembre, le grand groupe continue son évolution et le Comptoir reste p
 
 ### **Et la suite ?**
 
-Cependant, de nouvelles problématiques causes émergent : qui dit transformation dit nouvelles habitudes, nouveaux fonctionnement. Qui alors est responsable de ces nouvelles pratiques si la gouvernance n’a pas évoluée avec le reste du fonctionnement du groupe. **Dans un monde de demain fonctionnant en éco-système, comme voulu dans l’écriture stratégique, la structuration hiérarchique classique semble archaïque et bien trop solide.** Elle ralentit les évolutions, elle solidifie là où il faudrait plus d’agilité, elle frustre en même temps que les autres démarches libèrent. Mais si alors il y a de nouveaux problèmes, c’est l’opportunité d’une nouvelle rencontre au Comptoir avec de nouveaux experts adaptés. **La mutation culturelle de nos sociétés est sans fin : ce qui compte c’est de rester vigilant, agile et résilient.**
+Cependant, de nouvelles problématiques causes émergent : qui dit transformation dit nouvelles habitudes, nouveaux fonctionnement. Qui alors est responsable de ces nouvelles pratiques si la gouvernance n’a pas évoluée avec le reste du fonctionnement du groupe. **Dans un monde de demain fonctionnant en éco-système, comme voulu dans l’écriture stratégique, la structuration hiérarchique classique semble archaïque et bien trop solide.** Elle ralentit les évolutions, elle solidifie là où il faudrait plus d’agilité, elle frustre en même temps que les autres démarches libèrent. Mais si alors il y a de nouveaux problèmes, c’est l’opportunité d’une nouvelle rencontre au Comptoir avec de nouveaux experts adaptés. **La [[Mutation Culturelle]] de nos sociétés est sans fin : ce qui compte c’est de rester vigilant, agile et résilient.**
 
-*+ d’infos en nous contactant, avec une documentation open-source sur les démarches de transformation culturelle sur demande.*
+*+ d’infos en me contactant, avec une documentation open-source sur les démarches de transformation culturelle sur demande.*
