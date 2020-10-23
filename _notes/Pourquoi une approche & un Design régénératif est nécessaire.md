@@ -21,7 +21,7 @@ image: /assets/coopererregenerer.jpeg
 
 ## **Au quotidien, régénérer plutôt que dégénérer.**
 
-**Le Design régénératif** porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est à dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
+Le [[Design Régénératif]] porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est à dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
 
 ### **Comment est-ce que ça s'applique au quotidien ?**
 
@@ -31,7 +31,7 @@ Toujours se poser la questions de l'impact & des externalités de nos actions. 
 
 - Un business de production linéaire oublie souvent les externalités négatives, sociales comme environnementales. Il est possible de faire un premier pas en basculant en circulaire. (**[Je vous partage une initiation de guide book](https://www.notion.so/archipels/Guide-Book-Cds-3d056642017e4793a61f23fb7fea29a5)**)
 - Dans une organisation, si les collaborateurs sont en mauvaise santé, sous pression, dans l'urgence et le stress constant... Cette organisation est malade même si économiquement en croissance, elle dégénère quoi que les chiffres puissent affirmer.
-- Une organisation qui n'est plus du tout consciente de ses priorités, des urgences réelles... Avec une stratégie qui n'est centrée que sur l'économie et qui omet toutes les autres dimensions "de santé" du système... N'est pas résiliente comme elle pourrait le chercher maintenant et continue de se fragiliser à chaque nouvelle action déclenchée "la tête dans le guidon". **Je vous partage une approche [[Design systémique sur 3 jours]] pour oeuvrer à traiter ça.**
+- Une organisation qui n'est plus du tout consciente de ses priorités, des urgences réelles... Avec une stratégie qui n'est centrée que sur l'économie et qui omet toutes les autres dimensions "de santé" du système... N'est pas résiliente comme elle pourrait le chercher maintenant et continue de se fragiliser à chaque nouvelle action déclenchée "la tête dans le guidon". **Je vous partage une approche [[Design Systémique sur 3 jours]] pour oeuvrer à traiter ça.**
 
 Concrètement, j'aurais des centaines de cas à vous citer mais je ne pense pas que ce soit nécessaire. **Vous avez déjà en tête à ce moment de l'article les aspects dégénératifs dans lesquels vous êtes engagés, ainsi que les solutions régénératives que vous essayez de mettre en place.** Et tout ça certainement parce que vous avez envie de vous sentir bien au quotidien ! Tout simplement.
 

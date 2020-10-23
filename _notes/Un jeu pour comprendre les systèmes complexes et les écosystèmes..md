@@ -8,7 +8,7 @@ Merci Nick, créateur de ce petit jeu, pour m'aider à répondre en partie, de m
 
 Prenez 2 éléments séparés et reliez-les par une ligne : et voilà, vous avez votre premier "système" ! Maintenant, prenez plein de points, reliez-les dans tous les sens : et voilà un [[Système Complexe]] ! Mais ce n'est pas que la quantité de liens qui compte, c'est aussi leurs qualités, leurs caractéristiques et l'environnement dans lequel s'intègre le système !
 
-Un couple est un système : 2 personnes liées. Un recette de cuisine est un système : des ingrédients liés, des timings, des ustensiles... C'est déjà un système "compliqué", pour cette raison, on écrit des recettes. Une communauté est un système complexe : pleins de gens, pleins de liens. La nature aussi est un système. **En fait, tout est système, comme notre cerveau ! Et c'est une manière de voir les choses, un "modèle de pensée" qu'on appelle "[[Pensée systémique]]".**
+Un couple est un système : 2 personnes liées. Un recette de cuisine est un système : des ingrédients liés, des timings, des ustensiles... C'est déjà un système "compliqué", pour cette raison, on écrit des recettes. Une communauté est un système complexe : pleins de gens, pleins de liens. La nature aussi est un système. **En fait, tout est système, comme notre cerveau ! Et c'est une manière de voir les choses, un "modèle de pensée" qu'on appelle "[[Pensée Systémique]]".**
 
 ### **C'est quoi un [[Système Complexe]] ?**
 

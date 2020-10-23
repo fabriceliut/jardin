@@ -24,7 +24,7 @@ Penser « intégral » est une métamorphose personnelle à entrainer par dive
 
 **Systémique -** *Lois des systèmes complexes, liens & relations, mapping & visualisation…*+10 modules
 
-**Designs -** *circularité, design fiction, design sprint, design culture, architecture d’information…*+10 modules
+**[[Designs]] -** *circularité, design fiction, design sprint, design culture, architecture d’information…*+10 modules
 
 **Biomimétisme -** *Inspiration du vivant, pensée analogique, végétal, animal, insectes, évolution…*+10 modules
 

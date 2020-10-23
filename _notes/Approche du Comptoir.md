@@ -11,7 +11,7 @@ Autant d’un point de vue économique, social, environnemental que politique, u
 
 ## Construire l’état d’esprit de demain.
 
-Le déclenchement de toute mutation culturelle vient de l’évolution nécessaire de l’état d’esprit. Un état d’esprit est un « état culturel » alimenté par trois sources essentielles : l’inspiration, la connaissance et les interrelations.
+Le déclenchement de toute [[Mutation Culturelle]] vient de l’évolution nécessaire de l’état d’esprit. Un état d’esprit est un « état culturel » alimenté par trois sources essentielles : l’inspiration, la connaissance et les interrelations.
 
 - **Inspiration** : ce qui stimule la curiosité et la créativité. Sans inspiration, pas d’aspiration, de motivation, d’envie et de sens possible.
 - **Connaissance** : la connaissance est infinie. Si elle est partagée, alors elle est la ressource essentielle pour développer les méthodes, outils, services et produits nécessaires à notre monde d’aujourd’hui et de demain.
@@ -19,11 +19,11 @@ Le déclenchement de toute mutation culturelle vient de l’évolution nécessai
 
 ## Mêler les intelligences.
 
-Reposant sur les inspirations, les connaissances et les interrelations, les différentes intelligences mettent en oeuvre et connectent les « ressources ». Combinées, les intelligences permettent de concrétiser et d’agir pour demain. Lorsque les intelligences traitent des problématiques, celles-ci deviennent des opportunités pour agir. Basculer dans la dimension de l’action n’est pas anodin : c’est une « mise au monde » des idées, c’est une concrétisation des concepts intangibles. C’est en portant une action que nous mettons en mouvement un projet, que nous apportons un changement concret dans notre système et sur notre réalité.
+Reposant sur les inspirations, les connaissances et les interrelations, les différentes intelligences mettent en oeuvre et connectent ces « ressources ». **Combinées, les intelligences permettent de concrétiser et d’agir pour demain**. Lorsque les intelligences traitent des problématiques, celles-ci deviennent des opportunités pour agir. Basculer dans la dimension de l’action n’est pas anodin : c’est une « mise au monde » des idées, c’est une concrétisation des concepts intangibles. **C’est en portant une action que nous mettons en mouvement un projet, que nous apportons un changement concret dans notre système et sur notre réalité.**
 
 ## Développer une attitude de confiance.
 
-Pour agir en collectif, il faut une attitude de confiance. Les attitudes représentent les caractéristiques des actions elles-même. Elles doivent être cohérentes avec les valeurs et principes afin de porter une vision et un idéal. Sans cette cohérence, pas de confiance possible et donc pas de coopération à moyen et long terme, marquant alors la bonne dynamique d’un projet. L’attitude est le fil d’ariane d’une initiative et la direction de l’histoire à écrire en commun.
+Pour agir en collectif, il faut une attitude de confiance. Les attitudes représentent les caractéristiques des actions elles-même. Elles doivent être cohérentes avec les valeurs et principes afin de porter une vision et un idéal. **Sans cette cohérence, pas de confiance possible et donc pas de coopération à moyen et long terme**, marquant alors la bonne dynamique d’un projet. L’attitude est le fil d’ariane d’une initiative et la direction de l’histoire à écrire en commun.
 
 ## Écrire les idéaux.
 
@@ -34,15 +34,14 @@ Ce sont les histoires, les projections intellectuelles et émotionnelles, les r�
 # [[Le Comptoir]], toute une approche systémique de la complexité.
 Tout est système & tout est lié. Nous le savons maintenant, il est nécessaire d’approcher les transformations en conscience globale pour porter les actions locales adaptées.
 
-Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la complexité et d’appliquer un traitement régénératif.
+Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la [[Complexité]] et d’appliquer un traitement [[Design Régénératif]].
 
 Concrètement, cette approche repose sur 3 premiers jours socles de Design Systémique, mêlant experts du Comptoir et parties prenants des organisations.
 
-> Découvrir l'approche [[Design systémique sur 3 jours]]
+> Découvrir l'approche [[Design Systémique sur 3 jours]]
 > Découvrir l'approche [[Design circulaire sur 1 jour]]
-> Découvrez l'approche [[Design Régénératif]]
 
-# Le Comptoir pour construire en commun et concrétiser, étape après étape.
+# Le pas à pas du Comptoir pour construire en commun et concrétiser.
 
 1. UNE PREMIÈRE RENCONTRE CONVIVIALE AVEC 3 EXPERTS AU COMPTOIR.
 

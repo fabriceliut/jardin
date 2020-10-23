@@ -7,7 +7,7 @@ title: Le Comptoir
 
 **Le Comptoir est un macro-écosystème qui met en synergie et accompagne les individus, organisations et territoires dans leurs transitions afin qu’ils s’adaptent à la complexité du monde actuel.**
 
-Le monde actuel ? Un monde plus conscient, en changement continu et profondément complexe. S’adapter se développe par la coopération et le partage en commun de nos inspirations & connaissances. Ce monde est un système socio-économique, politique et culturel qui doit s’inspirer du vivant ([[Bio-inspiration]]) et rechercher constamment et radicalement la prospérité et la résilience.
+Le monde actuel ? Un monde plus conscient, en changement continu et profondément complexe. S’adapter se développe par la coopération et le partage en commun de nos inspirations & connaissances. Ce monde est un système socio-économique, politique et culturel qui doit s’inspirer du vivant ([[Bio-inspiration]]) et rechercher constamment et radicalement la prospérité et [[la résilience]].
 
 > Découvrir en détail le [[Manifeste du Comptoir]]
 
@@ -15,7 +15,7 @@ Le monde actuel ? Un monde plus conscient, en changement continu et profondémen
 
 ### ☕ Une rencontre conviviale.
 
-Une premier café avec 3 experts au Comptoir, pour comprendre votre projet de transformation et initier une coopération en confiance.
+Une premier café avec 3 experts au Comptoir, pour comprendre vos besoins de transformations et initier une coopération de confiance.
 
 ### 🔍 Un diagnostic systémique.
 
@@ -29,7 +29,7 @@ Nous faisons des problématiques causes des opportunités d’ateliers coopérat
 
 L’aventure commune est lancée ! Continuons main dans la main durant les différentes phases de votre transformation globale jusqu’à votre mise en autonomie !
 
-> Découvrir en détail [[Approche du Comptoir]]
+> Découvrir en détail l'[[Approche du Comptoir]]
 > Récolter quelques premières [[Ressources du Comptoir]]
 
 ## 🗄️ Cas d’études du Comptoir.

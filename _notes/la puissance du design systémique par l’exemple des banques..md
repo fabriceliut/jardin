@@ -31,7 +31,7 @@ Et cette démonstration se passe à l’intérieur d’une organisation fermée.
 
 *Exemple d’une démarche systémique avec nos banques.*
 
-## **Voici un exemple de travail sur [[Design systémique sur 3 jours]], au sein d’une organisation :**
+## **Voici un exemple de travail sur [[Design Systémique sur 3 jours]], au sein d’une organisation :**
 
 - **Jour 1 –** représentation par chaque groupes collaborateurs de l’organisation de leur systèmes de services : liens, relations, processus, fonctionnements… Mise à plat visuelle systémique de toute l’organisation par les différents points de vues.
 - **Jour 2 –** Analyse et détection des points de frictions et de fluidité dans les systèmes – diagnostiquer les points de « santé » et de « maladie » de l’organisation, avec les collaborateurs des différents services.

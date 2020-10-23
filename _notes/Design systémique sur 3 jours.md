@@ -1,5 +1,5 @@
 ---
-title: Design systémique sur 3 jours
+title: Design Systémique sur 3 jours
 image: /assets/troisjours.jpeg
 ---
 

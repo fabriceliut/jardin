@@ -18,7 +18,7 @@ Certains voient un effondrement de civilisation approcher, d’autres un effondr
 
 **Ce sont les questions auxquelles nous tenterons de répondre dans ce livre.**
 
-Le Comptoir est le point d’entrée de toute une théorie et des modèles de transformations, de mutations pour nous préparer, nous adapter à ce demain, quel qu’il soit. Ce demain, c’est plusieurs demain, plusieurs temporalités possible.
+[[Le Comptoir]] est le point d’entrée de toute une théorie et des modèles de transformations, de mutations pour nous préparer, nous adapter à ce demain, quel qu’il soit. Ce demain, c’est plusieurs demain, plusieurs temporalités possible.
 
 **Ce sont les temps nouveaux.**Des temps souhaitables, idéalistes mais pas utopiques, atteignables et réalistes. C’est en commençant par ce livre puis une première visite au Comptoir que vous découvrirez concrètement comment écrire, structurer et construire ce nouvel état d’Être collectif et global.
 

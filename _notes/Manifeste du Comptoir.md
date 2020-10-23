@@ -10,7 +10,7 @@ Au Comptoir, tout commence par une rencontre en présence, sincère, vivante et 
 
 # ⚛️ Se développer par le commun pour le commun.
 
-La connaissance et les ressources sont en commun et ouvertes à tous. Les intelligences sont diverses et leurs croisements favorisés. Le Comptoir est un noeud des écosystèmes, un noyau d’expérimentations en de coopérations. L’efficience est radicalement recherchée.
+La connaissance et les ressources sont en commun et ouvertes à tous. Les intelligences sont diverses et leurs croisements favorisés. [[Le Comptoir]] est un noeud des écosystèmes, un noyau d’expérimentations en de coopérations. L’efficience est radicalement recherchée.
 
 # 🧠 Nourrir la curiosité et l’inspiration.
 

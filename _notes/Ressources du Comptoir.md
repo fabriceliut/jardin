@@ -19,7 +19,7 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 *Outils de représentation systémique et d’appréhension de la complexité.*
 
 - Pensée systémique, Design & Facilitation sur [Liut.design](https://medium.com/liut-design)
-- Comprendre [les « Designs »](https://www.notion.so/liutnotes/Des-Designs-pour-demain-3965e13dab2c4f0a91a4f0339b43bfc1) pour construire demain.
+- Comprendre les [[Designs]]
 - [Complexus](http://complexus.fr/), pleins de ressources pour appréhender la complexité
 - [Disruptive design](https://medium.com/disruptive-design), quelques articles pour comprendre le design systémique
 
@@ -40,7 +40,7 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 
 - [La société tend à s’organiser comme un cerveau](https://www.solfrance.org/eloge-de-la-metamorphose/), concept d’un ouvrage de Alain de Vulpian.
 
-## Bio-inspiration.
+## [[Bio-inspiration]].
 
 - [L’économie symbiotique](https://www.amazon.fr/L%C3%A9conomie-symbiotique-R%C3%A9g%C3%A9n%C3%A9rer-plan%C3%A8te-l%C3%A9conomie/dp/2330080212/ref=sr_1_1?ie=UTF8&qid=1511879985&sr=8-1&keywords=%C3%A9conomie+symbiotique), s’inspirer de la logique naturelle pour régénérer nos systèmes humains.
 - [Ask Nature](https://asknature.org/), plateforme d’inspiration par biomimétisme
@@ -57,13 +57,11 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 
 Toutes les ressources théoriques & scientifiques.
 
-- [Ressources lyonnaises autour des Communs](https://github.com/communs-lyon), alimentée par plusieurs acteurs locaux.
 - [Les Pad](https://hackmd.io/profile) des évènements, ateliers et recherches de Fabrice Liut.
 
 ## Curiosités & Explorations.
 
 - Nouvelles Portes sur [Medium.](https://medium.com/a-road-to-life)
-- Thomas [propose de penser le design](http://thomas.diluccio.fr/) pour réparer la planète et bâtir un futur souhaitable.
 - Common futures partage [les documentations de ses rencontres](http://common-futures.org/), pour penser l’anthropocène et la collapsologie.
 - [Factfullness](https://www.amazon.fr/dp/B0769XK7D6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), comprendre la société par les faits.
 
@@ -73,11 +71,11 @@ Toutes les ressources théoriques & scientifiques.
 
 Une vision du Design Sprint & de son potentiel.
 
-[Le Design Sprint - Fabrice Liut, Digital Summr](https://youtu.be/RF0hh5UB4go)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RF0hh5UB4go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Comprendre la démarche de tests utilisateurs & de recherche.
 
-[Users Tests - Co-créer son produit avec des utilisateurs.](https://youtu.be/a4VKLvvYaMI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4VKLvvYaMI?start=1197" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Essais & Anticipations.
 

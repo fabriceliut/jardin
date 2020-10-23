@@ -2,5 +2,5 @@
 title: Système Complexe
 ---
 
-Lié à [[Pensée systémique]]
-Commencez par les pages liées, le contenu arrive bientôt !
+Lié à [[Pensée Systémique]]
+Vous pouvez commencer par [[Un jeu pour comprendre les systèmes complexes et les écosystèmes.]]

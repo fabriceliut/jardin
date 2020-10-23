@@ -12,7 +12,8 @@ title: Les services de Archipel Kyosei
 
 Dans notre monde complexe, il est nécessaire de porter une vision systémique pour détecter les causes des problèmes. C’est une étape nécessaire pour sélectionner les démarches à mettre en place par la suite.
 
-- Design Systémique
+- [[Design Systémique]]
+- [[Design Régénératif]]
 - Pensée complexe
 - Théories des flux
 
@@ -73,6 +74,10 @@ Souvent, c’est d’un point de vue individuel qu’il faut commencer une trans
 ## Développement.
 
 Le numérique est un outil majeur de notre époque. Avec les connaissances technologiques, il est possible de déléguer à la machine et ainsi d’en faire un allié. Notamment en automatisant certaines tâches mais également pour structurer l’information autrement *(décentralisation, AI, etc…)*
+
+- Système d'information complexe
+- Automatisation
+- Bonnes pratiques numériques
 
 ## Curiosité & Inspiration.
 

@@ -2,6 +2,4 @@
 title: Design Systémique
 ---
 
-Lié au [[Designs]] & [[Pensée systémique]]
-
-Commencez par les pages liées, le contenu de cette page arrive bientôt !
+C'est l'un des [[Designs]] & l'application concrète de la [[Pensée Systémique]] via, par exemple, la [[Modélisation Systémique]].
