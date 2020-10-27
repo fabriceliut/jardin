@@ -41,7 +41,7 @@ Suite à ce sprint il est possible de traiter « en conscience » et en pas à
 
 **Vous me direz :** c’est difficilement applicable dans un contexte d’économie de marché et de concurrence… Je pourrais alors mettre en avant des quantités de cas d’études et historiques montrant que c’est par les collaborations qu’une économie se développe pour chaque partenaire : **les plus grosses organisations, avec les plus gros capitaux jouent rarement seuls.**
 
-*Regardez simplement du côté de [Facebook qui développe toute une communauté](https://libra.org/en-US/partners/) autour de sa future monnaie, le Libra. Ils développent tout un système complexe, fait de collaborations d’intérêts. Il est possible de juger l’éthique ou la démarche, mais factuellement, **le projet en cours de structuration est puissant car pensé en systèmes.**
+*Regardez simplement du côté de [Facebook qui développe toute une communauté](https://libra.org/en-US/partners/) autour de sa future monnaie, le Libra. Ils développent tout un [[Système Complexe]], fait de collaborations d’intérêts. Il est possible de juger l’éthique ou la démarche, mais factuellement, **le projet en cours de structuration est puissant car pensé en systèmes.**
 
 Ces démarches sont accessibles à toutes les organisations, de toutes les échelles. Si ça semble « trop impliquant », économiquement et temporellement, ou trop complexe, il y a tout intérêt alors de le faire en collaboration avec d’autres organisations, pour répartir l’effort et multiplier les solutions…
 

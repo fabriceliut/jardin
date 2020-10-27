@@ -14,7 +14,7 @@ La connaissance et les ressources sont en commun et ouvertes à tous. Les intell
 
 # 🧠 Nourrir la curiosité et l’inspiration.
 
-La curiosité est source d’inspiration. L’inspiration est la base de l’imagination et de la créativité. Le Comptoir est une bulle d’expression, lieu d’émergences diverses et décalées, stimulant les projets pour une transformation collective.
+La curiosité est source d’inspiration. L’inspiration est la base de l’imagination et de la créativité. [[Le Comptoir]] est une bulle d’expression, lieu d’émergences diverses et décalées, stimulant les projets pour une transformation collective.
 
 # 🤯 Appréhender la complexité du monde en observant demain.
 

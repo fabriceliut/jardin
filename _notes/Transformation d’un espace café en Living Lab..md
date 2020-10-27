@@ -4,7 +4,7 @@ title: Transformation d’un espace café en Living Lab.
 
 > Cette transformation a donné naissance à l'[[Archipel Kyosei]] dont je fais partie maintenant
 
-*[[Le Comptoir]] et SOFFFA, le café en question, font partie du même éco-système. Souvent, le Comptoir posait ses valises dans ce bel environnement du centre lyonnais pour accueillir les premières rencontres projets. Lorsque SOFFFA décide de transformer son modèle du tout au tout, c’est tout naturellement que l’éco-système du Comptoir vient se croiser à celui de SOFFFA pour imaginer le « Living Lab » de Demain.*
+*[[Le Comptoir]] et SOFFFA, le café en question, font partie du même éco-système. Souvent, [[Le Comptoir]] posait ses valises dans ce bel environnement du centre lyonnais pour accueillir les premières rencontres projets. Lorsque SOFFFA décide de transformer son modèle du tout au tout, c’est tout naturellement que l’éco-système du Comptoir vient se croiser à celui de SOFFFA pour imaginer le « Living Lab » de Demain.*
 
 ## **Comment repenser un espace par ses communautés ?**
 
