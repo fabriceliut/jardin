@@ -5,7 +5,7 @@ image: /assets/troisjours.jpeg
 
 ![]({{page.image}})
 
-*L’approche systémique [[Le Comptoir]] se met en place grâce à 3 journées construites spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles priorités d’actions & de transformations à initier.*
+*L’approche systémique de l'[[Archipel Kyosei]] se met en place grâce à 3 journées construites spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles priorités d’actions & de transformations à initier.*
 
 > Lorsqu’on intervient dans un environnement complexe, modifier seulement 1% du système peut tout changer ! Cela dit, il faut bien sélectionner ce 1%… - François Roddier, expert en systèmes complexes.
 
@@ -42,7 +42,7 @@ Les collaborateurs représentants des différents services de l’organisations 
 
 ### 🧰 Outils.
 
-- [[Mapping systémique]]
+- [[Modélisation Systémique]]
 - [[Questiologie]] & [[Dialectique]] (pour aider à la construction des systèmes)
 - Précision & [[Analyse des flux]] : urgences, priorités, frictions et opportunités
 - [[Job to be done]] – Pour intégrer des scénarios d’usage

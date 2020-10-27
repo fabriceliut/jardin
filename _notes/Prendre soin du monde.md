@@ -13,7 +13,7 @@ Ce sont surtout des questions qui doivent nous inspirer alors et par curiosité,
 - Quelles sont les grands paradigmes du vivant ?
 - Comment rendre utilisable ce qu'on apprend de la nature ?
 - Comment définir une mutation sociétale ?
-- ...(et vous ?)
+- Est-ce que créer une [[Identité de groupe]] est nécessaire pour faire système ?
 
 ## Des projets pour prendre soin du monde.
 Ce n'est qu'une toute petite liste encore, je tenterais de la compléter au fil du temps et du développement de ce [[Jardin Numérique]].

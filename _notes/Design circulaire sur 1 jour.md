@@ -37,4 +37,4 @@ Le Design circulaire permet d’ouvrir un nouveau champ des possibles pour une o
 
 Basculer d’un modèle linéaire à un modèle circulaire est l’un des premiers pas d’une transformation profonde d’une organisation. Au Comptoir il est possible de développer cette aventure ensemble, en collaboration avec nos écosystèmes.
 
-*C’est avec [l’éco-système EVERCYCLE](http://evercycle.mystrikingly.com/) porté par Oriane Marignier et tout le tissu du réseau complémentaire que vous pourrez initier la démarche.*
+*C’est avec l'[[Archipel Kyosei]] tout le tissu du réseau complémentaire que vous pourrez initier cette démarche.*

@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "c15f6a0b2d19178b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1992b03c7fdb0cb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Régénérer est une direction.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6925a452424d2730",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb80ca97c6645318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2613f7b11882581f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8472d1bce3e0293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "377a1eccda7f9f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd0727014c00aade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce3028f6ce85ffb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Régénérer est une direction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Régénérer est une direction.md",
+    "Prendre soin du monde.md",
+    "Prendre soin de soi.md",
+    "Pourquoi une approche & un Design régénératif est nécessaire.md",
+    "Mutation Culturelle.md",
+    "Modélisation Systémique.md",
+    "Liens bidirectionnels.md",
+    "Institut de la pensée intégrale.md",
+    "Identité de groupe.md",
+    "Guide book apprendre à vendre.md"
+  ]
+}
