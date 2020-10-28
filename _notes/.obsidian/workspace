@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comment créer un système d'information coopératif.md",
+            "file": "Design Information Architecture.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comment créer un système d'information coopératif.md"
+                "file": "Design Information Architecture.md"
               }
             }
           }
@@ -75,8 +75,8 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Comment créer un système d'information coopératif.md",
     "Design Information Architecture.md",
+    "Comment créer un système d'information coopératif.md",
     "Jardin Numérique.md",
     "Designs.md",
     "Prendre soin du monde.md",

@@ -1,5 +1,5 @@
 ---
-title: Comment créer un système d'information coopératif
+title: Créer un système d'information coopératif
 ---
 
 # Pourquoi créer un système d'information coopératif ?
