@@ -1,8 +1,8 @@
 ---
-title: Créer un système d'information coopératif
+title: Créer un système de connaissance coopératif
 ---
 
-# Pourquoi créer un système d'information coopératif ?
+# Pourquoi créer un système de connaissance coopératif ?
 
 
 # La veille
