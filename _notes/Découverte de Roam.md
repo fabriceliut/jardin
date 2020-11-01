@@ -2,8 +2,8 @@
 title: Découverte de Roam
 ---
 
-# Mercredi 14 Octobre 2020 - 14h.
-> [Lien du Zoom](https://us02web.zoom.us/j/7225295345)
+# Date à définir.
+> Lien zoom à définir.
 
 Sur curiosité de certaines personnes de la communnauté Slack "No-code", je vous propose 40 minutes max d'un tour de découverte de notre instance [[Roam Research]] pour vous faire découvrir une partie du champ des possible immense de ce système numérique.
 

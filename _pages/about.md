@@ -8,7 +8,7 @@ permalink: /about
 
 >"La vie ce n'est pas les molécules mais les liens entre les molécules."
 
-N'hésitez pas à me demander ce que vous voulez ! Pour le moment mon jardin numérique actuel est sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
+N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[Jardin Numérique]] est également sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
 
 
 Vous aussi vous voulez développer votre premier jardin numérique ?

@@ -1,7 +1,7 @@
 ---
 title: Archipel Kyosei
 ---
-*En lien avec [[Le Comptoir]], projet précédent celui de l'archipel.*
+> En lien avec [[Le Comptoir]], projet précédent celui de l'archipel.
 
 # 👐 Notre engagement ?
 

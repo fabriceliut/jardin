@@ -2,7 +2,7 @@
 title: Approche du Comptoir
 ---
 
-# La mission du Comptoir est d’engager toutes les organisations dans leur « mutation ». Que vous soyez dirigeants, acteurs du changement, chefs de projets ou managers, le Comptoir vous accompagne étape après étape. 
+>La mission du Comptoir est d’engager toutes les organisations dans leur « mutation ». Que vous soyez dirigeants, acteurs du changement, chefs de projets ou managers, le Comptoir vous accompagne étape après étape. 
 
 
 ## Pourquoi une mutation globale est nécessaire ?

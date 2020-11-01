@@ -12,7 +12,7 @@ Là, je sens que ça commence à vous intéresser.
 
 *Mais avant toute démonstration vous avez besoin de savoir qui parle pour me faire confiance.*
 
-Je suis Fabrice Liut, un Designer qui fait de la recherche et analyse les [[systèmes complexes]]. Je me base sur une diversité d’études croisées dont je vous donnerais les sources avec grand plaisir sur votre demande de compléments.
+Je suis Fabrice Liut, un Designer qui fait de la recherche et analyse les [[Système Complexe]]. Je me base sur une diversité d’études croisées dont je vous donnerais les sources avec grand plaisir sur votre demande de compléments.
 
 *Je pense en groupe les nouveaux modèles économiques depuis plusieurs années et oui, je ne suis pas multimillionnaire mais vous allez voir, ce n’est pas nécessaire pour faire preuve du concept que je vais vous présenter.*
 
