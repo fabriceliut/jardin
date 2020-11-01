@@ -18,24 +18,11 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           "<a class='internal-link' href='#{note_potentially_linked_to.url}'>#{note_potentially_linked_to.data['title']}</a>"
         )
       end
-
-      # At this point, all remaining double-bracket-wrapped words are
-      # pointing to non-existing pages, so let's turn them into disabled
-      # links by greying them out and changing the cursor
-      current_note.content = current_note.content.gsub(
-        /\[\[?(.*)\]\]/i, # match on the remaining double-bracket links
-        <<~HTML.chomp     # replace with this HTML (\\1 is what was inside the brackets)
-          <span title='There is no note that matches this title.' class='invalid-link'>
-            <span class='invalid-link-brackets'>[[</span>
-            \\1
-            <span class='invalid-link-brackets'>]]</span></span>
-        HTML
-      )
     end
 
     # Identify note backlinks and add them to each note
     all_notes.each do |current_note|
-			# Nodes: Jekyll
+      # Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
         e.content.include?(current_note.url)
       end
@@ -47,7 +34,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         label: current_note.data['title'],
       } unless current_note.path.include?('_notes/index.html')
 
-			# Edges: Jekyll
+      # Edges: Jekyll
       current_note.data['backlinks'] = notes_linking_to_current_note
 
       # Edges: Graph
@@ -66,7 +53,6 @@ class BidirectionalLinksGenerator < Jekyll::Generator
   end
 
   def note_id_from_note(note)
-    note.data['title'].gsub!(/\W+/, ' ')
-    note.data['title'].delete(' ').to_i(36).to_s
+    note.data['title'].to_i(36).to_s
   end
 end
