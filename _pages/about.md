@@ -4,11 +4,12 @@ title: About
 permalink: /about
 ---
 
-*Vous voulez en savoir plus à propos de Fabrice liut ?*
+**Je suis Designer**. J’applique une pensée systémique et des principes régénératifs venant du vivant (Biomimétisme). J’apporte une sensibilité et des méthodologies adaptées pour interconnecter les humains et faciliter les coopérations. Je participe à catalyser les initiatives et à créer les ressources en communs pour traiter nos problèmes de société et les transformer en opportunités d'évolutions collectives.
+
+>"La vie ce n'est pas les molécules mais les liens entre les molécules."
 
 N'hésitez pas à me demander ce que vous voulez ! Pour le moment mon jardin numérique actuel est sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
 
-Ce site est en expérimentation, comme très souvent dans le monde très émergent des jardins numériques !
 
 Vous aussi vous voulez développer votre premier jardin numérique ?
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+[available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).

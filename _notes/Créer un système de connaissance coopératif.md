@@ -16,7 +16,7 @@ Quand la veille est une démarche coopérative elle permet de rapidement enrichi
 - La veille personnelle est trop isolée & manque de diversité
 - On active alors une  [Guide de la veille en commun.](https://www.notion.so/Guide-de-la-veille-en-commun-56ea2849be9c44d3baee6815dc5f9fad)
 
-### 🧰Tools
+### 🧰 Tools
 - Les réseaux sociaux, les newsletters, les RSS, les discussions
 - Tout se met de côté dans un ==Pocket App== par exemple pour lire et traiter plus tard
 
