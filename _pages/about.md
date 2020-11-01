@@ -13,9 +13,3 @@ N'hésitez pas à me demander ce que vous voulez ! Pour le moment mon jardin num
 
 Vous aussi vous voulez développer votre premier jardin numérique ?
 [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
