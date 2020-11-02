@@ -1,5 +1,5 @@
 ---
-title: 2 courants Yin et Yang qui s'entrelacent
+title: 2 courants Yin et Yang
 ---
 
 > Rien de scientifiquement valide ici, c'est plutôt un jet d'écriture totalement intuitif...
