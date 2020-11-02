@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prendre soin de soi.md",
+            "file": "nous avons une mission.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prendre soin de soi.md"
+                "file": "nous avons une mission.md"
               }
             }
           }
@@ -75,6 +75,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "nous avons une mission.md",
+    "Archipel Kyosei.md",
     "Prendre soin de soi.md",
     "Design Systémique sur 3 jours.md",
     "Design Systémique.md",
@@ -82,8 +84,6 @@
     "Second Brain.md",
     "Design Information Architecture.md",
     "Design circulaire sur 1 jour.md",
-    "Découverte de Roam.md",
-    "Jardin Numérique.md",
-    "Créer un système de connaissance coopératif.md"
+    "Découverte de Roam.md"
   ]
 }
