@@ -9,5 +9,7 @@ Dans cette "branche" de ce [[Jardin Numérique]] vous pourrez voir pousser des n
 Certainement également quelques essais plus philosophiques ou conceptuels, mais aussi des notes sur la santé, le corps, le [[Mouvement Naturel]] & des notes plus personnelles, voir intimes. Je crois beaucoup à la force de l'[[Extimité]], cette ouverture de soi à l'autre, cette "brèche" dans laquelle on peut sentir toute la vulnérabilité d'un humain mais aussi tout ce qui fait de lui un Être vivant.
 
 ## Comment prendre soin de soi ?
-Quelques pistes qui nous viennent des traditions les plus anciennes sont souvent des plus solides, comme par exemple le concept de [[Santé Parfaite]] ou de [[Mouvement Naturel]]. D'autres viendront 😃.
+Quelques pistes qui nous viennent des traditions les plus anciennes sont souvent des plus solides, comme par exemple le concept de [[Santé Parfaite]] ou de [[Mouvement Naturel]]. 
+Je me retrouve également très souvent humble face à la [[Complexité]] de la vie qui évolue comme un courant d'énergie abstrait que j'aime imaginer comme [[2 courants Yin et Yang qui s'entrelacent]] & danses ensemble dans l'infini...
+D'autres viendront 😃.
 

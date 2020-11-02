@@ -4,7 +4,7 @@ title: nous avons une mission
 
 Est-ce que tout comme moi vous avez envie d'en finir avec la dissonance de notre société ? Est-ce que tout comme moi vous êtes épuisés parfois au quotidien de devoir composer avec des éléments dont vous ne comprenez pas du tout la logique ? 
 
-Alors, il est peut-être temps de se reconnaître **comme des compagnons de mission** même si on se connaît pas.
+Alors, il est peut-être temps de se reconnaître **comme des compagnons de mission** même si on ne se connaît pas.
 
 **Cette mission serait de soigner notre humanité malade et de régénérer notre système pour retrouver une place humble auprès du reste du vivant.**
 
