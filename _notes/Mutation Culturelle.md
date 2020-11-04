@@ -1,6 +1,7 @@
 ---
 title: Mutation Culturelle
 ---
+#Afairepousser 
 
 Par approche en [[Bio-inspiration]] il est possible d'envisager les évolutions culturelles comme des mutations génétiques. **La mutation biologique pour le matériel et la mutation culturelle pour le monde de l'immatériel.**
 La culture fait société & l'évolution culturelle imprime de grands changements dans le quotidien. Suivre l'évolution culturelle permet de déterminer les nouveaux paradigmes sociaux ainsi que l'évolution des rapports humains, des tendances, des usages...

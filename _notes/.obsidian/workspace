@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 courants Yin et Yang.md",
+            "file": "Spirale dynamique.md",
             "mode": "preview"
           }
         }
@@ -64,8 +64,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 courants Yin et Yang.md"
+                "file": "Spirale dynamique.md"
               }
+            }
+          },
+          {
+            "id": "aa01aed646123500",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
             }
           }
         ]
@@ -75,15 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "2 courants Yin et Yang.md",
-    "Prendre soin de soi.md",
-    "2 courants Yin et Yang qui s'entrelacent.md",
-    "La toile de la Vie.md",
+    "Spirale dynamique.md",
     "Prendre soin du collectif.md",
-    "Prendre soin du monde.md",
-    "Archipel Kyosei.md",
-    "nous avons une mission.md",
-    "Design Systémique sur 3 jours.md",
-    "Design Systémique.md"
+    "Pourquoi une approche & un Design régénératif est nécessaire.md",
+    "Système Complexe.md",
+    "Régénérer est une direction.md",
+    "your-first-note.md",
+    "Yoga.md",
+    "Second Brain.md",
+    "Ressources du Comptoir.md",
+    "Prendre soin du monde.md"
   ]
 }
