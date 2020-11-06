@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prendre soin du collectif.md",
+            "file": "Institut de la pensée intégrale.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lalou"
+                "query": "insti"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prendre soin du collectif.md"
+                "file": "Institut de la pensée intégrale.md"
               }
             }
           },
@@ -83,15 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Prendre soin du collectif.md",
-    "Faire confiance par la coopération et sans forcer.md",
-    "Yoga.md",
-    "Spirale dynamique.md",
-    "Pourquoi une approche & un Design régénératif est nécessaire.md",
-    "Système Complexe.md",
-    "Régénérer est une direction.md",
-    "your-first-note.md",
-    "Second Brain.md",
-    "Ressources du Comptoir.md"
+    "Institut de la pensée intégrale.md",
+    "Ressources du Comptoir.md",
+    "Approche du Comptoir.md",
+    "Manifeste du Comptoir.md",
+    "Livre du Comptoir.md",
+    "Les services de Archipel Kyosei.md",
+    "Le Comptoir.md",
+    "Archipel Kyosei.md",
+    "Créer un système de connaissance coopératif.md",
+    "Prendre soin du collectif.md"
   ]
 }

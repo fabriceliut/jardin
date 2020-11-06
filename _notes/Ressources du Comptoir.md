@@ -72,11 +72,11 @@ Toutes les ressources théoriques & scientifiques.
 
 Une vision du Design Sprint & de son potentiel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RF0hh5UB4go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/RF0hh5UB4go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Comprendre la démarche de tests utilisateurs & de recherche.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a4VKLvvYaMI?start=1197" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/a4VKLvvYaMI?start=1197" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Essais & Anticipations.
 
