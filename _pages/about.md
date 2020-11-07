@@ -2,9 +2,12 @@
 layout: page
 title: About
 permalink: /about
+image: /assets/miniavatar.jpeg
 ---
 
-**Je suis Designer**. J’applique une pensée systémique et des principes régénératifs venant du vivant (Biomimétisme). J’apporte une sensibilité et des méthodologies adaptées pour interconnecter les humains et faciliter les coopérations. Je participe à catalyser les initiatives et à créer les ressources en communs pour traiter nos problèmes de société et les transformer en opportunités d'évolutions collectives.
+![]({{page.image}})
+
+**Je suis Designer**. J’applique une pensée systémique et des principes régénératifs venant du vivant ([[Bio-inspiration]]). J’apporte une sensibilité et des méthodologies adaptées pour interconnecter les humains et faciliter les coopérations. Je participe à catalyser les initiatives et à créer les ressources en communs pour traiter nos problèmes de société et les transformer en opportunités d'évolutions collectives.
 
 >"La vie ce n'est pas les molécules mais les liens entre les molécules."
 
