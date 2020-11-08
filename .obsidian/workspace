@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/troisjours.jpeg"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/troisjours.jpeg"
+                "file": "README.md"
               }
             }
           }
@@ -71,15 +72,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "README.md",
+    "_notes/Mouvement mondial du design régénératif.md",
+    "_notes/Design Régénératif.md",
+    "Mouvement mondial du design régénératif.md",
+    "_notes/Designs.md",
+    "_pages/about.md",
+    "_pages/index.md",
     "assets/troisjours.jpeg",
     "assets/miniavatar.jpeg",
-    "assets/image.jpg",
-    "assets/coopererregenerer.jpeg",
-    "assets/businessnonusual.png",
-    "assets/banques.jpg"
+    "assets/image.jpg"
   ]
 }

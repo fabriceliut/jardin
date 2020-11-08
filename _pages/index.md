@@ -19,9 +19,9 @@ Découvrez les différents [[Designs]] qui sont pour moi les principales approch
 Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archipel Kyosei]].
 
 ### Approche locale.
-Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]]. Revenir au corps & à des savoirs ancestraux permet de renouer avec Soi pour nous ouvrir à  👉 [[Prendre soin du collectif]].
+Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]]. Revenir au corps & aux savoirs ancestraux permet de renouer avec Soi pour nous ouvrir à  👉 [[Prendre soin du collectif]].
 
-### Autres approches du moment.
+### Autres explorations du moment.
 - C'est quoi un [[Jardin Numérique]]?
 
 <style>
