@@ -1,30 +1,32 @@
 {
   "main": {
-    "id": "c15f6a0b2d19178b",
+    "id": "e8dd1b3fd1d10b65",
     "type": "split",
     "children": [
       {
-        "id": "72652cce04597917",
+        "id": "073735aca94a89ea",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "assets/troisjours.jpeg"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6925a452424d2730",
+    "id": "e7043e6cd4e4876a",
     "type": "split",
     "children": [
       {
-        "id": "eb80ca97c6645318",
+        "id": "4ba249467fb84add",
         "type": "tabs",
         "children": [
           {
-            "id": "2613f7b11882581f",
+            "id": "d97a1e12e84d83f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -32,12 +34,12 @@
             }
           },
           {
-            "id": "e8472d1bce3e0293",
+            "id": "051983622b313d02",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "insti"
+                "query": ""
               }
             }
           }
@@ -48,45 +50,36 @@
     "width": 300
   },
   "right": {
-    "id": "377a1eccda7f9f14",
+    "id": "ffddcad96e29ffbf",
     "type": "split",
     "children": [
       {
-        "id": "bd0727014c00aade",
+        "id": "132d03f895f644d2",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3028f6ce85ffb3",
+            "id": "24b4c9b4888b9ffa",
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa01aed646123500",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {}
+              "state": {
+                "file": "assets/troisjours.jpeg"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Prendre soin du collectif.md",
-    "Institut de la pensée intégrale.md",
-    "Ressources du Comptoir.md",
-    "Approche du Comptoir.md",
-    "Manifeste du Comptoir.md",
-    "Livre du Comptoir.md",
-    "Les services de Archipel Kyosei.md",
-    "Le Comptoir.md",
-    "Archipel Kyosei.md",
-    "Créer un système de connaissance coopératif.md"
+    "assets/troisjours.jpeg",
+    "assets/miniavatar.jpeg",
+    "assets/image.jpg",
+    "assets/coopererregenerer.jpeg",
+    "assets/businessnonusual.png",
+    "assets/banques.jpg"
   ]
 }

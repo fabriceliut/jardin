@@ -1,30 +1,33 @@
 {
   "main": {
-    "id": "c15f6a0b2d19178b",
+    "id": "cfaccd43afb9ae30",
     "type": "split",
     "children": [
       {
-        "id": "72652cce04597917",
+        "id": "1c979782c2200c5f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6925a452424d2730",
+    "id": "8f28468e81cd2f76",
     "type": "split",
     "children": [
       {
-        "id": "eb80ca97c6645318",
+        "id": "79d36fb26dc25dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "2613f7b11882581f",
+            "id": "60b46ea4ae612ee8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -32,12 +35,12 @@
             }
           },
           {
-            "id": "e8472d1bce3e0293",
+            "id": "bc98de70981406d9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "insti"
+                "query": ""
               }
             }
           }
@@ -48,45 +51,32 @@
     "width": 300
   },
   "right": {
-    "id": "377a1eccda7f9f14",
+    "id": "6b3505137dd9e765",
     "type": "split",
     "children": [
       {
-        "id": "bd0727014c00aade",
+        "id": "bbe6b3cef92e7504",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3028f6ce85ffb3",
+            "id": "f1adc8d944846163",
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa01aed646123500",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Prendre soin du collectif.md",
-    "Institut de la pensée intégrale.md",
-    "Ressources du Comptoir.md",
-    "Approche du Comptoir.md",
-    "Manifeste du Comptoir.md",
-    "Livre du Comptoir.md",
-    "Les services de Archipel Kyosei.md",
-    "Le Comptoir.md",
-    "Archipel Kyosei.md",
-    "Créer un système de connaissance coopératif.md"
+    "index.md",
+    "about.md"
   ]
 }
