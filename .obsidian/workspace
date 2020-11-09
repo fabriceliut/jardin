@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Faisons partie de nous.md",
+            "file": "_notes/Dignité.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Faisons partie de nous.md"
+                "file": "_notes/Dignité.md"
               }
             }
           }
@@ -75,6 +75,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_notes/Dignité.md",
+    "_notes/Faisons partie de nous.md",
     "Faisons partie de nous.md",
     "dignité.md",
     "Je nous vois.md",
@@ -82,8 +84,6 @@
     "_pages/index.md",
     "_pages/about.md",
     "README.md",
-    "_notes/Mouvement mondial du design régénératif.md",
-    "_notes/Design Régénératif.md",
-    "Mouvement mondial du design régénératif.md"
+    "_notes/Mouvement mondial du design régénératif.md"
   ]
 }

@@ -13,6 +13,6 @@ La liberté est une offre, une promesse et une exigence de responsabilité. Une 
 
 Pourtant, nous vivons dans des systèmes qui limitent ce que nous percevons, comment nous nous connectons et nous isolent d'un important processus que nous avons à vivre.
 
-L'un des mots les plus importants que je connaisse n'a pas d'équivalent anglais (ni français) simple, ce qui en dit long. **Sawubona, un terme zoulou, signifie "je te vois"**. Pas seulement ton visage, mais tes espoirs, tes rêves, d'où tu viens et vers où tu te dirige dans ta vie. Il nous est très difficile de "voir" les autres, il nous faut développer l'écoute, l'attention & prendre ce temps pour réellement se connecter à l'autre, à par rebond à nous...
+L'un des mots les plus importants que je connaisse n'a pas d'équivalent anglais (ni français) simple, ce qui en dit long. **Sawubona, un terme zoulou, signifie "je te vois"**. Pas seulement ton visage, mais tes espoirs, tes rêves, d'où tu viens et vers où tu te dirige dans ta vie. Il nous est très difficile de "voir" les autres, il nous faut développer l'écoute, l'attention & prendre ce temps pour réellement se connecter à l'autre, et par rebond à nous...
 
 Trouver la meilleure façon de voir, de comprendre et de prendre soin des personnes que nous appelons «nous» peut être en effet difficile, mais c'est indispensable.
