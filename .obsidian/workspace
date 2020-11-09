@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_notes/Faisons partie de nous.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "_notes/Faisons partie de nous.md"
               }
             }
           }
@@ -75,15 +75,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Faisons partie de nous.md",
+    "dignité.md",
+    "Je nous vois.md",
+    "_notes/Prendre soin du collectif.md",
+    "_pages/index.md",
+    "_pages/about.md",
     "README.md",
     "_notes/Mouvement mondial du design régénératif.md",
     "_notes/Design Régénératif.md",
-    "Mouvement mondial du design régénératif.md",
-    "_notes/Designs.md",
-    "_pages/about.md",
-    "_pages/index.md",
-    "assets/troisjours.jpeg",
-    "assets/miniavatar.jpeg",
-    "assets/image.jpg"
+    "Mouvement mondial du design régénératif.md"
   ]
 }

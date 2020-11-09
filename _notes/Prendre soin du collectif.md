@@ -16,3 +16,4 @@ Le modèle archipel est un de ces modèles en émergence, en expérimentation co
 Quelques pistes également à développer prochainement :
 - L'[[Entreprise Archipel]]
 - L'[[Entreprise de territoire]]
+- [[Faisons partie de nous]]
