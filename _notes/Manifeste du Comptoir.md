@@ -1,6 +1,7 @@
 ---
 title: Manifeste du Comptoir
 ---
+#philosophie
 
 > *On ne résout pas un problème avec le même mode de pensée que celui qui a généré le problème.* - Albert Einstein
 

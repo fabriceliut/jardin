@@ -1,7 +1,7 @@
 ---
 title: Jardin Numérique
 ---
-#Afairepousser 
+#Afairepousser [[#guide]] 
 
 Qu'est-ce qu'un jardin numérique ? Je tenterais dans cette série de "notes reliées" d'expliquer en détail le fonctionnement mais également la philosophie derrière qui est très importante car elle apporte une réelle évolution à la création de contenu & au partage de ce contenu.
 

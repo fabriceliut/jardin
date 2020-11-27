@@ -4,6 +4,8 @@ image: /assets/businessnonusual.png
 ---
 ![]({{page.image}})
 
+[[#guide]]
+
 *Je vous propose par cet article de basculer de modèle, vers ce qui semblerait inverse à notre système capitaliste « as usual »... enfin l’inverse... peut-être moins que vous pouvez l’imaginer et peut-être bien plus «performant»...*
 
 > Si ce nouveau modèle de business était plus efficient ? Et s’il était plus performant, plus rentable ? Et s’il permettait de gagner plus, avec moins d’effort ?

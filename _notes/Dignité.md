@@ -1,6 +1,7 @@
 ---
 title: Dignité
 ---
+#terminologie 
 
 Définition complète sur [Wikipédia](https://fr.wikipedia.org/wiki/Dignité).
 

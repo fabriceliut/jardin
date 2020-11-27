@@ -4,6 +4,8 @@ image: /assets/coopererregenerer.jpeg
 ---
 ![]({{page.image}})
 
+#article 
+
 > *“It’s up to us to decide what kind of a world we want to leave to coming generations – a sustainable one, or a desolate one in which the civilisation we have built disintegrates rather than builds on past successes,”* - [Source inspirant cet article](https://www.independent.co.uk/environment/sixth-mass-extinction-endangered-animals-wildlife-markets-biodiversity-crisis-standford-study-a9544856.html).
 
 **Plus de 500 espèces sont sur le chemin de l'extinction dans les 20 prochaines années.**Sans compter celles qui ont disparus depuis que je suis né. J'étais trop petit, je ne pouvais même pas me rendre compte de la gravité de la situation. Maintenant je comprend trop bien que c'est systémique et qu'on est en train de perdre beaucoup plus qu'on ne le sait...

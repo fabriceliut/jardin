@@ -1,7 +1,7 @@
 ---
 title: Faisons partie de nous
 ---
-Traduction et réécriture [d'un article de Seth Godin](https://seths.blog/2020/07/are-you-part-of-us/)
+Traduction et réécriture [d'un article de Seth Godin](https://seths.blog/2020/07/are-you-part-of-us/) #article 
 
 Faisons-nous partie de nous ?
 

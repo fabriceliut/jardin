@@ -1,6 +1,7 @@
 ---
 title: Personne Morale
 ---
+#terminologie
 
 [Wiki](https://fr.wikipedia.org/wiki/Personne_morale)
 

@@ -1,6 +1,7 @@
 ---
 title: Découverte de Roam
 ---
+#event
 
 # Date à définir.
 > Lien zoom à définir.

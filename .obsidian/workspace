@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Prendre soin du monde.md",
-            "mode": "preview"
+            "file": "_notes/2 courants Yin et Yang.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +69,21 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Prendre soin du monde.md",
+                "file": "_notes/2 courants Yin et Yang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "a5496dc58e483739",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
             }
           }
         ]
@@ -85,15 +93,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_notes/Prendre soin du monde.md",
-    "décoder la vie.md",
     "_notes/2 courants Yin et Yang.md",
     "_notes/Approche du Comptoir.md",
-    "_pages/index.md",
-    "_notes/Prendre soin de soi.md",
-    "Santé Parfaite.md",
-    "_notes/Yoga.md",
-    "_notes/Design Régénératif.md",
-    "_notes/Conscience.md"
+    "_notes/Archipel Kyosei.md",
+    "_notes/Bio-inspiration.md",
+    "_notes/Biomimétisme.md",
+    "_notes/Business as non usual, le guide.md",
+    "_notes/Conscience.md",
+    "_notes/consistency.md",
+    "_notes/Créer un système de connaissance coopératif.md",
+    "_notes/décoder la vie.md"
   ]
 }
