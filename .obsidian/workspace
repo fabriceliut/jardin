@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2 courants Yin et Yang.md",
-            "mode": "source"
+            "file": "_notes/Extimité.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2 courants Yin et Yang.md",
+                "file": "_notes/Extimité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -93,15 +93,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_notes/2 courants Yin et Yang.md",
-    "_notes/Approche du Comptoir.md",
-    "_notes/Archipel Kyosei.md",
-    "_notes/Bio-inspiration.md",
-    "_notes/Biomimétisme.md",
-    "_notes/Business as non usual, le guide.md",
-    "_notes/Conscience.md",
-    "_notes/consistency.md",
-    "_notes/Créer un système de connaissance coopératif.md",
-    "_notes/décoder la vie.md"
+    "_notes/Extimité.md",
+    "_notes/Second Brain.md",
+    "_notes/N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !.md",
+    "_notes/Mutation Culturelle.md",
+    "_notes/Modélisation Systémique.md",
+    "_notes/Les 4 accords Toltèques.md",
+    "_notes/La stigmergie mieux que l’intelligence artificielle pour gérer la complexité.md",
+    "_notes/la puissance du design systémique par l’exemple des banques..md",
+    "_notes/Jardin Numérique.md",
+    "Guides.md"
   ]
 }

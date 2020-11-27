@@ -3,7 +3,7 @@ title: Créer un système de connaissance coopératif
 ---
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8de3fb36-f8d3-4eda-83eb-1b6b863723b1/digital_garden.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201106T223902Z&X-Amz-Expires=86400&X-Amz-Signature=d39e73a4cacbeac7a2511520f796539346c57796549cd839ab7e7f862d929432&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22digital_garden.jpg%22)
 
-#Afairepousser [[#guide]]
+#Afairepousser [[_notes/Guidebook]]
 
 Tout projet vient de la compréhension d'un besoin à adresser et pour comprendre les besoins il faut se mettre en écoute : tout commence avec la veille !
 Cela dit, si chaque individu fait sa veille dans son coin, il ne fait que traiter l'information par les même sources et par le même prisme d'analyse. Faire de la veille en coopération devient alors plus que pertinent : quoi de mieux que croiser les sources, croiser les regards pour gagner en diversité et en capacité d'analyse ?

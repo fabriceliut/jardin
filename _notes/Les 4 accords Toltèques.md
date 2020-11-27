@@ -1,4 +1,4 @@
-[[#guide]] 
+[[Guidebook]]
 
 - Que votre parole soit impeccable.
 - N'en faites jamais une affaire personnelle.
