@@ -1,7 +1,7 @@
 ---
 title: Guide book apprendre à vendre
 ---
-#Afairepousser [[_notes/Guidebook]]
+#Afairepousser [[Guidebook]]
 
 *Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]] j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
 

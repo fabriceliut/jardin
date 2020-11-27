@@ -4,7 +4,7 @@ image: /assets/businessnonusual.png
 ---
 ![]({{page.image}})
 
-[[_notes/Guidebook]]
+[[Guidebook]]
 
 *Je vous propose par cet article de basculer de modèle, vers ce qui semblerait inverse à notre système capitaliste « as usual »... enfin l’inverse... peut-être moins que vous pouvez l’imaginer et peut-être bien plus «performant»...*
 
