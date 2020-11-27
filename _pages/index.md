@@ -22,7 +22,7 @@ Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archip
 Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]]. Revenir au corps & aux savoirs ancestraux permet de renouer avec Soi pour nous ouvrir à  👉 [[Prendre soin du collectif]].
 
 ### Autres explorations du moment.
-- C'est quoi un [[Jardin Numérique]]?
+- C'est quoi ce site, c'est quoi un [[Jardin Numérique]]?
 
 <style>
   .wrapper {

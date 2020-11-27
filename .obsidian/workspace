@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Dignité.md",
+            "file": "_notes/Prendre soin du monde.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Dignité.md"
+                "file": "_notes/Prendre soin du monde.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -75,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_notes/Dignité.md",
-    "_notes/Faisons partie de nous.md",
-    "Faisons partie de nous.md",
-    "dignité.md",
-    "Je nous vois.md",
-    "_notes/Prendre soin du collectif.md",
+    "_notes/Prendre soin du monde.md",
+    "décoder la vie.md",
+    "_notes/2 courants Yin et Yang.md",
+    "_notes/Approche du Comptoir.md",
     "_pages/index.md",
-    "_pages/about.md",
-    "README.md",
-    "_notes/Mouvement mondial du design régénératif.md"
+    "_notes/Prendre soin de soi.md",
+    "Santé Parfaite.md",
+    "_notes/Yoga.md",
+    "_notes/Design Régénératif.md",
+    "_notes/Conscience.md"
   ]
 }

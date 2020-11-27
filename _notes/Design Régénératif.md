@@ -12,8 +12,10 @@ Je tenterais de vous présenter [[Pourquoi une approche & un Design régénérat
 [[Régénérer est une direction]], c'est une dynamique, un mouvement, un engagement en tant que Designer. 
 C'est sortir d'une démarche business as usual pour chercher plus largement à [[Prendre soin du monde]]. En lien 👉 [[Business as non usual, le guide]], pour faire du business régénératif.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-
-</p>
-
 Je participe également à un [[Mouvement mondial du design régénératif]] que je vous invite à soutenir.
+
+## Explorations principales de l'approche régénérative.
+- L'importance et la beauté de la [[Biodiversité]]
+- Développer ou régénérer notre [[Conscience]]
+- Les apports de la [[permaculture]], de l'[[innovation frugale]]
+- Les travaux autour de l'[[anthropocène]]

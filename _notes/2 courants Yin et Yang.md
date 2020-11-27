@@ -1,6 +1,7 @@
 ---
 title: 2 courants Yin et Yang
 ---
+Une des pistes de réflexion pour tenter de [[décoder la vie]]
 
 > Rien de scientifiquement valide ici, c'est plutôt un jet d'écriture totalement intuitif...
 
