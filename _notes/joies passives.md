@@ -10,6 +10,8 @@ Exemples :
 - Fumer une cigarette
 - Manger de la junk food
 - Passer du temps avec certaines personnes
-- Faire certaines activités alors qu'on sait en amont que cela va nous coûter en éenrgie (une travail par exemple)
+- Faire certaines activités alors qu'on sait en amont que cela va nous coûter en énergie (une travail par exemple)
+
+A l'opposé on trouve les [[joies actives]].
 
 #philosophie 

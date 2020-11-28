@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2 courants Yin et Yang.md",
+            "file": "_notes/Les 4 accords Toltèques.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2 courants Yin et Yang.md",
+                "file": "_notes/Les 4 accords Toltèques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +93,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_notes/Les 4 accords Toltèques.md",
+    "_notes/joies passives.md",
+    "_notes/joies actives.md",
+    "_notes/_daily/2020-08-19.md",
     "_notes/2 courants Yin et Yang.md",
     "_notes/Approche du Comptoir.md",
     "_notes/Archipel Kyosei.md",
     "_notes/Bio-inspiration.md",
     "_notes/Biomimétisme.md",
-    "_notes/Business as non usual, le guide.md",
-    "_notes/cats.md",
-    "_notes/Conscience.md",
-    "_notes/consistency.md",
-    "_notes/Design circulaire sur 1 jour.md"
+    "_notes/Business as non usual, le guide.md"
   ]
 }
