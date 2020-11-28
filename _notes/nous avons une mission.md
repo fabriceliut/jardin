@@ -1,7 +1,6 @@
 ---
 title: nous avons une mission
 ---
-#article 
 
 Est-ce que tout comme moi vous avez envie d'en finir avec la dissonance de notre société ? Est-ce que tout comme moi vous êtes épuisés parfois au quotidien de devoir composer avec des éléments dont vous ne comprenez pas du tout la logique ? 
 
@@ -26,3 +25,5 @@ Parce que nous ne sommes que UN et même mouvement, nous le savons au fond de no
 Et justement, voilà ce qui donne du sens, une raison d’être : **participer à un même mouvement pour prendre soin, pour régénérer, pour revitaliser, pour dynamiser tout ce qui fait notre réalité.** Laisser vivre la beauté.
 
 Si sans réfléchir tu te sens toi aussi appartenir à ce mouvement, tu as certainement du temps à passer avec l'[[Archipel Kyosei]] et tous les autres écosystèmes qui oeuvrent, à leur humble mesure, pour une réalité faite de nouveaux paradigmes, pour un jeu qui en vaut non pas la peine, mais la joie.
+
+#article 

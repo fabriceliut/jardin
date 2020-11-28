@@ -1,7 +1,6 @@
 ---
 title: Guide book apprendre à vendre
 ---
-#Afairepousser [[Guidebook]]
 
 *Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]] j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
 
@@ -49,3 +48,5 @@ Quel est sa temporalité ? La temporalité de son organisation ?
 - Il y a des stratégie de réseau sur LinkedIn utilisable pour créer ce cadre de confiance en numérique
 
 # Suite en écriture...
+
+#Afairepousser [[Guidebook]]

@@ -1,7 +1,6 @@
 ---
 title: Approche du Comptoir
 ---
-#philosophie 
 
 >La mission du Comptoir est d’engager toutes les organisations dans leur « mutation ». Que vous soyez dirigeants, acteurs du changement, chefs de projets ou managers, le Comptoir vous accompagne étape après étape. 
 
@@ -57,3 +56,5 @@ Concrètement, cette approche repose sur 3 premiers jours socles de [[Design Sys
 6. SUIVI EN CONTINUE DURANT TOUTES LES ÉTAPES DE LA TRANSFORMATION. LE COMPTOIR RESTE PARTIE INTÉGRANTE DU PROJET, VIA UNE RELATION TRANSVERSALE, AUTHENTIQUE ET NATURELLE.
 
 7. LORSQUE LA TRANSFORMATION EST SUFFISAMMENT AVANCÉE, L’ORGANISATION DEVIENT AUTONOME ET INTÉGRÉE DANS LE MACRO-ÉCOSYSTÈME DU COMPTOIR. ELLE DEVIENT, À SON TOUR, LE SOUTIEN D’AUTRES INITIATIVES EN COURS DE MUTATION. 
+
+#philosophie 

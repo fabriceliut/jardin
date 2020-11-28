@@ -1,7 +1,6 @@
 ---
 title: N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !
 ---
-#article 
 
 L'humain évolue dans un monde de la technique comme solution à tout depuis bien longtemps. L'ère industrielle n'a pas aidé à calmer ça, elle l'a développée et rendue culturellement normalisée.
 
@@ -41,7 +40,7 @@ Netflix répond à un besoin clair : fournir légalement une quantité riche de 
 
 *Comment est-ce qu'on construit un outil, un service, un produit ?*
 
-![https://media-exp1.licdn.com/dms/image/C4E12AQEtVJ0TmDJuAQ/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=Q68hLVxTzGm4kJFI4iwxNsgMKsXX3mu2p0uakJNO59k](https://media-exp1.licdn.com/dms/image/C4E12AQEtVJ0TmDJuAQ/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=Q68hLVxTzGm4kJFI4iwxNsgMKsXX3mu2p0uakJNO59k)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQEtVJ0TmDJuAQ/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=W_Dva2HVFBSPlDHawf3Ap4gRlQFtIjIlurEMqNZHwuc)
 
 *Je vous propose une petite représentation en schéma ainsi que quelques explications. C'est une démonstration venant de recherches propres, n'hésitez pas à remettre en question si vous voyez des biais dans ma "logique".*
 
@@ -111,3 +110,5 @@ Sur le schéma que je vous partage dans cet article, il y a deux "étages" de pl
 **[[Comment libérer l'imaginaire ?]]** Ce sera pour un prochain article. Mais d'ici là, **essayez de rencontrer des personnes qui ont d'autres modèles de pensée que le vôtre** : vous aurez alors de grandes chances d'explorer des domaines encore à découvrir pour vous et ce sera peut-être le théâtre, l'art, la musique... **Tout ce champ d'exploration en dehors du rationnel qui peut libérer votre imaginaire.**
 
 **Vous voulez transformer votre organisation, vous voulez adresser de gros problème complexes et systémiques ? Rencontrez des artistes, des musiciens, des danseurs et explorez avec eux.** Faites aussi un petit tour du côté de l'[[Archipel Kyosei]].
+
+#article 

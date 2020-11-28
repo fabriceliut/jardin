@@ -4,8 +4,6 @@ image: /assets/businessnonusual.png
 ---
 ![]({{page.image}})
 
-[[Guidebook]]
-
 *Je vous propose par cet article de basculer de modèle, vers ce qui semblerait inverse à notre système capitaliste « as usual »... enfin l’inverse... peut-être moins que vous pouvez l’imaginer et peut-être bien plus «performant»...*
 
 > Si ce nouveau modèle de business était plus efficient ? Et s’il était plus performant, plus rentable ? Et s’il permettait de gagner plus, avec moins d’effort ?
@@ -103,3 +101,4 @@ A moi qui écrit tout ça ? **[Aux plus de 30 personnes](https://www.notion.so/
 **👉 Contactez-moi directement.**
 
 *Tout ce travail évolue dans le contexte de notre éco-système, [[Archipel Kyosei]]*
+[[Guidebook]]

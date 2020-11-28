@@ -1,7 +1,6 @@
 ---
 title: Ressources du Comptoir
 ---
-#Afairepousser 
 
 ## **Toutes nos ressources sont en commun et propriétés de tous suivant la logique de l’open-source et de la création ouverte.**
 
@@ -81,3 +80,5 @@ Comprendre la démarche de tests utilisateurs & de recherche.
 # Essais & Anticipations.
 
 - [For those who know](https://medium.com/for-those-who-know), antenne lyonnaise de la démarche internationale. Ecritures sur les futurs possible, toujours inspirant.
+
+#Afairepousser 

@@ -2,8 +2,8 @@
 title: Le Comptoir
 ---
 
-# Il est grandement temps de penser autrement, pour faire autrement.
-## Notre société vit une transformation sans précédents.
+## Il est grandement temps de penser autrement, pour faire autrement.
+### Notre société vit une transformation sans précédents.
 
 **Le Comptoir est un macro-écosystème qui met en synergie et accompagne les individus, organisations et territoires dans leurs transitions afin qu’ils s’adaptent à la complexité du monde actuel.**
 

@@ -2,10 +2,12 @@
 title: Les 4 accords Toltèques
 ---
 
-[[Guidebook]]
-
 - Que votre parole soit impeccable.
 - N'en faites jamais une affaire personnelle.
 - Ne faites aucune supposition.
 - Faites toujours de votre mieux.
+
+
 + Soyez sceptique mais apprenez à écouter.
+
+[[Guidebook]]

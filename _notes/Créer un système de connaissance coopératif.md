@@ -2,8 +2,6 @@
 title: Créer un système de connaissance coopératif
 ---
 
-#Afairepousser [[Guidebook]]
-
 Tout projet vient de la compréhension d'un besoin à adresser et pour comprendre les besoins il faut se mettre en écoute : tout commence avec la veille !
 Cela dit, si chaque individu fait sa veille dans son coin, il ne fait que traiter l'information par les même sources et par le même prisme d'analyse. Faire de la veille en coopération devient alors plus que pertinent : quoi de mieux que croiser les sources, croiser les regards pour gagner en diversité et en capacité d'analyse ?
 
@@ -137,3 +135,5 @@ Mise en fonctionnement systémique pour adresser des sujets de fond & complexes.
 Ce qui est en action est documenté pour venir inspirer de nouveaux projets
 Tous les projets s'articulent en assemblage global - 
 lien avec [[La toile de la Vie]].
+
+#Afairepousser [[Guidebook]]

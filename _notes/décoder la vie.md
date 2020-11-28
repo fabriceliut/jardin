@@ -1,7 +1,6 @@
 ---
 title: décoder la vie
 ---
-#Afairepousser
 
 Pourquoi chercher à décoder la vie alors qu'elle est si magique, si complexe si mystérieuse ? Est-ce que ce n'est pas le fait de ne pouvoir la comprendre qui la rend belle et que justement, chercher à comprendre la rend rude et désagréable ?
 
@@ -11,3 +10,5 @@ Est-ce qu'on peut étudier et comprendre notre propre société, dans le détail
 Et si toutes ces explorations sont aurant de points de vues sur la réalité, qu'est-ce que ça donnerait si on tentait de les relier tous ? Est-ce que si notre [[Conscience]] collective atteint l'état de [[noosphère]] nous ne pourrions pas atteindre l'état final de compréhension de nous-même ?
 
 Pourquoi comprendre ? Pourquoi chercher à tout décrypter ? Dans un premier temps, ce serait déjà pour récolter la sagesse nécessaire à [[Prendre soin du monde]].
+
+#Afairepousser

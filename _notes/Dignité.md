@@ -1,7 +1,6 @@
 ---
 title: Dignité
 ---
-#terminologie 
 
 Définition complète sur [Wikipédia](https://fr.wikipedia.org/wiki/Dignité).
 
@@ -12,3 +11,5 @@ Ne pas se servir des autres mais vivre avec les autres. Considérer l'autre comm
 > "Prendre ce qu’on te donne & donner ce qu’on te prend."
 
 C'est dans les deux sens comme [[2 courants Yin et Yang]] qui se balancent sans jamais plus de poids d'un côté que de l'autre...
+
+#terminologie 

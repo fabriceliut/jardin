@@ -1,7 +1,6 @@
 ---
 title: Design circulaire sur 1 jour
 ---
-#offre 
 
 *L’approche circulaire se met en place grâce à une première journée construite spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles opportunité d’un re-design circulaire.*
 
@@ -39,3 +38,5 @@ Le Design circulaire permet d’ouvrir un nouveau champ des possibles pour une o
 Basculer d’un modèle linéaire à un modèle circulaire est l’un des premiers pas d’une transformation profonde d’une organisation. Au Comptoir il est possible de développer cette aventure ensemble, en collaboration avec nos écosystèmes.
 
 *C’est avec l'[[Archipel Kyosei]] tout le tissu du réseau complémentaire que vous pourrez initier cette démarche.*
+
+#offre 

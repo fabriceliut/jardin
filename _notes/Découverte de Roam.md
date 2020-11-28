@@ -1,7 +1,6 @@
 ---
 title: Découverte de Roam
 ---
-#event
 
 # Date à définir.
 > Lien zoom à définir.
@@ -19,3 +18,5 @@ Sur curiosité de certaines personnes de la communnauté Slack "No-code", je vou
 - Répondre à vos questions
 
 Si vous voyez d'autres axes que vous voudriez découvrir, ne pas hésiter à m'envoyer un petit message !
+
+#event

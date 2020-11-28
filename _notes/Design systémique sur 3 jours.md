@@ -5,8 +5,6 @@ image: /assets/troisjours.jpeg
 
 ![]({{page.image}})
 
-#offre
-
 *L’approche systémique de l'[[Archipel Kyosei]] se met en place grâce à 3 journées construites spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles priorités d’actions & de transformations à initier.*
 
 > Lorsqu’on intervient dans un environnement complexe, modifier seulement 1% du système peut tout changer ! Cela dit, il faut bien sélectionner ce 1%… - François Roddier, expert en systèmes complexes.
@@ -81,4 +79,5 @@ Suite à ce sprint il est possible de traiter « en conscience » et en pas à p
 
 > 🚀 Bonus : [[la puissance du design systémique par l’exemple des banques.]]
 
+#offre
 

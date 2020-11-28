@@ -1,7 +1,6 @@
 ---
 title: Identité de groupe
 ---
-#article 
 
 J'ouvre une nouvelle exploration collective autour du concept d'identité de groupe. Je prendrais un scénario assez simple d'entrepreneur pour illustrer ma réflexion.
 Appelons-le Xavier. Xavier est entrepreneur et souhaite s'associer avec des personnes complémentaire pour développer son projet. Il est alors face à plusieurs choix :
@@ -56,3 +55,5 @@ A ce stade de pensée, Xavier notre entrepreneur du début est toujours lui-mêm
 **Il pourra même expérimenter les deux en même temps, sans forcément faire un choix de plus** : ce qu'il fait pour lui, il le fait en même temps en conscience de la vie, car c'est la même chose. Et les autres avec qui il fera, il n'a plus a en avoir peur car ils sont tous aussi la vie, il ne vit plus de séparation nécessaire et n'a plus besoin de faire confiance par peur qu'autre chose vienne le détruire. **Son identité propre (Ego) peut mourir mais son identité de groupe (le vivant) continuera d'évoluer...**
 
 Je vous avais prévenu, faire le second choix ouvre de "sacrés" perspectives...
+
+#article 

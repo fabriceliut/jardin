@@ -1,7 +1,6 @@
 ---
 title: Designs
 ---
-#Afairepousser #projet
 
 **Les pensée & démarches "Designs"** prennent une place de plus en plus importante et nécessaire dans l'évolution de notre société et de nos systèmes, que ce soit les organisations entreprises ou les organismes publics, le secteur humanitaire ou associatif.
 
@@ -25,3 +24,5 @@ Finissons cette présentation globale par quelques exemples d'applications conc
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 Vous pourrez découvrir ici prochainement une liste complète de tous les Designs.
 </p>
+
+#Afairepousser #projet

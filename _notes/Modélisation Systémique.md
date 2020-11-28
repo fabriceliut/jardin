@@ -1,7 +1,6 @@
 ---
 title: Modélisation Systémique
 ---
-#Afairepousser [[Guidebook]]
 
 Egalement sous le nom de "mapping systémique".
 
@@ -30,3 +29,5 @@ Plus important encore, la construction des systèmes reprend le modèle de pens�
 Penser aussi à appliquer les phases de divergences et de convergences, d'individuel et de collectif voir de zen voting, suivant la faciliter du groupe à progresser.
 
 **Le rendu attendu est une board complète du système de l'organisation sur un mur, avec les éléments projets, les actions, les liens, les acteurs, les ressources, les frictions et fluidités ainsi que les informations de complémentarités, etc...**
+
+#Afairepousser [[Guidebook]]

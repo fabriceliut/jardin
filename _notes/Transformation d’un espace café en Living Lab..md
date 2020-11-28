@@ -1,7 +1,6 @@
 ---
 title: Transformation d’un espace café en Living Lab.
 ---
-#etude-de-cas 
 
 > Cette transformation a donné naissance à l'[[Archipel Kyosei]] dont je fais partie maintenant
 
@@ -56,3 +55,5 @@ Comment le Comptoir apporte sa pierre à cet édifice complexe ?
 - Comment faire « ruisseler » cette abondance, dans toutes ses dimensions, à l’extérieur de SOFFFA, dans les organisations, le quartier, la ville, etc..?
 
 *L’expérimentation étant actuellement en cours, nous mettrons régulièrement à jour cette page cas d’étude pour vous permettre de suivre les démarches totalement open-source.* - *Rédaction datée du 21/11/2019 à actualiser*
+
+#etude-de-cas 

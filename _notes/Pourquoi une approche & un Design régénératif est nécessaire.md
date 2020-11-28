@@ -4,7 +4,6 @@ image: /assets/coopererregenerer.jpeg
 ---
 ![]({{page.image}})
 
-#article 
 
 > *“It’s up to us to decide what kind of a world we want to leave to coming generations – a sustainable one, or a desolate one in which the civilisation we have built disintegrates rather than builds on past successes,”* - [Source inspirant cet article](https://www.independent.co.uk/environment/sixth-mass-extinction-endangered-animals-wildlife-markets-biodiversity-crisis-standford-study-a9544856.html).
 
@@ -47,3 +46,5 @@ C'est une coopération pragmatique que je vous propose, que ce soit avec moi ou 
 - Nous pourrons ainsi nous rencontrer et échanger plus en détail en mettant au coeur des réflexions vos ambitions d'évolutions dans un sens régénératif
 - Bien entendu, je ne travaille jamais seul, **je pourrais alors rapidement vous connecter avec d'autres compétences et expertises** nécessaire à notre travail
 - Et ainsi nous essayer à une belle coopération, dans le sens du vivant !
+
+#article 

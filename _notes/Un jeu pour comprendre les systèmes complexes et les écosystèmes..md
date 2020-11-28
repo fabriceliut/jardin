@@ -1,7 +1,6 @@
 ---
 title: Un jeu pour comprendre les systèmes complexes et les écosystèmes.
 ---
-#article
 
 Merci Nick, créateur de ce petit jeu, pour m'aider à répondre en partie, de manière fun et plus simplement à ce qu'est le [[Design Systémique]] . Mais avant ça, petite présentation globale du sujet.
 
@@ -37,28 +36,29 @@ Rien ne sert d'en dire plus, passons directement au jeu ! Pour illustrer quelque
 
 *On commence déjà par se partager à boire : quoi de plus convivial pour comprendre l'effet réseau... ou pas.*
 
-![https://media-exp1.licdn.com/dms/image/C4E12AQG6GTye2zP-_w/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=qs0qP8QZV43e1vDCEBxylwOnkZWg1S38nddYkXWaRYg](https://media-exp1.licdn.com/dms/image/C4E12AQG6GTye2zP-_w/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=qs0qP8QZV43e1vDCEBxylwOnkZWg1S38nddYkXWaRYg)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQG6GTye2zP-_w/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=AtzvS4zibR4kbldrM3QhYEoyc9SkMj5H7UG4xGWwPxc)
 
 *Ensuite, un petit système d'information.*
 
-![https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=a9g_66FSBUfRqKoqtu-rUbo6Oeax7iRGmqKEUhroQwU](https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=a9g_66FSBUfRqKoqtu-rUbo6Oeax7iRGmqKEUhroQwU)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=E56lkFj4aVtwZvfXHBkz9sLgAI10_gkMjfXb00PxWbU)
 
 *A vous de créer la "contagion" ! Le flux, la circulation explique très bien que la complexité est dans les connexions quelques soient les éléments...*
 
-![https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=RZ_ob2NAAnsd1OmxptNS9qplTzf1n4SueoIqLTp_PTE](https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=RZ_ob2NAAnsd1OmxptNS9qplTzf1n4SueoIqLTp_PTE)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=QN8XPz2FEXocY3cnJYb3dvqWsM3V1cm7_5UkTmLPf3k)
 
 *Et en avant pour complexifier de plus en plus, mais toujours avec les bonnes explications et pas à pas.*
 
-![https://media-exp1.licdn.com/dms/image/C4E12AQEsvFch0EiYtw/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=HkKNtute5FUPiUQZ8hgDzxqEXl46A1ggWkYdpY9C0pQ](https://media-exp1.licdn.com/dms/image/C4E12AQEsvFch0EiYtw/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=HkKNtute5FUPiUQZ8hgDzxqEXl46A1ggWkYdpY9C0pQ)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQEsvFch0EiYtw/article-inline_image-shrink_1500_2232/0/1547916773471?e=1611792000&v=beta&t=vs_2YkL9YP2sXUnMeBv6aM8Tg7LCD2Fw2RiVqRE2bAU)
 
 *L'étude de l'effet de groupe est passionnant pour tous ceux qui veulent résoudre des problèmes de gouvernance, de management et de collaboration : **vous pouvez clairement comprendre la nécessité de la diversité, de la facilitation et de bonnes méthodes collaboratives** : à [[Système Complexe]]... Pensée collaborative et expertises obligent !*
 
-![https://media-exp1.licdn.com/dms/image/C4E12AQEqq2qLoVQXtA/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=fXvDzO8WZUaaGyrkISvPMluSXYJDsjybqtpWYVZpecw](https://media-exp1.licdn.com/dms/image/C4E12AQEqq2qLoVQXtA/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=fXvDzO8WZUaaGyrkISvPMluSXYJDsjybqtpWYVZpecw)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQEqq2qLoVQXtA/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=RqleTh61GnkCRlugL-2PI0UUO7x8bRuTUZIVv9Mfa7Q)
 
 Je ne vous en montre pas plus et vous laisse vous jeter dans l'expérience pour la suite ! A vous de faire les analogies avec ce que vous voulez... Tout est système, et **la [[Pensée Systémique]] permet de faire des ponts entre la nature par exemple et l'ingénierie : c'est ce qu'on appelle le Biomimétisme !**
 
 *Alors, toi aussi tu as envie de tout comprendre maintenant ? 🚀*
 
 ### **Pour conclure**
+![](https://media-exp1.licdn.com/dms/image/C4E12AQGduR2arZFslA/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=fC42Y6Q2nbwOx8q7-XmBf5r1dxZ3ErctVjnsMOjGA0I)
 
-![https://media-exp1.licdn.com/dms/image/C4E12AQGduR2arZFslA/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=RZOP2SUGINRYNKgAuskSqns_v3qINynZYn4fNHNxZoU](https://media-exp1.licdn.com/dms/image/C4E12AQGduR2arZFslA/article-inline_image-shrink_1500_2232/0?e=1608768000&v=beta&t=RZOP2SUGINRYNKgAuskSqns_v3qINynZYn4fNHNxZoU)
+#article

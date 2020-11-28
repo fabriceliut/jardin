@@ -1,7 +1,6 @@
 ---
 title: Transformation culturelle d’un grand groupe européen.
 ---
-#etude-de-cas
 
 *[[Le Comptoir]] accompagne depuis 1 an un grand groupe (+100 000 collaborateurs) dans sa transformation culturelle globale. La démarche est portée par Fabrice, Designer systémique, Hugo, consultant numérique et enfin Fanny, anthropologue, tous 3 membres des écosystèmes du Comptoir.*
 
@@ -46,3 +45,5 @@ Depuis septembre, le grand groupe continue son évolution et le Comptoir reste p
 Cependant, de nouvelles problématiques causes émergent : qui dit transformation dit nouvelles habitudes, nouveaux fonctionnement. Qui alors est responsable de ces nouvelles pratiques si la gouvernance n’a pas évoluée avec le reste du fonctionnement du groupe. **Dans un monde de demain fonctionnant en éco-système, comme voulu dans l’écriture stratégique, la structuration hiérarchique classique semble archaïque et bien trop solide.** Elle ralentit les évolutions, elle solidifie là où il faudrait plus d’agilité, elle frustre en même temps que les autres démarches libèrent. Mais si alors il y a de nouveaux problèmes, c’est l’opportunité d’une nouvelle rencontre au Comptoir avec de nouveaux experts adaptés. **La [[Mutation Culturelle]] de nos sociétés est sans fin : ce qui compte c’est de rester vigilant, agile et résilient.**
 
 *+ d’infos en me contactant, avec une documentation open-source sur les démarches de transformation culturelle sur demande.*
+
+#etude-de-cas

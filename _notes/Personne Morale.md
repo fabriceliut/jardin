@@ -1,7 +1,6 @@
 ---
 title: Personne Morale
 ---
-#terminologie
 
 [Wiki](https://fr.wikipedia.org/wiki/Personne_morale)
 
@@ -16,3 +15,5 @@ La notion de personnalité juridique s'est élargie et diversifiée au cours de 
 
 *"Certains juristes se demandent actuellement s’il ne serait pas pertinent d’accorder la personnalité juridique aux animaux. C’est en ce sens qu’a été proclamée la Déclaration sur la personnalité juridique de l'animal, dite "Déclaration de Toulon", le 29 mars 20194."*
 - Je me permet un commentaire ici en lien avec la note sur [[Identité de groupe]] - Si en effet nous sommes tous "le vivant" alors toutes les parties du vivant sont des personnes juridiques au même titre que les humains... Alors le minéral, le végétal & l'animal doivent disposer de droits & de devoir, tout comme nous....
+
+#terminologie

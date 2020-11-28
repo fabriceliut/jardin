@@ -1,7 +1,6 @@
 ---
 title: Régénérer est une direction
 ---
-#article 
 
 Régénérer n’est pas une destination ou un objectif mais une direction, une tangente. **À chaque instant, à chaque action, nous prenons une direction, une orientation**. Est-ce que ce qu'on est là maintenant en train de faire est régénératif ou dégénératif ? Ce serait la question à se poser, en pleine conscience, tout le temps.
 
@@ -14,3 +13,5 @@ Pour cette raison, la régénération n'est pas un processus linéaire : une sit
 Cependant, dans notre société actuelle, beaucoup plus d'activités, de projets ou de systèmes tendent vers la dégénération. C'est pour venir remettre de l'équilibre dans cette balance que le [[Design Régénératif]] existe. Cette approche ne cherche pas à équilibrer la réalité mais seulement à réparer les effet dégénératifs de l'humanité pour la soigner & la remettre en santé.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FOmega%2Fd50EJqYA7l?alt=media&token=cd155080-20a1-4084-97ee-cb8d7ca1ee55)
+
+#article 
