@@ -1492,7 +1492,7 @@ Je sens de plus en plus qu’il faut que j’évite de tomber, et si mon confort
 Sinon pour aujourd’hui, que de belles rencontres encore. Une dame pour avancer les projet Design, un beau repas avec les copains du 22 plein de bonnes énergies, une Jessica qui est toujours aussi agréable dans le partage d’expérience sur la vie, et une Maguelone ressourçante.
 
 Ce que j’en garde surtout, c’est l’interaction avec Maguelone. Forcément, je la prend un peu comme un mentor, et au final la quête qui m’intéresse le plus est la quête spirituelle. Cette quête qui va dans le sens de lâcher l’égo.
-Ce que j’ai retenu, c’est cette notion de sentir la non dualité, mais de trouver une dualité dans la non dualité. Me parler à moi-même n’est donc pas une mauvaise chose, si je pars du principe que de toute façon tout ce qui m’entoure est moi-même aussi mais sous une autre forme.
+Ce que j’ai retenu, c’est cette notion de sentir la non [[Dualité]], mais de trouver une dualité dans la non dualité. Me parler à moi-même n’est donc pas une mauvaise chose, si je pars du principe que de toute façon tout ce qui m’entoure est moi-même aussi mais sous une autre forme.
 
 Je reste donc avec cette vision en tête à développer, et un Mantra à me construire, pour commencer à avoir des outils pour ne pas décrocher tout le temps de cette voie très difficile à tenir.
 
@@ -1656,7 +1656,7 @@ Aujourd’hui fût une belle journée. Yoga le midi, avec une détente à la fin
 
 La raisonnante est vraiment agréable, et l’état de calme mental lorsque cela s’arrête pour engager une méditation est génial. Je suis partie vraiment loin, avec des visualisation de lumières et comme un sens de tunnel d’énergie, mais c’est flou alors je ne saurais trop dire.
 
-C’est sûr que comparé au champignons de la semaine précédente pendant les nuits sonores, ce n’est pas la même. Vraiment, je pense que j’ai compris que tout n’est que création de mon esprit, et que mon esprit n’est pas à moi. Il n’y a rien en réel contrôle, simplement de l’illusion, tout est une sorte de jeu entre dualité et non dualité, une préparation à la mort.
+C’est sûr que comparé au champignons de la semaine précédente pendant les nuits sonores, ce n’est pas la même. Vraiment, je pense que j’ai compris que tout n’est que création de mon esprit, et que mon esprit n’est pas à moi. Il n’y a rien en réel contrôle, simplement de l’illusion, tout est une sorte de jeu entre [[Dualité]] et non dualité, une préparation à la mort.
 
 MERCI alors ! Merci à toi la vie pour tout ce qui a fait cette journée. Beau temps, température agréable, activités agréables.
 Je remercie aussi d’être en pleine santé et forme, d’avoir mangé de bonnes choses, d’avoir l’argent nécessaire pour vivre et les gens autour de moi vont bien. J’ai ressenti globalement paix et joie, fait de nouvelles expériences stimulant la curiosité mais aussi ma connexion avec le “Tout” et mon niveau d’énergie.

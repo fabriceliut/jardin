@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Les 4 accords Toltèques.md",
+            "file": "Dualité.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "yin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Les 4 accords Toltèques.md",
+                "file": "Dualité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -93,15 +93,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_notes/Les 4 accords Toltèques.md",
-    "_notes/joies passives.md",
-    "_notes/joies actives.md",
-    "_notes/_daily/2020-08-19.md",
-    "_notes/2 courants Yin et Yang.md",
-    "_notes/Approche du Comptoir.md",
-    "_notes/Archipel Kyosei.md",
-    "_notes/Bio-inspiration.md",
-    "_notes/Biomimétisme.md",
-    "_notes/Business as non usual, le guide.md"
+    "Dualité.md",
+    "_notes/Jardin Numérique.md",
+    "_notes/décoder la vie.md",
+    "_notes/_daily/2020-10-14.md",
+    "_notes/Conscience.md",
+    "intellecte.md",
+    "pensée.md",
+    "connaissance.md",
+    "_notes/Prendre soin de soi.md",
+    "_notes/Santé Parfaite.md"
   ]
 }

@@ -22,6 +22,6 @@ C'est pour moi actuellement le meilleur outil pous structurer tout mon "arbre de
 # Comment est structuré ce jardin ?
 ### la structure de ce jardin va reprendre la même structure que sur mon Workflowy qui est une architecture en arborescence de mon cerveau 🧠.
 --
-Les 2 grandes branches sont “[[Prendre soin du monde]]” et "[[Prendre soin de soi]]"... la dualité et la non dualité, 2 mouvements qui se complètent au quotidien dans lesquels pour le moment j’arrive à rentrer tous les sujets de ma vie... Construction à suivre 😃
+Les 2 grandes branches sont “[[Prendre soin du monde]]” et "[[Prendre soin de soi]]"... la [[Dualité]] et la non dualité, 2 mouvements qui se complètent au quotidien dans lesquels pour le moment j’arrive à rentrer tous les sujets de ma vie... Construction à suivre 😃
 
 #Afairepousser [[Guidebook]]

@@ -10,6 +10,6 @@ Certainement également quelques essais plus philosophiques ou conceptuels, mais
 
 ## Comment prendre soin de soi ?
 Quelques pistes qui nous viennent des traditions les plus anciennes sont souvent des plus solides, comme par exemple le concept de [[Santé Parfaite]], [[Yoga]] ou de [[Mouvement Naturel]]. 
-Je me retrouve également très souvent humble face à la [[Complexité]] de la vie qui évolue comme un courant d'énergie abstrait que j'aime imaginer comme [[2 courants Yin et Yang]] qui s'entrelacent & danses ensemble dans l'infini...
+Je me retrouve également très souvent humble face à la [[Complexité]] de la vie qui évolue comme un courant d'énergie abstrait que j'aime imaginer comme [[2 courants Yin et Yang]] qui s'entrelacent & danses ensemble dans l'infini... Une expression plutôt poétique d'un des concepts le plus profond de notre réalité, la [[Dualité]].
 D'autres viendront 😃 comme plus de matière autour de mes expérimentations avec les [[Les 4 accords Toltèques]].
 
