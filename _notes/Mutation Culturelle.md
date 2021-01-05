@@ -7,6 +7,6 @@ La culture fait société & l'évolution culturelle imprime de grands changement
 Tout en considérant également les impacts dans l'autre sens : les évolutions des usages, des tendances & des rapports humains fait évoluer la culture d'une société.
 
 Tout service ou produit, tout objet (même un objet de langage) porte un impact sur les évolutions culturelles comme par exemple les produits numériques.
-Un objet peut changer la société (l'argent par exemple) comme la société peut changer ses objets. C'est avec la [[Pensée Systémique]] qui nous est possible d'appréhender cette [[Complexité]].
+Un objet peut changer la société (l'argent par exemple) comme la société peut changer ses objets. C'est avec la [[pensée systémique]] qui nous est possible d'appréhender cette [[complexité]].
 
 #Afairepousser 

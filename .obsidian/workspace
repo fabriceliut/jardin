@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Dualité.md",
+            "file": "_notes/tout dans la vie n'est que langage.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Dualité.md",
+                "file": "_notes/tout dans la vie n'est que langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -93,15 +95,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Dualité.md",
-    "_notes/Jardin Numérique.md",
+    "_notes/tout dans la vie n'est que langage.md",
+    "linguistique.md",
+    "le vivant.md",
+    "Le Vivant.md",
     "_notes/décoder la vie.md",
-    "_notes/_daily/2020-10-14.md",
-    "_notes/Conscience.md",
-    "intellecte.md",
-    "pensée.md",
-    "connaissance.md",
-    "_notes/Prendre soin de soi.md",
-    "_notes/Santé Parfaite.md"
+    "tout dans la vie n'est que langage.md",
+    "_pages/index.md",
+    "complexité.md",
+    "La Spiritualité.md",
+    "_notes/connaissance.md"
   ]
 }

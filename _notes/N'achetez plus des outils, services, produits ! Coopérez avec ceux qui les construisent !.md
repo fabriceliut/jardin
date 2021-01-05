@@ -26,7 +26,7 @@ Un des biais humain est de penser que l'outil sera la solution, parce que l'outi
 
 ### **Grands outils, grande responsabilité !**
 
-Lorsque vous créez un outil, service, produit... Vous créez "[[La Logique]]" concrète pour résoudre un problème et répondre à un besoin. **Votre problème, c'est un casse-tête : sinon ce ne serait pas un problème.** L'outil, c'est la clé, la solution directe. Ainsi, plus besoin de se casser la tête.
+Lorsque vous créez un outil, service, produit... Vous créez "[[logique]]" concrète pour résoudre un problème et répondre à un besoin. **Votre problème, c'est un casse-tête : sinon ce ne serait pas un problème.** L'outil, c'est la clé, la solution directe. Ainsi, plus besoin de se casser la tête.
 
 **Sauf que, si un humain ne se casse pas la tête de temps en temps alors il n'apprend pas.** S'il n'apprend pas, il ne peut pas évoluer et il perd toute dynamique d'exploration, de recherche et surtout d'essai-erreur. **Il consomme alors des outils et des services, il paie pour ça et il s'en arrête là.**
 
@@ -95,7 +95,7 @@ Sur le schéma que je vous partage dans cet article, il y a deux "étages" de pl
 
 *Attention donc encore une fois aux livres vulgarisés ! Est-ce que l'auteur tenait vraiment à "traduire" pour que ce soit converti dans le concret en solutions ou est-ce qu'il vend cette matière pour se créer une posture de sachant pour vendre des conférences, des méthodes, des outils, des formations, etc...*
 
-- **Revenons à la théorie !** Pour écrire une théorie, il faut un cerveau qui explore par sa logique. [[La Logique]] est le fonctionnement même de notre cerveau. Nous connectons des concepts, des idées par logique. Je ne développerais pas plus ici, mais regardez du côté de la logique sur Wikipedia, du côté de Socrate avec sa dialectique, etc...
+- **Revenons à la théorie !** Pour écrire une théorie, il faut un cerveau qui explore par sa logique. [[logique]] est le fonctionnement même de notre cerveau. Nous connectons des concepts, des idées par logique. Je ne développerais pas plus ici, mais regardez du côté de la logique sur Wikipedia, du côté de Socrate avec sa dialectique, etc...
 
 ... *En vous souhaitant une belle exploration !*
 

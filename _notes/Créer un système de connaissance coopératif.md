@@ -42,7 +42,7 @@ Il est aussi possible "d'accrocher" du contenu à des termes & en allant sur la 
 ### Les blocs et "embed blocks".
 
 ### Les liens entre les termes.
-Rapport avec la linguistique
+Rapport avec la [[linguistique]]
 
 ### Les liens avec les dates et daily notes.
 Gestion de la temporalité

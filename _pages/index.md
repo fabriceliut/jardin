@@ -23,6 +23,7 @@ Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]].
 
 ### Autres explorations du moment.
 - C'est quoi ce site, c'est quoi un [[Jardin Numérique]]?
+- Est-ce qu'il est possible de [[décoder la vie]] ?
 
 <style>
   .wrapper {

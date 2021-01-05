@@ -26,7 +26,7 @@ Penser « intégral » est une métamorphose personnelle à entrainer par dive
 
 **Biomimétisme -** *Inspiration du vivant, [[Pensée Analogique]], végétal, animal, insectes, évolution…*+10 modules
 
-**Philosophie -** *Anthropocène, éthique, évolution linguistique, Être & conscience…*+10 modules
+**Philosophie -** *Anthropocène, éthique, évolution [[linguistique]], Être & conscience…*+10 modules
 
 **Sciences & logique -** *Dialectique, logique mathématique, biologie, chimie, physique…*+10 modules
 
