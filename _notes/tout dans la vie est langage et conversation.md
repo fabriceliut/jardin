@@ -12,7 +12,7 @@ Si l'on devient maître d'un discipline après de longues années ce serait alor
 Je suis fasciné d'imaginer que chaque domaine d'expression, chaque activité est un langage et que si j'étudie la [[logique]] linguistique je pourrais par [[Pensée Analogique]] interpréter les enchainements du tango, lire le code derrière une musique que je ne "comprend" pas encore... 
 **Sans pour autant pratiquer pendant de longues années pour m'impreigner d'un sujet en particulier**, 
 
-> ==parce que derrière chaque "faire" il y a la même source d'assemblage qui se manifeste simplement sous différentes formes...==
+> Parce que derrière chaque "faire" il y a la même source d'assemblage qui se manifeste simplement sous différentes formes...
 
 Est-ce qu'on ne dit pas de tel ou tel sujet qu'il "nous parle" ? Est-ce que Tout tout le temps n'est pas en train de s'adresser à nous et de nous raconter des histoires par nos 5 sens ?
 

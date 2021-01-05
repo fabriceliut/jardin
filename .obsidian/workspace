@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/décoder la vie.md",
-            "mode": "source"
+            "file": "_notes/tout dans la vie est langage et conversation.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/décoder la vie.md",
+                "file": "_notes/tout dans la vie est langage et conversation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_notes/tout dans la vie est langage et conversation.md",
     "_notes/décoder la vie.md",
     "_notes/tout dans la vie est  langage.md",
     "_notes/tout dans la vie n'est que langage.md",
@@ -104,7 +105,6 @@
     "le vivant.md",
     "Le Vivant.md",
     "tout dans la vie n'est que langage.md",
-    "_pages/index.md",
-    "complexité.md"
+    "_pages/index.md"
   ]
 }
