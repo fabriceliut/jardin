@@ -16,7 +16,7 @@ On active alors une démarche de veille en commun dont je propose un [Guide de l
 - Les réseaux sociaux, les newsletters, les RSS, les discussions
 - Tout se met de côté dans une app comme [Pocket] par exemple pour lire et traiter plus tard et dans laquelle il est possible de classer les sources par tags.
 
-Prochaine étape : [[structurer un système d'information]]
+Prochaine étape : [[structurer un système information]]
 
 ---
 #Afairepousser 
