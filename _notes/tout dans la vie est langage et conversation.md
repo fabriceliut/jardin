@@ -1,5 +1,5 @@
 ---
-title: tout dans la vie n'est que langage
+title: tout dans la vie est langage et conversation
 ---
 
 Peut-être que l'étude de la [[linguistique]] nous permettrait de comprendre l'art, les échecs, l'entreprenariat, la danse, etc... Sans pour autant tout expérimenter en profondeur.

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/tout dans la vie est langage et conversation.md",
+            "file": "_pages/index.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "créer un système",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/tout dans la vie est langage et conversation.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/index.md",
     "_notes/tout dans la vie est langage et conversation.md",
     "_notes/décoder la vie.md",
-    "_notes/tout dans la vie est  langage.md",
-    "_notes/tout dans la vie n'est que langage.md",
-    "_notes/Transformation culturelle d’un grand groupe européen..md",
-    "linguistique.md",
-    "le vivant.md",
-    "Le Vivant.md",
-    "tout dans la vie n'est que langage.md",
-    "_pages/index.md"
+    "des assemblages à la symbiose projets.md",
+    "du système projet aux assemblages projets.md",
+    "_notes/Créer un système de connaissance coopératif.md",
+    "des systèmes projets aux assemblages projets.md",
+    "emergence d'un structure logique utilisable.md",
+    "structurer un système d'information.md",
+    "tout commence par la veille.md"
   ]
 }

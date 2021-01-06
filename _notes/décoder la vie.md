@@ -7,7 +7,7 @@ title: décoder la vie
 Peut-être qu'il n'y a rien à comprendre, rien à en extraire. Et pourtant, comprendre [[le vivant]] par [[Bio-inspiration]] permet d'en récolter toute la sagesse à des fins de régénérer la société humaine.
 Est-ce qu'on peut étudier et comprendre notre propre société, dans le détail de toute sa [[complexité]] pour agir dessus et la réorganiser ? Est-ce que la science n'est pas justement la discipline majeure qui tente de "craquer le code" par [[logique]] ? Est-ce que [[la spiritualité]] à sa manière bien différente ne tente pas aussi d'en percer les mystères ?
 
-Et si [[tout dans la vie est langage et conversation]] ?
+La question devient : et si [[tout dans la vie est langage et conversation]] ?
 
 Et si toutes ces explorations sont aurant de points de vues sur la réalité, qu'est-ce que ça donnerait si on tentait de les relier tous ? Est-ce que si notre [[Conscience]] collective atteint l'état de [[noosphère]] nous ne pourrions pas atteindre l'état final de compréhension de nous-même ?
 
