@@ -8,7 +8,7 @@ title: Livre du Comptoir
 
 Notre société et plus largement notre monde vit une transformation sans précédent, une mutation profonde de sa culture, de ses modèles et de sa réalité propre.
 
-Face à cet état des faits et aux doutes quand à notre avenir plus qu’incertain, soit nous continuons comme avant, soit nous laissons glisser, soit nous tentons de gagner en agilité, en résilience et en réactivité pour nous adapter et faire face aux changements et à la complexité de cette nouvelle réalité.
+Face à cet état des faits et aux doutes quand à notre avenir plus qu’incertain, soit nous continuons comme avant, soit nous laissons glisser, soit nous tentons de gagner en agilité, en [[résilience]] et en réactivité pour nous adapter et faire face aux changements et à la complexité de cette nouvelle réalité.
 
 Nous venons d’un monde compliqué devenu complexe, ou est-ce peut-être notre pensée et notre humanité qui s’est complexifiée rendant le tout chaotique ?
 

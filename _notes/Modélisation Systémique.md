@@ -24,7 +24,7 @@ Si on travaille sur plusieurs projets de l'organisation en parallèle, lorsque l
 
 Ainsi émerge une visualisation écosystémique ainsi qu'une conscience des points de contact, des collaborations à mettre en place.
 
-Plus important encore, la construction des systèmes reprend le modèle de pensée Design : mettre au centre un besoin réel, lié à une raison d'être partagée, en prenant en compte également la faisabilité, la viabilité et la résilience (4 circles).
+Plus important encore, la construction des systèmes reprend le modèle de pensée Design : mettre au centre un besoin réel, lié à une raison d'être partagée, en prenant en compte également la faisabilité, la viabilité et la [[résilience]] (4 circles).
 
 Penser aussi à appliquer les phases de divergences et de convergences, d'individuel et de collectif voir de zen voting, suivant la faciliter du groupe à progresser.
 

@@ -2,7 +2,7 @@
 title: Régénérer est une direction
 ---
 
-Régénérer n’est pas une destination ou un objectif mais une direction, une tangente. **À chaque instant, à chaque action, nous prenons une direction, une orientation**. Est-ce que ce qu'on est là maintenant en train de faire est régénératif ou dégénératif ? Ce serait la question à se poser, en pleine conscience, tout le temps.
+Régénérer n’est pas une destination ou un objectif mais une direction, une tangente. **À chaque instant, à chaque action, nous prenons une direction, une orientation**. Est-ce que ce qu'on est là maintenant en train de faire est [[régénératif]] ou dégénératif ? Ce serait la question à se poser, en pleine conscience, tout le temps.
 
 Bien entendu, ce n'est pas possible. Certaines situations sont tellement complexes qu'il est impossible de "deviner" l'orientation qu'on est en train de prendre. D'autres encore demandent de passer par une phase dégénérative pour, sur le plus long terme, être régénératif.
 

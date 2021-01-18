@@ -50,7 +50,7 @@ Non je ne vous parlerais pas d’un monde sans argent, pas cette fois. Ni d’un
 
 > « demain, on verra bien, personne ne peut prédire l’avenir, d’ailleurs, si certains disent savoir, fuyez-les ! »
 
-### Le chemin vers la résilience.
+### Le chemin vers la [[résilience]].
 
 Pas de plan sur la comète. Pas de roadmap sur 5 ou 10 ans. Ce qui doit se renforcer ce n’est pas de fausses certitudes mais une capacité de réagir vite, d’être agile, résilient et j’irais même jusqu’à « anti fragile ». **Pour se faire, c’est une nécessité de coopération à instaurer plutôt qu’un renforcement de la concurrence.**
 

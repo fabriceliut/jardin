@@ -48,7 +48,7 @@ Nous nous développons toujours dans un contexte particulier et nous sommes lié
 
 - [[Bio-inspiration]]
 - Design circulaire
-- Mise en Résilience
+- Mise en [[résilience]]
 - Innovation Frugale
 - Permaculture
 
@@ -87,7 +87,7 @@ Sans curiosité, aucun mouvement de vie n’est possible. Développer la curiosi
 
 Depuis des siècles, l’humain tente de comprendre le monde. Beaucoup de découvertes méritent de nourrir les actions concrètes.
 
-- Neurosciences
+- [[neurosciences]]
 - Physique quantique
 - Biologie
 - Géopolitique

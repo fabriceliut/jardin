@@ -8,7 +8,7 @@ L'un de nos plus grands défis du 21e siècle sera de **cultiver les capacités 
 
 C'est ce qu'on appelle une démarche de [[Design Systémique]] & [[Design Régénératif]]. Il s'agit d'une science appliquée qui cherche à fusionner les pratiques de conception avec les efforts de la recherche et du travail terrain d'une grande diversité d'écosystèmes d'acteurs. En soutenant mon travail, vous serez engagés dans le monde de la conception régénérative & avancerez avec moi dans les traces de pionniers qui ont passé plus de deux décennies à structurer les bases de cette mission plus qu'urgente qui adresse un profond changement sociétal, dans le sens du vivant.
 
-Et en ce qui me concerne ? Je donnerais toute l'énergie nécessaire pour dynamiser ce mouvement régénératif en France et en Europe, notamment avec l'[[Archipel Kyosei]].
+Et en ce qui me concerne ? Je donnerais toute l'énergie nécessaire pour dynamiser ce mouvement [[régénératif]] en France et en Europe, notamment avec l'[[Archipel Kyosei]].
 
  👉 [Soutenir le mouvement](https://www.buymeacoffee.com/liut)
  

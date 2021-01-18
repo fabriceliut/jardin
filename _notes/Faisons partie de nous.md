@@ -8,7 +8,7 @@ title: Faisons partie de nous
 
 La liberté est une offre, une promesse et une exigence de responsabilité. Une volonté de se connecter et d'offrir de la [[Dignité]] en réponse à ceux qui nous entourent.
 
-**L'indépendance est en fait une question de [[Coopération]] et d'interdépendance.**
+**L'indépendance est en fait une question de [[coopération]] et d'interdépendance.**
 
 Pourtant, nous vivons dans des systèmes qui limitent ce que nous percevons, comment nous nous connectons et nous isolent d'un important processus que nous avons à vivre.
 

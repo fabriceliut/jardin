@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Créer un système de connaissance coopératif.md",
+            "file": "_notes/Retour dans le game ou aller simple vers le meta-game.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Créer un système de connaissance coopératif.md",
+                "file": "_notes/Retour dans le game ou aller simple vers le meta-game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_notes/Créer un système de connaissance coopératif.md",
-    "_notes/emergence d'un structure logique utilisable.md",
-    "_notes/structurer un système d'information.md",
-    "_notes/Design Information Architecture.md",
-    "_notes/Designs.md",
-    "_pages/index.md",
-    "_notes/tout dans la vie est langage et conversation.md",
-    "_notes/décoder la vie.md",
-    "des assemblages à la symbiose projets.md",
-    "du système projet aux assemblages projets.md"
+    "Retour dans le game ou aller simple vers le meta-game.md",
+    "metagame.md",
+    "Untitled.md",
+    "Au-delà de la résilience.md",
+    "Régénératif.md",
+    "antifragile.md",
+    "la résilience.md",
+    "nos relations humaines sont comme les neurones.md",
+    "neuroscience.md",
+    "La fin du bullshit.md"
   ]
 }
