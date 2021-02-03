@@ -21,7 +21,8 @@ Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archip
 ### Approche locale.
 Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]]. Revenir au corps & aux savoirs ancestraux permet de renouer avec Soi pour nous ouvrir à  👉 [[Prendre soin du collectif]].
 
-### Autres explorations du moment.
+### Une sélection de ce qui pousse.
+- Je partage [[Ma vision du Design en 2021]]
 - C'est quoi ce site, c'est quoi un [[Jardin Numérique]]?
 - Est-ce qu'il est possible de [[décoder la vie]] ?
 

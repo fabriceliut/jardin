@@ -20,7 +20,7 @@ Pour commencer, Richard nous donnes les axes les plus important : devenir une en
 
 Les experts remarques ici les hypothèses de notre temps : c’est comme si le numérique était la solution en elle-même et pas simplement un outil, un moyen. En gros, ces lignes portent sur la mise en place de solutions, via la transformation digitale. Et pourtant, comme soulève Fanny, le numérique, c’est surtout une culture à part entière. C’est cette culture qui fait évoluer les groupes humains et leur manière de travailler, ce n’est pas l’outil numérique en soi. Hugo souligne également l’importance de ne pas s’enfermer dans l’outil ainsi que la dimension systémique de ce genre de transformation : il faut prendre en compte l’humain, l’état actuel de leur quotidien, leur environnement et leur contexte et avancer avec eux dans leur évolution.
 
-De plus, le groupe étant mondial, il regroupe plusieurs cultures différentes et plusieurs enseignes et donc autant de sous-cultures. Impossible alors d’écrire des stratégies descendantes qui vont coller à tout le monde : chaque pays et enseigne fonctionne à sa manière, **c’est un vrai [[Système Complexe]] à prendre en compte.**
+De plus, le groupe étant mondial, il regroupe plusieurs cultures différentes et plusieurs enseignes et donc autant de sous-cultures. Impossible alors d’écrire des stratégies descendantes qui vont coller à tout le monde : chaque pays et enseigne fonctionne à sa manière, **c’est un vrai [[système complexe]] à prendre en compte.**
 
 ### **Les recommandations.**
 

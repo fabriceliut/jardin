@@ -2,7 +2,7 @@
 title: complexité
 ---
 
-Concept qui articule l'étude des [[Système Complexe]] et proche de la [[pensée systémique]] par la [[pensée complexe]].
+Concept qui articule l'étude des [[système complexe]] et proche de la [[pensée systémique]] par la [[pensée complexe]].
 
 S'intéresser à la complexité peut tendre vers une ambition de [[décoder la vie]]...
 

@@ -8,7 +8,7 @@ Cela dit, si chaque individu fait sa veille dans son coin, il ne fait que traite
 **Un système de connaissance démarre au moment de la veille, de l'observation, de l'écoute du flux chaotique d'information auquel il est possible d'accéder au quotidien.** De cet océan de données il est possible de parcourir tout un processus coopératif de structuration et de reliance de ces informations pour en faire de la connaissance actionnable. 
 Grâce à cette connaissance en commun, il est possible de lire plus clairement les émergences, les besoins, les priorités pour [[Prendre soin du monde]] et donc, plus commercialement parlant, pour créer des offres & des projets adaptés à vendre. 
 
->Créer un système de connaissance coopératif c'est aussi créer les bonnes bases d'un incubateur de projets à impact grâce à la richesse de l'[[Intelligence Collective]] d'un groupe comme [[Archipel Kyosei]] par exemple.
+>Créer un système de connaissance coopératif c'est aussi créer les bonnes bases d'un incubateur de projets à impact grâce à la richesse de l'[[intelligence collective]] d'un groupe comme [[Archipel Kyosei]] par exemple.
 
 # Etapes de création du système.
 - [[tout commence par la veille]]

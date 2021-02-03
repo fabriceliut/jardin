@@ -1,5 +1,5 @@
 ---
-title: Système Complexe
+title: système complexe
 ---
 
 Lié à [[pensée systémique]]
