@@ -2,9 +2,7 @@
 title: Ma vision du Design en 2021
 ---
 
-Je me dis actuellement acteur du [[Design Systémique]] et du [[Design Régénératif]].
-
-> Mais qu'est-ce que veulent dire ces termes associés ensemble pour une vision complète du Design ?
+Je me dis actuellement acteur du [[Design Systémique]] et du [[Design Régénératif]]. Mais qu'est-ce que veulent dire ces termes associés ensemble pour une vision complète du Design ?
 
 **Je vais vous l'exposer dans cet essai**. C'est pour moi la mise à jour nécessaire du Design pour 2021 en 4 points :
 
