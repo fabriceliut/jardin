@@ -79,4 +79,4 @@ Le Design en 2021 cherche sincèrement à renouer avec ce qui fait de nous des "
 
 ---
 ### Pour aller plus loin ?
-*Je vous invite à [me contacter](https://www.liut.me/contact) directement pour en parler, mêler nos réflexions et recherches. Je vous invite aussi à suivre ma lettre numérique & à découvrir ma plus grande exploration du moment, mon écosystème vivant et complexe, [[Archipel Kyosei]].*
+*Je vous invite à [me contacter](https://www.liut.me/contact) directement pour en parler, mêler nos réflexions et recherches. Je vous invite aussi à suivre [ma lettre numérique](https://liut.substack.com) & à découvrir ma plus grande exploration du moment, mon écosystème vivant et complexe, [[Archipel Kyosei]].*
