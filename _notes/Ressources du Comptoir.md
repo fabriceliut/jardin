@@ -18,7 +18,7 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 
 *Outils de représentation systémique et d’appréhension de la complexité.*
 
-- [[pensée systémique]], Design & Facilitation sur [Liut.design](https://medium.com/liut-design)
+- [[pensée systémique]], Design & [[Facilitation]] sur [Liut.design](https://medium.com/liut-design)
 - Comprendre les [[Designs]]
 - [Complexus](http://complexus.fr/), pleins de ressources pour appréhender la complexité
 - [Disruptive design](https://medium.com/disruptive-design), quelques articles pour comprendre le [[Design Systémique]]
@@ -30,7 +30,7 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 - [Un podcast en français](https://activer-economie-circulaire.com/) pour comprendre et activer l’économie et l’approche circulaire. (proposé par Circulab)
 - Sortir du business linéaire & basculer en business circulaire, [avec comme outil pratique le business Canvas circulaire](https://circulab.com/toolbox-circular-economy/circular-canvas-regenerative-business-models/) de Circulab.
 
-## Facilitation & Design Sprint.
+## [[Facilitation]] & Design Sprint.
 
 - [Sprint](https://www.thesprintbook.com/) by Jake Knapp
 - Design sprint francophone, [cas d’études et ressources](https://medium.com/a-road-to-design)

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/intelligence collective.md",
+            "file": "_notes/Conception design.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "créer un système",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +69,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/intelligence collective.md",
+                "file": "_notes/Conception design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -96,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "intelligence collective.md",
-    "écologie.md",
-    "anthropocène.md",
+    "Untitled.md",
+    "Automatisation.md",
+    "_notes/Les services de Archipel Kyosei.md",
+    "_notes/Facilitation.md",
+    "Design Sprint.md",
+    "Facilitation.md",
+    "_notes/Design Systémique.md",
     "_notes/Ma vision du Design en 2021.md",
-    "_pages/index.md",
-    "_pages/about.md",
-    "Ma vision du Design en 2021.md",
-    "Intelligence Collective.md",
-    "_notes/Système Complexe.md",
-    "_notes/Pensée systémique.md"
+    "_notes/anthropocène.md",
+    "_notes/Prendre soin du monde.md"
   ]
 }

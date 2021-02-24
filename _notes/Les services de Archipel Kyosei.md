@@ -25,7 +25,7 @@ L’homme est un animal social. Pour cette raison, il est nécessaire d’utilis
 - Ethnographie
 - Psychologie
 
-## Facilitation.
+## [[Facilitation]].
 
 La collaboration n’est pas chose facile. Pour cette raison, il faut faciliter les ateliers et actions collaboratives. Le facilitateur apporte sa boîte à outils et ses méthodes pour permettre au groupe d’avancer, créer et décider ensemble.
 
@@ -76,7 +76,7 @@ Souvent, c’est d’un point de vue individuel qu’il faut commencer une trans
 Le numérique est un outil majeur de notre époque. Avec les connaissances technologiques, il est possible de déléguer à la machine et ainsi d’en faire un allié. Notamment en automatisant certaines tâches mais également pour structurer l’information autrement *(décentralisation, AI, etc…)*
 
 - Système d'information complexe
-- Automatisation
+- [[Automatisation]]
 - Bonnes pratiques numériques
 
 ## Curiosité & Inspiration.
