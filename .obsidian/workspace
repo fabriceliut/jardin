@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Conception design.md",
+            "file": "_pages/about.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Conception design.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/about.md",
+    "{{page.image}}.md",
+    "_notes/Conception design.md",
     "Untitled.md",
     "Automatisation.md",
     "_notes/Les services de Archipel Kyosei.md",
     "_notes/Facilitation.md",
     "Design Sprint.md",
     "Facilitation.md",
-    "_notes/Design Systémique.md",
-    "_notes/Ma vision du Design en 2021.md",
-    "_notes/anthropocène.md",
-    "_notes/Prendre soin du monde.md"
+    "_notes/Design Systémique.md"
   ]
 }
