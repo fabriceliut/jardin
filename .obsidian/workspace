@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/about.md",
+            "file": "_notes/Formation à la créativité.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_notes/Formation à la créativité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Formation à la créativité.md",
+    "La Créativité.md",
+    "_notes/2 courants Yin et Yang.md",
+    "Untitled.md",
+    "_notes/Au-delà de la résilience.md",
+    "_notes/Approche du Comptoir.md",
+    "_notes/antifragile.md",
     "_pages/about.md",
     "{{page.image}}.md",
-    "_notes/Conception design.md",
-    "Untitled.md",
-    "Automatisation.md",
-    "_notes/Les services de Archipel Kyosei.md",
-    "_notes/Facilitation.md",
-    "Design Sprint.md",
-    "Facilitation.md",
-    "_notes/Design Systémique.md"
+    "_notes/Conception design.md"
   ]
 }
