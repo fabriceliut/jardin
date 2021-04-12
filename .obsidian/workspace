@@ -6,11 +6,10 @@
       {
         "id": "073735aca94a89ea",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Formation à la créativité.md",
+            "file": "_notes/_daily/2021-04-03.md",
             "mode": "preview"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Formation à la créativité.md",
+                "file": "_notes/_daily/2021-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -95,16 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
+  "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/_daily/2021-04-03.md",
+    "_notes/_daily/2021-04-12.md",
+    "2020-11-04.md",
+    "_notes/_daily/Rêves.md",
+    "_notes/_daily/2021-03-08.md",
+    "_notes/_daily/2020-06-12.md",
+    "_notes/Formation à la créativité.md",
     "Formation à la créativité.md",
     "La Créativité.md",
-    "_notes/2 courants Yin et Yang.md",
-    "Untitled.md",
-    "_notes/Au-delà de la résilience.md",
-    "_notes/Approche du Comptoir.md",
-    "_notes/antifragile.md",
-    "_pages/about.md",
-    "{{page.image}}.md",
-    "_notes/Conception design.md"
+    "_notes/2 courants Yin et Yang.md"
   ]
 }

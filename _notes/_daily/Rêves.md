@@ -1,3 +1,16 @@
+[[2020-11-04]]
+Rêve buggé avec des boucles, tout se mélange et se croise, je chute entre les dimensions sans fixation possible jusqu'à m'arrêter comme atterrir à un certain "niveau".
+
+> Coucou Fab, à dada ! J'entends comme si c'était Loé ou ma soeur. 
+
+Boucle avec une image de part de gâteau de la taille de la boucle qui se réduit au fur et à mesure que la boucle se réduit aussi genre 
+
+> coucou à dada, à dada, dada, da da d d...
+
+---
+
+J'ai vraiment gardé comme un sentiment de "bug" dans mon rêve comme si ma pensée était cassée, plus rien de fluide et plus possible de fixer clairement quoi que ce soit. Vraiment perturbant quand j'imagine que ça peut-être ça la folie : comme si notre capteur de la réalité et notre analyste ne fonctionnait plus bien et ne rendait alors que du chaos et du bug inutilisable.
+
 [[2020-07-04]]
 	La vie d’un mec malade dans le futur mais ce n’est pas la seule vie il y en a d’autres qu’on peut syncro en même temps et je crois j’en suncronisait 4 juste avant de me réveiller, sensation très forte à la poitrine et ça demande un effort pour y arriver. 
 	Un monde futuriste, un naturel du futur avec des chants et des véhicules volants, très massif. 
