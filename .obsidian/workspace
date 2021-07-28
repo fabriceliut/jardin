@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Au-delà de la résilience.md",
+            "file": "_pages/index.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Au-delà de la résilience.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_pages/about.md",
+    "_notes/_daily/Evolutions du jardin numérique.md",
+    "_notes/2 courants Yin et Yang.md",
+    "_notes/_daily/2021-07-28.md",
     "_notes/Au-delà de la résilience.md",
     "_notes/Archipel Kyosei.md",
     "_notes/Approche du Comptoir.md",
     "_notes/antifragile.md",
-    "_notes/anthropocène.md",
-    "_notes/2 courants Yin et Yang.md",
-    "_notes/_daily/2020-06-12.md",
-    "_notes/_daily/2020-07-24.md",
-    "_notes/_daily/2021-07-06.md",
-    "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md"
+    "_notes/anthropocène.md"
   ]
 }
