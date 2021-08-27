@@ -1,0 +1,1009 @@
+# Introduction
+## Qu'est-ce qu'une approche territoriale ?
+L’idée est de se positionner du point de vue du territoire pour faire en sorte de bien comprendre ses besoins et ainsi les besoins systémiques de ses différentes parties.
+
+## Pourquoi une approche territoriale ?
+C’est la solution pour s’assurer un réel co-développement du territoire, mêlant ainsi les enjeux économiques, politiques, écologiques et sociaux.
+C’est la solution pour s’assurer d’une bonne intégration de l’acteur énergie sur le long terme, en totale synergie avec les autres enjeux du territoire.
+
+> Cette approche participe directement à revitaliser et régénérer un territoire.
+
+## Voici un guide pour faciliter ces nouvelles approches
+
+### Une démarche systémique
+L’approche territoriale est une démarche complexe mêlant de multiples dimensions et parties prenants.
+Il est donc nécessaire de voir le territoire comme un système où tout est lié : tout est en interaction et chaque action vient forcément impacter par répercussions les autres parties du système :
+
+- Un choix politique vient impacter les acteurs producteurs et économiques
+- Un choix de législation vient changer le cadre de contrainte
+- Une implantation photovoltaïque vient impacter le paysage, l’acceptation sociale, etc.
+
+### Un premier plan d'action linéaire pour guider la compréhension
+Pour guider dans le temps le développement de l’approche il est possible d’en définir les grandes étapes ainsi que les outils et méthodes pour faciliter et accompagner le travail de l’équipe.
+
+### Plan de chaque chapitre
+- Les objectifs et éléments de l’étape
+- Les méthodes pour réaliser
+- Les postures à adopter
+- Les outils à utiliser
+
+Et pour rendre plus concret :
+- Exemples de ce qui a bien fonctionné
+- Exemple de ce qui n’a pas fonctionné et apprentissages
+
+Se lancer 🚀👇
+
+# Explorer le territoire
+MI-NOVEMBRE - MI-DÉCEMBRE
+
+## Objectifs et éléments - Les 4 axes d'explorations
+
+### L'espace physique & les usages
+Il s'agit de la géographie physique du territoire, la topographie, la population, l'occupation du sol : forêts, cultures, plan/cours d'eau, villes...
+
+**Connaître l'espace physique ainsi que la manière dont il est utilisé permet de déterminer un cadre de contrainte nécessaire à tout projet.**
+
+Permet en partie de répondre à la question : pourquoi choisir ce territoire ?
+
+### Recherche & découverte des acteurs du territoire & du système d'acteurs
+Repérer les acteurs essentiels du territoire (nom, structure d'appartenance, fonction, éventuellement leurs idées et positionnements autour de nos sujets).
+
+### Modéliser visuellement le système d'acteurs
+Pour en avoir soi-même une meilleure vision et compréhension et pouvoir présenter le travail effectué à des acteurs et discuter autour d'un socle commun.
+
+``[Remarque : un seul groupe a fait ce travail de modélisation (Piège), il faudrait leur demander si ça leur a apporté, on n'en a pas trop entendu parler...]``
+
+Permet de représenter les types de liens et relations, s'il y a des collaboration en cours ou des oppositions, etc...
+
+Permet ainsi de comprendre la dynamique du territoires
+
+**Permet de déterminer une nouvelle couche de contraintes pour le projet**
+
+**Système exemple**
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/TOugR4mD5U)
+https://go.stemic.app/maps/5c723050-3b73-42d8-bf99-8311e2180792
+
+### Enjeux & besoins identifiés par les responsables du territoire
+Des enjeux et besoins qui sont spécifiques au territoire, liés à son climat, sa géographie, sa biodiversité, ses activités économiques et culturelles, etc.
+
+`Exemples : le besoin de reconquête de terres agricoles et d'une irrigation adaptée et durable en Pays de Fayence, le retrait des aides ICHN (indemnité compensatoire de handicaps naturels) dans la Piège, la transition écologique, notamment la volonté de devenir TEPOS (Territoire à énergie positive) et la phytodépendance dans le Gers, la sécheresse dans l'Allier`
+
+Attention ici : ce sont très souvent les hypothèses  de points de vues isolés
+- Enjeux politiques
+- Enjeux sociaux
+- Enjeux économiques
+- Enjeux écologiques
+
+
+Dans notre étude, nous cherchons à "croiser" les enjeux pour déterminer une approche systémique du territoire incluant une redéfinition communes des enjeux et surtout une priorisation intelligente et justifiée.
+En effet, les acteurs politiques diront que leurs enjeux sont prioritaires comme les acteurs écologiques et économiques.
+La démarche de l'approche territoriale prend en compte la complexité et permet ainsi d'agir au plus juste des besoins du territoire.
+
+**Permet de déterminer une nouvelle couche de contraintes pour le projet**
+
+### Enjeux & besoins éco-systémiques
+Cette autre axe d'exploration permet de se libérer des enjeux hypothèses précédents et de repartir d'une observation neutre et nouvelle du territoire.
+En, effet, les hypothèses des acteurs actuels sont peut-être fausses si elles ne partent pas d'une réelle étude complexe et systémique.
+Quels sont les services dont l'écosystème a besoin ? Que l'écosystème peut apporter ?
+**Nous repartons du territoire comme un écosystème vivant** : de quoi a-t-il besoin pour être en pleine santé ? Qu'est-ce que les humains apportent actuellement qui va dans ce sens et au contraire, qu'est-ce que les actions humaines détériorent objectivement parlant ?
+
+Prendre en compte les "services" d'un territoire les organes nécessaires à son fonctionnement :
+- Approvisionnement en ressources
+Qu'est-ce que le territoire apporte comme service de production (boire, manger, social, air, etc...)
+
+- Régulation des flux et fluides
+régulations de la biodiversité (et notamment des pathogènes, nuisibles, prédateurs...), du climat, des usages, des inondations
+
+- Socio-culturel
+Quels services sociaux culturels produit ce territoire ? (tourisme, paysages...)
+
+- Soutien & maintien
+eau / air / terre (grand cycle de l'eau : protection des ressources en eau, gestion des inondations... ; cycle du carbone: forêt/prairie = puits de carbone)
+
+Quels sont les organes du territoire en santé et malades ? Quels organes semblent manquer ?
+
+### Créer une modélisation systémique du fonctionnement du territoire
+Comme on le ferait pour représenter le corps humain, le faire pour le territoire
+- Visualiser les éléments, les organes
+- Visualiser les flux et les interactions entre les éléments
+- Qualifier les parties en santé et les parties malades
+
+**Permet de déterminer une nouvelle couche de contraintes pour le projet**
+_L'exploration permet ainsi d'affiner au fur et à mesure la délimitation du champ disponible au projet_
+
+En croisant ces 4 couches d'études il est possible de déterminer avec précision le champ d'action possible et de prioriser les prochaines étapes.
+
+Voici quelques questions principales à se poser :
+
+- Quelles informations manquent ? Qui les détient ? Les rencontrer.
+- Quels acteurs semblent nécessaires pour le projet ? Avec qui se mettre en lien ? Qui mettre en lien ?
+- Est-ce que le projet peut effectivement apporter du soin au territoire ? Est-ce qu'il faut réviser le projet pour l'adapter ?
+
+---
+
+## Quelle méthode employer ?
+
+### Comment explorer le territoire ?
+
+- Outils online & réseaux sociaux
+En général les associations créent une page ou un groupe Facebook : C'est le bon réseau social pour découvrir les communautés d'acteurs locaux et citoyens engagés
+C'est espaces numériques permettent d'entrer directement en lien et de découvrir les acteurs "leaders", très souvent ceux qui créent les groupes et qui animent les communautés.
+Les mairies, les élus ou les entreprises locales sont très souvent au moins déclarées et à jour sur LinkedIn.
+Possible ainsi de découvrir les liens présents ou absents, facilite la cartographie des acteurs.
+Possible de les contacter directement pour le premier contact.
+
+- Interroger nos amis/collègues qui connaissent le territoire.
+Intégrer à l'équipe si possible un collaborateur qui est attaché à son territoire.
+
+``Exemple de Laurine dans la Piège : une collègue EDF R qui a plusieurs membres de sa familles agriculteurs dans la Piège. Elle connaît le territoire et certains acteurs et y a un attachement particulier. Elle a été ajoutée à l'équipe projet sur ce territoire.``
+
+Pour intégrer au mieux les collaborateurs EDFR, ne pas hésiter à envoyer des messages dans les réseaux interne : ce sont les premières personnes ressources.
+
+- Visite en physique
+Pour se rendre compte et s'ancré physiquement dans le territoire.
+Pour franchir une première étape avant d'aller rencontrer des acteurs, "lancer la machine".
+
+- Se répartir les tâches au sein de l'équipe projet.
+Qui fait quoi ? Suivant les facilités et les intérêts de chacun.
+Comment est-ce qu'on organise notre temps suivant les dispos de chacun ?
+Très important de placer des temps de travail "synchrone" ou en commun comme des rituels nécessaire au bon travail 'équipe.
+
+- Enregistrer et se partager l'information efficacement
+Mettre en place un [[Système de connaissances]] support du projet.
+Créer des fiches pour les 4 axes d'explorations du territoire.
+Créer une base de contacts en commun.
+Créer une base de documents en commun.
+Les compte rendus de réunions.
+Les comptes rendus des rencontres avec les acteurs locaux.
+Les synthèses de documents d'études antérieures.
+
+### Comment initier les premières rencontres avec les acteurs locaux ?
+- Découvrir les acteurs majeurs
+Comme vu précédemment, ils sont accessible via les organigrammes politiques, LinkedIn, des groupes Facebook...
+
+- Prendre les premiers RDV
+Même si on ne sait pas tout du territoire ! C'est normal et c'est aussi à ça que servent les rdv avec les acteurs.
+_Donc il faut se lancer_
+Le Principe du premier RDV est une rencontre d'ECOUTE : vous ne connaissez pas le territoire alors vous venez écouter ceux qui le connaissent pour le découvrir, sous tous les angles.
+Vous captez autant d'informations que vous pouvez pour venir nourrir votre compréhension du territoire et construire plus en détail votre [[Système de connaissances]].
+
+- Faciliter les rebonds vers de nouveaux acteurs.
+Les premiers RDV sont les premiers liens avec le territoire.
+Profitez de ces premières interactions pour demander d'autres contacts et ainsi ouvrir sur d'autres liens.
+
+_Qui est-ce qu'on doit absolument rencontrer ?_
+_Qui est pour vous un acteur majeur de votre territoire ? Qui est engagé ?_
+_Qui pourrait nous donner le plus d'information sur tout ce qu'il se passe sur le territoire ? Sur les besoins des différentes populations ?_
+
+Préparer le discours (éléments de langage surtout) et les questions à poser.
+
+`Exemple avec l'équipe Pays de Fayence : lors d'un point, on s'est entraînés en vue de notre première prise de rdv par téléphone`
+
+Chaque profile d'acteur du territoire porte sa propre culture, son propre vocabulaire, ses propres objectifs et attentes : à vous de vous adapter au mieux à chaque profile pour faciliter le lien, la confiance et l'intérêt.
+
+*Est-ce que l'acteur à une vision plutôt MACRO ou MICRO du territoire ? Est-ce qu'il est plutôt CONCRET ou abstrait ?*
+
+Par exemple, un acteur politique élu de com-com n'a pas les mêmes codes et comportement qu'un agriculteur ou qu'un citoyen engagé dans une association.
+
+Ne pas hésiter à prendre des RDV avec des acteurs qui semblent réfractaires !
+En effet, ils font partie intégrante du territoire et donc, il vont vous proposer un point de vue sur le territoire nécessaire à l'étude.
+
+**Durant cette étape, vous êtes juste en exploration, vous n'avez rien à proposer**. C'est donc l'opportunité idéale pour tout écouter sans subir de jugement de votre interlocuteur.
+
+_"Nous n'avons rien à "vendre" : nous sommes déjà simplement là pour écouter et comprendre avant de nous mêler de quoi que ce soit"._
+
+_"Justement, notre démarche est faite pour respecter à 100% ce qu'il se passe déjà sur votre territoire !"_
+
+---
+
+## Quelle posture adopter ?
+
+- Écoute
+Exactement à la manière d'un psychologue, d'un thérapeute, d'un coach... Tout commence  par l'écoute et poser des questions : principe de [[Dialectique]].
+
+Exemple pour guider la conversation :
+
+_"Nous avons cru comprendre qu'il y avait tels et tels enjeux sur votre territoire, qu'en pensez-vous ?"_
+_"Pouvez vous nous donner un maximum de détail sur votre territoire, de votre point de vue ?"_
+_"Nous avons vraiment besoin de votre regard sur le territoire et de votre expérience pour affiner notre lecture"_
+_"Qui est-ce qui pourrait compléter vos apports, avec un regard complémentaire voir différent ?"_
+
+- Enlever sa casquette ``_EDFR_`` pour être un explorateur "global".
+Pendant l'exploration vous êtes simplement des "chercheurs" ou des "curieux" qui voulez tout comprendre et ne passer à côté de rien.
+Ce n'est pas encore le moment de parler de ce que vous pouvez apporter
+Il faut voir cette phase comme un diagnostic, une démarche pour détecter des "troues dans la raquette" du territoire, les besoins que vous pourriez adresser par la suite
+
+- Support
+Déjà réfléchir à ce qu'on peut apporter au territoire, en se mettant à la place du territoire (empathie).
+Essayez de voir le territoire comme un être vivant à part entière !
+Les différents points de vues, les différents acteurs sont comme les "organes" du territoire : vous avez besoin de tous les écouter pour comprendre ce qu'il se passe de manière complète et systémique.
+
+Vous pouvez "sentir" quand vous commencez à bien connaître le territoire : s'il reste des zones de flous c'est que l'exploration n'est pas encore terminée !
+
+---
+
+## Quels outils & ressources utiliser ?
+[[Recherche design terrain]]
+[[Cartographie de réseaux]]
+Détecter les besoins & usages
+Construire un #[[Système de connaissances]]
+
+---
+
+## Quelques points d'attentions sur cette phase
+
+### Prendre le temps de l'exploration avant d'initier les coopérations
+EDF R a essayé de se rendre désirable à ce stade alors que si on suit la logique territoriale, c'est trop tôt.
+La phase d'exploration est une phase nécessairement neutre : rien à placer, rien à vendre et celui qui mène l'étude n'a pas d'intérêt autre que l'étude et la compréhension.
+C'est une posture nécessaire pour rester dans l'écoute, dans l'ouverture et ne pas biaiser ou orienter les constats et les apprentissages.
+De plus, la phase exploratoire est aussi la première occasion de tisser les liens et de se mettre en coopération. Il est donc judicieux d'avancer pas à pas.
+
+_Je m'intéresse à l'autre, je l'écoute_
+_Je lui fait comprendre que j'ai besoin de lui et qu'il a aussi besoin des autres pour bien adresser ses besoins et ceux du territoire_
+_Je lui fait comprendre que je suis forcément de son côté car dans une approche par le territoire il n'y a pas d'opposition d'intérêt, tout est dans la recherche des croisements_
+_Je travaille la relation pour qu'il puisse me faire confiance, d'humain à humain_
+
+Dans l'exploration, sortir du sujet principal d'approche et des intérêts propres
+La posture du chercheur ou de l'explorateur n'est pas la posture du commercial.
+Il cherche pour comprendre, il explore pour capter de l'information seulement dans l'intérêt de construire de la connaissance en commun.
+Il crée la confiance par le fait qu'il est sincèrement neutre dans un premier temps : il n'a rien à vendre, il est là pour collecter et apprendre.
+**Seulement quand il y a confiance** il peut y avoir une proposition des intérêts de l'explorateur qui change alors de posture. C'est à ce moment précis qu'on change de phase de travail, de l'exploration à la mise en coopération.
+
+Voir 👉 [[Initier les coopérations]]
+
+---
+
+## En synthèse : quels acquis à l'issue de cette phase ?
+- Des connaissances sur le territoire : sur l'espace physique et les usages, le système d'acteurs, les besoins et enjeux et les services écosystémiques
+- Une visualisation claire et précise du territoire
+- La cartographie devient un objet de travail commun et de co-construction du territoire
+Une compréhension fine des réels besoins du territoire
+- Une compréhension fine des liens et impacts des enjeux entre-eux : **une compréhension systémique du territoire**
+
+---
+
+### Exemples & cas d'études
+4 catégories d'acteurs avaient été identifiées en amont par le GT de Terre & Lumière :
+- Les exploitants agricoles
+- Les collectivités territoriales
+- Les syndicats et chambres d'agriculture
+- Les acteurs économiques (comme les coopératives agricoles) qui peuvent constituer des partenaires distributeurs (allant "distribuer" notre offre autour d'eux)
+
+1 exemple d'étude éco-systémique d'un territoire 👇
+
+``Exemple en Pays de Fayence :``
+``Services d'approvisionnement :``
+``- Filière agricole ⇒ alimentation locale, parfums``
+``- Filière sylvicole ⇒ bois énergie``
+``Services de régulation :``
+
+``- Régulation des inondations (compétence GEMAPI de la CCPF): enjeux sur l'irrigation, le bon état des cours d'eau, les secteurs d'expansion des crues...``
+``- Régulation des pathogènes/espèces invasives: espèces exotiques envahissantes? Nuisibles pour les cultures/Prédation pour les troupeaux (sangliers, loup,...)``
+``- Régulation du climat: enjeux sécheresse, risque incendie (défense forestière grâce aux surfaces agricoles et pastoralisme), inondations, émission de CO2 (tout voiture dans la CC)...``
+
+``Services socioculturels :``
+
+``- Tourisme nature: randonnée, balade vtt/cheval, véloroute``
+``- Tourisme gastronomique: producteurs locaux, marchés, vente en circuits courts...``
+``- Agritourisme: cave, chambres d'hôtes, projets pédagogiques``
+``- Paysages remarquables``
+
+``Services de soutien :``
+
+``- Grand cycle de l'eau: protection des ressources en eau, gestion des inondations...``
+``- Cycle du carbone: forêt/prairie = puits de carbone``
+
+---
+
+
+# Initier les coopérations
+==MI-DÉCEMBRE - DÉBUT AVRIL==
+
+**A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de votre analyse collective via 👉 [[Explorer le territoire]] , vous allez tester des idées auprès d'eux et imaginez ensemble, dans l'intérêt du territoire les synergies possibles. Et si ...?**
+
+## Objectifs et éléments
+### Proposer des temps de rencontre
+Maintenant que vous disposez d'une Cartographie des acteurs et d'un minimum de qualifications vous pouvez vous lancer dans la prise de RDV
+Proposer des temps
+### Identifier les besoins et enjeux du territoire et de ses acteurs
+Durant ces rencontres vous allez pouvoir partager votre vision du territoire et de ses besoins
+Chaque acteur va venir compléter votre compréhension voir remettre en questions certaines hypothèses : et tant mieux ! Vous aurez ainsi une conscience de plus en plus précise du territoire, de sa diversité et donc de comment approcher ses parties pour répondre à leurs besoins et lever leurs freins
+Par la multiplication des coopérations, vous multipliez les croisements des points de vues et des approches du territoire : vous êtes en train de créer une conscience plus complète du territoire qui sera riche et utile à tous !
+### Découvrir les synergies possibles entre acteurs
+Via la cartographie des jeux d'acteurs que vous allez pouvoir continuer de compléter au fur et à mesure de vos rencontres, vous allez détecter de plus en plus finement :
+Les liens manquants entre les acteurs à activer : les rencontres à créer
+Les liens bloquants, fragiles, freins : des coopérations à installer et des relations à restaurer
+Les liens de causes et d'effet, entre les acteurs, entre les secteurs, entre les projets du territoire
+Avec une lecture visuelle de plus en plus complète du territoire il va vous paraitre évident de faire se rencontrer certains acteurs, de mêler certains projets entre eux
+!((2b464848-d446-43a1-b9f2-cf377723e21e))
+Les agriculteurs avec les associations de néo-ruraux
+Les acteurs politiques avec les acteurs privés et économiques
+etc...
+### Découvrir les jeux d'acteurs
+Durant cette phase de rencontres, vous allez aussi découvrir les acteurs du territoire qui ne se connaissent pas mais aussi ceux qui ne veulent pas se connaitre ou qui ne veulent pas ou plus se voir !
+Vous allez pouvoir qualifier les liens de votre cartographie
+Lien actif / inactif
+Lien de coopération / d'opposition / de concurrence
+Vous allez vous rendre compte des "jeux de relations" entre les acteurs
+Jeux d'Egos
+Jeux de pouvoirs
+Jeux de concurrence économique et d'intérêt
+Jeux d'oppositions philosophiques
+Jeux de cultures - vision du monde, biais cognitifs, langages utilisés, etc.
+Certains acteurs ne se connaissent pas et certains acteurs n'arrivent pas à se connaître car n'arrivent pas à communiquer
+Vous portez une posture d'initiation des coopérations, une posture de facilitation des relations
+Vous pouvez traduire les langages, les points de culture
+Vous apportez un regard et une oreille neutre et extérieure
+### Identifier les alliés au projet
+(et plus largement les positionnements sociodynamiques, voir 👉 [[Sociodynamique]])
+**Les alliés représentent les coopérations évidentes et facile à créer**
+Même vision, langage commun, intention commune, rythme commun
+En terme d'énergie, c'est très important de commencer à tisser les coopérations avec des alliés
+C'est plus rapide et ça permet de tisser un premier réseau proche
+Plus ce réseau s'étend, plus il devient rassurant pour des cercles plus éloignés : cela facilite donc les coopérations plus difficiles de premier abord
+### Faire grandir le nombre d'alliés
+voir la [[Sociodynamique]] et l' [[Actionnement]]
+Plus vous avez d'alliés plus vous réduisez le nombre de réfractaires et d'opposants
+Au début d'un projet en général la majorité des acteurs ne sont ni alliés ni opposants mais hésitants. Tout l'enjeu est là : il s'agit de les amener à s'engager en faveur du projet plutôt que de laisser les opposants les rallier à leur cause, ce qui se passe naturellement si l'on n'intervient pas dans le jeu naturel.
+Le fait d'étendre votre réseau va tisser des liens avec des acteurs hésitants ou appartenant à des réseaux opposants
+Le message va passer et être traduit par des acteurs plus proches de ces réfractaires et donc plus rassurants pour eux que si le message venait de vous
+Ces acteurs "sur le pont" faciliteront la mise en lien et la coopération avec les acteurs les plus éloignés de prime abord
+Ainsi, plutôt que de chercher à argumenter et convaincre des réfractaires à un projet il est plus intéressant et économique en énergie de faire grandir le réseau d'alliés qui va permettre de créer les connexions naturellement avec des réseaux plus éloignés et donc ouvrir la démarche et l'approche à toute la diversité du territoire
+ATTENTION : dans une démarche d'approche territoriale et d'initiation des coopérations il est contre productif de "fuir" les réfractaires ou de volontairement les "oublier"
+Il vont forcément se manifester à un moment ultérieur du projet, parfois trop tard !
+S'ils se manifestent tôt, ils seront alors à intégrer tôt dans la démarche de coopération
+Il y a alors une posture d'ouverture et d'écoute à adopter pour intégrer leur point de vue dans la connaissance du territoire
+### Identifier le projet à co-construire
+Le projet commun est fait des projets de chacun des types d'acteurs
+Rendre concret ce projet demande donc un gros travail de synthèse et d'écriture
+Le projet commun est une synergie des projets de chacun
+C'est souvent une "raison d'être" commune, une "intention" partagée, une ambition pour le territoire
+C'est un projet plus "macro" que les projets individuels
+!((feeac10e-359b-4df1-9bb5-b4d1a07333bb))
+_Prendre soin du territoire_
+_Régénérer ou ressourcer le territoire_
+_Faire du territoire un territoire vivant et dynamique_
+### Faire le point pour synthétiser son avancée et envisager clairement la suite et une stratégie commune
+C'est le moment de s'assurer que l'écriture du projet commun est "incarnée" par tous les acteurs alliés dans le projet et permet d'intégrer les besoins de ceux qui ne sont pas encore dans le cercle des alliés
+Besoin de considérer tout le monde pour permettre une approche territoriale comme un "corps commun"
+Si l'écriture est validée, il y a compréhension et accord commun sur :
+L'intention du projet
+La vision moyen et long terme
+Les synergies entre les projets individuels qui permettent de mettre en action une dynamique commune, dans l'intérêt de tous et du territoire
+A cette étape, ce n'est encore que de l'écriture pour soumettre votre lecture du projet du territoire commun possible : c'est une proposition et aucunement un engagement des parties prenantes
+Nous sommes seulement à l'étape qui consiste à tisser les coopérations, à permettre à chacun de repérer les liens et d'avoir envie d'agir ensemble : à co-construire le territoire !
+---
+## Quelle méthode employer ?
+### Détection des liens à activer grâce à la [[Sociodynamique]]
+### Actionner les alliés
+Pour qu'ils nous mettent en contact avec d'autres acteurs
+Les premiers alliés sont le cercle 1 qui va permettre de tisser avec un cercle 2 et ainsi de suite
+Pour qu'ils amènent d'autres acteurs à devenir alliés
+En parlant au cercle 2 avec leur propre langage, vocabulaire, culture et compréhension du projet, il vont faciliter la mise en lien avec des acteurs plus éloignés du projet commun
+Pour qu'ils commencent à participer aux travaux avec l'équipe projet : **initier l'envie de rentrer en co-construction d'un projet commun**
+### Mapping des jeux d'acteurs
+Passe par un type de [[Cartographie de réseaux]] précise
+Utile pour acquérir une meilleure compréhension des jeux d'acteurs, par la visualisation
+### Réfléchir en groupe à différentes caractéristiques du projet
+(synthèse des infos principales sur le territoire, personnes rencontrées, hypothèses à valider, stratégie et prochaines actions... ``_cf les 9 cases_``)
+!((0b44e63c-aa55-45ae-a5d8-a49ba3c5c47c))
+Pour : faire le point, synthétiser son avancée et envisager clairement la suite de sa stratégie
+Avant d'activer la co-construction, il est nécessaire de s'assurer de :
+L'alignement de l'équipe projet sur sa vision et compréhension du territoire
+_Est-ce qu'on dispose de toutes les informations pour lever la plupart des hypothèses ? Est-ce qu'on commence à "voir et ressentir" le territoire ?_
+_Est-ce qu'il faut continuer à explorer, rencontrer et tisser des liens ?_
+_Est-ce qu'on peut accéder à suffisamment d'alliés prêts à passer à l'action ?_
+_Est-ce qu'on est conscient des réfractaires et d'une forme d'opposition ? Est-ce qu'on les intègre bien dans notre "corps" territoire ?_
+---
+## Quelle posture adopter ?
+Écoute
+Toujours partir de l'expression des besoins de l'interlocuteur et l'inviter à parler surtout avec des questions ouvertes
+Se rendre "désirable" et "utile" au territoire
+L'approche de recherche et exploratoire permet de faire remonter beaucoup de connaissances ce qui est très utile à tous les acteurs du territoire
+Il faut cela dit bien le présenter : Notre projet principal est de comprendre le territoire et de le faire grâce à vous et avec vous. Voici ce que nous venons proposer dans un premier temps
+Ensuite seulement, s'il y a des acteurs qui ont besoin des apports d'une entreprise comme EDFR, indiquer qu'il est possible de les positionner
+Quand la confiance est installée et que tout le monde peut connaître les besoins de tout le monde il est normal d'installer les besoins de EDFR au même niveau que les besoins de tous le monde
+Il est possible qu'il y ait des territoires qui n'ont pas besoin, pour leur santé d'un acteur énergie dans un premier temps. Cela dit, cette information remonte normalement dans les premières étapes d'explorations, lorsqu'on vient choisir les territoires à aborder
+_Être désirable *ajouter un point d'attention pour préciser que la présentation de la démarche doit arriver plus tard, après un phase 100 % écoute et compréhension du territoire (question de Léa : pourtant s'ils avaient dit seulement bonjour on est EDFR et on veut vous écouter, les acteurs n'auraient-ils pas été trop méfiants ?!)_
+_Présenter la démarche, c'est un cadeau au territoire, on a choisi votre territoire, c'est une chance_
+_Se faire connaître_
+
+Être convaincu de la démarche que l'on porte 
+Se rappeler régulièrement pourquoi on le fait ``cf le _why_``
+``Le GT avait en amont pris du recul par rapport à leur métier chez EDF R : pourquoi travaillent-ils chez EDF R, quelles sont leurs motivations, leurs idéaux, que souhaitent-ils participer à accomplir, etc. ? Ils avaient abouti à une formulation de leur raison d'être : « Construire demain, valorisons ensemble les potentiels de votre territoire »``
+> Valoriser ensemble les besoins de NOS territoires
+Pour s'intégrer totalement dans le territoire, au même niveau que les autres acteurs
+Être en mouvement
+_Ne pas attendre la réponse d'un acteur, continuer à prendre d'autres rdv_
+_Idée du train en marche : les acteurs doivent comprendre que le train passe quoi qu'il arrive et que c'est à eux de voir s'il veulent monter maintenant, après ce sera trop tard_
+_Donc montrer qu'on avance, avec ou sans ceux qui hésitent_
+_Le mouvement vient des rebonds :  si ça bloque d'un côté ça peut rebondir d'un autre avec une bonne question, une bonne demande._
+Viser la relation "Je + / Tu +"
+Ne pas se dévaloriser aux yeux de l'autre ni dévaloriser l'autre.
+voir [[Les types de relation]]
+Viser le "ET" plutôt que le "OU"
+Dans une approche territoire comme dans toute démarche de coopération le ET remplace le OU : S'il y a OU c'est qu'il y a une question de plus à poser pour comprendre comment le convertir en ET et ainsi adresser les besoins des deux parties
+!((1bb3b467-4434-425d-82fa-d9f57282b2da))
+Garder le cap
+_Il peut arriver qu'un interlocuteur veuille que la démarche soit mise en place chez lui, sans attendre de co-construire quoi que ce soit. Il peut être tentant d'accepter, pour obtenir un résultat rapide et efficace, mais un résultat qui ne s'inscrit pas dans la démarche territoriale, ne répond pas aux enjeux du territoire et ne crée pas de lien entre ses habitants. Il faut donc savoir garder le cap et dire non._
+_Aller plus vite à un moment donné, aller à la facilité risque souvent de créer des frictions et des ralentissements plus tard : valoriser l'avancée en pas à pas et en conscience des impacts de chaque actions sur les liens et relations avec d'autres parties et acteurs du territoire._
+La [[Posture de leader]]
+---
+## Quels outils & ressources utiliser ?
+Apports de la [[Coopération]]
+Apports de la #Sociodynamique
+Apport de l'  #Actionnement
+Apports de la #[[posture facilitateur]]
+Apports de l' [[intelligence collective]]
+Apports du [[Design systémique]]
+Apports sur #[[Les types de relation]]
+Apports sur [[L'engagement]]
+Outil [[caneva 9 cases]]
+---
+## Quelques points d'attentions sur cette phase
+Les groupes n'ont pas utilisés les objets de visualisations et de simulations : ils sont restés sur la discussion et beaucoup d'échanges à l'oral
+``Aucun des groupes n'a utilisé une telle méthode. On a proposé d'utiliser Mactor mais c'est très chronophage``
+Dans la Piège par exemple, au premier RDV de co-construction, il a été demandé à plusieurs reprises par tous les acteurs présents de disposer d'un objet type cartographie pour pouvoir visualiser le territoire, discuter autour et se reposer sur la visualisation pour imaginer les choses à faire en commun
+---
+## En synthèse : quels acquis à l'issue de cette phase ?
+!((0559c1b7-8c5c-440c-9ae4-5ad81f59a4bf))
+À l'issue de cette phase, le groupe projet a une connaissance et une compréhension globale et relativement profonde du territoire, des acteurs et de leurs enjeux ainsi que des jeux d'acteurs. 
+La diversité des rencontres a permis de faire émerger un projet "macro" de territoire, qui met en synergie les besoins de chacun et qui fédère : l'écoute et l'échange ont instauré une confiance qui ont décidé une partie des hésitants à faire partie du projet. 
+Finalement, c'est même de l'envie qui a été créée, l'envie de participer à un projet commun, qui sort des façons de faire habituelles et qui est porteur de sens pour le collectif. 
+> « Quand est-ce que ça commence vraiment ?! »
+---
+## Exemples & cas d'études
+!((125492e8-3a15-41f7-823d-4a6cee7ee977))
+---
+
+👉 [[Activer la co-construction]]
+Activer la co-construction
+DÉBUT AVRIL - DÉBUT MAI
+
+## Objectifs et éléments
+### Réaliser un premier atelier de co-construction
+Symboliquement cet atelier est très important : il marque le lancement de cette nouvelle grande phase qui va être beaucoup plus concrète
+Pour cet atelier, inviter les différents alliés avec le plus de diversité de profiles et d'intérêts possible pour faire en sorte d'avoir autour de la table une vision à 360° du territoire
+Pour les invitations, rappeler le pourquoi et le comment
+Pour le projet commun d'approche du territoire
+Pour traiter vos enjeux propres également
+En facilitant les discussions entre les différents parties prenantes du territoire dans un temps commun de 2:00 max pour commencer
+Pour l'ordre du jour, rappeler les objectifs en sortie
+Les enjeux de tout le monde seront écoutés
+Un plan d'action commun sera déterminé, prenant en compte les besoins de chaque partie
+L'écriture du projet commun sera partagée et enrichie
+Des rôles de gouvernance seront partagés
+### Rentrer en #Coopération dans le mode projet
+Jusqu'alors les liens de coopération n'était pas activés dans l'action
+Désormais, avec un début de plan d'action est de rôles pris, les différentes parties prenantes vont rentrer dans le "mode projet" en totale coopération
+Respect des engagements de chacun
+Respect des intentions partagées et communes
+Respects des besoins des différentes parties prenantes et du territoire
+Toutes les parties prenantes, dans le développement de leurs propres projets, vont le faire en conscience des autres en "prenant soin"
+Tout le monde est partie d'un même "corps" territoire
+
+### La #Co-construction en pas à pas
+Durant la phase de co-construction, tous les acteurs du territoire rentrent vraiment dans un mode projet coopératif
+Ils mettent en place une [[Gouvernance projet]] pour installer des "rituels" de synchronisation et de mise à niveau en terme d'information des actions de chacun
+Ils mettent en place les rôles nécessaires au bon développement du projet de territoire
+Ils mettent en place les outils & ressources nécessaires au travail de chacun :
+#[[Système de connaissances]]
+Système numérique de gestion projet
+Système de communication
+Pour en continue tenir informé l'extérieur du groupe projet de ce qu'il se passe, semaines après semaines
+Système de Feedback
+Pour récolter en continue les retours, avis, apports d'autres acteurs qui ne sont pas encore actifs dans la gouvernance du projet
+C'est notamment la cellule d'écoute nécessaire pour inclure les premiers réfractaires ou opposants
+Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[La démarche itérative]] , en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs)
+
+### Structurer un groupe projet aux membres complémentaires
+La complémentarité s'exprime dans les compétences, l'accès à certaines ressources et informations, l'accès à certains pouvoir de décision, etc.
+Chaque partie prenante commence à bien connaître les autres et les synergies intéressantes à développer pour atteindre le plan d'action commun pour l'intérêt du territoire
+S'il manque des personnes ou parties ressources, il est nécessaire de relancer une phase d'exploration et de tisser de nouvelles coopérations
+Renforcer les alliés par les alliés déjà engagés
+### Aligner les intentions et les objectifs
+Est-ce que tout le monde est bien conscient des enjeux de chacun ?
+Est-ce que tout le monde est bien conscient des liens de causes à effets sur le territoire et des responsabilité de chacun ?
+Est-ce que tout le monde partage bien l'écriture commune du projet de territoire ? Est-ce que les intentions individuelles viennent rejoindre l'intention commune et la renforcer ?
+Est-ce que les objectifs sont bien clairs et partagés ? Est-ce que le plan d'action prend bien en compte les besoins de chacun, en terme d'actions et de délais ?
+### Faire émerger un projet CLAIR
+> Clair et concret
+Pour rentrer dans l'action, le groupe à besoin de pas à pas clairement définis et lisibles en contexte d'une stratégie commune
+Il est donc très important de tenir la #[[posture facilitateur]] pour synthétiser et clarifier les éléments du projet :
+Clarifier les intentions
+Clarifier les objectifs et la stratégie
+Clarifier les liens et synergies entre le projet commun et les projets de chacun
+Clarifier les liens entre les prochains petits pas et la vision commune du projet de territoire
+!((efaa9458-03ac-4a01-a25b-f781a0bd636c))
+### Répartir les rôles et les engagements
+En lien avec la mise en place d'une [[Gouvernance projet]]
+Chaque contributeur du projet du territoire est invité à prendre librement un ou plusieurs rôles nécessaires à la stratégie et aux objectifs définis ensemble
+Si chaque rôle est porté, les premiers pas concrets peuvent se mettre en place et le mode projet est activé !
+Il est bienvenu d'avoir un rôle garant de la mise en place de la gouvernance
+
+### Instaurer les bases d'une culture de l'agilité
+Les actions projet réalisées en cycles deviennent une culture et une base de fonctionnement du projet : c'est une culture de projet agile qui se met en place
+Cette culture va devenir de plus en plus naturelle et va pouvoir infuser dans la culture du territoire
+Cette culture de l'agilité participe au soin du territoire et à sa régénération : elle apporte une base de résilience et un fonctionnement plus organique et vivant que le fonctionnement actuel très solide, siloté et fait de toute la lourdeur de nos anciens systèmes hiérarchiques
+---
+## Quelle méthode employer ?
+### Pour placer le premier atelier et activer la co-construction
+**Fixer une date pour le premier atelier et lancer les invitations même s'il y a encore des incertitudes**
+Permet également de sceller les engagements des participants
+Invitations :
+objectifs de l'atelier
+durée (au moins estimative)
+travail à préparer s'il y a lieu
+date de réponse exigée
+donner envie en rappelant les apports pour les enjeux de chacun comme pour le territoire plus largement !
+**Choisir son rôle : animateur, acteur de la co-construction, les deux...?**
+Une personne peut prendre la [[posture facilitateur]] en assurant sa neutralité et le fait d'être au service du groupe sans intérêt propre à manifester
+Un personne dans le rôle d'acteur du territoire, totalement fondu dans le groupe à la co-construction, portant ses propre intérêt à intégrer aux enjeux communs
+**Prévoir le déroulé de l'atelier :**
+- Définir les objectifs de l'atelier
+``Synthèse des objectifs pour la première réunion de co-construction de chaque groupe :``
+``S'assurer que tout le monde ait une compréhension partagée de la démarche``
+``Identifier les enjeux de chaque partie prenante``
+``Établir les modalités de la co-construction (Qu'entend-on par co-construction, quelles actions doivent être faites par qui et pour quand, quelle prochaine date de réunion)``
+- Définir les séquences principales permettant d'atteindre ces objectifs
+- Définir les sous-séquences, leurs modalités d'animation et leur durée
+### Définir les premières actions communes
+L'écriture commune du projet de territoire définit la vision long terme pour l'évolution du territoire à co-construire
+Pour revenir au présent, le groupe décompose les différentes actions à mettre en place en les priorisant suivant les besoins de chacun et la stratégie et approche commune
+De ces priorisations il est possible de déterminer les prochains petit pas à activer directement en sortie de réunion
+Ces actions sont ensuite assignées aux différents rôles porteurs qui vont, en prenant le rôle s'engager à remplir ces actions et à apporter les rétributions associées / partager les feedbacks positifs comme négatifs.
+### Instaurer les bases de la [[Co-construction]]
+### Constituer une [[Gouvernance projet]]
+---
+## Quelle posture adopter ?
+#[[posture facilitateur]]
+---
+## Quels outils & ressources utiliser ?
+Les apports du [[Design thinking]] pour la préparation logique de la rencontre
+Détection et adresser des opportunités en commun
+Résoudre des problématiques par les usages
+Intégrer de multi-enjeux et les mettre en perspective d'un projet collectif
+[[L'engagement]]
+[[Actionnement]]
+---
+## Quelques points d'attentions sur cette phase
+Dans la Piège, il manquait un objet concret comme la cartographie pour faciliter la projection des membres du groupe
+Il manquait également quelques estimations chiffrées, quelques propositions de scénarios possible de co-construction à remettre en question
+L'idée de cette phase n'est pas d'entrer formellement et directement dans le travail projet et la co-construction MAIS de mettre en place toutes les bases qui vont être nécessaires au bon déroulement et à la bonne dynamique sur le moyen terme
+En sortie de cette activation, les bases doivent être en place pour le prochain RDV qui sera le premier RDV concret de travail en commun avec mise en place des premières actions et assignations aux rôles portés
+---
+## En synthèse : quels acquis à l'issue de cette phase ?
+!((791673ef-f317-42a1-aa40-ab9482004908))
+À l'issue de cette phase, la co-construction peut concrètement commencer car son cadre a été fixé. Le groupe projet a été déterminé et celui-ci a :
+- défini le projet commun de territoire
+- clarifié les besoins et enjeux des parties prenantes ainsi que leurs liens entre elles
+- identifié les objectifs à atteindre et la stratégie de co-construction à mettre en œuvre
+- décidé des outils et ressources à mobiliser
+- défini la gouvernance du projet
+A la fin du premier atelier de co-construction, chacun repart avec les idées claires sur son rôle au sein du groupe et sur la prochaine action qu'il doit mettre en œuvre avant la prochaine réunion, qui a été elle aussi fixée.
+---
+
+## Exemples & cas d'études
+Dans la Piège, la gouvernance partagée était très importante pour le président des com-com (et maire) - Il a donc pris le rôle de mise en place de la gouvernance dès le premier RDV de co-construction
+!((2439cafb-729f-4062-86e1-a8374a04ce58))
+- "C'était très important pour lui d'avoir une bonne définition de la gouvernance, ouverte, démocratique et inclusive.
+
+Positionnement des autres acteurs sur le sujet de la gouvernance : 
+
+- Les syndicats pourront être supports mais ne seront pas acteurs
+- Les membres présents étaient principalement en attente de "concret", c'est à dire de pouvoir visualiser et travailler ensemble sur une carte pour comprendre combien en taille, ou, et combien en économie crée - besoin de compter et de comprendre le deal envisagé
+    - Est-ce que alors ils seront prêts à prendre des rôle de eux-même ou à comprendre l'intérêt d'une gouvernance projet ? A voir..."
+---
+
+👉 #[[Basculer en mode projet]]
+Basculer en mode projet
+
+_(Phase en cours de lancement au 31 mai 2021 côté EDFR)_
+
+!((dc8f5843-7fdf-476d-aebe-a0f410284701))
+Suite à la phase d'activation de la co-construction, le projet commun commence à se dessiner mais encore seulement sur le papier.
+La complexité du territoire est devenu consciente : il est possible d'appréhender le territoire et de se rendre compte des impacts des choix sur d'autres parties du système
+La visualisation du territoire est partagée avec une partie de ses acteurs, les alliés, qui vont être les premiers engagés dans la dynamique du projet commun de territoire
+Le projet commun est en première écriture collective : les intentions, les envies, les enjeux sont partagés et les premières actions peuvent se déclencher !
+Il faut maintenant concrètement se lancer dans le projet ! Il faut se réunir et préciser les premières actions, les affecter aux différents rôles, ajuster la gouvernance, les priorités et les délais par rapport à une base de stratégie commune, suivant l'écriture du projet de territoire. !((274ac532-06d5-4a80-8ee4-1d1b21f4ce69))
+
+## Objectifs et éléments
+### Croiser les intérêts des acteurs du territoire
+Chaque allié connaît maintenant ses intérêts et le lien avec les intérêts et enjeux des autres : ils sont conscients de l'approche systémique à avoir sur le territoire pour agir dans l'intérêt du territoire en même temps que leurs intérêts propres
+**La question maintenant : comment faire en sorte que nos actions et nos projets individuels profitent à nos intérêts tout en profitant au projet commun du territoire ?**
+### Répondre aux besoins réels du territoire
+Les besoins réels du territoire sont au croisement des besoins de chacun : c'est une approche complexe mais nécessaire pour tenir un projet commun et des actions en équilibre et à toutes les échelles
+Impossible de déterminer un grand plan d'action sur le long terme : l'approche territoriale est faite de petit pas en petits pas
+Comment faire alors concernant des projets fonciers conséquents ? Comment construire un projet foncier autrement pour respecter cette nécessité des petits pas et impliquer les besoins de tous les acteurs à chaque évolutions du projet commun ?
+---
+## Quelle méthode employer ?
+### Réorientation & ré-alignement des équipes projet et des projets entre eux
+Via les rituels de synchronisations, les acteurs au fil du temps s'assurent que le projet garde son cap, tient la même intention commune, respecte les premières écritures et la raison d'être
+Si ce n'est pas le cas, il est prévu dans la gouvernance des rituels pour mettre à jour les fondations du projet, toujours en respectant les bases de la coopérations et de la co-construction
+Ces rituels permettent dans leur forme et dans leur fond de s'assurer semaine après semaine que l'engagement des acteurs est toujours au même niveau et que la dynamique est toujours partagée
+> C'est comme arroser un jardin collectif
+Il est donc très important de tenir la #[[posture facilitateur]] pour, en continu, synthétiser, clarifier et réécrire les éléments du projet :
+Réviser et clarifier les intentions
+Réviser et clarifier les objectifs et la stratégie
+Réviser et clarifier les liens et synergies entre le projet commun et les projets de chacun
+Réviser et clarifier les liens entre les prochains petits pas et la vision commune du projet de territoire
+Durant tout le développement du projet de territoire, chaque partie prenante doit pouvoir lire clairement le pourquoi et le comment de ce qu'il se passe et de ce qu'il va se passer pour ne pas perdre l'engagement et la cohérence de la démarche
+Nécessaire également pour que la communication autour du projet soit claire à l'extérieur et juste : pour éviter de créer des réfractaires juste par mauvaise information !
+C'est avec un projet clair et clairement communicable que le groupe pourra s'agrandir et que des passifs pourront devenir acteur du projet !
+
+### Co-apprentissage en continu, partage des retours d’expérimentations
+Bonnes pratiques pour fournir le système d'information
+Le travail et les apprentissages des uns vient enrichir le commun de connaissances apportant ainsi des ressources aux autres acteurs du projet commun
+> C'est une démarche de "Territoire apprenant"
+### Validation des apports des différents projets pour le territoire & les intérêts des différentes parties prenantes
+Durant le pas à pas de développement des projets formant le projet commun du territoire il y a des temps "rituels" d'écoute et de récolte des feedbacks quant à la bonne orientation des actions en cours ou s'il y a nécessité de réviser certaines actions, de réorienter le cap, etc.
+> Comme quand le jardinier vient observer son jardin et découvre s'il doit agir sur certaines zones et comment ?
+La démarche de co-construction est une démarche d'actions coopératives mais aussi une démarche d'observation et d'écoute en continu
+Chaque information peut inviter à réorienter des actions avant qu'il ne soit trop tard
+**Cette "culture" permet de développer une réelle résilience du projet de territoire**
+### Mettre en œuvre la démarche itérative
+Les actions définies en décomposant en étapes le projet long terme sont attribuées aux différents rôles. Autour son action, chacun s'engage à :
+Faire l'action
+Partager l'information à tous que c'est fait
+Partager s'il y a des feedbacks récoltés pendant la mise en place de l'action
+Des problèmes, des frictions
+Des bons retours, des avis positifs et encourageants
+Partage de qui est imaginé et nécessaire pour faire le pas suivant
+Récolter les apports des autres rôles et engager les étapes suivantes, en temps et en heure par rapport aux premiers pas des autres et aux informations récoltées
+C'est [[La démarche itérative]] en action : à chaque petite étape, il y a remise au commun et réajustement si nécessaire
+C'est aller moins vite mais plus loin ensemble
+C'est éviter d'accumuler des erreurs qui vont mener à un mur
+C'est garder le cap fixé par l'écriture du projet commun en accord avec les intentions du projet et de chacun
+
+
+### Conduire l'évolution d'un projet co-construit en toute agilité
+S'il y a progression en itérations, réajustements au fil des actions, réorientations quand nécessaire suivant ce qui est capté comme retours du territoire, il y a projet de territoire dynamique, agile et vivant.
+Au fur et à mesure du développement du projet de territoire, des alliés vont permettre d'intégrer de nouveaux acteurs qui vont eux-mêmes devenir des alliés et apporter leur projet au projet commun
+Ces nouveaux apports vont permettre d'avoir un projet de territoire encore plus complet bien que plus complexe
+C'est grâce à la conduite agile et résiliente en pas à pas du projet de territoire qu'il est possible d'avancer en acceptant une complexité grandissante
+L'évolution du projet de territoire en co-construction fait directement évoluer le territoire et tous les acteurs du territoire, même ceux qui ne sont pas engagés dans la dynamique
+Dans une approche systémique, toute action sur un système touche toutes les parties du système, rien n'est isolé, tout est lié
+
+## Quelle posture adopter ?
+Design thinking
+[[posture facilitateur]]
+Management de projet agile
+Leadership de la complexité
+---
+## Quels outils & ressources utiliser ?
+Apports du #[[Design systémique]] et des théories des systèmes complexes
+Utiliser le prototype projet
+[[La démarche itérative]]
+---
+## Quelques points d'attentions sur cette phase
+Nous sommes en dehors du cadre d'expérience de EDFR : c'est la prochaine étape à mettre en place !
+Les informations sont donc basées sur d'autres cas d'études et d'autres projets : il va falloir lancer ces premiers cycles sur les territoires en expérience pour valider cette partie du guide
+---
+## En synthèse : quels acquis à l'issue de cette phase ?
+!((55e5486d-e828-434e-ab41-1f2807653181))
+
+---
+
+## Exemples & cas d'études
+!((877491c6-df9e-4bc3-a53d-89e0539e7f4b))
+---
+
+👉 #[[Valider le premier cycle de co-construction]]
+Valider le premier cycle de co-construction
+
+## Objectifs et éléments
+!((3b1057b7-796b-4afa-a809-e33fe639375a))
+### Produire un nouvel état des lieux du territoire
+_quels sont déjà les impacts des actions de l'expérimentation sur le territoire ?_
+_Est-ce que le système a déjà bougé ou pas ?_
+### Produire un état des lieux par rapport aux objectifs stratégiques initiaux des parties prenantes
+
+### Go ou no Go sur le lancement d'un deuxième cycle
+L'entrée en phase 2, nouveau cycle, marque un GO sur la continuité du territoire, pour aller plus loin et continuer la co-construction
+S'il y a validation, il y a GO également sur l'intégration des apprentissages dans le guide commun d'approche territoriale ici présent
+Permet de faire évoluer le guide au fur et à mesure des développements des territoires pour en continu, le mettre à jour, l'ajuster et le fournir en exemples, en nouvelles ressources, outils, méthodes, etc...
+---
+### Quelle méthode employer ?
+Faire un état des lieux en #Co-construction
+Choisir en amont Les indicateurs qui permettront d'évaluer la démarche
+Évaluer l'approche régénérative _(Ouverture sur ces sujets qui n'ont pas été abordés mais qui sont importants : En conditions idéales, on devrait faire...)_
+Dimension écologique
+Dimension économique
+---
+### Quels outils & ressources utiliser ?
+Apports du #[[Design systémique]]
+Apports du #[[Design régénératif]]
+Apports du Business Design
+Apports de la documentation coopérative
+---
+### Quelques points d'attentions sur cette phase
+---
+### En synthèse : quels acquis à l'issue de cette phase ?
+---
+### Exemples & cas d'études
+...
+---
+
+👉 #[[Mettre à jour le guide d'essaimage]]
+Mettre à jour le guide d'essaimage
+
+### Objectifs et éléments
+Normaliser les apprentissages des territoires en expérimentation
+_Normaliser la phase exploratoire_
+Créer un « guide » narratif et médias pour permettre l'essaimage sur d'autres territoires
+_Créer un guide d'essaimage_
+_(recommandation)_ Mettre en place un comité de révision régulier de ce guide suivant le développement d'autres territoires
+_Faire évoluer un guide au fil des expérimentations_
+S'assurer de la bonne conduite des essaimages
+---
+### Quels outils & ressources utiliser ?
+Les apports du #storytelling
+Les apports de la documentation
+Les apports du Design graphique
+---
+### Quelle posture adopter ?
+Les apports du mentorat
+---
+### Quelques points d'attentions sur cette phase
+---
+### En synthèse : quels acquis à l'issue de cette phase ?
+---
+
+### Exemples & cas d'études
+...
+---
+
+👉 Retour à l' #Introduction
+👉 #[[Conclusion & remerciements]]
+Conclusion & remerciements
+### Vision philosophique de l'approche
+### Co-construire le monde de demain
+---
+Ouverture sur le Fabrice Liut de Fabrice Liut
+Les apports & cas d'étude de Neoz conseil
+---
+👉 Retour à #Introduction
+Design régénératif
+Biomimétisme et bio-inspiration
+
+Coopération
+- _3 à 5 slides GT de février_
+!((59092342-a746-48d9-95fc-a9754f9ba3a3))
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/5bJHJ1Nqa)
+L'approche doit être systémique (s'intéressant à un système plutôt qu'à une somme d'individus ou de projets) et prendre en compte les interactions entre les acteurs.
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/c_seFisy4) 
+L'un des prérequis à la coopération porte sur la prise de conscience que chaque interaction est une source de dilemme. Interagir, c’est accepter de déléguer à un autre une partie des décisions qui vont avoir de l’influence sur son propre destin. Un acteur n’accepte de coopérer que s’il a l’espoir d’une attitude coopérative en retour. Toute interaction génère simultanément trois sentiments d’intensité variable :
+-	une « peur » de la non-coopération de l’autre acteur, de sa trahison
+-	un « attrait » pour la coopération mutuelle qui permettrait d’atteindre les résultats positifs d’une interaction réussie
+-	une « tentation » d’utiliser la coopération de l’autre acteur pour son propre profit
+La situation est favorable à la coopération si les attraits sont majoritaires par rapports aux peurs et tentations.
+
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/ChqZgs1QL)
+Le champ des acteurs vers qui se tourner est souvent bien plus vaste que ce que l'on croit et il faut faire l'effort d'élargir sa vision.
+
+
+
+Il est nécessaire de bien faire la différence entre "coopération" et "collaboration"
+### La collaboration implique un lien qui s'est tissé entre 2 parties par intérêt
+Comme il y a intérêt, il y a des règles et très souvent contractualisation légale pour marquer un engagement
+Une collaboration peut impliquer de se lier pour se renforcer dans un contexte concurrentiel : il reste donc des opposants éventuels
+La collaboration recherche la complémentarité pour atteindre un but fixé mêlant les intérêts individuels
+### La coopération "émerge" plus naturellement et va plus en profondeur que les intérêts individuels
+C'est un mode de fonctionnement essentiel : s'il y a coopération il n'y a alors plus de concurrence possible
+Il est possible d'entrer en coopération avec n'importe qui : si l'on recherche la coopération on recherche à FAIRE et vivre ensemble
+Il y a sortie du mode de fonctionnement d'opposition et de concurrence : on rentre dans un autre paradigme plus complexe qui recherche les synergies et la symbiose
+La coopération recherche la diversité car elle sait que la différence va venir enrichir les différents parties
+Quand on parle de symbiose c'est que la coopération cherche à effacer la séparation entre les parties : en réalité nous sommes tous un même partie complexe
+> Nous sommes tous des parties d'un même territoire. Comme un "corps" vivant, nous évoluons en symbiose, comme les organes du système humain
+### Comment créer la coopération ?
+Observer, rencontrer, écouter
+Respecter la différence, chercher les dissonances comme des enrichissements communs
+Convertir la discussion en conversation
+S'il y a concurrence c'est qu'on connait pas encore assez nos différences à valoriser comme des complémentarités
+Recherche l'entre-aide plutôt que les accords d'intérêts
+Créer la confiance naturellement et humainement plutôt que administrativement et légalement
+---
+> La coopération est nécessaire pour entrer en [[Co-construction]]
+> La co-construction n'est pas possible dans un contexte de collaboration
+
+
+posture facilitateur
+Le Facilitateur est le garant de la [[Coopération]]
+Il crée l'environnement de travail propice
+Il invite à l'écoute
+Il invite à la prise de parole
+Il crée un programme d'atelier en amont qui va faciliter la progression vers un objectif définit par le groupe en amont
+Il fait respecter les différentes phases et timing
+Il respecte et prend soin de l'énergie des participants à l'atelier
+Il favorise l'émergence de l' [[intelligence collective]] dans un travail de groupe
+Il pose les questions nécessaires pour tisser le lien des réflexions en groupe
+Il aide à synthétiser des échanges riches et détaillés
+Il aide à maintenir tout le monde au même niveau d'information
+Il aide à maintenir tout le monde au même niveau de détail et de complexité dans les échanges
+Il aide à créer un langage commun et un vocabulaire partagé
+Il apporte sa boîte à outil de facilitation
+Des outils pour créer la connexion entre les participants
+Des outils pour poser les bonnes questions
+Des outils pour faire émerger des idées nouvelles
+Des outils pour synthétiser, structurer et conceptualiser
+Des outils pour rendre visuel un projet ou une problématique comme la [[Cartographie de réseaux]] par exemple ou **la facilitation graphique**
+### Quelques tips de facilitation
+Tenir la synthèse des échanges
+Inviter à travailler en individuel (diverger)
+Inviter à regrouper (converger)
+Favoriser les introvertis comme les extravertis
+---
+> ### A good listener is one who helps us overhear ourselves.
+!((8db5bd1d-32a3-4d34-a82a-8856714533e3))
+
+
+
+intelligence collective
+Différentes formes d'intelligence collective
+[Les différentes formes d'intelligence collective](https://audreyjammes.wordpress.com/2012/02/03/les-differentes-formes-dintelligence-collective/)
+[Les différentes formes de développement de l'intelligence collective](https://audreyjammes.wordpress.com/2012/02/03/les-differentes-formes-de-developpement-de-lintelligence-collective/)
+Comparaison des formes d’intelligence collective : tribale, pyramidale et holomidale
+https://www.valeureux.org/blog/2016/03/31/comparaison-des-formes-dintelligence-collective-tribale-pyramidale-et-holomidale/
+> "Si ce n’est pas collaboratif, il y a un risque que ça ne soit pas intelligent"
+Pierre Lévy nous donne son avis sur ce point : 
+> « La masse n’a pas toujours raison, surtout s’il s’agit d’une masse 
+moutonnière et conformiste qui ne remet rien en question. C’est pourquoi
+ le projet de l’intelligence collective consiste précisément à valoriser
+ toute la diversité des connaissances, des compétences et des idées qui 
+se trouvent dans une collectivité et à organiser cette diversité en un 
+dialogue créatif et productif. La culture de l’intelligence collective 
+travaille à établir de manière douce et pacifique un « **multilogue** » ouvert, qui est préférable aussi bien au cloisonnement et à l’isolement des intelligences, qu’à l’uniformité bien pensante. »
+Via le croisement de différents modèles de pensée, L’intelligence collective génère de **nouvelles connaissances** et donc de l’**innovation**.
+Lien avec les superorganismes
+Les superorganismes sont importants en [cybernétique](https://fr.wikipedia.org/wiki/Cybern%C3%A9tique) et notamment en biocybernétique. En effet, un superorganisme peut être considéré comme une forme d' #[[intelligence collective]] , un système dans lequel des individus avec une intelligence et des informations limitées sont capables de mettre en commun leurs ressources pour accomplir un objectif au-delà des capacités individuelles.
+!((4a64cc05-ac54-4c47-a178-1380c45b56e6))
+Design systémique
+Cette approche est à la rencontre du Design thinking et du domaine de la Complexité
+La pensée systémique est là pour "lire" et appréhender nos systèmes complexes. Plutôt que d'agir sur des effets à des causes plus profondes, créant ainsi d'autres causes à d'autres problèmes complexifiant encore plus les systèmes, il convient de se poser et d'observer pour "représenter" et interpréter.
+### Petite présentation de **la logique systémique**.
+Tout est système
+Tout est liens & relations
+Changer 1% d'un système peut tout changer
+La représentation graphique d'un système complexe permet la visualisation, comme pour une [[Cartographie de réseaux]]
+### Le Design systémique
+Modéliser les systèmes complexes
+Se poser les bonnes questions en ateliers
+Mêler les modèles de pensée & expertises
+Faire émerger les priorités d'actions
+Lancer des démarches itératives locales en conscience globale
+
+---
+Le Design systémique permet alors d'appréhender la complexité avec la force de l' [[intelligence collective]] d'un groupe travaillant autour d'une visualisation commune
+en partant de cet outil commun, le groupe va pouvoir lancer des "scénarios" pour tester le système et venir simuler (ou prototyper) des améliorations qui vont ensuite pouvoir rentrer dans un cahier des charges
+Quand on parle d'approche territoriale on voit le territoire comme un système complexe qu'on peut modéliser et ainsi étudier visuellement avec un groupe en coopération
+Ce travail permet de réellement développer une approche complète du territoire, impliquant les différents enjeux et respectant les liens et relations entre les différentes parties du système
+!((7c196b40-c0bc-41b1-9385-37d6b6b5a4f9))
+Co-construction
+- _7slides (GT février)_
+- _Plusieurs apports lors des points de synchro : à retrouver dans les CR Notion_
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/CjzaxjcpQ) ![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/it333RU-c)
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/3_CvMDzbj) ![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/mL4jao7Os)
+
+
+
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/OQo88TzKw)
+
+Gouvernance projet
+La gouvernance permet de répartir les rôles et les responsabilités des différents contributeurs
+Différents modèles peuvent se mettre en place, je partagerais ici une inspiration du modèle Holacratique qui est un modèle adapté pour structurer une gouvernance horizontale et partagée qui est adaptée à une démarche de co-construction en coopération
+L'organisation projet est en cercle et non pas hiérarchique
+Chaque cercle correspond à différentes dimensions du projet : gestion interne, gestion des ressources, gestion projet, définition des règles de contribution et de coopération, suivi des relations, communication, commercial, marketing, etc.
+Tout ce qui est en cercle était avant pensé en secteurs - L'avantage du fonctionnement en cercle est de sortir des silos car l'information circule entre les cercles via des rôles porteurs
+Dans chaque cercle il y a des rôles qui sont portés sur volontariat. Pas de fiche de poste mais des engagements suivant le rôle porté
+Si la personne ne veut plus porter le rôle elle a la responsabilité de trouver un remplaçant
+Pour qu'il soit possible de voir évoluer les contributeurs et que l'information soit au même niveau pour tout le monde, il y a différents moyens en place :
+Mise en place de réunions qui sont des rituels réguliers toutes les semaines pour se synchroniser entre rôles d'un même cercle et entre cercles
+Ces rituels sont documentés par des "secrétaires" qui ont la responsabilité de rendre accessible l'information du rituel aux autres membres de toute l'organisation
+L'information est toujours accessible à tous en toute transparence. Tout le monde est au même niveau en terme de "lecture" de ce qu'il se passe et en terme d'accès à la connaissance de l'organisation
+La démarche itérative
+### Les différentes étapes de la démarche itérative
+Définir une intention de projet
+Définir des objectifs
+Définir une stratégie pour y aller
+Définir des actions à mettre en place
+Prioriser les actions et temporaliser
+Mettre en place les premières actions, les premiers petits pas (PPP)
+La mise en place de ces actions, portées par des rôles marque la fin d'un premier cycle
+### 2ème cycle
+Constat et rendu des PPP
+Est-ce en accord avec la stratégie et toujours aligné avec l'intention du projet
+Si oui continuer, sinon réorienter
+Définir les prochaines actions à mettre en place
+Prioriser les actions et temporaliser
+Mettre en place les premières actions, les premiers petits pas (PPP)
+### Les cycles suivants
+La démarche itérative n'a pas de fin : c'est un processus en constant renouvellement et réorientation, qui s'adapte et s'ajuste suivant les évolutions des contributeurs, des priorités, des contraintes, de la stratégie et des intentions
+Recherche design terrain
+Ce type de recherche design mêle des apports des Démarche anthropologique comme ethnographiques ainsi que des interviews des populations par rapport à leurs usages, leurs habitudes et leurs besoins
+La recherche design croise les 4 dimensions
+Recherche du besoin réel, suivant la population étudiée
+Recherche pour comprendre les systèmes économiques en place, les enjeux économiques
+Recherche pour comprendre les enjeux écologiques, sociaux et les repères de liens et d'impacts entre les différents systèmes du territoire
+Recherche sur le croisement entre économie, écologie, politique locale et globale, socio-dynamique, etc...
+Recherche en terme de faisabilité sur le territoire : étude des ressources en présence, les points d'autonomie et de dépendances etc...
+Designer l'infrastructure
+Combien de MW
+Sur quelles superficies
+quelles critères environnementaux et de biodiversité
+Sociodynamique
+!((f6519d79-8a36-4fef-8685-2d4080aae7b8))
+- _3 slides (GT décembre)_
+- _Qq compléments méthodo écrits sur Notion_
+- _1 exemple envoyé par mail_
+
+
+
+Actionnement
+- _3 slides (CR GT décembre)_
+https://drive.google.com/file/d/1_uhQLjAjVPgv-WBmOUqGx3S5cezj1cQ8/view
+- _Est-ce qu'on met la méthode de rédaction de mail IMPEC ?_
+!((9d445dce-55e7-4d20-9967-f9397520d36e))
+
+Les types de relation
+- _Schéma Je + / Tu +, etc._
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/ebiSWNYjT)
+!((9ac3db47-f733-4c5f-870e-4649cee12d0c))
+L'engagement
+Pour qu’une personne soit engagée dans une action, il faut :
+-	Que cette action ait un coût pour elle (pas forcément financier)
+-	Qu’elle ait la possibilité de dire oui ou de dire non (liberté)
+
+-	Qu’elle prenne la décision de passer à l’action.
+
+!((8a0f6cd1-339f-4959-9a0b-6c0f66848095))
+
+Système de connaissances
+Très proche de la logique d'un système d'information mais moins orienté sur la data et la gestion projet, plus sur l'organisation de la connaissance
+Il est nécessaire de mettre en place ce genre de système pour garder un historique complet de toutes les évolutions et actions du projet
+Egalement nécessaire pour rapidement et facilement accéder à de l'information, retrouver un contact, accéder à de la connaissance nécessaire pour bien appréhender un RDV futur ou comprendre la problématique d'un acteur
+Construire le système sur l'application Notion
+https://www.notion.so
+Il est possible d'utiliser tout un tas d'application numériques, ici c'est Notion qui est conseillé car c'est à la fois un outil de prise de note et de gestion de projets
+Possible de créer des documents partagés
+Possible de créer des feuilles de routes, des tâches, d'assigner des projets, donner des timings
+Système de notification pour aider à la gestion projet
+Il est possible de créer des liens entre les documents, à la manière d'un site internet. 
+Il est également possible d'intégrer des pages dans des pages, permettant de structurer des documents complexes
+Il est possible de créer directement des bases de données dans des documents et donc plus besoin de naviguer entre des docs et des tableurs, tout se retrouve au même endroit dans la même application
+Quelques autres outils adaptés
+Roam Research
+Google Workspace
+Evernote - Bearnote
+---
+Quelques exemples de systèmes de connaissance
+[Jardin numérique de Fabrice Liut](https://www.notion.so/liutnotes/Explorer-cr-er-r-g-n-rer-a39dc93057aa45999a87feffe61ed956)
+[Wiki des archipels](https://www.notion.so/liutnotes/Wiki-des-Archipels-1a2eddad0e11459c8bd39a1dbeaaeea8)
+Le système de connaissance Notion de l'expérimentation Edf R
+[Espace de la Piège](https://www.notion.so/edfr/La-Pi-ge-Index-de-travail-16ba6f4f666b4a1aa838edd4f6c731fc)
+Posture de leader
+Le leader, c'est celui qui ouvre et montre la voie, qui embarque avec lui tous les autres et les fait grandir.
+Le leader se sait leader : il a conscience qu'il est à la tête de son domaine, **et il l'assume**.
+Il a confiance en ce qu'il fait et pour cause il se concentre sur ce qui va au lieu de se focaliser sur ce qui se passe mal.
+Si quelqu'un ne veut pas de sa proposition, il ne s'en formalise pas et va trouver quelqu'un d'autre.
+
+Cartographie de réseaux
+Principes de la cartographie ou "mapping"
+Permet de visualiser à plat un système du territoire
+Système d'acteurs
+Système d'enjeux
+Système des services du territoire
+Permet de visualiser les liens et les relations entre les différents éléments d'un même système mais aussi les causes et effets entre plusieurs systèmes
+L'impact des enjeux politiques sur le développement du foncier
+L'impact de la mise en place de certains services sur la géographie du territoire voir sur sa "biologie"
+D'autres exemples ?
+Outils pour cartographier
+[Stemic](https://go.stemic.app)
+D'autres outils de "mind-mapping"
+Outils de tableaux blancs numériques comme http://miro.com
+Quelques exemples visuels
+!((8e2490bb-38ff-4e5b-866b-2b3bf610bc06))
+Dialectique
+Origine de la Grèce antique, pratique de Socrate comme "science de poser les bonnes questions" pour faire émerger une compréhension plus large d'une problématique, d'un sujet d'étude etc...
+caneva 9 cases
+_Développer du contenu..._
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/SSjj43aAW)

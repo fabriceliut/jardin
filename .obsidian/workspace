@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2 courants Yin et Yang.md",
-            "mode": "source"
+            "file": "_notes/Echec et mat du monopole.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2 courants Yin et Yang.md",
+                "file": "_notes/Echec et mat du monopole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -98,15 +98,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/2 courants Yin et Yang.md",
     "Untitled.md",
-    "_notes/Upperground, middleground et underground.md",
-    "_notes/Evolutions des notes.md",
-    "_notes/anthropocène.md",
-    "_pages/index.md",
-    "_pages/about.md",
-    "_notes/_daily/Evolutions du jardin numérique.md",
-    "_notes/_daily/2021-07-28.md",
-    "_notes/Au-delà de la résilience.md"
+    "_notes/2 courants Yin et Yang.md",
+    "Guide_de_l_approche_territoriale.md",
+    "_notes/cats.md",
+    "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
+    "_notes/C'est quoi lâcher prise.md",
+    "_notes/Business as non usual, le guide.md",
+    "_notes/Biomimétisme.md",
+    "_notes/Bio-inspiration.md",
+    "_notes/Automatisation.md"
   ]
 }
