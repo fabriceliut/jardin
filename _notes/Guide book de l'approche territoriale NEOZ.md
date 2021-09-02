@@ -1,3 +1,7 @@
+---
+title: Guide book de l'approche territoriale NEOZ
+---
+
 # Introduction
 ## Qu'est-ce qu'une approche territoriale ?
 L’idée est de se positionner du point de vue du territoire pour faire en sorte de bien comprendre ses besoins et ainsi les besoins systémiques de ses différentes parties.
@@ -1007,3 +1011,7 @@ Origine de la Grèce antique, pratique de Socrate comme "science de poser les bo
 caneva 9 cases
 _Développer du contenu..._
 ![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/SSjj43aAW)
+
+---
+
+[[Guidebook]] - En cours d'écriture
