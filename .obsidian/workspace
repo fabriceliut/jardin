@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Echec et mat du monopole.md",
+            "file": "_pages/index.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Echec et mat du monopole.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "Untitled.md",
+    "_pages/index.md",
+    "Il n'y a pas de montagne.md",
     "_notes/2 courants Yin et Yang.md",
+    "Guide de l'approche territoriale NEOZ.md",
+    "Untitled.md",
+    "_notes/Echec et mat du monopole.md",
     "Guide_de_l_approche_territoriale.md",
     "_notes/cats.md",
     "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
-    "_notes/C'est quoi lâcher prise.md",
-    "_notes/Business as non usual, le guide.md",
-    "_notes/Biomimétisme.md",
-    "_notes/Bio-inspiration.md",
-    "_notes/Automatisation.md"
+    "_notes/C'est quoi lâcher prise.md"
   ]
 }

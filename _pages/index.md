@@ -19,9 +19,16 @@ Découvrez les différents [[Designs]] qui sont pour moi les principales approch
 Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archipel Kyosei]].
 
 ### Approche locale.
-Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]]. Revenir au corps & aux savoirs ancestraux permet de renouer avec Soi pour nous ouvrir à  👉 [[Prendre soin du collectif]].
+Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]]. Revenir au corps & aux savoirs ancestraux permet de renouer avec Soi pour nous ouvrir à  👉 [[Prendre soin du collectif]]
 
-### Une sélection de ce qui pousse.
+### Approche numérique.
+Je suis convaincu que le numérique est une magnifique opportunité pour supporter les humains lorsqu'il est bien utilisé. Pour cette raison, et toujours un peu geek, je m'intéresse aux concepts de [[Second Brain]].
+
+### Les dernières mises à jour.
+
+<form action="https://duckduckgo.com/?" oninput="q.value=document.getElementById('search').value +' site:jardin.liut.me'"> <input type="text" id="search" required=""/> <input type="hidden" name="q"/> <input type="submit" value="Search"/> </form>
+
+- Et si [[Il n'y a pas de montagne]] ?
 - Je partage [[Ma vision du Design en 2021]]
 - C'est quoi ce site, c'est quoi un [[Jardin Numérique]]?
 - Est-ce qu'il est possible de [[décoder la vie]] ?
