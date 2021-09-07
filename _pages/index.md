@@ -15,6 +15,7 @@ permalink: /
 ## Les dernières mises à jour.
 
 - Et si [[Il n'y a pas de montagne]] ?
+- [[Comprendre ce qu'est un projet]]
 - [[Echec et mat du monopole]]
 - [[Régénérer est une direction]]
 - Je partage [[Ma vision du Design en 2021]]
