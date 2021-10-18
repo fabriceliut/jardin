@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/Exploration de l'abstraction.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evolu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/Exploration de l'abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/Exploration de l'abstraction.md",
     "_pages/index.md",
-    "_notes/Guide book apprendre à vendre.md",
-    "_notes/Bio-inspiration.md",
-    "_notes/Evolutions des notes.md",
-    "_notes/Retour dans le game ou aller simple vers le meta-game.md",
-    "_notes/résilience.md",
-    "_notes/Ressources du Comptoir.md",
-    "_notes/Régénérer est une direction.md",
-    "_notes/Personne Morale.md",
-    "_notes/Prendre soin du collectif.md"
+    "_notes/Comprendre ce qu'est un projet.md",
+    "_notes/Il n'y a pas de montagne.md",
+    "Untitled.md",
+    "Exploration de l'abstraction.md",
+    "_notes/2 courants Yin et Yang.md",
+    "_notes/Santé Parfaite.md",
+    "_notes/Faire confiance par la coopération et sans forcer.md",
+    "_notes/Guide book apprendre à vendre.md"
   ]
 }

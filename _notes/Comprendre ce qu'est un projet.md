@@ -32,7 +32,7 @@ Pour ces 2 sujets il y a plusieurs besoins :
 -   On peut finaliser cette série photo et la sortir en exposition numérique ou réelle. On peut ainsi intégrer cette série dans un projet plus large, qui va nécessité de l'écriture, une mise en scénario etc...
 -   Cette série pourra elle-même être matière première pour un autre projet, soit en terme d'inspiration soit en terme de ressource à la composition, comme un site web, un magasine etc...
 
-**Comme la photo, un bout de texte peut-être une finalité en soit ou le début d'une inspiration. Tout est projet : il y a des projets "bruts" et d'autres "composés", des simples et des plus complexes. **
+**Comme la photo, un bout de texte peut-être une finalité en soit ou le début d'une inspiration. Tout est projet : il y a des projets "bruts" et d'autres "composés", des simples et des plus complexes.**
 
 Dans notre société, nous avons tendance à valoriser beaucoup plus les projets complexes et construits que les projet bruts qui semblent toujours n'être que de la matière première rapide si cette matière n'est pas mise en récit et en scène. Ici nous voyons l'importance du #storytelling , du packaging et de créer un "objet projet" qui va mettre en valeur la production et l'adapter pour la présenter à son audience.  
 Cette partie donne lieu à l'etude [[apprendre à mettre en forme]].

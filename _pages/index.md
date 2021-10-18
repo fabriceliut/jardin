@@ -53,6 +53,10 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 - [[Automatisation]]
 - [[créer un système de connaissance coopératif]]
 
+**Et en écriture 👇**
+- [[Exploration de l'abstraction]]
+- [[se raconter des histoires]]
+
 ---
 
 L'un de mes plus gros travaux en cours c'est la réalisation du [[Guide book de l'approche territoriale NEOZ]] qui adresse la transformation des territoires. *(fin d'écriture en cours)*
