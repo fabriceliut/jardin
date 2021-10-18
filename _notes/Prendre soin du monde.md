@@ -20,7 +20,7 @@ Ce sont, pour moi, surtout les questions qui doivent nous inspirer et par curios
 - Est-ce que [[nous avons une mission]] ?
 
 ## Des projets pour prendre soin du monde.
-Ce n'est qu'une toute petite liste encore, je tenterais de la compléter au fil du temps et du développement de ce [[Jardin Numérique]].
+Ce n'est qu'une toute petite liste encore, je tenterais de la compléter au fil du temps et du développement de ce [[jardin numérique]].
 
 - [[Archipel Kyosei]]
 - [[Archipels en Symbiose]]

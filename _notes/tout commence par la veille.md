@@ -2,7 +2,7 @@
 title: tout commence par la veille
 ---
 
-Tout commence par l'observation, l'écoute, la curiosité, l'exploration, la découverte. C'est la toute première phase de captation d'information. Soit elle va être utile directement, soit elle doit être intégrée et donc demande un peu de temps ou d'y revenir au besoin. C'est pour cette raison qu'il est très enrichissant de "capitaliser" ses découvertes & de les structurer comme un [[Jardin Numérique]] par exemple via des outils comme [[Roam Research]] ou [[Notion]].
+Tout commence par l'observation, l'écoute, la curiosité, l'exploration, la découverte. C'est la toute première phase de captation d'information. Soit elle va être utile directement, soit elle doit être intégrée et donc demande un peu de temps ou d'y revenir au besoin. C'est pour cette raison qu'il est très enrichissant de "capitaliser" ses découvertes & de les structurer comme un [[jardin numérique]] par exemple via des outils comme [[Roam Research]] ou [[Notion]].
 
 >Quand la veille est une démarche coopérative elle permet de rapidement enrichir et faire grandir en qualité et quantité un commun de connaissances et donc, de ressources pour imaginer, conceptualiser, créer & faire évoluer des projets.
 

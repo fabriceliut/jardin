@@ -15,7 +15,7 @@ Je participe à catalyser ces initiatives et à structurer les ressources en com
 
 
 
-N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[Jardin Numérique]] est également sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
+N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[jardin numérique]] est également sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
 
 ---
 
@@ -47,7 +47,7 @@ _**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depu
 
 👉 Projets principal en lien, [L'Archipel Kyosei](https://archipelkyosei.com/ "Link: https://archipelkyosei.com").
 
-👉 Mon [[Jardin Numérique]]
+👉 Mon [[jardin numérique]]
 
 ## Pourquoi est-ce que je fait tout ça ?
 

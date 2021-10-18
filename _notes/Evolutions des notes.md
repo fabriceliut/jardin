@@ -2,7 +2,7 @@
 title: Evolutions des notes
 ---
 
-Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[Jardin Numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
+Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[jardin numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
 
 ## En date du 28/07/2021
 Je n'ai pas fais évolué le contenu du jardin car j'alimente plus Roam pour tenir un journal de board et mon bac de ressources et de veille ainsi que Notion pour les fiches projets et Workflowy pour la gestion projet.

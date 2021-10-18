@@ -19,7 +19,7 @@ permalink: /
 - [[Echec et mat du monopole]]
 - [[Régénérer est une direction]]
 - Je partage [[Ma vision du Design en 2021]]
-- C'est quoi ce site, c'est quoi un [[Jardin Numérique]]?
+- C'est quoi ce site, c'est quoi un [[jardin numérique]] ?
 - Est-ce qu'il est possible de [[décoder la vie]] ?
 
 ---
@@ -30,7 +30,7 @@ Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archip
 
 **Quelques sujets 👇**
 - [[Bio-inspiration]]
-- [[complexité]] - [[Système Complexe]]
+- [[complexité]] - [[système complexe]]
 - [[coopération]]
 - [[Business as non usual, le guide]]
 - [[Guide book apprendre à vendre]]

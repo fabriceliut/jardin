@@ -6,7 +6,7 @@ title: structurer un système information
 L’information n’est pas suffisante, **elle doit être traitée et connectée pour en faire de la connaissance utilisable.**
 **Le système d'information est fait pour relier les termes, les concepts, les sujets pour créer des ponts et connexions entre des bouts d’informations séparés.**
 Avant on faisait ça par le dialogue à l’oral ou simplement chacun dans notre tête. Maintenant il est possible de créer ce tissu de données reliées en commun via des outils comme [[Roam Research]] qui sont des systèmes de structure systémique *(un peu comme wikipedia pour illustrer rapidement)*.
-Ce type de système devient alors une sorte de "second cerveau de groupe" ou [[Second Brain]] & [[Jardin Numérique]].
+Ce type de système devient alors une sorte de "second cerveau de groupe" ou [[Second Brain]] & [[jardin numérique]].
 
 
 ### Liens systémiques entre les éléments de données.

@@ -20,7 +20,7 @@ Pour relier online, il suffit de liens hypertextes, de liens de documents à doc
 Pas besoin de tomber d’accord, de rejoindre, d’utiliser les même outils ou les même plateformes. Il faut simplement LIER les parties des systèmes pour rendre la navigation infinie pour tous.
 Vous voulez classer, tagger, ranger, etc... faites comme vous voulez, choisissez votre terminologie mais toujours pensez à relier à celles des autres !
 
-*Un peu comment ici, suivant la logique des [[Jardin Numérique]]*
+*Un peu comment ici, suivant la logique des [[jardin numérique]]*
 
 Par exemple je dis, « faire système » d’autres diraient « archipels en symbiose » ou “constellations sociétales”, etc... et c’est très bien, relions les concepts quand ils sont proches, apportons les nuances, il n’y a pas de débats mais que de la complémentarité par la diversité si elle est reliée !
 
