@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Exploration de l'abstraction.md",
+            "file": "_notes/faire confiance autrement.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Exploration de l'abstraction.md",
+                "file": "_notes/faire confiance autrement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +98,11 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "Untitled.md",
     "_notes/Exploration de l'abstraction.md",
     "_pages/index.md",
     "_notes/Comprendre ce qu'est un projet.md",
     "_notes/Il n'y a pas de montagne.md",
-    "Untitled.md",
     "Exploration de l'abstraction.md",
     "_notes/2 courants Yin et Yang.md",
     "_notes/Santé Parfaite.md",
