@@ -2,4 +2,4 @@
 title: connaissance
 ---
 
-- [[Créer un système de connaissance coopératif]]
+- [[créer un système de connaissance coopératif]]

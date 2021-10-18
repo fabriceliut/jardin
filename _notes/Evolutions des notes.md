@@ -10,4 +10,4 @@ je pense que je reviendrais à sortir du contenu sur ce jardin quand justement j
 Je continue cependant 1 fois par mois à sortir une lettre numérique, mais le reste des créations est en attente.
 
 ## En date du 28/07/2021
-Je suis en train de continuer de [[Créer un système de connaissance coopératif]] en passant par la révision des applications que j'utilise et de leurs usages. Je mettrais prochainement en ligne un article qui présente ce système. (mes notes sont pour le moment dans Obsidian)
+Je suis en train de continuer de [[créer un système de connaissance coopératif]] en passant par la révision des applications que j'utilise et de leurs usages. Je mettrais prochainement en ligne un article qui présente ce système. (mes notes sont pour le moment dans Obsidian)
