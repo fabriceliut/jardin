@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Retour dans le game ou aller simple vers le meta-game.md",
+            "file": "_pages/index.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "evolu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Retour dans le game ou aller simple vers le meta-game.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_notes/Guide book apprendre à vendre.md",
+    "_notes/Bio-inspiration.md",
+    "_notes/Evolutions des notes.md",
     "_notes/Retour dans le game ou aller simple vers le meta-game.md",
     "_notes/résilience.md",
     "_notes/Ressources du Comptoir.md",
     "_notes/Régénérer est une direction.md",
     "_notes/Personne Morale.md",
-    "_notes/Prendre soin du collectif.md",
-    "_notes/Pensée systémique.md",
-    "_notes/Livre du Comptoir.md",
-    "_notes/linguistique.md",
-    "_notes/Liens bidirectionnels.md"
+    "_notes/Prendre soin du collectif.md"
   ]
 }

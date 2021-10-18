@@ -8,7 +8,7 @@ permalink: /
 # Hello ! 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Cette espace est mon [[jardin numérique]]. Au fil de l'[[Evolutions des notes]] , vous verrez cette page principale devenir un réel aiguillage vers différents sujets d'explorations. Vous pourrez ensuite facilement rebondir de concepts en concepts, à la manière d'un Wikipedia mais sur des sujets de recherche personnels et très souvent, en mutations ! 
+  Cette espace est mon [[jardin numérique]]. Au fil de l'[[évolutions des notes]], vous verrez cette page principale devenir un réel aiguillage vers différents sujets d'explorations. Vous pourrez ensuite facilement rebondir de concepts en concepts, à la manière d'un Wikipedia mais sur des sujets de recherche personnels et très souvent, en mutations ! 
   Je vous souhaite une belle exploration ! ⛵
 </p>
 
@@ -29,11 +29,11 @@ Découvrez les différents [[Designs]] qui sont pour moi les principales approch
 Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archipel Kyosei]].
 
 **Quelques sujets 👇**
-- [[Bio-inspiration]]
+- [[bio-inspiration]]
 - [[complexité]] - [[système complexe]]
 - [[coopération]]
 - [[Business as non usual, le guide]]
-- [[Guide book apprendre à vendre]]
+- [[guidebook apprendre à vendre]]
 - [[Design circulaire sur 1 jour]]
 - [[Design systémique sur 3 jours]]
 - [[Mouvement mondial du design régénératif]]

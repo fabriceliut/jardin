@@ -14,7 +14,7 @@ La pensée systémique permet de visualiser et d'interpréter la complexité de 
 
 Suite à ce sprint il est possible de traiter "dans le bon sens" et en pas à pas les priorités d'évolution d'une organisation grâce à d'autres Design Sprint oppérationels. C'est une nouvelle logique d'organisation qui se met ainsi en place, agile, "by design" & résiliente.
 
-## Une approche par [[Bio-inspiration]].
+## Une approche par [[bio-inspiration]].
 
 _"S'inspirer du vivant, au service du vivant."_
 

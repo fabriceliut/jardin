@@ -40,7 +40,7 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 
 - [La société tend à s’organiser comme un cerveau](https://www.solfrance.org/eloge-de-la-metamorphose/), concept d’un ouvrage de Alain de Vulpian.
 
-## [[Bio-inspiration]].
+## [[bio-inspiration]].
 
 - [L’économie symbiotique](https://www.amazon.fr/L%C3%A9conomie-symbiotique-R%C3%A9g%C3%A9n%C3%A9rer-plan%C3%A8te-l%C3%A9conomie/dp/2330080212/ref=sr_1_1?ie=UTF8&qid=1511879985&sr=8-1&keywords=%C3%A9conomie+symbiotique), s’inspirer de la logique naturelle pour régénérer nos systèmes humains.
 - [Ask Nature](https://asknature.org/), plateforme d’inspiration par biomimétisme

@@ -37,7 +37,7 @@ Il est Impossible d'appréhender un haut niveau de complexité avec un seul cerv
 
 > Le designer est donc également un facilitateur qui invite, crée et anime des sessions de travail coopératives.
 
-Le designer travail en s'inspirant du reste du vivant, c'est tout le propos de la [[Bio-inspiration]]. Parce que les humains ne représentent pas les plus hautes formes d'intelligences sur cette planète, **observer le minéral, le végétal et l'animal est source d'une riche sagesse et d'humilité.**
+Le designer travail en s'inspirant du reste du vivant, c'est tout le propos de la [[bio-inspiration]]. Parce que les humains ne représentent pas les plus hautes formes d'intelligences sur cette planète, **observer le minéral, le végétal et l'animal est source d'une riche sagesse et d'humilité.**
 
 L'analyse de leur organisation et de leur complexité permet d'apprendre de ces systèmes pour en tirer des enseignements pour nos systèmes humains.
 Et souvent, il est sage d'accepter que ce qui est chaotique pour nous ne l'est pas dans l'absolu pour d'autres formes du vivant bien plus expérimentés que l'humanité si jeune encore...

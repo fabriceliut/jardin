@@ -46,7 +46,7 @@ Pour libérer la créativité, il faut savoir mettre en sourdine notre cerveau r
 
 Nous nous développons toujours dans un contexte particulier et nous sommes liés à la nature. C’est avec la nature que nous pourrons avancer, notamment en nous en inspirant le plus possible.
 
-- [[Bio-inspiration]]
+- [[bio-inspiration]]
 - Design circulaire
 - Mise en [[résilience]]
 - Innovation Frugale
