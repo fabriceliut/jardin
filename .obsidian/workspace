@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2 courants Yin et Yang.md",
+            "file": "_pages/index.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2 courants Yin et Yang.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_pages/index.md",
+    "README.md",
     "_notes/2 courants Yin et Yang.md",
     "_notes/logique et nécessité des interrelations pour faire système en archipels.md",
-    "_pages/index.md",
     "Comprendre ce qu'est un projet.md",
     "_notes/emergence de structure logique utilisable.md",
     "_notes/Créer un système de connaissance coopératif.md",
     "_notes/du système projet aux assemblages projets.md",
     "_notes/des assemblages à la symbiose projets.md",
-    "_notes/Guide book apprendre à vendre.md",
-    "_notes/Guide book de l'approche territoriale NEOZ.md"
+    "_notes/Guide book apprendre à vendre.md"
   ]
 }
