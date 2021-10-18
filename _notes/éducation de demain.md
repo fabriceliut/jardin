@@ -1,5 +1,5 @@
 ---
-title: Education de demain
+title: éducation de demain
 ---
 
 ## Ma vision d'un futur souhaitable par l'apprentissage.
@@ -21,7 +21,7 @@ title: Education de demain
 
 Il cite beaucoup les principes de convivialité de Ivan Illich, fermant le concept d’éducation et ouvrant un nouveau modèle d’apprentissage de pair à pair, totalement intégré dans le développement de la société de demain qui sera structurée en villages interconnectés. Ce sera le projet au centre, l’enfant pourra choisir d’aller apprendre à faire du pain ou à écrire des poèmes à la bibliothèque public… S’il préfère gérer les échanges en découvrant le principe sur le marché, il pourra réorienter son quotidien suivant ses aspirations. Bref, tout une histoire sur 10 minutes que nous vous invitons à découvrir en audio🎙️
 
-[[Le Comptoir]] & [[Archipel Kyosei]] dans son approche porte cette démarche sur l’avenir : fonctionner en écosystèmes de pair à pair, remettre l’apprentissage en contexte du développement des projets communs, retrouver le faire synchrone beaucoup plus efficient qu’une classique chaîne d’acteurs en relai…
+[[le Comptoir]] & [[Archipel Kyosei]] dans son approche porte cette démarche sur l’avenir : fonctionner en écosystèmes de pair à pair, remettre l’apprentissage en contexte du développement des projets communs, retrouver le faire synchrone beaucoup plus efficient qu’une classique chaîne d’acteurs en relai…
 
 ### L'émission enregistrée.
 

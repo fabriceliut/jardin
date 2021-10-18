@@ -1,5 +1,5 @@
 ---
-title: Design Régénératif
+title: Design régénératif
 ---
 
 Une des démarches [[Designs]] qui intègre une orientation régénérative c'est à dire qui tend toujours à revitaliser ou suivre le mouvement du vivant. L'opposé serait une approche dégénérative qui mène à la stérilité, à l'arrêt & à la mort. Elle fait le point entre design et [[écologie]].
@@ -15,7 +15,7 @@ Je participe également à un [[Mouvement mondial du design régénératif]] que
 
 ## Explorations principales de l'approche régénérative.
 - L'importance et la beauté de la [[Biodiversité]]
-- Développer ou régénérer notre [[Conscience]]
+- Développer ou régénérer notre [[conscience]]
 - Les apports de la [[permaculture]], de l'[[innovation frugale]]
 - Les travaux autour de l'[[anthropocène]]
 

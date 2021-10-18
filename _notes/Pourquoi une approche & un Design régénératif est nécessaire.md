@@ -22,7 +22,7 @@ image: /assets/coopererregenerer.jpeg
 
 ## **Au quotidien, régénérer plutôt que dégénérer.**
 
-Le [[Design Régénératif]] porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est à dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
+Le [[Design régénératif]] porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est à dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
 
 ### **Comment est-ce que ça s'applique au quotidien ?**
 

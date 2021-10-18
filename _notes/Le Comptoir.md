@@ -1,5 +1,5 @@
 ---
-title: Le Comptoir
+title: le Comptoir
 ---
 
 ## Il est grandement temps de penser autrement, pour faire autrement.
@@ -29,7 +29,7 @@ Nous faisons des problématiques causes des opportunités d’ateliers coopérat
 
 L’aventure commune est lancée ! Continuons main dans la main durant les différentes phases de votre transformation globale jusqu’à votre mise en autonomie !
 
-> Découvrir en détail l'[[Approche du Comptoir]]
+> Découvrir en détail l'[[approche du comptoir]]
 > Récolter quelques premières [[Ressources du Comptoir]]
 
 ## 🗄️ Cas d’études du Comptoir.

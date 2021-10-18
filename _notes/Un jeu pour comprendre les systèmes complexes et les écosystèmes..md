@@ -2,7 +2,7 @@
 title: Un jeu pour comprendre les systèmes complexes et les écosystèmes.
 ---
 
-Merci Nick, créateur de ce petit jeu, pour m'aider à répondre en partie, de manière fun et plus simplement à ce qu'est le [[Design Systémique]] . Mais avant ça, petite présentation globale du sujet.
+Merci Nick, créateur de ce petit jeu, pour m'aider à répondre en partie, de manière fun et plus simplement à ce qu'est le [[Design systémique]] . Mais avant ça, petite présentation globale du sujet.
 
 ### **C'est quoi un système ?**
 
@@ -16,7 +16,7 @@ Même avec une [[pensée systémique]], c'est un système impossible à comprend
 
 *Déjà, prenez un couple : si c'est un couple de billes, alors ça reste simple. Si c'est un couple d'humains, ce n'est que 2 éléments et un lien et pourtant, tellement de complexité ! (vous ne pourrez pas me dire le contraire...)*
 
-### **Le [[Design Systémique]] alors ?**
+### **Le [[Design systémique]] alors ?**
 
 **Le design est le fait de "fluidifier l'expérience humaine"**, que ce soit par une chaise ergonomique, par un espace adapté et esthétique, par une interface d'application simple et désirable ou par une structure d'organisation, une gouvernance, une culture ou un "système" économique ou d'information facilitant les interactions humaines et le développement des projets et de notre société... **En gros, ce qu'on cherche, c'est que les humains, du matin au soir, soient tranquille et puissent évoluer dans la vie comme dans une salle de jeu, sans dénaturer la salle de jeu pendant qu'ils s'éclatent...**
 

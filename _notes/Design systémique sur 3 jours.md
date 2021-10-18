@@ -1,5 +1,5 @@
 ---
-title: Design Systémique sur 3 jours
+title: Design systémique sur 3 jours
 image: /assets/troisjours.jpeg
 ---
 
@@ -13,7 +13,7 @@ image: /assets/troisjours.jpeg
 
 La plupart des entreprises ne connaissent pas leurs réelles urgences et priorités, c’est à dire les réelles priorités pour la santé et la vie de toute l’organisation, sur le moyen et long terme.
 
-le [[Design Systémique]] permet de se poser, d’analyser et de déterminer avec et pour les parties prenants de l’organisation les réelles priorités.
+le [[Design systémique]] permet de se poser, d’analyser et de déterminer avec et pour les parties prenants de l’organisation les réelles priorités.
 
 > Comme un naturopathe pour le corps humain, c’est ici une équipe d’intervention pour le corps « entreprise » qui va chercher les causes de problèmes.
 

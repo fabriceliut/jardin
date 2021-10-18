@@ -10,7 +10,7 @@ Ce type de système devient alors une sorte de "second cerveau de groupe" ou [[S
 
 
 ### Liens systémiques entre les éléments de données.
-Comme dans un wiki, [[Roam Research]] ou comme sur ce site internet ou les termes du contenu sont des [[Liens bidirectionnels]] permettant ainsi de lier des concepts entre eux et de proposer une navigation dans l'information "en rebond". Si on veut plus d'information sur un concept, il suffit de cliquer dessus pour découvrir une page dédiée.
+Comme dans un wiki, [[Roam Research]] ou comme sur ce site internet ou les termes du contenu sont des [[liens bidirectionnels]] permettant ainsi de lier des concepts entre eux et de proposer une navigation dans l'information "en rebond". Si on veut plus d'information sur un concept, il suffit de cliquer dessus pour découvrir une page dédiée.
 
 Il est aussi possible "d'accrocher" du contenu à des termes & en allant sur la page dédiée de ce terme découvrir tous les contenus qui lui sont reliés et ainsi offrir une diversité de contexte de lecture pour comprendre et interpréter un concept.
 

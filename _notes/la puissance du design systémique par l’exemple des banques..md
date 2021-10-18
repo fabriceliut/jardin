@@ -7,7 +7,7 @@ image: /assets/banques.jpg
 
 Actuellement beaucoup de démarches de transformation et de résolution de problématiques complexes sont en action ; **cependant, très souvent elles se développent isolées.**
 
-Prenons pour exemple les nécessaire transformations des banques : au même moment, elles collaborent avec différentes agences et cabinets de conseil pour mettre en place de l’agilité, de la [[Facilitation]], du travail collaboratif ou des systèmes d’information et de communication plus efficients. Exactement au même moment, les mêmes problématiques sont en train d’être adressées chez les autres. Un besoin, une réponse. Encore une fois, la plupart du temps le même besoin, pour la même réponse… Sans aucune synergie entre les acteurs qui agissent sur ces différents systèmes et toujours une volonté des organisations de ne pas « partager l’information » de ce qu’il est en train de se passer au sein de leurs entreprises…
+Prenons pour exemple les nécessaire transformations des banques : au même moment, elles collaborent avec différentes agences et cabinets de conseil pour mettre en place de l’agilité, de la [[facilitation]], du travail collaboratif ou des systèmes d’information et de communication plus efficients. Exactement au même moment, les mêmes problématiques sont en train d’être adressées chez les autres. Un besoin, une réponse. Encore une fois, la plupart du temps le même besoin, pour la même réponse… Sans aucune synergie entre les acteurs qui agissent sur ces différents systèmes et toujours une volonté des organisations de ne pas « partager l’information » de ce qu’il est en train de se passer au sein de leurs entreprises…
 
 **C’est volontairement compliquer les choses que de croire que les problèmes des différentes banques sont si différents les unes des autres :**concrètement, leur développement et leur évolution linéaire et très mécanique reste sans grande surprise. Si vous échangez avec les différents intervenants en actions, ils vous diront la plupart du temps « oui ces problèmes là… On connait bien, de toute manière ils ont tous les mêmes problèmes actuellement. »
 
@@ -21,7 +21,7 @@ Prenons pour exemple les nécessaire transformations des banques : au même mome
 
 ## **Pourquoi faire tout le temps les même erreurs et en même temps ?**
 
-Comme le dit Gunter Pauli dans son livre sur la « Blue economy », **le pouvoir de la pensée et du [[Design Systémique]] est justement de sortir de ce schéma en silo et linéaire.** **Le pouvoir du Design en systèmes est de traiter les causes de problèmes et non plus les effets et traiter ces causes règle également d’autres effets dont nous n’avions pas conscience au départ.**
+Comme le dit Gunter Pauli dans son livre sur la « Blue economy », **le pouvoir de la pensée et du [[Design systémique]] est justement de sortir de ce schéma en silo et linéaire.** **Le pouvoir du Design en systèmes est de traiter les causes de problèmes et non plus les effets et traiter ces causes règle également d’autres effets dont nous n’avions pas conscience au départ.**
 
 *Imaginez simplement, il est possible de régler des problèmes (effets) sans ne rien faire (et donc rien dépenser en temps et argent). Quelle belle surprise que de découvrir une série de solutions qui se mettent en place d’elles-même après la résolution d’une problématique cause…*
 

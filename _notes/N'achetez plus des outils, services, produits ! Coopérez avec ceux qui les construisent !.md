@@ -66,7 +66,7 @@ Netflix répond à un besoin clair : fournir légalement une quantité riche de 
 
 **Voici un moment important de notre exploration : si il n'y a pas coopération entre des humains provenant d'une grande diversité de modèles de pensée, de vivre et de tradition, alors il devient impossible de créer des choses nouvelles !**
 
-*Notre société commence à le comprendre : changement des modèles d'organisation, ouverture des silos, ouverture sur l'extérieur, explosion des démarches [[Designs]] & de la [[Facilitation]], etc...*
+*Notre société commence à le comprendre : changement des modèles d'organisation, ouverture des silos, ouverture sur l'extérieur, explosion des démarches [[Designs]] & de la [[facilitation]], etc...*
 
 ## **Cherchez des modèles différents du votre plutôt que l'outil "magique" à tout solutionner.**
 

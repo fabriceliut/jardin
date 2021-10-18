@@ -14,6 +14,6 @@ Dans la terre, ce sont les avant-gardes qui dénichent en avance les pépites po
 Au dehors, les grands arbres qui captent tout le soleil, ce sont les monopoles économiques, les grandes entreprises.
 Les jeunes pousses elles sont les start-up, plus proche de l'avant garde mais très opportunistes. Elle peuvent se faire reprendre par un grand arbre et elles peuvent aussi "voler" les ressources de l'avant-garde.
 
-Pour limiter le pouvoir de l'upperground, il est intéressant de monter des projets pour récupérer leur argent et le disperser - c'est l'un des axes de travail du [[Design Régénératif]] et porté avec [[Archipel Kyosei]].
+Pour limiter le pouvoir de l'upperground, il est intéressant de monter des projets pour récupérer leur argent et le disperser - c'est l'un des axes de travail du [[Design régénératif]] et porté avec [[Archipel Kyosei]].
 
 #Afairepousser [[décoder la vie]]

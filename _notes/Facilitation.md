@@ -1,5 +1,5 @@
 ---
-title: Facilitation
+title: facilitation
 ---
 
 # Pourquoi la facilitation et le [[Design Sprint]] ?

@@ -18,8 +18,8 @@ Finissons cette présentation globale par quelques exemples d'applications conc
 
 - **Par le Business Design**, sortir du modèle économique classique et linéaire et inventer de nouveaux modèles beaucoup plus systémiques, organiques et décentralisés *(ex : de Amazone par exemple, avec son business éco-systémique en développement...Attention cependant, pas d'Ecological Design chez eux encore...)*
 - **Par l'Ecological Design**, intégrer les contraintes de l'environnement et de la biosphère dans toutes les démarches business. L'équilibre et la préservation de la nature est tout autant nécessaire à la survie humaine que le développement économique *(ex : de Patagonia...)*
-- **Par le [[Design Systémique]]**, prendre conscience de la structure de nos organisations, des priorités et urgences d'actions réelles mais aussi des modes d'échanges d'informations, des axes de frictions, etc... *(ex : Lego qui se restructure sur une logique horizontale et qui optimise ainsi tous ses services d'activités en fluidifiant les échanges, les collaborations et les prises de décisions)*
-- **Par le [[Design Information Architecture]]** pour structurer l'information de la veille coopérative à l'exploitation de cette connaissance en commun en mode projet.
+- **Par le [[Design systémique]]**, prendre conscience de la structure de nos organisations, des priorités et urgences d'actions réelles mais aussi des modes d'échanges d'informations, des axes de frictions, etc... *(ex : Lego qui se restructure sur une logique horizontale et qui optimise ainsi tous ses services d'activités en fluidifiant les échanges, les collaborations et les prises de décisions)*
+- **Par le [[Design information architecture]]** pour structurer l'information de la veille coopérative à l'exploitation de cette connaissance en commun en mode projet.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 Vous pourrez découvrir ici prochainement une liste complète de tous les Designs.

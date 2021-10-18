@@ -43,7 +43,7 @@ Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]].
 
 **Quelques sujets 👇**
 - [[Choisir avec qui et comment travailler en tant qu'indépendant]]
-- [[Faisons partie de nous]] - [[Identité de groupe]] - [[nous avons une mission]]
+- [[Faisons partie de nous]] - [[identité de groupe]] - [[nous avons une mission]]
 - [[décoder la vie]]
 
 ### Approche numérique.

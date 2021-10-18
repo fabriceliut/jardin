@@ -1,5 +1,5 @@
 ---
-title: Conscience
+title: conscience
 ---
 
 ### Quelques premières pistes d'études de la conscience pour initier cette note.

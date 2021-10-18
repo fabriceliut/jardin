@@ -1,5 +1,5 @@
 ---
-title: Liens bidirectionnels
+title: liens bidirectionnels
 ---
 
 Vous voyez ce qu'est un lien hypertexte ? C'est la plupart des liens qu'on clique qui renvoient sur une page spécifique d'un site ou d'un autre site.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/Retour dans le game ou aller simple vers le meta-game.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/Retour dans le game ou aller simple vers le meta-game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_pages/index.md",
-    "_notes/Créer un système de connaissance coopératif.md",
-    "_notes/Système Complexe.md",
-    "_notes/Jardin Numérique.md",
-    "README.md",
-    "_notes/2 courants Yin et Yang.md",
-    "_notes/logique et nécessité des interrelations pour faire système en archipels.md",
-    "Comprendre ce qu'est un projet.md",
-    "_notes/emergence de structure logique utilisable.md",
-    "_notes/du système projet aux assemblages projets.md"
+    "_notes/Retour dans le game ou aller simple vers le meta-game.md",
+    "_notes/résilience.md",
+    "_notes/Ressources du Comptoir.md",
+    "_notes/Régénérer est une direction.md",
+    "_notes/Personne Morale.md",
+    "_notes/Prendre soin du collectif.md",
+    "_notes/Pensée systémique.md",
+    "_notes/Livre du Comptoir.md",
+    "_notes/linguistique.md",
+    "_notes/Liens bidirectionnels.md"
   ]
 }

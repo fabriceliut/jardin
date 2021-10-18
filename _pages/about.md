@@ -33,7 +33,7 @@ J'accompagne les organisations et éco-systèmes projets à se transformer en r�
 
 👉 [[Design circulaire sur 1 jour]]
 
-## J’apporte une sensibilité et des méthodes de [[Facilitation]] adaptées pour interconnecter les humains et faciliter les coopérations. 
+## J’apporte une sensibilité et des méthodes de [[facilitation]] adaptées pour interconnecter les humains et faciliter les coopérations. 
 
 Dans un monde complexe, nous avons besoin de toute la diversité des modèles de pensée de notre humanité. C'est par cette complémentarité & notre intelligence collective que nous pourrons agir en cohérence avec nos ambitions tout en restant en accord avec les projets des autres & du reste du vivant.
 
@@ -53,7 +53,7 @@ _**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depu
 
 Je vois notre société actuelle comme un système qui dégénère bien plus qu'il ne se régénère. L'industrialisation nous a totalement éloigné du "bon sens" de vivre. **Mon action en tant que Designer est de participer à fluidifier le quotidien des systèmes humains pour libérer la création et redonner une dynamique régénérative à nos initiatives.** Notre société doit gagner en tolérance, en diversité et en coopération pour se développer en symbiose, comme une forêt primaire, saine et abondante, pour nous et en accord avec le reste du vivant.
 
-📕 [[Livre du Comptoir]]
+📕 [[livre du Comptoir]]
 
 Lorsque nous aurons atteint ce nouvel "état temporaire" d'existence, nous pourrons profiter de nouveaux paradigmes de société, **d'une nouvelle réalité à explorer librement ensemble**. Tout ceci peut paraître idéaliste ? C'est une des postures "Politique" que porte le Design de demain, nécessairement optimiste.
 

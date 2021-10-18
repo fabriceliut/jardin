@@ -1,5 +1,5 @@
 ---
-title: Identité de groupe
+title: identité de groupe
 ---
 
 J'ouvre une nouvelle exploration collective autour du concept d'identité de groupe. Je prendrais un scénario assez simple d'entrepreneur pour illustrer ma réflexion.

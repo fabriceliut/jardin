@@ -1,5 +1,5 @@
 ---
-title: Approche du Comptoir
+title: approche du comptoir
 ---
 
 >La mission du Comptoir est d’engager toutes les organisations dans leur « mutation ». Que vous soyez dirigeants, acteurs du changement, chefs de projets ou managers, le Comptoir vous accompagne étape après étape. 
@@ -31,12 +31,12 @@ Ce sont les histoires, les projections intellectuelles et émotionnelles, les r�
 
 ---
 
-# [[Le Comptoir]], toute une approche systémique de la complexité.
+# [[le Comptoir]], toute une approche systémique de la complexité.
 Tout est système & tout est lié. Nous le savons maintenant, il est nécessaire d’approcher les transformations en conscience globale pour porter les actions locales adaptées.
 
-Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la [[complexité]] et d’appliquer un traitement [[Design Régénératif]].
+Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la [[complexité]] et d’appliquer un traitement [[Design régénératif]].
 
-Concrètement, cette approche repose sur 3 premiers jours socles de [[Design Systémique]], mêlant experts du Comptoir et parties prenants des organisations.
+Concrètement, cette approche repose sur 3 premiers jours socles de [[Design systémique]], mêlant experts du Comptoir et parties prenants des organisations.
 
 > Découvrir l'approche [[Design Systémique sur 3 jours]]
 > Découvrir l'approche [[Design circulaire sur 1 jour]]
@@ -51,7 +51,7 @@ Concrètement, cette approche repose sur 3 premiers jours socles de [[Design Sys
 
 4. MISE EN RELATION AVEC LES AUTRES EXPERTS ADÉQUATS.
 
-5. [[Facilitation]] DES COOPÉRATIONS POUR LIBÉRER L’INTELLIGENCE COLLECTIVE ET APPRÉHENDER LA COMPLEXITÉ.
+5. [[facilitation]] DES COOPÉRATIONS POUR LIBÉRER L’INTELLIGENCE COLLECTIVE ET APPRÉHENDER LA COMPLEXITÉ.
 
 6. SUIVI EN CONTINUE DURANT TOUTES LES ÉTAPES DE LA TRANSFORMATION. LE COMPTOIR RESTE PARTIE INTÉGRANTE DU PROJET, VIA UNE RELATION TRANSVERSALE, AUTHENTIQUE ET NATURELLE.
 

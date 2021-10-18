@@ -20,4 +20,4 @@ En toute transparence, vous pouvez trouver plus d'informations sur notre [Archip
 Qu'est-ce que ça veut bien dire ? Est-ce si différent que faire partie d'un collectif ou d'une entreprise ? Je tenterais d'apporter des pistes de réponses au fil du temps ici.
 Mais déjà, est-ce que [[nous avons une mission]] ?
 
-> En lien avec [[Le Comptoir]], projet précédent celui de l'archipel. #projet 
+> En lien avec [[le Comptoir]], projet précédent celui de l'archipel. #projet 

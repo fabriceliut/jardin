@@ -58,7 +58,7 @@ Alors oui ça commence fort, ce changement de paradigme entraîne de gros mouvem
 
 ### Le ROI de l’intelligence collective.
 
-La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les languages... **c’est là où de nombreuses postures comme la [[Facilitation]] prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle intelligence collective et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant mais l’avantage c’est que la confiance on la porte sur Nous-mêmes.**
+La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les languages... **c’est là où de nombreuses postures comme la [[facilitation]] prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle intelligence collective et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant mais l’avantage c’est que la confiance on la porte sur Nous-mêmes.**
 
 ### Apprendre de la nature plutôt que faire de la R&D.
 

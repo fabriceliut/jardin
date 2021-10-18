@@ -11,7 +11,7 @@ Sur curiosité de certaines personnes de la communnauté Slack "No-code", je vou
 - Les daily notes pour laisser des traces au quotidien
 - Les doubles [[]] pour créer des pages de termes et concepts
 - Roam, un wiki sous stéroïde
-- Les références aux pages et les [[Liens bidirectionnels]]
+- Les références aux pages et les [[liens bidirectionnels]]
 - Les blocs, les embed de blocs : plus jamais écrire 2 fois le même contenu
 - Roam & la prise de note en multiplayers (règles, bonnes pratiques, partage d'expériences)
 - Roam demain ? Et les autres applications de sa génération ?
