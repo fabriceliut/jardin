@@ -54,6 +54,7 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 - [[créer un système de connaissance coopératif]]
 
 **Et en écriture 👇**
+- [[start with why but stop with why]]
 - [[Exploration de l'abstraction]]
 - [[se raconter des histoires]]
 
