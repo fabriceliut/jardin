@@ -55,6 +55,7 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 
 **Et en écriture 👇**
 - [[start with why but stop with why]]
+- [[retrouver la confiance en l’intuition]]
 - [[Exploration de l'abstraction]]
 - [[se raconter des histoires]]
 
