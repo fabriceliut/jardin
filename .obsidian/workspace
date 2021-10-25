@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/la richesse de la curation croisée.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/la richesse de la curation croisée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/la richesse de la curation croisée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/la richesse de la curation croisée.md",
+    "_notes/2 courants Yin et Yang.md",
     "_pages/index.md",
     "_notes/retrouver la confiance en l’intuition.md",
     "_notes/L'être et l'étant.md",
     "_pages/about.md",
-    "_notes/2 courants Yin et Yang.md",
     "_notes/faire confiance autrement.md",
     "_notes/Exploration de l'abstraction.md",
     "_notes/Comprendre ce qu'est un projet.md",
-    "_notes/Il n'y a pas de montagne.md",
-    "Exploration de l'abstraction.md"
+    "_notes/Il n'y a pas de montagne.md"
   ]
 }
