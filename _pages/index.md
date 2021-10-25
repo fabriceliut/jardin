@@ -14,6 +14,7 @@ permalink: /
 
 ## Les dernières mises à jour.
 
+- [[la richesse de la curation croisée]]
 - Et si [[Il n'y a pas de montagne]] ?
 - [[Comprendre ce qu'est un projet]]
 - [[Echec et mat du monopole]]

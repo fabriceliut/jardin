@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/la richesse de la curation croisée.md",
+            "file": "_pages/index.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/la richesse de la curation croisée.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/la richesse de la curation croisée.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,9 +110,9 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_pages/index.md",
     "_notes/la richesse de la curation croisée.md",
     "_notes/2 courants Yin et Yang.md",
-    "_pages/index.md",
     "_notes/retrouver la confiance en l’intuition.md",
     "_notes/L'être et l'étant.md",
     "_pages/about.md",
