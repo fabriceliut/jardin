@@ -59,6 +59,7 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 - [[retrouver la confiance en l’intuition]]
 - [[Exploration de l'abstraction]]
 - [[se raconter des histoires]]
+- [[Formation à la créativité]]
 
 ---
 
