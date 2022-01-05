@@ -61,7 +61,7 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 - [[se raconter des histoires]]
 - [[Formation à la créativité]]
 
-Bientôt des petits scénarios fictives comme [[La vie en double face]]
+Bientôt des petits scénarios fictifs comme [[La vie en double face]]
 
 ---
 
