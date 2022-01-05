@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
-            "mode": "source"
+            "file": "_notes/les bienfaits du design thinking.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/les bienfaits du design thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/les bienfaits du design thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +111,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/les bienfaits du design thinking.md",
+    "_notes/La vie en double face.md",
+    "_notes/La recherche de la santé parfaite.md",
+    "_notes/design par le contexte et son environnement.md",
     "_pages/index.md",
-    "_notes/Formation à la créativité.md",
-    "_notes/guidebook apprendre à vendre.md",
-    "_notes/spiritualité.md",
-    "_notes/Prendre soin de soi.md",
-    "_notes/décoder la vie.md",
-    "_notes/vision du moment présent.md",
-    "_notes/la richesse de la curation croisée.md",
+    "Explication SLL - archive.md",
+    "Santé, corps & alimentation.md",
     "_notes/2 courants Yin et Yang.md",
-    "_notes/retrouver la confiance en l’intuition.md"
+    "_notes/Formation à la créativité.md",
+    "_notes/guidebook apprendre à vendre.md"
   ]
 }
