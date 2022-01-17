@@ -3,9 +3,9 @@ title: Découverte de Roam
 ---
 
 # Date à définir.
-> Lien zoom à définir.
+> dates prochainement
 
-Sur curiosité de certaines personnes de la communnauté Slack "No-code", je vous propose 40 minutes max d'un tour de découverte de notre instance [[Roam Research]] pour vous faire découvrir une partie du champ des possible immense de ce système numérique.
+Je vous propose 40 minutes max d'un tour de découverte de notre instance [[Roam Research]] pour vous faire découvrir une partie du champ des possible immense de ce système numérique.
 
 ### Quelques grands axes à découvrir :
 - Les daily notes pour laisser des traces au quotidien
@@ -16,7 +16,5 @@ Sur curiosité de certaines personnes de la communnauté Slack "No-code", je vou
 - Roam & la prise de note en multiplayers (règles, bonnes pratiques, partage d'expériences)
 - Roam demain ? Et les autres applications de sa génération ?
 - Répondre à vos questions
-
-Si vous voyez d'autres axes que vous voudriez découvrir, ne pas hésiter à m'envoyer un petit message !
 
 #event

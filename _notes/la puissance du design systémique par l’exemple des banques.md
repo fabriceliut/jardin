@@ -1,5 +1,5 @@
 ---
-title: la puissance du design systémique par l’exemple des banques.
+title: la puissance du design systémique par l’exemple des banques
 image: /assets/banques.jpg
 ---
 

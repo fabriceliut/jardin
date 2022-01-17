@@ -77,7 +77,7 @@ La direction stratégique peut ainsi construire un plan cohérent d’évolution
 
 Suite à ce sprint il est possible de traiter « en conscience » et en pas à pas les priorités grâce à une série de [[Design Sprint]] en relation. C’est une nouvelle logique d’organisation qui se met ainsi en place, agile, « by design » & résiliente.
 
-> 🚀 Bonus : [[la puissance du design systémique par l’exemple des banques.]]
+> 🚀 Bonus : [[la puissance du design systémique par l’exemple des banques]]
 
 #offre
 

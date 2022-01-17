@@ -10,4 +10,7 @@ Mais alors voilà que depuis bientôt 2 ans, petit à petit, je glisse littéral
 
 Toi aussi tu vis cette expérience ?
 
+### 17/01/2022
+toujours autant sur le cul de l'évolution à toute vitesse de la réalité dans laquelle j'évolue. beaucoup d'habitudes et beaucoup de paradigmes continues à changer, j'ai de moins en moins de repère pour me poser et surtout me "reposer".
+
 #Afairepousser - [[décoder la vie]]

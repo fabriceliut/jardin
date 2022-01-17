@@ -8,7 +8,7 @@ J'approche le soin du monde par des "médecines" que je connais bien, les [[Desi
 
 >Nous avons tellement à apprendre du minéral, du végétal & de l'animal plutôt que d'avoir la prétention d'être les premiers à penser à tout & à trouver des solutions uniques. Nous sommes si jeunes dans l'histoire de la vie, nous avons bien plus à apprendre et à nous inspirer qu'à imposer et vouloir contrôler.
 
-Ce sont, pour moi, surtout les questions qui doivent nous inspirer et par curiosité, écoute, exploration et [[Dialectique]] nous permettre d'apprendre le nécessaire pour régénérer notre humanité & ainsi prendre soin du monde. Apprendre, dans chaque expérience, chaque interaction & par [[Pensée Analogique]] voir émerger les liens d'une connaissance utile à d'autres domaines qui le nécessite.
+Ce sont, pour moi, surtout les questions qui doivent nous inspirer et par curiosité, écoute, exploration et [[Dialectique]] nous permettre d'apprendre le nécessaire pour régénérer notre humanité & ainsi prendre soin du monde. Apprendre, dans chaque expérience, chaque interaction & par [[Pensée analogique]] voir émerger les liens d'une connaissance utile à d'autres domaines qui le nécessite.
 
 ## Des questions, surtout des questions.
 - Quelles sont les grands paradigmes du vivant ? Est-ce qu'on peut [[décoder la vie]] ?

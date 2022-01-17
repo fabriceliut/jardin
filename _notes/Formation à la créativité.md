@@ -20,7 +20,7 @@ title: Formation à la créativité
 - La démarche exploratoire
 - La sérendipité
 - Les questions & la dialectique
-- La [[Pensée Analogique]]
+- La [[Pensée analogique]]
 - La [[pensée systémique]]
 - Penser du macro au micro
 
