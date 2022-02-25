@@ -9,7 +9,7 @@ Une des démarches [[Designs]] qui intègre une orientation régénérative c'es
 Je tenterais de vous présenter [[Pourquoi une approche & un Design régénératif est nécessaire]] pour régénérer notre société. 
 
 [[Régénérer est une direction]], c'est une dynamique, un mouvement, un engagement en tant que Designer. 
-C'est sortir d'une démarche business as usual pour chercher plus largement à [[Prendre soin du monde]]. En lien 👉 [[Business as non usual, le guide]], pour faire du business régénératif.
+C'est sortir d'une démarche business as usual pour chercher plus largement à [[Prendre soin du monde]]. En lien 👉 [[guidebook business as non usual]], pour faire du business régénératif.
 
 Je participe également à un [[Mouvement mondial du design régénératif]] que je vous invite à soutenir.
 

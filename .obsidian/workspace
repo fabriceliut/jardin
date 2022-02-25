@@ -7,8 +7,12 @@
         "id": "073735aca94a89ea",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_pages/index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,15 +111,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/_daily/2022-01-17.md",
     "_pages/index.md",
-    "_notes/Transformation culturelle d’un grand groupe européen..md",
-    "_notes/tout dans la vie est langage et conversation.md",
-    "_notes/système complexe.md",
-    "_notes/Spirale dynamique.md",
-    "_notes/retrouver la confiance en l’intuition.md",
-    "_notes/Régénérer est une direction.md",
-    "_notes/Personne Morale.md",
-    "_notes/Pensée analogique.md"
+    "_notes/C'est quoi lâcher prise.md",
+    "_notes/biomimétisme.md",
+    "_notes/bio-inspiration.md",
+    "_notes/guidebook business as non usual.md",
+    "_notes/cats.md",
+    "_notes/consistency.md",
+    "_notes/Créer des indicateurs qualitatifs.md",
+    "_notes/créer un système de connaissance coopératif.md",
+    "_notes/des assemblages à la symbiose projets.md"
   ]
 }

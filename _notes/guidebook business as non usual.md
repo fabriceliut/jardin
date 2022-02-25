@@ -1,5 +1,5 @@
 ---
-title: Business as non usual, le guide
+title: guidebook business as non usual
 image: /assets/businessnonusual.png
 ---
 ![]({{page.image}})

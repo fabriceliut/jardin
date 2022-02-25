@@ -85,4 +85,4 @@ _Pour comprendre le storytelling et le processus d'écriture créative._
  _Pour comprendre comment appliquer la démarche créative dans tous les domaines, tout le temps._
  
 
-#offre 
+#offre [[Guidebook]]

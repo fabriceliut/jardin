@@ -33,7 +33,7 @@ Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archip
 - [[bio-inspiration]]
 - [[complexité]] - [[système complexe]]
 - [[coopération]]
-- [[Business as non usual, le guide]]
+- [[guidebook business as non usual]]
 - [[guidebook apprendre à vendre]]
 - [[Design circulaire sur 1 jour]]
 - [[Design systémique sur 3 jours]]
