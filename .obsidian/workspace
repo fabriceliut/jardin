@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
-            "mode": "source",
+            "file": "_notes/pensée systémique.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pensée",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/pensée systémique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/pensée systémique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/pensée systémique.md",
+    "_notes/logique.md",
+    "_notes/maïeutique.md",
+    "_notes/la détente dans la conscience.md",
+    "_notes/une planète de mercenaires.md",
+    "_notes/Echec et mat du monopole.md",
     "_pages/index.md",
     "_notes/C'est quoi lâcher prise.md",
     "_notes/biomimétisme.md",
-    "_notes/bio-inspiration.md",
-    "_notes/guidebook business as non usual.md",
-    "_notes/cats.md",
-    "_notes/consistency.md",
-    "_notes/Créer des indicateurs qualitatifs.md",
-    "_notes/créer un système de connaissance coopératif.md",
-    "_notes/des assemblages à la symbiose projets.md"
+    "_notes/bio-inspiration.md"
   ]
 }
