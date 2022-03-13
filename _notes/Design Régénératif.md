@@ -2,11 +2,15 @@
 title: Design régénératif
 ---
 
+### définition synthétique
 Une des démarches [[Designs]] qui intègre une orientation régénérative c'est à dire qui tend à revitaliser ou suivre le mouvement du vivant. L'opposé serait une approche dégénérative qui mène à la stérilité, à l'arrêt & à la mort. Elle fait le pont entre design et [[écologie]].
 
-> Je donnerais quelques exemple ici prochainement
+---
 
-Je tenterais de vous présenter [[Pourquoi une approche & un design régénératif est nécessaire]] pour régénérer notre société. 
+> Je donnerais quelques exemple ici prochainement
+> [La définition de wiki](https://en.wikipedia.org/wiki/Regenerative_design) pour enrichir
+
+Je tenterais de vous présenter [[pourquoi une approche & un design régénératif est nécessaire]] pour régénérer notre société. 
 
 [[Régénérer est une direction]], c'est une dynamique, un mouvement, un engagement en tant que designer. 
 C'est sortir d'une démarche business as usual pour chercher plus largement à [[Prendre soin du monde]]. 
