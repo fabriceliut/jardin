@@ -2,7 +2,7 @@
 title: Ma vision du Design en 2021
 ---
 
-Je me dis actuellement acteur du [[Design systémique]] et du [[Design régénératif]]. Mais qu'est-ce que veulent dire ces termes associés ensemble pour une vision complète du Design ?
+Je me dis actuellement acteur du [[Design systémique]] et du [[design régénératif]]. Mais qu'est-ce que veulent dire ces termes associés ensemble pour une vision complète du Design ?
 
 **Je vais vous l'exposer dans cet essai**. C'est pour moi la mise à jour nécessaire du Design pour 2021 en 4 points :
 
@@ -65,7 +65,7 @@ Dans cette ère de l'[[anthropocène]] nous sommes l'espèce dégénérative par
 
 > La Vie, elle, expérimente déjà d'autres chemins plus viables...
 
-### Voilà pourquoi il nous faut développer le [[Design régénératif]].
+### Voilà pourquoi il nous faut développer le [[design régénératif]].
 
 Dans sa dimension écologique, chaque acte de design en revient à **un acte de soin** envers les humains, le reste du vivant et la planète.
 

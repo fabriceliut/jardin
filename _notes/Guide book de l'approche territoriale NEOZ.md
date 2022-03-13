@@ -716,7 +716,7 @@ Dimension économique
 ---
 ### Quels outils & ressources utiliser ?
 Apports du #[[Design systémique]]
-Apports du #[[Design régénératif]]
+Apports du #[[design régénératif]]
 Apports du Business Design
 Apports de la documentation coopérative
 ---

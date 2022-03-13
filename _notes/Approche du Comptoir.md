@@ -34,7 +34,7 @@ Ce sont les histoires, les projections intellectuelles et émotionnelles, les r�
 # [[le Comptoir]], toute une approche systémique de la complexité.
 Tout est système & tout est lié. Nous le savons maintenant, il est nécessaire d’approcher les transformations en conscience globale pour porter les actions locales adaptées.
 
-Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la [[complexité]] et d’appliquer un traitement [[Design régénératif]].
+Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la [[complexité]] et d’appliquer un traitement [[design régénératif]].
 
 Concrètement, cette approche repose sur 3 premiers jours socles de [[Design systémique]], mêlant experts du Comptoir et parties prenants des organisations.
 

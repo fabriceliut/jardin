@@ -13,7 +13,7 @@ title: Les services de Archipel Kyosei
 Dans notre monde complexe, il est nécessaire de porter une vision systémique pour détecter les causes des problèmes. C’est une étape nécessaire pour sélectionner les démarches à mettre en place par la suite.
 
 - [[Design systémique]]
-- [[Design régénératif]]
+- [[design régénératif]]
 - Pensée complexe
 - Théories des flux
 

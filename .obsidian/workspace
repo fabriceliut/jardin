@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/pensée systémique.md",
+            "file": "_notes/Pourquoi une approche & un design régénératif est nécessaire.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pensée",
+                "query": "régénératif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/pensée systémique.md",
+                "file": "_notes/Pourquoi une approche & un design régénératif est nécessaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/pensée systémique.md",
+                "file": "_notes/Pourquoi une approche & un design régénératif est nécessaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/Pourquoi une approche & un design régénératif est nécessaire.md",
+    "{{page.image}}.md",
+    "_notes/design régénératif.md",
+    "_notes/civilisation de la vie.md",
     "_notes/pensée systémique.md",
     "_notes/logique.md",
     "_notes/maïeutique.md",
     "_notes/la détente dans la conscience.md",
     "_notes/une planète de mercenaires.md",
-    "_notes/Echec et mat du monopole.md",
-    "_pages/index.md",
-    "_notes/C'est quoi lâcher prise.md",
-    "_notes/biomimétisme.md",
-    "_notes/bio-inspiration.md"
+    "_notes/Echec et mat du monopole.md"
   ]
 }

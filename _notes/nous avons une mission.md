@@ -12,7 +12,7 @@ La vie ce n’est pas nécessairement notre société. Nous ne sommes tous ensem
 
 Un système, ça se change, ça se renouvelle, ça se transforme. C'est une création et comme toute création vivante, ce système humain est fait pour évoluer, entrer en mutation et demain ne plus ressembler du tout à ce qu'il était.
 
-Par le [[Design régénératif]], l’économie, la science, l’art, la spiritualité... peu importe la manière tant qu’on s’accorde sur la dynamique et la direction. Parce que [[Régénérer est une direction]], certains comme moi voudront la prendre, d'autres non.
+Par le [[design régénératif]], l’économie, la science, l’art, la spiritualité... peu importe la manière tant qu’on s’accorde sur la dynamique et la direction. Parce que [[Régénérer est une direction]], certains comme moi voudront la prendre, d'autres non.
 
 Dans cette direction, nous ne voulons plus de domination, de classes, de castes, d’exploitation, de misère, de colonialisme, de totalitarisme, de racisme, de sexisme. C'est un choix.
 

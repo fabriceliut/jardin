@@ -7,7 +7,7 @@ image: /assets/coopererregenerer.jpeg
 
 > *“It’s up to us to decide what kind of a world we want to leave to coming generations – a sustainable one, or a desolate one in which the civilisation we have built disintegrates rather than builds on past successes,”* - [Source inspirant cet article](https://www.independent.co.uk/environment/sixth-mass-extinction-endangered-animals-wildlife-markets-biodiversity-crisis-standford-study-a9544856.html).
 
-**Plus de 500 espèces sont sur le chemin de l'extinction dans les 20 prochaines années.**Sans compter celles qui ont disparus depuis que je suis né. J'étais trop petit, je ne pouvais même pas me rendre compte de la gravité de la situation. Maintenant je comprend trop bien que c'est systémique et qu'on est en train de perdre beaucoup plus qu'on ne le sait...
+**Plus de 500 espèces sont sur le chemin de l'extinction dans les 20 prochaines années.** Sans compter celles qui ont disparus depuis que je suis né. J'étais trop petit, je ne pouvais même pas me rendre compte de la gravité de la situation. Maintenant je comprend trop bien que c'est systémique et qu'on est en train de perdre beaucoup plus qu'on ne le sait...
 
 - De tous temps, ce qui inspire l'humain pour crée, c'est la nature et au-delà de ce terme, c'est la diversité de ce qu'il peut observer, étudier, goûter...
 - En réduisant la diversité, déjà nous brisons la symbiose en place depuis bien plus longtemps que nous, mais en plus, nous réduisons notre capacité à nous inspirer, à découvrir, à nous émerveiller...
@@ -22,7 +22,7 @@ image: /assets/coopererregenerer.jpeg
 
 ## **Au quotidien, régénérer plutôt que dégénérer.**
 
-Le [[Design régénératif]] porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est à dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
+Le [[design régénératif]] porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est à dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
 
 ### **Comment est-ce que ça s'applique au quotidien ?**
 

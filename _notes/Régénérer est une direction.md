@@ -10,7 +10,7 @@ Bien entendu, ce n'est pas possible. Certaines situations sont tellement complex
 
 Pour cette raison, la régénération n'est pas un processus linéaire : une situation tend à la régénération ou tend à la dégénération mais il n'y a pas d'état final. C'est un processus de vie, un processus naturel. C'est [[Yin Yang]], positif/négatif, deux énergies essentielles de notre réalité.
 
-Cependant, dans notre société actuelle, beaucoup plus d'activités, de projets ou de systèmes tendent vers la dégénération. C'est pour venir remettre de l'équilibre dans cette balance que le [[Design régénératif]] existe. Cette approche ne cherche pas à équilibrer la réalité mais seulement à réparer les effet dégénératifs de l'humanité pour la soigner & la remettre en santé.
+Cependant, dans notre société actuelle, beaucoup plus d'activités, de projets ou de systèmes tendent vers la dégénération. C'est pour venir remettre de l'équilibre dans cette balance que le [[design régénératif]] existe. Cette approche ne cherche pas à équilibrer la réalité mais seulement à réparer les effet dégénératifs de l'humanité pour la soigner & la remettre en santé.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FOmega%2Fd50EJqYA7l?alt=media&token=cd155080-20a1-4084-97ee-cb8d7ca1ee55)
 
