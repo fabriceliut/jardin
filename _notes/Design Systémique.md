@@ -1,5 +1,5 @@
 ---
-title: Design systémique
+title: design systémique
 ---
 
 C'est l'un des [[Designs]] & l'application concrète de la [[pensée systémique]] via, par exemple, la [[Modélisation Systémique]].

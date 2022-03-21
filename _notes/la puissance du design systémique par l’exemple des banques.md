@@ -21,7 +21,7 @@ Prenons pour exemple les nécessaire transformations des banques : au même mome
 
 ## **Pourquoi faire tout le temps les même erreurs et en même temps ?**
 
-Comme le dit Gunter Pauli dans son livre sur la « Blue economy », **le pouvoir de la pensée et du [[Design systémique]] est justement de sortir de ce schéma en silo et linéaire.** **Le pouvoir du Design en systèmes est de traiter les causes de problèmes et non plus les effets et traiter ces causes règle également d’autres effets dont nous n’avions pas conscience au départ.**
+Comme le dit Gunter Pauli dans son livre sur la « Blue economy », **le pouvoir de la pensée et du [[design systémique]] est justement de sortir de ce schéma en silo et linéaire.** **Le pouvoir du Design en systèmes est de traiter les causes de problèmes et non plus les effets et traiter ces causes règle également d’autres effets dont nous n’avions pas conscience au départ.**
 
 *Imaginez simplement, il est possible de régler des problèmes (effets) sans ne rien faire (et donc rien dépenser en temps et argent). Quelle belle surprise que de découvrir une série de solutions qui se mettent en place d’elles-même après la résolution d’une problématique cause…*
 
