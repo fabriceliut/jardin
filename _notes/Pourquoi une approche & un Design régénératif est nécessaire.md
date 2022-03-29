@@ -47,4 +47,4 @@ C'est une coopération pragmatique que je vous propose, que ce soit avec moi ou 
 - Bien entendu, je ne travaille jamais seul, **je pourrais alors rapidement vous connecter avec d'autres compétences et expertises** nécessaire à notre travail
 - Et ainsi nous essayer à une belle coopération, dans le sens du vivant !
 
-#article 
+#article #tonotion 

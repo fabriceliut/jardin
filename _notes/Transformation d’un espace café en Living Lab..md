@@ -56,4 +56,4 @@ Comment le Comptoir apporte sa pierre à cet édifice complexe ?
 
 *L’expérimentation étant actuellement en cours, nous mettrons régulièrement à jour cette page cas d’étude pour vous permettre de suivre les démarches totalement open-source.* - *Rédaction datée du 21/11/2019 à actualiser*
 
-#etude-de-cas 
+#etude-de-cas #tonotion 

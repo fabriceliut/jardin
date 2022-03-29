@@ -61,3 +61,6 @@ Penser « intégral » est une métamorphose personnelle à entrainer par dive
 **Mythes & légendes -** *Histoires et* héritages, subconscient collectif, culture & futures…+10 modules
 
 **Monde Végétal -** *L’intelligence de la forêt, l’information dans l’air, eau, cosmologie…*+10 modules
+
+---
+#tonotion 

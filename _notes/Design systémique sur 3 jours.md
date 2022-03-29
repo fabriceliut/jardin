@@ -79,5 +79,5 @@ Suite à ce sprint il est possible de traiter « en conscience » et en pas à p
 
 > 🚀 Bonus : [[la puissance du design systémique par l’exemple des banques]]
 
-#offre
+#offre #tonotion 
 

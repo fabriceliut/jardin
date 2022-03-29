@@ -1,5 +1,5 @@
 ---
-title: Personne Morale
+title: personne morale
 ---
 
 [Wiki](https://fr.wikipedia.org/wiki/Personne_morale)

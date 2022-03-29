@@ -38,4 +38,4 @@ Et si la priorité était de favoriser la stigmergie et l’intelligence collect
 
 une rencontre avec des humains venant de multiples écosystèmes complémentaires pour travailler ensemble et avec les organisations dans leur transformation. Le monde de demain ne sera alors peut-être pas sauvé en majeure partie par le numérique, mais peut-être plutôt par des humains beaucoup plus conscients, curieux et ouverts à la diversité et à la coopération en toutes situations, un peu comme ces si mignonnes petites fourmis.
 
-#article 
+#article - #tonotion 

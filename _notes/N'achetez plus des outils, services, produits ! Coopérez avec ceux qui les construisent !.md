@@ -111,4 +111,4 @@ Sur le schéma que je vous partage dans cet article, il y a deux "étages" de pl
 
 **Vous voulez transformer votre organisation, vous voulez adresser de gros problème complexes et systémiques ? Rencontrez des artistes, des musiciens, des danseurs et explorez avec eux.** Faites aussi un petit tour du côté de l'[[Archipel Kyosei]].
 
-#article 
+#article - #tonotion 

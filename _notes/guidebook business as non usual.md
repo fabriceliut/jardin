@@ -101,4 +101,4 @@ A moi qui écrit tout ça ? **[Aux plus de 30 personnes](https://www.notion.so/
 **👉 Contactez-moi directement.**
 
 *Tout ce travail évolue dans le contexte de notre éco-système, [[Archipel Kyosei]]*
-[[Guidebook]]
+[[Guidebook]] - #tonotion 

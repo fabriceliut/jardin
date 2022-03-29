@@ -30,4 +30,4 @@ Penser aussi à appliquer les phases de divergences et de convergences, d'indivi
 
 **Le rendu attendu est une board complète du système de l'organisation sur un mur, avec les éléments projets, les actions, les liens, les acteurs, les ressources, les frictions et fluidités ainsi que les informations de complémentarités, etc...**
 
-#Afairepousser [[Guidebook]]
+#Afairepousser [[Guidebook]] - #tonotion 

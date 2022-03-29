@@ -39,4 +39,4 @@ Basculer d’un modèle linéaire à un modèle circulaire est l’un des premie
 
 *C’est avec l'[[Archipel Kyosei]] tout le tissu du réseau complémentaire que vous pourrez initier cette démarche.*
 
-#offre 
+#offre #tonotion 

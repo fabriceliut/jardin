@@ -60,3 +60,5 @@ Quoi de plus efficace pour un groupe devant par exemple construire un évènemen
 
 **Tout l’idée est de partager les expériences, les outils, mais aussi de partager les groupes de réflexion, interagir dans le groupe d’un autre, etc**… Tout peut ainsi fonctionner de manière transversale, profitant à tous, autant les porteurs projets que les Designers et facilitateurs ainsi que les participants, stimulés par une mise en lumière direct au sain d’un groupe de leurs compétences et personnalités, grâce à des méthodes, timing et autres outils apportés par tous. Avancer de boucles en boucles, d’itérations en itérations, ensemble.
 
+---
+#tonotion 

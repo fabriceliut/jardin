@@ -176,3 +176,5 @@ vous pouvez suivre ma newsletter pour plus de ressources et de contenus 👉 [li
 - 🚀 community action plan
 
 *cette version était un extrait d'une version plus complète sur 1 journée. n'hésitez pas à demander plus d'infos sur ce format si ça vous intéresse.*
+
+#tonotion 

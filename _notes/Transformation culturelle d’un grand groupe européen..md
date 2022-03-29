@@ -46,4 +46,4 @@ Cependant, de nouvelles problématiques causes émergent : qui dit transformatio
 
 *+ d’infos en me contactant, avec une documentation open-source sur les démarches de transformation culturelle sur demande.*
 
-#etude-de-cas
+#etude-de-cas #tonotion 

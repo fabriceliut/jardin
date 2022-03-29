@@ -47,4 +47,4 @@ Ces démarches sont accessibles à toutes les organisations, de toutes les éche
 
 Réglons alors les problèmes causes ensemble tout en développant une meilleure lecture des besoins réels des humains. Ainsi, transformer ses bases pour plus de [[résilience]] et d’adaptabilité tout en ouvrant son activité sur des marchés porteurs car utiles, adaptés et pensés pour le moyen et long terme en accord avec notre monde en constant changement.
 
-#article 
+#article - #tonotion 

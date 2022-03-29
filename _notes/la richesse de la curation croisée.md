@@ -23,4 +23,4 @@ Pour moi, ces deux démarches sont même très complémentaire. Dans les 2 cas, 
 En lien avec [[structurer un système information]]
 
 ---
-#Afairepousser 
+#Afairepousser - #tonotion 
