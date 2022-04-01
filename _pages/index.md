@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jardin numérique de Fabrice Liut.
+title: Jardin numérique de Fabrice Liut
 id: home
 permalink: /
 ---
