@@ -10,7 +10,7 @@ Grâce à cette connaissance en commun, il est possible de lire plus clairement 
 
 >Créer un système de connaissance coopératif c'est aussi créer les bonnes bases d'un incubateur de projets à impact grâce à la richesse de l'[[intelligence collective]] d'un groupe comme [[Archipel Kyosei]] par exemple.
 
-# Etapes de création du système.
+# Etapes de création du système
 - [[tout commence par la veille]]
 - [[structurer un système information]]
 - [[emergence de structure logique utilisable]]

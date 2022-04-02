@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/ignorance, curiosité et recherche scientifique.md",
-            "mode": "source",
+            "file": "_notes/Design circulaire sur 1 jour.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tonotion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/ignorance, curiosité et recherche scientifique.md",
+                "file": "_notes/Design circulaire sur 1 jour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/ignorance, curiosité et recherche scientifique.md",
+                "file": "_notes/Design circulaire sur 1 jour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +112,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/ignorance, curiosité et recherche scientifique.md",
-    "_notes/comment se présenter aux autres?.md",
-    "_notes/qu'est-ce qu'une réelle opportunité ?.md",
-    "_notes/design as unusual.md",
-    "_notes/prospective sur l’école du futur.md",
-    "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
-    "_notes/biais à faire sauter pour gagner de l'argent.md",
-    "_notes/the possibility to see reality with unknown eyes because of art.md",
-    "_notes/respirer pour sentir la vie.md",
-    "_notes/ce que je retiens de la vie à 34ans.md"
+    "_notes/Design circulaire sur 1 jour.md",
+    "_notes/approche du comptoir.md",
+    "_pages/about.md",
+    "_notes/Design systémique sur 3 jours.md",
+    "_notes/créer un système de connaissance coopératif.md",
+    "_notes/Un jeu pour comprendre les systèmes complexes et les écosystèmes..md",
+    "_notes/Mouvement mondial du design régénératif.md",
+    "_notes/pourquoi une approche & un design régénératif est nécessaire.md",
+    "_notes/Transformation culturelle d’un grand groupe européen..md",
+    "_notes/le Comptoir.md"
   ]
 }

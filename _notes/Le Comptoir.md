@@ -34,9 +34,6 @@ L’aventure commune est lancée ! Continuons main dans la main durant les diff�
 
 ## 🗄️ Cas d’études du Comptoir.
 
-### [[Transformation d’un espace café en Living Lab.]]
-Une invitation à tous les éco-systèmes du Comptoir pour transformer en profondeur un espace au coeur de la ville et co-créer de nouveaux modèles de « travailler & vivre ensemble ».
-
 ### [[Transformation culturelle d’un grand groupe européen.]]
 Une anthropologue, un designer et un consultant sur les organisations et les usages du numérique pour une profonde mutation d’un grand groupe.
 
