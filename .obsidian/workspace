@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/créer un système de connaissance coopératif.md",
-            "mode": "preview",
+            "file": "_notes/évolutions des notes.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#tonotion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/créer un système de connaissance coopératif.md",
+                "file": "_notes/évolutions des notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/créer un système de connaissance coopératif.md",
+                "file": "_notes/évolutions des notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +111,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/évolutions des notes.md",
+    "_pages/index.md",
+    "_notes/guidebook.md",
+    "_notes/Les 4 accords Toltèques.md",
     "_notes/créer un système de connaissance coopératif.md",
     "_notes/tout commence par la veille.md",
-    "_pages/index.md",
     "_notes/Prendre soin du collectif.md",
     "_notes/présentation community design 101.md",
     "_notes/les bienfaits du design thinking.md",
-    "_notes/la richesse de la curation croisée.md",
-    "_notes/Un jeu pour comprendre les systèmes complexes et les écosystèmes..md",
-    "_notes/pourquoi une approche & un design régénératif est nécessaire.md",
-    "_notes/modélisation systémique.md"
+    "_notes/la richesse de la curation croisée.md"
   ]
 }

@@ -14,3 +14,6 @@ Je suis en train de continuer de [[créer un système de connaissance coopérati
 
 ## en date du 17/01/2021
 pas grand chose n'a évolué pour le moment, je n'ai pas beaucoup trouvé le temps de créer de contenu. je passe cela dit aujourd'hui pour mettre un petit coup de liens entre les notes pour continuer à structurer le graph et ainsi fluidifier la navigation entre les contenus.
+
+## en date du 10/04/22
+gros coup de bascule de contenus entre ici et le jardin notion de manière à mieux répartir. ici ça reste des articles plus libres, larges, inspirants et exploratoires. sur le notion, des objets plus particulièrement utilisables, comme des guidebook, des framework, des articles de fond sur un sujet bien précis, etc...
