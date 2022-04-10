@@ -14,6 +14,7 @@ permalink: /
 
 ## Les dernières mises à jour.
 
+- [[présentation community design 101]]
 - Et si [[Il n'y a pas de montagne]] ?
 - [[Comprendre ce qu'est un projet]]
 - [[Echec et mat du monopole]]
@@ -56,7 +57,6 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 ---
 
 **Et en écriture 👇**
-- [[présentation community design 101]]
 - [[start with why but stop with why]]
 - [[retrouver la confiance en l’intuition]]
 - [[Exploration de l'abstraction]]
