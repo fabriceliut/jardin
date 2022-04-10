@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Design circulaire sur 1 jour.md",
+            "file": "_notes/présentation community design 101.md",
             "mode": "preview",
             "source": false
           }
@@ -40,12 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tonotion",
+                "query": "#tonotion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Design circulaire sur 1 jour.md",
+                "file": "_notes/présentation community design 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Design circulaire sur 1 jour.md",
+                "file": "_notes/présentation community design 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/Design circulaire sur 1 jour.md",
-    "_notes/approche du comptoir.md",
-    "_pages/about.md",
-    "_notes/Design systémique sur 3 jours.md",
-    "_notes/créer un système de connaissance coopératif.md",
+    "_notes/présentation community design 101.md",
+    "_pages/index.md",
+    "_notes/les bienfaits du design thinking.md",
+    "_notes/la richesse de la curation croisée.md",
     "_notes/Un jeu pour comprendre les systèmes complexes et les écosystèmes..md",
-    "_notes/Mouvement mondial du design régénératif.md",
     "_notes/pourquoi une approche & un design régénératif est nécessaire.md",
-    "_notes/Transformation culturelle d’un grand groupe européen..md",
-    "_notes/le Comptoir.md"
+    "_notes/modélisation systémique.md",
+    "_notes/N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !.md",
+    "_notes/Mouvement mondial du design régénératif.md",
+    "_notes/Ma vision du Design en 2021.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: Institut de la pensée intégrale
+title: institut de la pensée intégrale
 ---
 
 *Une nouvelle institution pour penser & penser le monde autrement, pour faire autrement ensemble.*
@@ -16,23 +16,23 @@ Penser « intégral » est une métamorphose personnelle à entrainer par dive
 
 ## **Programme.**
 
-### **RÉFLÉCHIR LE MONDE & NOS SYSTÈMES.**
+### **RÉFLÉCHIR LE MONDE & NOS SYSTÈMES**
 
-**Complexité -** *Pensée intuitive, auto-organisation, sémantique, synergies, chaos…*+10 modules
+[[complexité]] - *pensée intuitive, auto-organisation, sémantique, synergies, chaos…*+10 modules
 
-**Systémique -** *Lois des systèmes complexes, liens & relations, mapping & visualisation…*+10 modules
+[[système complexe]] -  *lois, théories, liens & relations, mapping & visualisation…*+10 modules
 
-**[[Designs]] -** *circularité, design fiction, design sprint, design culture, architecture d’information…*+10 modules
+[[designs]] - *circularité, design fiction, design sprint, design culture, architecture d’information…*+10 modules
 
-**Biomimétisme -** *Inspiration du vivant, [[Pensée analogique]], végétal, animal, insectes, évolution…*+10 modules
+[[bio-inspiration]] - *Inspiration du vivant, [[pensée analogique]], végétal, animal, insectes, évolution…*+10 modules
 
-**Philosophie -** *Anthropocène, éthique, évolution [[linguistique]], Être & conscience…*+10 modules
+[[Philosophie Pratique]] - *Anthropocène, éthique, évolution [[linguistique]], Être & conscience…*+10 modules
 
-**Sciences & logique -** *Dialectique, logique mathématique, biologie, chimie, physique…*+10 modules
+**Sciences & [[logique]] -** *[[Dialectique]], logique mathématique, biologie, chimie, physique…*+10 modules
 
 ---
 
-### **RESSENTIR LA MATIÈRE, L’ESPACE & LE TEMPS.**
+### **RESSENTIR LA MATIÈRE, L’ESPACE & LE TEMPS**
 
 **Mouvement -** *Naturel, kinésiologie, conscience du corps, anatomie…*+10 modules
 
@@ -48,13 +48,13 @@ Penser « intégral » est une métamorphose personnelle à entrainer par dive
 
 ---
 
-### **OUVRIR LA CONSCIENCE À L’INEXPLICABLE.**
+### **OUVRIR LA CONSCIENCE À L’INEXPLICABLE**
 
-**Spiritualité -** *Mystique, éveil, transcendance, méditation…*+10 modules
+[[spiritualité]] -  *Mystique, éveil, transcendance, méditation…*+10 modules
 
 **Art -** *Plastique, musique, théâtre, danse…*+10 modules
 
-**Inconscient -** *Archétypes, Intuition, imaginaire, sémiotique inspiration, émergence…*+10 modules
+[[Inconscient]] -  *Archétypes, Intuition, imaginaire, sémiotique inspiration, émergence…*+10 modules
 
 **Humanité -** *Société, tribus & groupes, information & communication, géopolitique…*+10 modules
 
@@ -63,4 +63,4 @@ Penser « intégral » est une métamorphose personnelle à entrainer par dive
 **Monde Végétal -** *L’intelligence de la forêt, l’information dans l’air, eau, cosmologie…*+10 modules
 
 ---
-#tonotion 
+#Afairepousser 

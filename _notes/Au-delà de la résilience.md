@@ -23,6 +23,6 @@ _Si l'on veut développer la résilience, faire survivre une activité, un busin
 
 ### Mais concrètement, comment mettre ça en place dans nos organisations ?
 
-**Nous avons déjà tous les outils, méthodes, principes et processus** nous permettant d'aller au-delà : l'agilité, les démarches [[Designs]] (dont le Design thinking), la [[bio-inspiration]] , l'effectuation, l'approche [[design systémique]] et par la [[complexité]], l'économie bleu, l'économie circulaire, l'économie régénérative & symbiotique, l'intelligence collective, la gouvernance partagée... Et j'en passe...
+**Nous avons déjà tous les outils, méthodes, principes et processus** nous permettant d'aller au-delà : l'agilité, les démarches [[designs]] (dont le Design thinking), la [[bio-inspiration]] , l'effectuation, l'approche [[design systémique]] et par la [[complexité]], l'économie bleu, l'économie circulaire, l'économie régénérative & symbiotique, l'intelligence collective, la gouvernance partagée... Et j'en passe...
 
 **Et tellement d'acteurs sur nos territoires** qui sont prêts à agir, dans le sens de cette valeur crée qu'est développer le vivant et participer à régénérer ce qui est mourant. Au-delà de la résilience c'est surtout une nouvelle manière de faire société qu'il nous est possible d'aborder, mais faut-il encore nous donner l'opportunité d'y croire pour ouvrir les portes à ces changements.

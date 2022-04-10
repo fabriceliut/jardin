@@ -19,11 +19,11 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 *Outils de représentation systémique et d’appréhension de la complexité.*
 
 - [[pensée systémique]], Design & [[facilitation]] sur [Liut.design](https://medium.com/liut-design)
-- Comprendre les [[Designs]]
+- Comprendre les [[designs]]
 - [Complexus](http://complexus.fr/), pleins de ressources pour appréhender la complexité
 - [Disruptive design](https://medium.com/disruptive-design), quelques articles pour comprendre le [[design systémique]]
 
-## Design circulaire.
+## [[design circulaire]].
 
 *Outils pour comprendre, appréhender et développer une démarche circulaire.*
 

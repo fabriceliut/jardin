@@ -20,6 +20,8 @@ Et en ce qui me concerne ? Je donnerais toute l'énergie nécessaire pour dynami
 - Accès à tous les évènements gratuitement, que ce soit online ou en physique.
 Une première rencontre ensemble pour intégrer ta démarche personnelle dans ce mouvement coopératif !
 
- 👉 [Soutenir le mouvement](https://www.buymeacoffee.com/liut)
+## 👉 [Soutenir le mouvement](https://www.buymeacoffee.com/liut)
 
-#article - #tonotion 
+---
+
+#article

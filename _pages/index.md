@@ -14,7 +14,6 @@ permalink: /
 
 ## Les dernières mises à jour.
 
-- [[la richesse de la curation croisée]]
 - Et si [[Il n'y a pas de montagne]] ?
 - [[Comprendre ce qu'est un projet]]
 - [[Echec et mat du monopole]]
@@ -26,7 +25,7 @@ permalink: /
 ---
 
 ### Approche globale.
-Découvrez les différents [[Designs]] qui sont pour moi les principales approches dont les humains ont besoin pour 👉 [[Prendre soin du monde]].
+Découvrez les différents [[designs]] qui sont pour moi les principales approches dont les humains ont besoin pour 👉 [[Prendre soin du monde]].
 Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archipel Kyosei]].
 
 **Quelques sujets 👇**
@@ -34,7 +33,6 @@ Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archip
 - [[complexité]] - [[système complexe]]
 - [[coopération]]
 - [[guidebook business as non usual]]
-- [[guidebook apprendre à vendre]]
 - [[Design circulaire sur 1 jour]]
 - [[Design systémique sur 3 jours]]
 - [[Mouvement mondial du design régénératif]]
@@ -46,6 +44,7 @@ Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]].
 - [[Choisir avec qui et comment travailler en tant qu'indépendant]]
 - [[Faisons partie de nous]] - [[identité de groupe]] - [[nous avons une mission]]
 - [[décoder la vie]]
+- [[N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !]]
 
 ### Approche numérique.
 Je suis convaincu que le numérique est une magnifique opportunité pour supporter les humains lorsqu'il est bien utilisé. Pour cette raison, et toujours un peu geek, je m'intéresse aux concepts de [[Second Brain]].
@@ -54,20 +53,21 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 - [[Automatisation]]
 - [[créer un système de connaissance coopératif]]
 
+---
+
 **Et en écriture 👇**
-- [[présentation community 101]]
+- [[présentation community design 101]]
 - [[start with why but stop with why]]
 - [[retrouver la confiance en l’intuition]]
 - [[Exploration de l'abstraction]]
 - [[se raconter des histoires]]
-- [[Formation à la créativité]]
 - [[Créer des indicateurs qualitatifs]]
 
 Bientôt des petits scénarios fictifs comme [[La vie en double face]]
 
 ---
 
-L'un de mes plus gros travaux en cours c'est la réalisation du [[Guide book de l'approche territoriale NEOZ]] qui adresse la transformation des territoires. *(fin d'écriture en cours)*
+L'un de mes plus gros travaux en cours c'est la réalisation du [[guidebook de l'approche territoriale NEOZ]] qui adresse la transformation des territoires. *(fin d'écriture en cours)*
 
 <style>
   .wrapper {

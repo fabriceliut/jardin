@@ -20,6 +20,6 @@ Par exemple, le [[Design Sprint]] permet ça ainsi que les autres formes de trav
 
 -   Lire manifeste du communisme
 -   Lire Le capital, œuvre de Karl Marx
--   Importance des [[Designs]] pour lier pensée et action concrètes
+-   Importance des [[designs]] pour lier pensée et action concrètes
 
 **A pousser alors, tout un mouvement et des actions concrètes plutôt que des manifestes.**

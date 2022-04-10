@@ -30,35 +30,42 @@ Justement, c'est là que **[Nick nous propose son super jeu !](https://ncase.me
 
 Il a choisi un [[système complexe]] humain en permettant de structurer des comportements différents de foules et de communautés. Cette expérience permet de comprendre assez clairement les biais de notre société et la complexité justement à collaborer, à se structurer et à avancer ensemble sans développer de l'opposition, des conflits, etc...
 
-### **A vous de jouer !**
+### A vous de jouer !
 
 Rien ne sert d'en dire plus, passons directement au jeu ! Pour illustrer quelques étapes, je vous accompagne de petites analyses. Bonne partie à vous !
 
-*On commence déjà par se partager à boire : quoi de plus convivial pour comprendre l'effet réseau... ou pas.*
+_On commence déjà par se partager à boire : quoi de plus convivial pour comprendre l'effet réseau... ou pas._
 
-![](https://media-exp1.licdn.com/dms/image/C4E12AQG6GTye2zP-_w/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=AtzvS4zibR4kbldrM3QhYEoyc9SkMj5H7UG4xGWwPxc)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQG6GTye2zP-_w/article-inline_image-shrink_1500_2232/0/1547916143589?e=2147483647&v=beta&t=0boNk6QpUuaPNIcX5Ujj-UTtZtOle4lXnoTUVwTj-1A)
 
-*Ensuite, un petit système d'information.*
+_Ensuite, un petit système d'information._
 
-![](https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=E56lkFj4aVtwZvfXHBkz9sLgAI10_gkMjfXb00PxWbU)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0/1547916428975?e=2147483647&v=beta&t=DKCw0LersDy2SsIfza7P8u_eh1c_FlsXLGWA_rPm_0k)
 
-*A vous de créer la "contagion" ! Le flux, la circulation explique très bien que la complexité est dans les connexions quelques soient les éléments...*
+_A vous de créer la "contagion" ! Le flux, la circulation explique très bien que la complexité est dans les connexions quelques soient les éléments..._
 
-![](https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=QN8XPz2FEXocY3cnJYb3dvqWsM3V1cm7_5UkTmLPf3k)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0/1547916603662?e=2147483647&v=beta&t=74g6lqT5cuLBe1aNrlWeOvkk5EQ98X5g7JUflnOD97U)
 
-*Et en avant pour complexifier de plus en plus, mais toujours avec les bonnes explications et pas à pas.*
+_Et en avant pour complexifier de plus en plus, mais toujours avec les bonnes explications et pas à pas._
 
-![](https://media-exp1.licdn.com/dms/image/C4E12AQEsvFch0EiYtw/article-inline_image-shrink_1500_2232/0/1547916773471?e=1611792000&v=beta&t=vs_2YkL9YP2sXUnMeBv6aM8Tg7LCD2Fw2RiVqRE2bAU)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQEsvFch0EiYtw/article-inline_image-shrink_1500_2232/0/1547916773471?e=2147483647&v=beta&t=6daYoj2Hbqnc71p0yT94xy3mZE4CcsSIuxLyi54gtrg)
 
-*L'étude de l'effet de groupe est passionnant pour tous ceux qui veulent résoudre des problèmes de gouvernance, de management et de collaboration : **vous pouvez clairement comprendre la nécessité de la diversité, de la facilitation et de bonnes méthodes collaboratives** : à [[système complexe]]... Pensée collaborative et expertises obligent !*
+_L'étude de l'effet de groupe est passionnant pour tous ceux qui veulent résoudre des problèmes de gouvernance, de management et de collaboration :_ **_vous pouvez clairement comprendre la nécessité de la diversité, de la facilitation et de bonnes méthodes collaboratives_** _: à système complexe... Pensée collaborative et expertises obligent !_
 
-![](https://media-exp1.licdn.com/dms/image/C4E12AQEqq2qLoVQXtA/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=RqleTh61GnkCRlugL-2PI0UUO7x8bRuTUZIVv9Mfa7Q)
+![](https://media-exp1.licdn.com/dms/image/C4E12AQEqq2qLoVQXtA/article-inline_image-shrink_1500_2232/0/1547917141833?e=2147483647&v=beta&t=rnjulz_XiafNMO0401wYlrccituGpcrFMwIbcyOrkw4)
 
-Je ne vous en montre pas plus et vous laisse vous jeter dans l'expérience pour la suite ! A vous de faire les analogies avec ce que vous voulez... Tout est système, et **la [[pensée systémique]] permet de faire des ponts entre la nature par exemple et l'ingénierie : c'est ce qu'on appelle le Biomimétisme !**
+Je ne vous en montre pas plus et vous laisse vous jeter dans l'expérience pour la suite ! A vous de faire les analogies avec ce que vous voulez... Tout est système, et **la pensée systémique permet de faire des ponts entre la nature par exemple et l'ingénierie : c'est ce qu'on appelle le Biomimétisme !**
 
-*Alors, toi aussi tu as envie de tout comprendre maintenant ? 🚀*
+_Alors, toi aussi tu as envie de tout comprendre maintenant ? 🚀_
 
-### **Pour conclure**
-![](https://media-exp1.licdn.com/dms/image/C4E12AQGduR2arZFslA/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=fC42Y6Q2nbwOx8q7-XmBf5r1dxZ3ErctVjnsMOjGA0I)
+### Pour conclure
 
-#article #tonotion 
+![](https://media-exp1.licdn.com/dms/image/C4E12AQGduR2arZFslA/article-inline_image-shrink_1500_2232/0/1547917347123?e=2147483647&v=beta&t=pqZJZOp4jYOXTBxTOV_aAFbCJCInIi_X0sMiGcnfPzE)
+
+Maintenant que vous avez compris ce qu'est un système complexe et peut-être même que vous avez aimé designer les vôtres, vous avez certainement envie de faire le lien avec "la vrai vie" et vos problématiques complexes actuelles ? Et bien c'est une opportunité idéale pour [nous rencontrer](https://liut.me/contact) non?
+
+si vous voulez plus de contenus sur le thème, vous pouvez aussi commencer par suivre [ma newsletter](https://liut.substack.com)
+
+---
+
+#article

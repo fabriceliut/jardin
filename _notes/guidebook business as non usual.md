@@ -52,15 +52,15 @@ Non je ne vous parlerais pas d’un monde sans argent, pas cette fois. Ni d’un
 
 ### Le chemin vers la [[résilience]].
 
-Pas de plan sur la comète. Pas de roadmap sur 5 ou 10 ans. Ce qui doit se renforcer ce n’est pas de fausses certitudes mais une capacité de réagir vite, d’être agile, résilient et j’irais même jusqu’à « anti fragile ». **Pour se faire, c’est une nécessité de coopération à instaurer plutôt qu’un renforcement de la concurrence.**
+Pas de plan sur la comète. Pas de roadmap sur 5 ou 10 ans. Ce qui doit se renforcer ce n’est pas de fausses certitudes mais une capacité de réagir vite, d’être agile, résilient et j’irais même jusqu’à « [[antifragile]] ». **Pour se faire, c’est une nécessité de [[[coopération]]] à instaurer plutôt qu’un renforcement de la concurrence.**
 
 Alors oui ça commence fort, ce changement de paradigme entraîne de gros mouvements systémiques sur toutes les dimensions de notre réalité, rien que ça. **Mais si je vous assure que ça va permettre d’être plus efficient et de gagner plus de sous ([1](https://www.ideou.com/blogs/inspiration/growing-a-resilient-business-outside-of-silicon-valley)), vous continuez à lire ?**
 
 ### Le ROI de l’intelligence collective.
 
-La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les languages... **c’est là où de nombreuses postures comme la [[facilitation]] prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle intelligence collective et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant mais l’avantage c’est que la confiance on la porte sur Nous-mêmes.**
+La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les languages... **c’est là où de nombreuses postures comme la [[facilitation]] prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle [[intelligence collective]] et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant mais l’avantage c’est que la confiance on la porte sur Nous-mêmes.**
 
-### Apprendre de la nature plutôt que faire de la R&D.
+### Apprendre de la nature par [[bio-inspiration]] plutôt que faire de la R&D.
 
 En parlant de ce qui est vivant, nous voilà face au plus gros trésor que nous aillions à disposition depuis...toujours. **Au lieu de raser des forêts pour en faire de l’énergie pauvre, observons la pour en tirer la sagesse et les apprentissages**. Vous voulez optimiser des flux économiques, développer votre business modèle ? Observez et comprenez le fonctionnement souterrain d’une forêt primaire et des échanges entre les champignons et les arbres. Vous voulez optimiser le fonctionnement interne de votre organisation ? Le végétal et les insects savent faire au mieux depuis des millions d’années. **Peut-être que si la biodiversité redevenait notre « bibliothèque » nous aurions, en bonus, plutôt envie de l’enrichir que de l’appauvrir([1](https://usbeketrica.com/article/tous-les-indicateurs-sont-au-rouge-pour-la-biodiversite)).**
 
@@ -86,19 +86,21 @@ A moi qui écrit tout ça ? **[Aux plus de 30 personnes](https://www.notion.so/
 
 ### Ce sera le 6ème et (vraiment) dernier point.
 
-**La confiance ne se fonde pas dans des promesses**. La confiance est la base du vivant et inée. Ce qu’on appelle « le lien » est partout, par défaut. Tout est lié, tout se répond et s’enrichit... ou se détruit. Il paraît que c’est une histoire de résonance vibratoire, mais je m’éloigne.
+**La [[confiance]] ne se fonde pas dans des promesses**. La confiance est la base du vivant et inée. Ce qu’on appelle « le lien » est partout, par défaut. Tout est lié, tout se répond et s’enrichit... ou se détruit. Il paraît que c’est une histoire de résonance vibratoire, mais je m’éloigne.
 
 **La confiance est déjà là et vous pouvez choisir de la bloquer ou de laisser couler**. Vous pouvez vous solidifier pour vous protéger, ou vous pouvez « laisser filer » et vous ouvrir aux possibles.
 
-> Vous pouvez continuer le business as usual ou vous laisser prendre par un courant plein de vie qui émerge.
+> Vous pouvez continuer le business as usual ou vous laisser prendre par un courant plein de vie qui émerge donnant naissance à la [[civilisation de la vie]]...
 
-**Rassurez vous, vous ne serez pas seul, nous serons au moins 2 et je crois bien plus encore...** Ce choix très « simple » vous revient et c’est le premier pas vers le renouveau, la métamorphose... le papillon semble quand même plus beau, libre et « riche » que la chenille non ?
+**Rassurez vous, vous ne serez pas seul, nous serons au moins 2 et je crois bien plus encore...** Ce choix très « simple » vous revient et c’est le premier pas vers le renouveau, la métamorphose... le papillon semble quand même plus beau, libre et « riche » que la chenille non?
 
 —
 
 **Vous l’aurez compris, si vous sentez la nécessité de penser business autrement pour faire autrement, je vous invite (gratuitement) à nous rencontrer pour en parler pendant une heure qui se voudra simple & agréable et j’en suis certain, enrichissante pour tous.** 
 
-**👉 Contactez-moi directement.**
+**👉 [Contactez-moi directement](https://liut.me/contact)**
 
 *Tout ce travail évolue dans le contexte de notre éco-système, [[Archipel Kyosei]]*
-[[Guidebook]] - #tonotion 
+
+---
+[[guidebook]] - #tonotion 

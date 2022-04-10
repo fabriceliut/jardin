@@ -6,4 +6,4 @@ title: Transformation du système éducatif d’un établissement d’enseigneme
 
 + *plus de détails prochainement.*
 
-#etude-de-cas
+#cas-étude

@@ -24,4 +24,4 @@ C'est pour moi actuellement le meilleur outil pous structurer tout mon "arbre de
 --
 Les 2 grandes branches sont “[[Prendre soin du monde]]” et "[[Prendre soin de soi]]"... la [[dualité]] et la non dualité, 2 mouvements qui se complètent au quotidien dans lesquels pour le moment j’arrive à rentrer tous les sujets de ma vie... Construction à suivre 😃
 
-#Afairepousser [[Guidebook]]
+#Afairepousser [[guidebook]]

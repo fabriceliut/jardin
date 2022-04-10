@@ -10,4 +10,4 @@ title: Les 4 accords Toltèques
 
 + Soyez sceptique mais apprenez à écouter.
 
-[[Guidebook]]
+[[guidebook]]

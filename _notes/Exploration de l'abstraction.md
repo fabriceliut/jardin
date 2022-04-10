@@ -10,5 +10,5 @@ Pour penser de plus en plus abstrait avec d'autres il faut y aller ensemble, mar
 
 La [[pensée complexe]] est un état de pensée qui repose sur des accroches elles-mêmes déjà abstraites. Pour penser complexe il faut avoir développé un monde abstrait qui est devenu cohérent et donc une base sur laquelle se reposer pour continuer. 
 
-La représentation visuelle comme la [[Modélisation Systémique]] et la [[sémiotique]] permettent de créer une base sur laquelle se reposer pour penser plus abstrait et donc plus complexe. On rentre dans une pensée en #Meta-analyse et ainsi de suite. 
+La représentation visuelle comme la [[modélisation systémique]] et la [[sémiotique]] permettent de créer une base sur laquelle se reposer pour penser plus abstrait et donc plus complexe. On rentre dans une pensée en #Meta-analyse et ainsi de suite. 
 

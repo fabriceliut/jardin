@@ -14,7 +14,7 @@ Dans un système de production linéaire, que ce soit de produits ou de services
 
 ### **Intégrer la circularité pour débloquer les opportunités.**
 
-Le Design circulaire permet d’ouvrir un nouveau champ des possibles pour une organisation. **Comme Patagonia qui intègre 4 cycles de vie produit** (première vente, réparation, vente recyclage, vente matière de fin de vie à des partenaires) il est possible de développer une activité de produit ou de service en cohérence circulaire et de multiplier les opportunités créatives.
+Le [[design circulaire]] permet d’ouvrir un nouveau champ des possibles pour une organisation. **Comme Patagonia qui intègre 4 cycles de vie produit** (première vente, réparation, vente recyclage, vente matière de fin de vie à des partenaires) il est possible de développer une activité de produit ou de service en cohérence circulaire et de multiplier les opportunités créatives.
 
 > Un des premiers pas concret : basculer une activité de vente de produit à une activité d’accompagnement par des services multiples (abonnements, locations, réutilisations, partage, etc…)
 
@@ -37,6 +37,10 @@ Le Design circulaire permet d’ouvrir un nouveau champ des possibles pour une o
 
 Basculer d’un modèle linéaire à un modèle circulaire est l’un des premiers pas d’une transformation profonde d’une organisation. Au Comptoir il est possible de développer cette aventure ensemble, en collaboration avec nos écosystèmes.
 
+[Design circulaire en détails](https://www.notion.so/liutnotes/Guide-Book-Circular-Design-3d056642017e4793a61f23fb7fea29a5)
+
 *C’est avec l'[[Archipel Kyosei]] tout le tissu du réseau complémentaire que vous pourrez initier cette démarche.*
 
-#offre #tonotion 
+---
+
+#offre

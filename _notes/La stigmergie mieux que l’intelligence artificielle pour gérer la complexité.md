@@ -10,7 +10,7 @@ Quand vous utilisez Waze, vous pouvez toujours connaître, non pas la meilleure 
 
 ## **Une inspiration venant de la nature ?**
 
-Utilisons l’oeil du biomiméticien : dans la nature, et ce depuis des millions d’années, des petites bêtes fonctionnent ensemble d’une manière encore plus efficace que Waze, **les fourmis**. *(et elle n’ont pas accès au numérique…)*
+Utilisons l’oeil de la [[bio-inspiration]] : dans la nature, et ce depuis des millions d’années, des petites bêtes fonctionnent ensemble d’une manière encore plus efficace que Waze, **les fourmis**. *(et elle n’ont pas accès au numérique…)*
 
 Elle subissent depuis des dizaines d’années des analyses de tous les plus grands spécialistes ; on pourrait définir un [algorithme des colonies de fourmis](https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis), très proche du principe de [stigmergie](https://fr.wikipedia.org/wiki/Stigmergie) : individuellement, chaque fourmi n’est soumise à aucune règle stricte et pourtant, de manière collective, elles sont organisées à tel point qu’elles inspirent tous les chercheurs en optimisation & performance !
 
@@ -30,12 +30,14 @@ Le postulat de Google est de comprendre le vivant pour nourrir le numérique : d
 
 **Et si ce n’était pas exactement aussi direct ?** Et si la technologie était là pour nous faire prendre conscience de la richesse du vivant : brûler un arbre ce serait comme vendre la coquille de l’huître et jeter la perle ([dixit Idriss](https://www.lepoint.fr/science/le-biomimetisme-selon-idriss-aberkane-17-le-management-de-la-nature-30-05-2017-2131393_25.php)), nous oublions d’en « extraire » l’essence même. La nature est une bibliothèque de connaissances à ciel ouvert et totalement open-source. Grâce à la technologie, nous pouvons appréhender plus facilement sa complexité, ou du moins, mettre un peu plus de notre attention, de notre conscience… **Mais alors pourquoi se limiter à apprendre du vivant pour nourrir le numérique ? Pourquoi ne pas s’en inspirer pour infuser nos comportements humains et sociétaux ?**
 
-## La proposition.
+## La proposition
 
-Et si la priorité était de favoriser la stigmergie et l’intelligence collective pour directement « ajuster » nos systèmes et organisations ? Et si on multipliait les interrelations entre pleins de points de vues et d’expertises, n’aurions nous pas les ressources nécessaires pour gérer la complexité et grandir en conscience ? **Le tout sans avoir à investir des milliards dans de la R&D en intelligence artificielle.** Et si la transition numérique était surtout une transition culturelle : aller vers une culture de la collaboration transversale, du partage de connaissance total et en toute transparence, agissant dans son intérêt individuel mais en conscience de l’intérêt du collectif tout entier…
+Et si la priorité était de favoriser la stigmergie et l’[[intelligence collective]] pour directement « ajuster » nos systèmes et organisations ? Et si on multipliait les interrelations entre pleins de points de vues et d’expertises, n’aurions nous pas les ressources nécessaires pour gérer la complexité et grandir en conscience ? **Le tout sans avoir à investir des milliards dans de la R&D en intelligence artificielle.** Et si la transition numérique était surtout une transition culturelle : aller vers une culture de la collaboration transversale, du partage de connaissance total et en toute transparence, agissant dans son intérêt individuel mais en conscience de l’intérêt du collectif tout entier…
 
 **Tout ceci représente le fonctionnement d'[[Archipel Kyosei]] :**
 
 une rencontre avec des humains venant de multiples écosystèmes complémentaires pour travailler ensemble et avec les organisations dans leur transformation. Le monde de demain ne sera alors peut-être pas sauvé en majeure partie par le numérique, mais peut-être plutôt par des humains beaucoup plus conscients, curieux et ouverts à la diversité et à la coopération en toutes situations, un peu comme ces si mignonnes petites fourmis.
 
-#article - #tonotion 
+---
+
+#article

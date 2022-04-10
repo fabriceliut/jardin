@@ -1,5 +1,5 @@
 ---
-title: présentation community 101
+title: présentation community design 101
 ---
 
 - [fabrice liut](https://liut.me) - designer & facilitateur - ==systems thinker==
@@ -175,6 +175,6 @@ vous pouvez suivre ma newsletter pour plus de ressources et de contenus 👉 [li
 	- seulement sur intention + histoire de la communauté
 - 🚀 community action plan
 
-*cette version était un extrait d'une version plus complète sur 1 journée. n'hésitez pas à demander plus d'infos sur ce format si ça vous intéresse.*
+*cette version était un extrait d'une version plus complète sur 1 journée. n'hésitez pas [à demander plus d'infos](https://liut.me/contact) sur ce format si ça vous intéresse.*
 
-#tonotion 
+si vous en voulez plus sur le sujet, vous pouvez aussi [suivre ma newsletter](https://liut.substack.com)

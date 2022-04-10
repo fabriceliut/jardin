@@ -8,4 +8,4 @@ Une démarche politique, sociétale et écosystémique se développe sur Lyon. I
 
 [Episode 4 : Outils de démocratie participative - Fabrice Liut by Moodstep](https://soundcloud.com/user-168118903/episode-4-outils-de-democratie)
 
-#etude-de-cas
+#cas-étude

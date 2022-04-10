@@ -38,11 +38,7 @@ Netflix répond à un besoin clair : fournir légalement une quantité riche de 
 
 ## **Comprendre comment on construit un outil, un service, un produit.**
 
-*Comment est-ce qu'on construit un outil, un service, un produit ?*
-
-![](https://media-exp1.licdn.com/dms/image/C4E12AQEtVJ0TmDJuAQ/article-inline_image-shrink_1500_2232/0?e=1611792000&v=beta&t=W_Dva2HVFBSPlDHawf3Ap4gRlQFtIjIlurEMqNZHwuc)
-
-*Je vous propose une petite représentation en schéma ainsi que quelques explications. C'est une démonstration venant de recherches propres, n'hésitez pas à remettre en question si vous voyez des biais dans ma "logique".*
+*Comment est-ce qu'on construit un outil, un service, un produit? N'hésitez pas à remettre en question si vous voyez des biais dans ma "logique".
 
 - Nous avons un problème, un besoin. Il nous faut un outil.
 - Pour construire la solution adaptée, surtout si le besoin est complexe, il faut un outil, un service complexe. Les humains ont alors besoin de coopérer, de mélanger leurs expertises et compétences pour inventer, créer cet outil.
@@ -55,8 +51,8 @@ Netflix répond à un besoin clair : fournir légalement une quantité riche de 
 
 **Maintenant, nous pouvons payer et consommer des méthodes, où, comme pour les outils, comprendre comment les construire :**
 
-- [[Les Méthodes]] se transmettent dans notre culture depuis des générations. Malheureusement si on perd la transmission, on perd les méthodes et il faut les inventer de nouveau, ou autrement.
-- Pour inventer des méthodes, **il faut [[Les Modèles]]**. Ce peut-être des modèles mathématiques, des modèles de pensée (un cerveau ingénieur peut créer des méthodes d'ingénierie pour des nouveaux outils d'ingénierie...), des modèles d'inspiration, etc...
+- [[méthodes]] - se transmettent dans notre culture depuis des générations. Malheureusement si on perd la transmission, on perd les méthodes et il faut les inventer de nouveau, ou autrement.
+- Pour inventer des méthodes, **il faut des [[modèles]]**. Ce peut-être des modèles mathématiques, des modèles de pensée (un cerveau ingénieur peut créer des méthodes d'ingénierie pour des nouveaux outils d'ingénierie...), des modèles d'inspiration, etc...
 - Ce "niveau" des modèles est très lié au niveau de la psychologie humaine. Chaque humain est différent mais peut rencontrer d'autres humains partageant le même modèle de penser : designer, technicien, économiste, etc...
 - Si exclusivement des humains avec le même modèle de pensée coopèrent, il advient un moment ou ils n'arrivent plus à inventer de nouvelles méthodes et donc de nouveaux outils...
 
@@ -66,7 +62,7 @@ Netflix répond à un besoin clair : fournir légalement une quantité riche de 
 
 **Voici un moment important de notre exploration : si il n'y a pas coopération entre des humains provenant d'une grande diversité de modèles de pensée, de vivre et de tradition, alors il devient impossible de créer des choses nouvelles !**
 
-*Notre société commence à le comprendre : changement des modèles d'organisation, ouverture des silos, ouverture sur l'extérieur, explosion des démarches [[Designs]] & de la [[facilitation]], etc...*
+*Notre société commence à le comprendre : changement des modèles d'organisation, ouverture des silos, ouverture sur l'extérieur, explosion des démarches [[designs]] & de la [[facilitation]], etc...*
 
 ## **Cherchez des modèles différents du votre plutôt que l'outil "magique" à tout solutionner.**
 
@@ -103,12 +99,12 @@ Sur le schéma que je vous partage dans cet article, il y a deux "étages" de pl
 
 **Pour finir, pourquoi sur le schéma cette case "ciel/soi"...** C'est un peu perché certes, mais pour utiliser son cerveau, sa logique, il faut bien de la matière. La logique permet de structurer, de rationaliser, mais structurer quoi ? **D'ou vient la matière première de notre cerveau ?**
 
-**Pour certain, elle vient de notre [[Inconscient]] . Regardez du côté du psychanalyste Jung par exemple. La matière première, qui crée les idées, ce serait les inspirations.** [[Les Inspirations]] viennent de l'imaginaire et donc, de l'inconscient. [[la créativité]], c'est connecter de manière logique des idées comme elles n'ont jamais été connectées avant. Pour se faire, avec le cerveau "logique" il faut de la matière première neuve. Il faut donc laisser la place à [[l'émergence]] de [[l'imaginaire]], qui va créer de l'inspiration et POF, des idées nouvelles ! Avec ça, l'humain peut créer de nouvelles théories... Et ainsi de suite.
+**Pour certain, elle vient de notre [[Inconscient]] . Regardez du côté du psychanalyste Jung par exemple. La matière première, qui crée les idées, ce serait les inspirations.** Les [[Inspirations]] viennent de l'imaginaire et donc, de l'inconscient. [[la créativité]], c'est connecter de manière logique des idées comme elles n'ont jamais été connectées avant. Pour se faire, avec le cerveau "logique" il faut de la matière première neuve. Il faut donc laisser la place à [[l'émergence]] de [[l'imaginaire]], qui va créer de l'inspiration et POF, des idées nouvelles ! Avec ça, l'humain peut créer de nouvelles théories... Et ainsi de suite.
 
 **Comment libérer [[l'imaginaire]] ?** En lui laissant de la place, en arrêtant de réfléchir tout le temps et de rationaliser tout le temps. Les "eurêka !" surviennent souvent sous la douche : une nouvelle matière pénètre la logique du scientifique pendant qu'il se frotte le dos : c'est exactement l'élément qui lui manquait pour terminer sa théorie !
 
 **[[Comment libérer l'imaginaire ?]]** Ce sera pour un prochain article. Mais d'ici là, **essayez de rencontrer des personnes qui ont d'autres modèles de pensée que le vôtre** : vous aurez alors de grandes chances d'explorer des domaines encore à découvrir pour vous et ce sera peut-être le théâtre, l'art, la musique... **Tout ce champ d'exploration en dehors du rationnel qui peut libérer votre imaginaire.**
 
-**Vous voulez transformer votre organisation, vous voulez adresser de gros problème complexes et systémiques ? Rencontrez des artistes, des musiciens, des danseurs et explorez avec eux.** Faites aussi un petit tour du côté de l'[[Archipel Kyosei]].
+---
 
-#article - #tonotion 
+#article

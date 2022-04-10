@@ -43,7 +43,7 @@ Multiples ateliers documentés avec les intervenants designers et développeurs 
 ### [[Transformer le territoire lyonnais par une Fabrique.]]
 Intervention des experts en prospective politique, des designers, des agents de la métropole & des communs avec les citoyens lyonnais.
 
-### [[Institut de la pensée intégrale]]
+### [[institut de la pensée intégrale]]
 Pour faire nouvelle société il faut de nouveaux instituts structurés sur les bases de nouveaux paradigmes permettant de développer une pensée plus large, libre, consciente & systémique.
 
 
