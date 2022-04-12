@@ -12,6 +12,13 @@ Pour cette raison, la régénération n'est pas un processus linéaire : une sit
 
 Cependant, dans notre société actuelle, beaucoup plus d'activités, de projets ou de systèmes tendent vers la dégénération. C'est pour venir remettre de l'équilibre dans cette balance que le [[design régénératif]] existe. Cette approche ne cherche pas à équilibrer la réalité mais seulement à réparer les effet dégénératifs de l'humanité pour la soigner & la remettre en santé.
 
+C'est ce qu'on pourrait appeler "le choix déterminant de la vie" - également en lien avec la [[civilisation de la vie]].
+
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FOmega%2Fd50EJqYA7l?alt=media&token=cd155080-20a1-4084-97ee-cb8d7ca1ee55)
+
+Inspiration du [livre]([[Livres et vidéos]]) 👉 Le génie de Viktor.Schauberger, Naturaliste, garde forestier et scientifique intuitif par l'observation
+
+---
 
 #article 

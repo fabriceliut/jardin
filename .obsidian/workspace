@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/évolutions des notes.md",
-            "mode": "source",
+            "file": "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/évolutions des notes.md",
+                "file": "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/évolutions des notes.md",
+                "file": "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
+    "_notes/accélérer la circulation des savoirs est une opportunité économique.md",
+    "_notes/civilisation de la vie.md",
+    "_notes/Régénérer est une direction.md",
     "_notes/évolutions des notes.md",
     "_pages/index.md",
     "_notes/guidebook.md",
     "_notes/Les 4 accords Toltèques.md",
     "_notes/créer un système de connaissance coopératif.md",
-    "_notes/tout commence par la veille.md",
-    "_notes/Prendre soin du collectif.md",
-    "_notes/présentation community design 101.md",
-    "_notes/les bienfaits du design thinking.md",
-    "_notes/la richesse de la curation croisée.md"
+    "_notes/tout commence par la veille.md"
   ]
 }

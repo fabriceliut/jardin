@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "livePreview": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "communityThemeSortOrder": "download"
 }
