@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
+            "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "approche",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
+                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
+                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +112,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
+    "_notes/_daily/2022-04-12.md",
     "_notes/accélérer la circulation des savoirs est une opportunité économique.md",
     "_notes/civilisation de la vie.md",
     "_notes/Régénérer est une direction.md",
     "_notes/évolutions des notes.md",
     "_pages/index.md",
     "_notes/guidebook.md",
-    "_notes/Les 4 accords Toltèques.md",
-    "_notes/créer un système de connaissance coopératif.md",
-    "_notes/tout commence par la veille.md"
+    "_notes/Les 4 accords Toltèques.md"
   ]
 }
