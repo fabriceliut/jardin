@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
-            "mode": "preview",
+            "file": "_notes/créer un système de connaissance coopératif.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "approche",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
+                "file": "_notes/créer un système de connaissance coopératif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
+                "file": "_notes/créer un système de connaissance coopératif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,10 +107,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/créer un système de connaissance coopératif.md",
+    "_notes/une organisation est comme un corps humain.md",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
     "_notes/_daily/2022-04-12.md",
@@ -119,8 +121,6 @@
     "_notes/civilisation de la vie.md",
     "_notes/Régénérer est une direction.md",
     "_notes/évolutions des notes.md",
-    "_pages/index.md",
-    "_notes/guidebook.md",
-    "_notes/Les 4 accords Toltèques.md"
+    "_pages/index.md"
   ]
 }
