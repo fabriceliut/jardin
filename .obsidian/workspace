@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/créer un système de connaissance coopératif.md",
-            "mode": "source",
+            "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Coopération",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/créer un système de connaissance coopératif.md",
+                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/créer un système de connaissance coopératif.md",
+                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/créer un système de connaissance coopératif.md",
-    "_notes/une organisation est comme un corps humain.md",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
-    "_notes/la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose.md",
-    "_notes/_daily/2022-04-12.md",
-    "_notes/accélérer la circulation des savoirs est une opportunité économique.md",
-    "_notes/civilisation de la vie.md",
-    "_notes/Régénérer est une direction.md",
-    "_notes/évolutions des notes.md",
-    "_pages/index.md"
+    "système de connaissances.md",
+    "actionnement.md",
+    "l'engagement.md",
+    "la démarche itérative.md",
+    "_notes/Gouvernance adaptable.md",
+    "_pages/index.md",
+    "_notes/La toile de la Vie.md",
+    "_notes/des assemblages à la symbiose projets.md",
+    "_notes/C'est quoi lâcher prise.md"
   ]
 }

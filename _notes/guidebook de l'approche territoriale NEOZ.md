@@ -39,8 +39,13 @@ Et pour rendre plus concret :
 
 ---
 
+
+
+
+---
+
 # Explorer le territoire
-*sur 1 mois*.
+*sur 1 mois*
 
 ## Objectifs et éléments - Les 4 axes d'exploration d'un territoire
 
@@ -149,7 +154,7 @@ Comment est-ce qu'on organise notre temps suivant les dispos de chacun?
 Très important de placer des temps de travail "synchrone" ou en commun comme des rituels nécessaire au bon travail d'équipe.
 
 ### Enregistrer et se partager l'information efficacement
-Mettre en place un [[Système de connaissances]] support du projet.
+Mettre en place un [[système de connaissances]] support du projet.
 - Créer des fiches pour les 4 axes d'explorations du territoire.
 - Créer une base de contacts en commun.
 - Créer une base de documents en commun.
@@ -165,7 +170,7 @@ Comme vu précédemment, ils sont accessible via les organigrammes politiques, L
 Même si on ne sait pas tout du territoire ! C'est normal et c'est aussi à ça que servent les rdv avec les acteurs.
 > _Donc il faut se lancer_
 Le Principe du premier RDV est une rencontre d'ECOUTE : vous ne connaissez pas le territoire alors vous venez écouter ceux qui le connaissent pour le découvrir, sous tous les angles.
-Vous captez autant d'informations que vous pouvez pour venir nourrir votre compréhension du territoire et construire plus en détail votre [[Système de connaissances]].
+Vous captez autant d'informations que vous pouvez pour venir nourrir votre compréhension du territoire et construire plus en détail votre [[système de connaissances]].
 
 - Faciliter les rebonds vers de nouveaux acteurs.
 Les premiers RDV sont les premiers liens avec le territoire.
@@ -226,7 +231,7 @@ Vous pouvez "sentir" quand vous commencez à bien connaître le territoire : s'i
 [[Recherche design terrain]]
 [[Cartographie de réseaux]]
 Détecter les besoins & usages
-Construire un [[Système de connaissances]]
+Construire un [[système de connaissances]]
 
 ---
 
@@ -297,12 +302,18 @@ Voir 👉 [[Initier les coopérations]]
 ---
 
 
+
+
+
+---
+
 # Initier les coopérations
 *sur 4 mois.*
 
-**A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de l'analyse collective via 👉 [[Explorer le territoire]] , il est temps de présenter aux différents acteurs vos apprentissages et d'imaginez ensemble, dans l'intérêt du territoire, les synergies possibles. Et si ...?**
+**A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de l'analyse collective via la phase d'exploration du terrtioire , il est temps de présenter aux différents acteurs vos apprentissages et d'imaginez ensemble, dans l'intérêt du territoire, les synergies possibles. Et si ...?**
 
 ## Objectifs et éléments
+
 ### Proposer des temps de rencontre
 Maintenant que vous disposez d'une Cartographie des acteurs et d'un minimum de qualifications vous pouvez vous lancer dans la prise de RDV.
 - Mais comment proposer et prendre des rdvs efficacement?
@@ -343,7 +354,7 @@ Vous êtes à la bonne place pour proposer de traduire les langages et les point
 **Les alliés représentent les coopérations évidentes et facile à créer.** Même vision, langage commun, intention commune, rythme commun. En terme d'optimisation des efforts, c'est très important de commencer à tisser les coopérations avec des alliés, c'est plus rapide et ça permet de tisser un premier réseau proche. Ensuite, plus ce réseau va s'étendre, plus il deviendra rassurant pour des cercles plus éloignés : cela facilitera les coopérations qui aurait été plus difficiles à activer de premier abord.
 
 ### Faire grandir le nombre d'alliés
->voir la [[Sociodynamique]] et l' [[Actionnement]]
+>voir la [[Sociodynamique]] et l' [[actionnement]]
 
 Plus vous avez d'alliés plus vous réduisez le nombre de réfractaires et d'opposants.
 Au début d'un projet en général la majorité des acteurs ne sont ni alliés ni opposants mais hésitants. Tout l'enjeu est là : il s'agit de les amener à s'engager en faveur du projet plutôt que de laisser les opposants les rallier à leur cause, ce qui se passe naturellement si l'on n'intervient pas dans le jeu naturel.
@@ -382,6 +393,7 @@ A ce stade, ce n'est encore que de l'écriture pour soumettre votre lecture du p
 ---
 
 ## Quelle méthode employer ?
+
 ### Détection des liens à activer grâce à la [[Sociodynamique]]
 
 ### Actionner les alliés
@@ -407,6 +419,7 @@ Avant d'activer la co-construction, il est nécessaire de s'assurer de l'alignem
 ---
 
 ## Quelle posture adopter ?
+
 ### Écoute
 Toujours partir de l'expression des besoins de l'interlocuteur et l'inviter à parler surtout avec des questions ouvertes.
 
@@ -424,61 +437,63 @@ Il est possible qu'il y ait des territoires qui n'ont pas besoin, pour leur sant
 >
 >Une réponse pourrait être de bien présenter la démarche: c'est un cadeau au territoire, on a choisi votre territoire, c'est une chance pour vous (et accessoirement c'est gratuit)
 
-# ✅✅✅✅✅✅✅✅✅
-
 ### Être convaincu de la démarche que l'on porte 
-Revenir de manière régulière au pourquoi de la démarche en approche territoire.
-``cf le _why_``
+Revenir de manière régulière au pourquoi de la démarche en approche territoire, à l'intention initiale qui porte toute la vision du projet.
 
 ``Le GT avait en amont pris du recul par rapport à leur métier chez EDF R : pourquoi travaillent-ils chez EDF R, quelles sont leurs motivations, leurs idéaux, que souhaitent-ils participer à accomplir, etc. ? Ils avaient abouti à une formulation de leur raison d'être : « Construire demain, valorisons ensemble les potentiels de votre territoire »``
 
 Vous parlez de valoriser ensemble les besoins de NOS territoires: pour s'intégrer totalement dans le territoire, au même niveau que les autres acteurs.
 
 ### Être en mouvement
-Ne pas attendre la réponse d'un acteur, continuer à prendre d'autres rdv
-Idée du train en marche : les acteurs doivent comprendre que le train passe quoi qu'il arrive et que c'est à eux de voir s'il veulent monter maintenant, après ce sera trop tard
-Donc montrer qu'on avance, avec ou sans ceux qui hésitent
+Ne pas attendre la réponse d'un acteur, continuer à prendre d'autres rdv.
+Idée du train en marche : les acteurs doivent comprendre que le train passe quoi qu'il arrive et que c'est à eux de voir s'il veulent monter maintenant, après ce sera trop tard.
+Donc montrer qu'on avance, avec ou sans ceux qui hésitent.
 Le mouvement vient des rebonds :  si ça bloque d'un côté ça peut rebondir d'un autre avec une bonne question, une bonne demande.
 Viser la relation "Je + / Tu +"
 Ne pas se dévaloriser aux yeux de l'autre ni dévaloriser l'autre.
 
-voir [[Les types de relation]]
+voir la ressource sur **les différents types de relations**.
 
 ### Viser le "ET" plutôt que le "OU"
-Dans une approche territoire comme dans toute démarche de coopération le ET remplace le OU : S'il y a OU c'est qu'il y a une question de plus à poser pour comprendre comment le convertir en ET et ainsi adresser les besoins des deux parties
+Dans une approche territoire comme dans toute démarche de coopération le ET remplace le OU : S'il y a OU c'est qu'il y a une question de plus à poser pour comprendre comment le convertir en ET et ainsi adresser les besoins des deux parties.
 
 ### Garder le cap
-Il peut arriver qu'un interlocuteur veuille que la démarche soit mise en place chez lui, sans attendre de co-construire quoi que ce soit. Il peut être tentant d'accepter, pour obtenir un résultat rapide et efficace, mais un résultat qui ne s'inscrit pas dans la démarche territoriale, ne répond pas aux enjeux du territoire et ne crée pas de lien entre ses habitants. Il faut donc savoir garder le cap et dire non.
+Il peut arriver qu'un interlocuteur veuille que la démarche soit mise en place chez lui, sans attendre de co-construire quoi que ce soit. Il peut être tentant d'accepter, pour obtenir un résultat rapide et efficace, mais un résultat qui ne s'inscrit pas dans la démarche territoriale, ne répond pas aux enjeux du territoire et ne crée pas de lien entre ses habitants. Il faut donc savoir garder le cap et dire non tout en proposant une solution plus intégrée.
+
 Aller plus vite à un moment donné, aller à la facilité risque souvent de créer des frictions et des ralentissements plus tard : valoriser l'avancée en pas à pas et en conscience des impacts de chaque actions sur les liens et relations avec d'autres parties et acteurs du territoire.
 
-La [[Posture de leader]]
+Voir l'outil sur **la posture leader**.
 
 ---
 
 ## Quels outils & ressources utiliser ?
+
 Apports de la [[Coopération]]
 Apports de la #Sociodynamique
 Apport de l'  #Actionnement
-Apports de la #[[posture facilitateur]]
+Apports de la #posturefacilitateur
 Apports de l' [[intelligence collective]]
 Apports du [[design systémique]]
-Apports sur #[[Les types de relation]]
+Apports sur [[Les types de relation]]
 Apports sur [[L'engagement]]
-Outil [[9 cases]]
+Outil des [[9 cases]]
 
 ---
 
 ## Quelques points d'attentions sur cette phase
+
 Les groupes n'ont pas utilisés les objets de visualisations et de simulations : ils sont restés sur la discussion et beaucoup d'échanges à l'oral.
-``Aucun des groupes n'a utilisé une telle méthode. On a proposé d'utiliser Mactor mais c'est très chronophage``
-Dans la Piège par exemple, au premier RDV de co-construction, il a été demandé à plusieurs reprises par tous les acteurs présents de disposer d'un objet type cartographie pour pouvoir visualiser le territoire, discuter autour et se reposer sur la visualisation pour imaginer les choses à faire en commun
+
+``Aucun des groupes n'a utilisé une telle méthode. On a proposé d'utiliser Mactor mais c'est très chronophage.``
+
+Dans la Piège par exemple, au premier RDV de co-construction, il a été demandé à plusieurs reprises par tous les acteurs présents de disposer d'un objet type cartographie pour pouvoir visualiser le territoire, discuter autour et se reposer sur la visualisation pour imaginer les choses à faire en commun.
 
 ---
 
 ## En synthèse : quels acquis à l'issue de cette phase ?
 
-À l'issue de cette phase, le groupe projet a une connaissance et une compréhension globale et relativement profonde du territoire, des acteurs et de leurs enjeux ainsi que des jeux d'acteurs. 
-La diversité des rencontres a permis de faire émerger un projet "macro" de territoire, qui met en synergie les besoins de chacun et qui fédère : l'écoute et l'échange ont instauré une confiance qui ont décidé une partie des hésitants à faire partie du projet. 
+À l'issue de cette phase, le groupe projet porte une connaissance et une compréhension globale et relativement profonde du territoire, des jeux d'acteurs et de leurs enjeux.
+La diversité des rencontres a permis de faire émerger un projet "macro" de territoire, qui met en synergie les besoins de chacun et qui fédère : l'écoute et l'échange ont instauré une confiance qui facilite la décision d'une partie des hésitants à faire partie du projet. 
 Finalement, c'est même de l'envie qui a été créée, l'envie de participer à un projet commun, qui sort des façons de faire habituelles et qui est porteur de sens pour le collectif. 
 
 > « Quand est-ce que ça commence vraiment ?! »
@@ -486,56 +501,64 @@ Finalement, c'est même de l'envie qui a été créée, l'envie de participer à
 ---
 
 ## Exemples & cas d'études
+
 ...
 
 ---
 
 
+
+
+
+
+---
+
 # Activer la co-construction
-*Sur 1 mois.*
+*Sur 1 mois*
 
 ## Objectifs et éléments
-### Réaliser un premier atelier de co-construction
-Symboliquement cet atelier est très important : il marque le lancement de cette nouvelle grande phase qui va être beaucoup plus concrète
-Pour cet atelier, inviter les différents alliés avec le plus de diversité de profiles et d'intérêts possible pour faire en sorte d'avoir autour de la table une vision à 360° du territoire
-Pour les invitations, rappeler le pourquoi et le comment
-Pour le projet commun d'approche du territoire
-Pour traiter vos enjeux propres également
-En facilitant les discussions entre les différents parties prenantes du territoire dans un temps commun de 2:00 max pour commencer
-Pour l'ordre du jour, rappeler les objectifs en sortie
-Les enjeux de tout le monde seront écoutés
-Un plan d'action commun sera déterminé, prenant en compte les besoins de chaque partie
-L'écriture du projet commun sera partagée et enrichie
-Des rôles de gouvernance seront partagés
 
-### Rentrer en #Coopération dans le mode projet
-Jusqu'alors les liens de coopération n'était pas activés dans l'action
-Désormais, avec un début de plan d'action est de rôles pris, les différentes parties prenantes vont rentrer dans le "mode projet" en totale coopération
-Respect des engagements de chacun
-Respect des intentions partagées et communes
-Respects des besoins des différentes parties prenantes et du territoire
-Toutes les parties prenantes, dans le développement de leurs propres projets, vont le faire en conscience des autres en "prenant soin"
-Tout le monde est partie d'un même "corps" territoire
+### Réaliser un premier atelier de co-construction
+Symboliquement cet atelier est très important : il marque le lancement de cette nouvelle grande phase qui va être beaucoup plus concrète.
+Pour cet atelier, inviter les différents alliés avec le plus de diversité de profiles et d'intérêts possible pour faire en sorte d'avoir autour de la table une vision à 360° du territoire la plus complète possible.
+Pour les invitations, rappeler le pourquoi et le comment: pour le projet commun d'approche du territoire - pour traiter les enjeux propres de chaque acteur également.
+En facilitant les discussions entre les différents parties prenantes du territoire dans un temps commun de 2:00 max pour commencer.
+
+Pour l'ordre du jour, rappeler les objectifs en sortie: 
+- les enjeux de tout le monde seront écoutés
+- un plan d'action commun sera déterminé, prenant en compte les besoins de chaque partie
+- l'écriture du projet commun sera partagée et enrichie
+- des rôles de gouvernance seront partagés
+
+### Rentrer en [[coopération]] le mode projet
+Jusqu'alors les liens de coopération n'était pas activés dans l'action; désormais, avec un début de plan d'action est de rôles pris, les différentes parties prenantes vont rentrer dans le "mode projet" en totale coopération:
+- Respect des engagements de chacun
+- Respect des intentions partagées et communes
+- Respects des besoins des différentes parties prenantes et du territoire
+
+Toutes les parties prenantes, dans le développement de leurs propres projets, vont le faire en conscience des autres en "prenant soin" de chacun.
+
+Tout le monde est désormais une partie d'un même "corps" territoire commun.
 
 ### La #Co-construction en pas à pas
-Durant la phase de co-construction, tous les acteurs du territoire rentrent vraiment dans un mode projet coopératif
-Ils mettent en place une [[Gouvernance projet]] pour installer des "rituels" de synchronisation et de mise à niveau en terme d'information des actions de chacun
-Ils mettent en place les rôles nécessaires au bon développement du projet de territoire
-Ils mettent en place les outils & ressources nécessaires au travail de chacun :
-#[[Système de connaissances]]
-Système numérique de gestion projet
-Système de communication
-Pour en continue tenir informé l'extérieur du groupe projet de ce qu'il se passe, semaines après semaines
-Système de Feedback
-Pour récolter en continue les retours, avis, apports d'autres acteurs qui ne sont pas encore actifs dans la gouvernance du projet
-C'est notamment la cellule d'écoute nécessaire pour inclure les premiers réfractaires ou opposants
-Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[La démarche itérative]] , en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs)
+Durant la phase de co-construction, tous les acteurs du territoire rentrent vraiment dans un mode projet coopératif:
+- Ils mettent en place une #gouvernance et installent des "rituels" de synchronisation et de mise à niveau en terme d'information des actions de chacun
+- Ils mettent en place les rôles nécessaires au bon développement du projet de territoire
+- Ils mettent en place les outils & ressources nécessaires au travail de chacun
+
+les différentes ressources types:
+- système d'information
+- système numérique de gestion projet
+- système de communication - en continue tenir informé l'extérieur du groupe projet de ce qu'il se passe, semaines après semaines
+- système de Feedback - pour récolter en continue les retours, avis, apports d'autres acteurs qui ne sont pas encore actifs dans la gouvernance du projet - c'est notamment la cellule d'écoute nécessaire pour inclure les premiers réfractaires ou opposants
+
+Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[la démarche itérative]] , en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs).
 
 ### Structurer un groupe projet aux membres complémentaires
-La complémentarité s'exprime dans les compétences, l'accès à certaines ressources et informations, l'accès à certains pouvoir de décision, etc.
-Chaque partie prenante commence à bien connaître les autres et les synergies intéressantes à développer pour atteindre le plan d'action commun pour l'intérêt du territoire
-S'il manque des personnes ou parties ressources, il est nécessaire de relancer une phase d'exploration et de tisser de nouvelles coopérations
-Renforcer les alliés par les alliés déjà engagés
+La complémentarité s'exprime dans les compétences, l'accès à certaines ressources et informations, l'accès à certains pouvoir de décision, etc...
+Chaque partie-prenante commence à bien connaître les autres et les synergies intéressantes à développer pour atteindre le plan d'action commun pour l'intérêt du territoire.
+S'il manque des personnes ou parties ressources, il est nécessaire de relancer une phase d'exploration et de tisser de nouvelles coopérations.
+Renforcer les alliés par les alliés déjà engagés.
 
 ### Aligner les intentions et les objectifs
 Est-ce que tout le monde est bien conscient des enjeux de chacun ?
@@ -544,215 +567,245 @@ Est-ce que tout le monde partage bien l'écriture commune du projet de territoir
 Est-ce que les objectifs sont bien clairs et partagés ? Est-ce que le plan d'action prend bien en compte les besoins de chacun, en terme d'actions et de délais ?
 
 ### Faire émerger un projet clair et concret
-Pour rentrer dans l'action, le groupe à besoin de pas à pas clairement définis et lisibles en contexte d'une stratégie commune
-Il est donc très important de tenir la #[[posture facilitateur]] pour synthétiser et clarifier les éléments du projet :
-Clarifier les intentions
-Clarifier les objectifs et la stratégie
-Clarifier les liens et synergies entre le projet commun et les projets de chacun
-Clarifier les liens entre les prochains petits pas et la vision commune du projet de territoire
+Pour rentrer dans l'action, le groupe à besoin de pas à pas clairement définis et lisibles en contexte d'une stratégie commune.
+Il est donc très important de tenir la posture [[facilitation]] pour synthétiser et clarifier les éléments du projet :
+- Clarifier les intentions
+- Clarifier les objectifs et la stratégie
+- Clarifier les liens et synergies entre le projet commun et les projets de chacun
+- Clarifier les liens entre les prochains petits pas et la vision commune du projet de territoire
 
 ### Répartir les rôles et les engagements
-En lien avec la mise en place d'une [[Gouvernance projet]]
-Chaque contributeur du projet du territoire est invité à prendre librement un ou plusieurs rôles nécessaires à la stratégie et aux objectifs définis ensemble
-Si chaque rôle est porté, les premiers pas concrets peuvent se mettre en place et le mode projet est activé !
-Il est bienvenu d'avoir un rôle garant de la mise en place de la gouvernance
+En lien avec la mise en place d'une #gouvernance chaque contributeur du projet du territoire est invité à prendre librement un ou plusieurs rôles nécessaires à la stratégie et aux objectifs définis ensemble.
+Si chaque rôle est porté, les premiers pas concrets peuvent se mettre en place et le mode projet est activé!
+Il est bienvenue d'avoir un rôle garant de la mise en place de la gouvernance.
 
 ### Instaurer les bases d'une culture de l'agilité
-Les actions projet réalisées en cycles deviennent une culture et une base de fonctionnement du projet : c'est une culture de projet agile qui se met en place
-Cette culture va devenir de plus en plus naturelle et va pouvoir infuser dans la culture du territoire
-Cette culture de l'agilité participe au soin du territoire et à sa régénération : elle apporte une base de résilience et un fonctionnement plus organique et vivant que le fonctionnement actuel très solide, siloté et fait de toute la lourdeur de nos anciens systèmes hiérarchiques
+Les actions projet réalisées en cycles deviennent une culture et une base de fonctionnement du projet : c'est une culture de projet agile qui se met en place.
+Cette culture va devenir de plus en plus naturelle et va pouvoir infuser dans la culture du territoire.
+Cette culture de l'agilité participe au soin du territoire et à sa régénération : elle apporte une base de résilience et un fonctionnement plus organique et vivant que le fonctionnement classique très solide, siloté et fait de toute la lourdeur de nos systèmes hiérarchiques.
 
 ---
 
 ## Quelle méthode employer ?
+
 ### Pour placer le premier atelier et activer la co-construction
-**Fixer une date pour le premier atelier et lancer les invitations même s'il y a encore des incertitudes**
-Permet également de sceller les engagements des participants
-Invitations :
-objectifs de l'atelier
-durée (au moins estimative)
-travail à préparer s'il y a lieu
-date de réponse exigée
-donner envie en rappelant les apports pour les enjeux de chacun comme pour le territoire plus largement !
+**Fixer une date pour le premier atelier et lancer les invitations même s'il y a encore des incertitudes.** Permet également de sceller les engagements des participants.
+
+Ordre du jour de l'invitations :
+- objectifs de l'atelier
+- durée (au moins estimative)
+- travail préparatif au besoin
+- date de réponse exigée
+- donner envie en rappelant les apports pour les enjeux de chacun comme pour le territoire plus largement !
+
+> partager un modèle de mail type comme ressource
 
 **Choisir son rôle : animateur, acteur de la co-construction, les deux...?**
-Une personne peut prendre la [[posture facilitateur]] en assurant sa neutralité et le fait d'être au service du groupe sans intérêt propre à manifester
-Un personne dans le rôle d'acteur du territoire, totalement fondu dans le groupe à la co-construction, portant ses propre intérêt à intégrer aux enjeux communs
+Une personne peut prendre la posture [[facilitation]] en assurant sa neutralité et le fait d'être au service du groupe sans intérêt propre à manifester.
+Un personne dans le rôle d'acteur du territoire, totalement fondu dans le groupe à la co-construction, portant ses propre intérêt à intégrer aux enjeux communs.
 
 **Prévoir le déroulé de l'atelier :**
 - Définir les objectifs de l'atelier
-``Synthèse des objectifs pour la première réunion de co-construction de chaque groupe :``
-``S'assurer que tout le monde ait une compréhension partagée de la démarche``
-``Identifier les enjeux de chaque partie prenante``
-``Établir les modalités de la co-construction (Qu'entend-on par co-construction, quelles actions doivent être faites par qui et pour quand, quelle prochaine date de réunion)``
+	- S'assurer que tout le monde ait une compréhension partagée de la démarche
+	- Identifier les enjeux de chaque partie prenante
+- Établir les modalités de la co-construction (Qu'entend-on par co-construction, quelles actions doivent être faites par qui et pour quand, quelle prochaine date de réunion)
 - Définir les séquences principales permettant d'atteindre ces objectifs
 - Définir les sous-séquences, leurs modalités d'animation et leur durée
 
 ### Définir les premières actions communes
-L'écriture commune du projet de territoire définit la vision long terme pour l'évolution du territoire à co-construire
-Pour revenir au présent, le groupe décompose les différentes actions à mettre en place en les priorisant suivant les besoins de chacun et la stratégie et approche commune
-De ces priorisations il est possible de déterminer les prochains petit pas à activer directement en sortie de réunion
-Ces actions sont ensuite assignées aux différents rôles porteurs qui vont, en prenant le rôle s'engager à remplir ces actions et à apporter les rétributions associées / partager les feedbacks positifs comme négatifs.
+L'écriture commune du projet de territoire définit la vision long terme pour l'évolution du territoire à co-construire.
+Pour revenir au présent, le groupe décompose les différentes actions à mettre en place en les priorisant suivant les besoins de chacun et la stratégie et approche commune.
+De ces priorisations il est possible de déterminer les prochains petit pas à activer directement en sortie de réunion.
+Ces actions sont ensuite assignées aux différents rôles porteurs qui vont, en prenant le rôle, s'engager à remplir ces actions et à apporter les rétributions associées / partager les feedbacks positifs comme négatifs.
 
-Instaurer les bases de la [[Co-construction]]
-Constituer une [[Gouvernance projet]]
+Instaurer les bases de la #Co-construction 
+Constituer une #gouvernance 
 
 ---
 ## Quelle posture adopter ?
-#[[posture facilitateur]]
+
+[[facilitation]]
 
 ---
 
 ## Quels outils & ressources utiliser ?
-Les apports du [[Design thinking]] pour la préparation logique de la rencontre
-Détection et adresser des opportunités en commun
-Résoudre des problématiques par les usages
-Intégrer de multi-enjeux et les mettre en perspective d'un projet collectif
 
-[[L'engagement]]
-[[Actionnement]]
+Les apports du [[Design fiction]] pour aider le groupe à définir son intention commune, sa vision en passant par une projection du futur idéal et partagé du territoire.
+
+Les apports du [[Design thinking]] pour la préparation et l'accompagnement de la démarche:
+- Détection et adresser des opportunités en commun
+- Résoudre des problématiques par les usages
+- Intégrer de multi-enjeux et les mettre en perspective d'un projet collectif
+
+[[engagement]]
+[[actionnement]]
 
 ---
 
 ## Quelques points d'attentions sur cette phase
-Dans la Piège, il manquait un objet concret comme la cartographie pour faciliter la projection des membres du groupe
-Il manquait également quelques estimations chiffrées, quelques propositions de scénarios possible de co-construction à remettre en question
-L'idée de cette phase n'est pas d'entrer formellement et directement dans le travail projet et la co-construction MAIS de mettre en place toutes les bases qui vont être nécessaires au bon déroulement et à la bonne dynamique sur le moyen terme
-En sortie de cette activation, les bases doivent être en place pour le prochain RDV qui sera le premier RDV concret de travail en commun avec mise en place des premières actions et assignations aux rôles portés
+
+Dans la Piège, il manquait un objet concret comme la cartographie pour faciliter la projection des membres du groupe.
+Il manquait également quelques estimations chiffrées, quelques propositions de scénarios possible de co-construction à remettre en question.
+L'idée de cette phase n'est pas d'entrer formellement et directement dans le travail projet et la co-construction MAIS de mettre en place toutes les bases qui vont être nécessaires au bon déroulement et à la bonne dynamique sur le moyen terme.
+En sortie de cette activation, les bases doivent être en place pour le prochain RDV qui sera le premier RDV concret de travail en commun avec mise en place des premières actions et assignations aux rôles portés.
 
 ---
 
 ## En synthèse : quels acquis à l'issue de cette phase ?
 
-À l'issue de cette phase, la co-construction peut concrètement commencer car son cadre a été fixé. Le groupe projet a été déterminé et celui-ci a :
+
+À l'issue de cette phase, la co-construction peut concrètement commencer car son cadre est fixé. Le groupe projet a été déterminé et celui-ci a :
 - défini le projet commun de territoire
-- clarifié les besoins et enjeux des parties prenantes ainsi que leurs liens entre elles
+- clarifié les besoins et enjeux des parties-prenantes ainsi que leurs liens entre elles
 - identifié les objectifs à atteindre et la stratégie de co-construction à mettre en œuvre
 - décidé des outils et ressources à mobiliser
 - défini la gouvernance du projet
-A la fin du premier atelier de co-construction, chacun repart avec les idées claires sur son rôle au sein du groupe et sur la prochaine action qu'il doit mettre en œuvre avant la prochaine réunion, qui a été elle aussi fixée.
+
+A la fin du premier atelier de co-construction, chacun repart avec les idées claires sur son rôle au sein du groupe et sur la prochaine action qu'il doit mettre en œuvre avant la prochaine réunion, qui a été elle aussi directement fixée, pour assurer un rythme et une dynamique.
 
 ---
 
 ## Exemples & cas d'études
-Dans la Piège, la gouvernance partagée était très importante pour le président des com-com (et maire) - Il a donc pris le rôle de mise en place de la gouvernance dès le premier RDV de co-construction
 
-- "C'était très important pour lui d'avoir une bonne définition de la gouvernance, ouverte, démocratique et inclusive.
+Dans la Piège, la gouvernance partagée était très importante pour le président des com-com (et maire) - Il a donc pris le rôle de mise en place de la gouvernance dès le premier RDV de co-construction.
+
+> "C'était très important pour lui d'avoir une bonne définition de la gouvernance, ouverte, démocratique et inclusive."
 
 Positionnement des autres acteurs sur le sujet de la gouvernance : 
-
 - Les syndicats pourront être supports mais ne seront pas acteurs
-- Les membres présents étaient principalement en attente de "concret", c'est à dire de pouvoir visualiser et travailler ensemble sur une carte pour comprendre combien en taille, ou, et combien en économie crée - besoin de compter et de comprendre le deal envisagé
-    - Est-ce que alors ils seront prêts à prendre des rôle de eux-même ou à comprendre l'intérêt d'une gouvernance projet ? A voir..."
+- Les membres présents étaient principalement en attente de "concret", c'est à dire de pouvoir visualiser et travailler ensemble sur une carte pour comprendre combien en taille, ou/et combien en économie crée - besoin de compter et de comprendre le deal envisagé
+    - Est-ce que alors ils seront prêts à prendre des rôle de eux-même ou à comprendre l'intérêt d'une gouvernance projet ? A voir quel [[actionnement]] sera possible...
+
+---
+
+
+
 
 ---
 
 # Basculer en mode projet
-
 *(Phase en cours de lancement au 31 mai 2021 côté EDFR)*
 
-
 Suite à la phase d'activation de la co-construction, le projet commun commence à se dessiner mais encore seulement sur le papier.
-La complexité du territoire est devenu consciente : il est possible d'appréhender le territoire et de se rendre compte des impacts des choix sur d'autres parties du système
-La visualisation du territoire est partagée avec une partie de ses acteurs, les alliés, qui vont être les premiers engagés dans la dynamique du projet commun de territoire
+La complexité du territoire est plus en conscience de tous les acteurs : il est possible d'appréhender le territoire et de se rendre compte des impacts des choix sur d'autres parties de ce système commun.
+La visualisation du territoire est partagée avec une partie de ses acteurs, les alliés, qui vont être les premiers engagés dans la dynamique du projet commun de territoire.
 Le projet commun est en première écriture collective : les intentions, les envies, les enjeux sont partagés et les premières actions peuvent se déclencher !
+
 Il faut maintenant concrètement se lancer dans le projet ! Il faut se réunir et préciser les premières actions, les affecter aux différents rôles, ajuster la gouvernance, les priorités et les délais par rapport à une base de stratégie commune, suivant l'écriture du projet de territoire.
 
 ## Objectifs et éléments
+
 ### Croiser les intérêts des acteurs du territoire
-Chaque allié connaît maintenant ses intérêts et le lien avec les intérêts et enjeux des autres : ils sont conscients de l'approche systémique à avoir sur le territoire pour agir dans l'intérêt du territoire en même temps que leurs intérêts propres
-**La question maintenant : comment faire en sorte que nos actions et nos projets individuels profitent à nos intérêts tout en profitant au projet commun du territoire ?**
+Chaque allié connaît maintenant ses intérêts et le lien avec les intérêts et enjeux des autres : ils sont conscients de l'approche systémique à avoir sur le territoire pour agir dans l'intérêt du territoire en même temps que leurs intérêts propres.
+**La question qui se pose à ce stade : comment faire en sorte que nos actions et nos projets individuels profitent à nos intérêts propres tout en profitant au projet commun du territoire ?**
 
 ### Répondre aux besoins réels du territoire
-Les besoins réels du territoire sont au croisement des besoins de chacun : c'est une approche complexe mais nécessaire pour tenir un projet commun et des actions en équilibre et à toutes les échelles
-Impossible de déterminer un grand plan d'action sur le long terme : l'approche territoriale est faite de petit pas en petits pas
-Comment faire alors concernant des projets fonciers conséquents ? Comment construire un projet foncier autrement pour respecter cette nécessité des petits pas et impliquer les besoins de tous les acteurs à chaque évolutions du projet commun ?
+Les besoins réels du territoire sont au croisement des besoins de chacun : c'est une approche complexe mais nécessaire pour tenir un projet commun et des actions en équilibre et à toutes les échelles.
+Impossible de déterminer un grand plan d'action sur le long terme : l'approche territoriale évolue de petit pas en petits pas.
+
+Comment faire plus spécifiquement pour des projets fonciers conséquents ? Comment construire un projet foncier autrement pour respecter cette nécessité des petits pas et impliquer les besoins de tous les acteurs à chaque évolutions du projet commun ?
 
 ---
 
 ## Quelle méthode employer ?
-### Réorientation & ré-alignement des équipes projet et des projets entre eux
-Via les rituels de synchronisations, les acteurs au fil du temps s'assurent que le projet garde son cap, tient la même intention commune, respecte les premières écritures et la raison d'être
-Si ce n'est pas le cas, il est prévu dans la gouvernance des rituels pour mettre à jour les fondations du projet, toujours en respectant les bases de la coopérations et de la co-construction
-Ces rituels permettent dans leur forme et dans leur fond de s'assurer semaine après semaine que l'engagement des acteurs est toujours au même niveau et que la dynamique est toujours partagée
 
-C'est comme arroser un jardin collectif
-Il est donc très important de tenir la #[[posture facilitateur]] pour, en continu, synthétiser, clarifier et réécrire les éléments du projet :
-Réviser et clarifier les intentions
-Réviser et clarifier les objectifs et la stratégie
-Réviser et clarifier les liens et synergies entre le projet commun et les projets de chacun
-Réviser et clarifier les liens entre les prochains petits pas et la vision commune du projet de territoire
-Durant tout le développement du projet de territoire, chaque partie prenante doit pouvoir lire clairement le pourquoi et le comment de ce qu'il se passe et de ce qu'il va se passer pour ne pas perdre l'engagement et la cohérence de la démarche
+### Réorientation & ré-alignement des équipes projet et des projets entre eux
+Via les rituels de synchronisations, les acteurs au fil du temps s'assurent que le projet garde son cap, tient la même intention commune, respecte les premières écritures et la raison d'être.
+Si ce n'est pas le cas, il est prévu dans la gouvernance des rituels pour mettre à jour les fondations du projet, toujours en respectant les bases de la coopérations et de la co-construction.
+Ces rituels permettent dans leur forme et dans leur fond de s'assurer semaine après semaine que l'engagement des acteurs est toujours au même niveau et que la dynamique est toujours partagée. C'est comme arroser un jardin collectif.
+
+Il est donc très important de tenir la posture [[facilitation]] pour, en continu, synthétiser, clarifier et réécrire les éléments du projet :
+- Réviser et clarifier les intentions
+- Réviser et clarifier les objectifs et la stratégie
+- Réviser et clarifier les liens et synergies entre le projet commun et les projets de chacun
+- Réviser et clarifier les liens entre les prochains petits pas et la vision commune du projet de territoire
+
+Durant tout le développement du projet de territoire, chaque partie prenante doit pouvoir lire clairement le pourquoi et le comment de ce qu'il se passe et de ce qu'il va se passer pour ne pas perdre l'engagement et la cohérence de la démarche.
 Nécessaire également pour que la communication autour du projet soit claire à l'extérieur et juste : pour éviter de créer des réfractaires juste par mauvaise information !
-C'est avec un projet clair et clairement communicable que le groupe pourra s'agrandir et que des passifs pourront devenir acteur du projet !
+
+> les potins et bruits de couloirs existent surtout lorsque l'information claire de ce qu'il se passe vraiment n'est pas accessible: sans information les humains ont besoin de créer leur propre version et si ça vient d'une frustration il y a un risque de créer une information réfractaire.
+
+C'est avec un projet clair, clairement communicable et commiuniqué que le groupe pourra s'agrandir et que des passifs pourront devenir acteur du projet! Ensuite viendront les réfractaires.
 
 ### Co-apprentissage en continu, partage des retours d’expérimentations
 Bonnes pratiques pour fournir le système d'information
-Le travail et les apprentissages des uns vient enrichir le commun de connaissances apportant ainsi des ressources aux autres acteurs du projet commun
+Le travail et les apprentissages des uns vient enrichir le commun de connaissances apportant ainsi des ressources aux autres acteurs du projet.
 
 > C'est une démarche de "Territoire apprenant"
 
 ### Validation des apports des différents projets pour le territoire & les intérêts des différentes parties prenantes
 Durant le pas à pas de développement des projets formant le projet commun du territoire il y a des temps "rituels" d'écoute et de récolte des feedbacks quant à la bonne orientation des actions en cours ou s'il y a nécessité de réviser certaines actions, de réorienter le cap, etc.
 
-> Comme quand le jardinier vient observer son jardin et découvre s'il doit agir sur certaines zones et comment ?
-La démarche de co-construction est une démarche d'actions coopératives mais aussi une démarche d'observation et d'écoute en continu
-Chaque information peut inviter à réorienter des actions avant qu'il ne soit trop tard
-**Cette "culture" permet de développer une réelle résilience du projet de territoire**
+> Comme quand le jardinier vient observer son jardin et découvre s'il doit agir sur certaines zones et comment.
+> La démarche de co-construction est une démarche d'actions coopératives mais aussi une démarche d'observation et d'écoute en continu.
+> Chaque information peut inviter à réorienter des actions avant qu'il ne soit trop tard
+> **Cette "culture" permet de développer une réelle agilité et résilience du projet de territoire.**
 
 ### Mettre en œuvre la démarche itérative
-Les actions définies en décomposant en étapes le projet long terme sont attribuées aux différents rôles. Autour son action, chacun s'engage à :
-Faire l'action
-Partager l'information à tous que c'est fait
-Partager s'il y a des feedbacks récoltés pendant la mise en place de l'action
-Des problèmes, des frictions
-Des bons retours, des avis positifs et encourageants
-Partage de qui est imaginé et nécessaire pour faire le pas suivant
-Récolter les apports des autres rôles et engager les étapes suivantes, en temps et en heure par rapport aux premiers pas des autres et aux informations récoltées
-C'est [[La démarche itérative]] en action : à chaque petite étape, il y a remise au commun et réajustement si nécessaire
-C'est aller moins vite mais plus loin ensemble
-C'est éviter d'accumuler des erreurs qui vont mener à un mur
-C'est garder le cap fixé par l'écriture du projet commun en accord avec les intentions du projet et de chacun
+Les actions définies en décomposant en étapes le projet long terme sont attribuées aux différents rôles. Chacun s'engage à :
+- Faire les actions qui lui sont assignées
+- Partager l'information à tous que c'est fait (ou pas et pourquoi)
+- Partager s'il y a des feedbacks récoltés pendant la mise en place de l'action
+	- Des problèmes, des frictions
+	Des bons retours, des avis positifs et encourageants
+- Récolter les apports des autres rôles et engager les étapes suivantes, en temps et en heure par rapport aux premiers pas des autres et aux informations récoltées
 
+C'est [[la démarche itérative]] en action : à chaque petite étape, il y a remise au commun et réajustement si nécessaire. 
+C'est aller moins vite mais plus loin ensemble.
+C'est éviter d'accumuler des erreurs qui vont mener dans le mur.
+C'est garder le cap fixé par l'écriture du projet commun en accord avec les intentions du projet et de chacun.
 
 ### Conduire l'évolution d'un projet co-construit en toute agilité
 S'il y a progression en itérations, réajustements au fil des actions, réorientations quand nécessaire suivant ce qui est capté comme retours du territoire, il y a projet de territoire dynamique, agile et vivant.
-Au fur et à mesure du développement du projet de territoire, des alliés vont permettre d'intégrer de nouveaux acteurs qui vont eux-mêmes devenir des alliés et apporter leur projet au projet commun
-Ces nouveaux apports vont permettre d'avoir un projet de territoire encore plus complet bien que plus complexe
-C'est grâce à la conduite agile et résiliente en pas à pas du projet de territoire qu'il est possible d'avancer en acceptant une complexité grandissante
-L'évolution du projet de territoire en co-construction fait directement évoluer le territoire et tous les acteurs du territoire, même ceux qui ne sont pas engagés dans la dynamique
-Dans une approche systémique, toute action sur un système touche toutes les parties du système, rien n'est isolé, tout est lié
+Au fur et à mesure du développement du projet de territoire, des alliés vont permettre d'intégrer de nouveaux acteurs qui vont eux-mêmes devenir des alliés et apporter leur projet au projet commun.
+Ces nouveaux apports vont permettre d'avoir un projet de territoire encore plus complet bien que plus complexe.
+C'est grâce à la conduite agile et résiliente en pas à pas du projet de territoire qu'il est possible d'avancer en acceptant une complexité grandissante.
+L'évolution du projet de territoire en co-construction fait directement évoluer le territoire et tous les acteurs du territoire, même ceux qui ne sont pas engagés dans la dynamique.
+Dans une approche systémique, toute action sur un système touche toutes les parties du système, rien n'est isolé, tout est lié.
 
 ## Quelle posture adopter ?
+
 Design thinking
-[[posture facilitateur]]
+[[facilitation]]
 Management de projet agile
 Leadership de la complexité
 
 ---
 
 ## Quels outils & ressources utiliser ?
+
 Apports du #[[design systémique]] et des théories des systèmes complexes
 Utiliser le prototype projet
 
-[[La démarche itérative]]
+[[la démarche itérative]]
 
 ---
 
 ## Quelques points d'attentions sur cette phase
-Nous sommes en dehors du cadre d'expérience de EDFR : c'est la prochaine étape à mettre en place !
+
+> Nous sommes en dehors du cadre d'expérience de EDFR : c'est la prochaine étape à mettre en place !
+
 Les informations sont donc basées sur d'autres cas d'études et d'autres projets : il va falloir lancer ces premiers cycles sur les territoires en expérience pour valider cette partie du guide
 
 ---
 
 ## En synthèse : quels acquis à l'issue de cette phase?
 
+
 ---
 
 ## Exemples & cas d'études
 
+- Bresse Vallons
+
 ---
 
+
+
+
+
+
+---
 
 # Valider le premier cycle de co-construction
 
@@ -765,44 +818,52 @@ _Est-ce que le système a déjà bougé ou pas ?_
 ### Produire un état des lieux par rapport aux objectifs stratégiques initiaux des parties prenantes
 
 ### Go ou no Go sur le lancement d'un deuxième cycle
-L'entrée en phase 2, nouveau cycle, marque un GO sur la continuité du territoire, pour aller plus loin et continuer la co-construction
-S'il y a validation, il y a GO également sur l'intégration des apprentissages dans le guide commun d'approche territoriale ici présent
-Permet de faire évoluer le guide au fur et à mesure des développements des territoires pour en continu, le mettre à jour, l'ajuster et le fournir en exemples, en nouvelles ressources, outils, méthodes, etc...
+L'entrée en phase 2, nouveau cycle, marque un GO sur la continuité du territoire, pour aller plus loin et continuer la co-construction.
+S'il y a validation, il y a GO également sur l'intégration des apprentissages dans le guide commun d'approche territoriale ici présent ce qui permet de faire évoluer le guide au fur et à mesure des développements des territoires pour en continu, le mettre à jour, l'ajuster et le fournir en exemples, en nouvelles ressources, outils, méthodes, etc...
 
 ---
 
-### Quelle méthode employer ?
+## Quelle méthode employer ?
+
 Faire un état des lieux en #Co-construction
-Choisir en amont Les indicateurs qui permettront d'évaluer la démarche
-Évaluer l'approche régénérative _(Ouverture sur ces sujets qui n'ont pas été abordés mais qui sont importants : En conditions idéales, on devrait faire...)_
-Dimension écologique
-Dimension économique
+Choisir en amont Les indicateurs qui permettront d'évaluer la démarche.
+- définir des KPIs
+- définir des OKRs
+
+Évaluer l'approche régénérative _(Ouverture sur ces sujets qui n'ont pas été abordés mais qui sont importants : En conditions idéales, on devrait faire...)_ - passer au prismes des 4 dimensions de l'approche design:
+- désirable?
+- viable?
+- faisable?
+- régénérarif?
 
 ---
 
-### Quels outils & ressources utiliser ?
+## Quels outils & ressources utiliser ?
+
 Apports du #[[design systémique]]
 Apports du #[[design régénératif]]
-Apports du Business Design
-Apports de la documentation coopérative
+Apports du [[business design]]
+Apports de la #documentation & [[système de connaissances]]
 
 ---
 
-### Quelques points d'attentions sur cette phase
----
-
-### En synthèse : quels acquis à l'issue de cette phase ?
----
-
-### Exemples & cas d'études
+## Quelques points d'attentions sur cette phase
 ...
 
----
+## En synthèse : quels acquis à l'issue de cette phase ?
+...
+## Exemples & cas d'études
+...
 
+
+
+
+---
 
 # Mettre à jour le guide d'essaimage
 
-### Objectifs et éléments
+## Objectifs et éléments
+
 Normaliser les apprentissages des territoires en expérimentation
 _Normaliser la phase exploratoire_
 Créer un « guide » narratif et médias pour permettre l'essaimage sur d'autres territoires
@@ -814,44 +875,47 @@ S'assurer de la bonne conduite des essaimages
 
 ---
 
-### Quels outils & ressources utiliser ?
+## Quels outils & ressources utiliser ?
+
 Les apports du #storytelling
 Les apports de la documentation
 Les apports du Design graphique
 
----
 
-### Quelle posture adopter ?
+
+## Quelle posture adopter ?
+
 Les apports du mentorat
 
----
 
-### Quelques points d'attentions sur cette phase
----
 
-### En synthèse : quels acquis à l'issue de cette phase ?
----
+## Quelques points d'attentions sur cette phase
 
-### Exemples & cas d'études
+## En synthèse : quels acquis à l'issue de cette phase ?
+
+## Exemples & cas d'études
 ...
 
+
 ---
-
-
 
 # Conclusion & remerciements
-### Vision philosophique de l'approche
-### Co-construire le monde de demain
 
----
+## Vision philosophique de l'approche
+### Co-construire le monde de demain
 Ouverture sur le livre plus complet de Fabrice Liut
 
-# Les apports & cas d'étude de Neoz conseil
-
+## Les apports & cas d'étude de Neoz conseil
 Design régénératif
 Biomimétisme et bio-inspiration
 
-Coopération
+
+---
+
+# Annexes & ressources
+
+## coopération
+
 - _3 à 5 slides GT de février_
 
 ![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/5bJHJ1Nqa)
@@ -899,6 +963,7 @@ Créer la confiance naturellement et humainement plutôt que administrativement 
 
 
 ## posture facilitateur
+
 Le Facilitateur est le garant de la [[Coopération]]
 Il crée l'environnement de travail propice
 Il invite à l'écoute
@@ -932,6 +997,7 @@ Favoriser les introvertis comme les extravertis
 
 
 ## intelligence collective
+
 Différentes formes d'intelligence collective
 [Les différentes formes d'intelligence collective](https://audreyjammes.wordpress.com/2012/02/03/les-differentes-formes-dintelligence-collective/)
 [Les différentes formes de développement de l'intelligence collective](https://audreyjammes.wordpress.com/2012/02/03/les-differentes-formes-de-developpement-de-lintelligence-collective/)
@@ -982,7 +1048,8 @@ Co-construction
 
 ![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/OQo88TzKw)
 
-## Gouvernance projet
+## gouvernance projet
+
 La gouvernance permet de répartir les rôles et les responsabilités des différents contributeurs
 Différents modèles peuvent se mettre en place, je partagerais ici une inspiration du modèle Holacratique qui est un modèle adapté pour structurer une gouvernance horizontale et partagée qui est adaptée à une démarche de co-construction en coopération
 L'organisation projet est en cercle et non pas hiérarchique
@@ -1034,7 +1101,8 @@ Sociodynamique
 
 
 
-## Actionnement
+## actionnement
+
 - _3 slides (CR GT décembre)_
 https://drive.google.com/file/d/1_uhQLjAjVPgv-WBmOUqGx3S5cezj1cQ8/view
 - _Est-ce qu'on met la méthode de rédaction de mail IMPEC ?_
@@ -1052,7 +1120,8 @@ Pour qu’une personne soit engagée dans une action, il faut :
 -	Qu’elle prenne la décision de passer à l’action.
 
 
-## Système de connaissances
+## système d'information
+
 Très proche de la logique d'un système d'information mais moins orienté sur la data et la gestion projet, plus sur l'organisation de la connaissance
 Il est nécessaire de mettre en place ce genre de système pour garder un historique complet de toutes les évolutions et actions du projet
 Egalement nécessaire pour rapidement et facilement accéder à de l'information, retrouver un contact, accéder à de la connaissance nécessaire pour bien appréhender un RDV futur ou comprendre la problématique d'un acteur
@@ -1079,12 +1148,14 @@ Le système de connaissance Notion de l'expérimentation Edf R
 [Espace de la Piège](https://www.notion.so/edfr/La-Pi-ge-Index-de-travail-16ba6f4f666b4a1aa838edd4f6c731fc)
 
 ## Posture de leader
+
 Le leader, c'est celui qui ouvre et montre la voie, qui embarque avec lui tous les autres et les fait grandir.
 Le leader se sait leader : il a conscience qu'il est à la tête de son domaine, **et il l'assume**.
 Il a confiance en ce qu'il fait et pour cause il se concentre sur ce qui va au lieu de se focaliser sur ce qui se passe mal.
 Si quelqu'un ne veut pas de sa proposition, il ne s'en formalise pas et va trouver quelqu'un d'autre.
 
 ## Cartographie de réseaux
+
 Principes de la cartographie ou "mapping"
 Permet de visualiser à plat un système du territoire
 Système d'acteurs

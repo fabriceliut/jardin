@@ -16,7 +16,7 @@ Pour tout projet il est nécessaire de gérer des ressources intellectuelles (co
 
 Pour ces 2 sujets il y a plusieurs besoins :
 
--   trop d'informations de partout : besoin d'organiser, de ranger et structurer grâce à un [[Système de connaissances]]
+-   trop d'informations de partout : besoin d'organiser, de ranger et structurer grâce à un [[système de connaissances]]
 -   trop d'information circule mais pas au bon moment et au bon endroit : problème de la communication
 -   Il y a des temps pour travailler sur le projet, pour prendre des notes, capitaliser sur la connaissance et les ressources, communiquer les avancés aux autres etc... il y a une logique de conduite projet à mettre en place dans laquelle on intègre la gestion de la connaissance, des tâches, des calendriers et des outils.
 
