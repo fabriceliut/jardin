@@ -2,24 +2,35 @@
 title: guidebook de l'approche territoriale NEOZ
 ---
 
-# Introduction
+# Introduction ✅
 ## Qu'est-ce qu'une approche territoriale ?
-L’idée est de se positionner du point de vue du territoire pour faire en sorte de bien comprendre ses besoins et ainsi ==les besoins systémiques== de ses différentes parties.
+
+L'approche territoriale est une manière nouvelle de construire des projets de territoire. C'est une évolution du développement des projets énergie, mobilité, alimentaire et plus généralement de transition des territoires.
+Jusqu'alors, chaque développeur privé ou publique tentait d'implanter des produits ou services sur les territoires pour répondre à ses propres intérêts de développement économique. Le risque? Mettre en place sur les territoires des solutions à certains besoin qui vont devenir des problèmes plus gros dans l'avenir.
+
+> implanter des panneaux solaires sans s'assurer que les institutionnels, associatifs et autre privés soient dans la boucle du projet. En le découvrant trop tard, le chantier est arrêté causant beaucoup de pertes
+> mettre en place des partenariats avec certains acteurs et pas d'autres, créant alors des réactions de concurrences et des frictions qui peuvent immobiliser le territoire
+
+**L'approche territoriale vient dé-risquer le développement de projets. comment?**
+- en s'assurant de ne rien mettre en place de manière isolée
+- en s'assurant de développer des projets seulement quand il y a une vision claire et systémique des besoins du territoires, de ses acteurs et de ses habitants
+- en s'assurant de faire AVEC les acteurs du territoire, en totale coopération et co-construction
+- en s'assurant que les projets sont faisables et viables sur le long terme et qu'ils soient effectivement des projets de transition
 
 ## Pourquoi une approche territoriale ?
-C’est la solution pour s’assurer ==un réel co-développement du territoire==, mêlant ainsi les enjeux économiques, politiques, écologiques et sociaux.
-C’est la solution pour s’assurer d’une bonne intégration d'un acteur de l'énergie sur le long terme, en totale synergie avec les autres enjeux du territoire.
+C’est une solution pour s’assurer ==un réel co-développement du territoire==, mêlant ainsi les enjeux économiques, politiques, écologiques et sociaux.
+C’est une solution pour s’assurer d’une bonne intégration d'un acteur privé (de l'énergie par exemple) sur le long terme, en totale synergie avec les autres enjeux du territoire.
 
-> Cette approche participe directement à revitaliser et régénérer un territoire.
+> Cette approche participe directement à revitaliser et régénérer un territoire
 
-## Voici un guide pour faciliter ces nouvelles approches
+## Voici un guide pour faciliter cette approche
 
 ### Une démarche systémique
 L’approche territoriale est une démarche complexe mêlant de multiples dimensions et parties prenantes.
 Il est donc nécessaire de ==voir le territoire comme un système== où tout est lié : tout est en interaction et chaque action vient forcément impacter par répercussions les autres parties du système :
 
 - Un choix politique vient impacter les acteurs producteurs et économiques
-- Un choix de législation vient changer le cadre de contrainte
+- Un choix de législation vient changer le cadre de contraintes
 - Une implantation photovoltaïque vient impacter le paysage, l’acceptation sociale, etc.
 
 ### Un premier plan d'action linéaire pour guider la compréhension
@@ -32,29 +43,40 @@ Pour guider dans le temps le développement de l’approche il est possible d’
 - Les outils à utiliser
 
 Et pour rendre plus concret :
-- Exemples de ce qui a bien fonctionné
-- Exemple de ce qui n’a pas fonctionné et apprentissages
+- cas d'études qui ont fonctionnés
+- cas d'études qui ont touché un échec et qui n'ont pas rebondi
 
-> il est temps de se lancer 🚀👇
-
----
-
-
-
+> il est temps de se lancer sans le playbook 🚀👇
 
 ---
+
+
 
 # Explorer le territoire
-*sur 1 mois*
+*environ sur 1 mois*
+Vouloir travailler sur un territoire c'est comme vouloir travailler avec quelqu'un: avant de commencer le projet il faut déjà se rencontrer, se présenter, apprendre à se connaître, se faire confiance et ensuite seulement, écrire les premières lignes du projet commun.
 
-## Objectifs et éléments - Les 4 axes d'exploration d'un territoire
+Il faut s'assurer que l'autre personne est la bonne personne. Et bien pour un territoire c'est pareil: il faut s'assurer que c'est le bon territoire. En effet, il est très possible que le territoire visé ne soit pas adapté à votre projet, du moins, en l'état. Vous pourriez passer beaucoup de temps, d'énergie et d'économie à "forcer" un territoire alors qu'il suffit souvent de bien réaliser cette première phase de l'approche territoriale pour "dé-risquer" le choix du territoire.
+
+**Comment rencontrer un territoire? En l'explorant.** Et qu'est-ce qu'explorer un territoire? Et bien c'est ce que nous allons présenter en détail dans cette première partie de l'approche territoriale.
+Partons à la rencontre d'un territoire...
+
+## Objectifs et éléments - les 4 axes d'exploration d'un territoire
+l'exploration d'un territoire peut se réaliser avec le support d'une grille à 4 axes:
+- physique, géographique (et les usages en place sur le territoire)
+- acteurs et systèmes d'acteurs
+- enjeux politiques
+- enjeux & besoins éco-systémiques
+
+> accompagner d'une représentation visuelle de la grille 4 axes
 
 ### L'espace physique & les usages
 Il s'agit de la géographie physique du territoire, la topographie, la population, l'occupation du sol : forêts, cultures, plan/cours d'eau, villes, communes, etc...
 
-**Connaître l'espace physique ainsi que la manière dont il est utilisé permet de déterminer un cadre de contrainte nécessaire à tout projet.**
+**Connaître l'espace physique ainsi que la manière dont il est utilisé (les usages) permet de déterminer un cadre de contrainte nécessaire à tout projet.**
 
 Permet en partie de répondre à la question : pourquoi choisir ce territoire ?
+> donner 2 exemples
 
 ### Recherche & découverte des acteurs du territoire & du système d'acteurs
 Repérer les acteurs essentiels du territoire (nom, structure d'appartenance, fonction, éventuellement leurs idées et positionnements autour des enjeux du territoire).
@@ -307,8 +329,11 @@ Voir 👉 [[Initier les coopérations]]
 
 ---
 
+
+## Exemples & cas d'études
+
 # Initier les coopérations
-*sur 4 mois.*
+*environ sur 4 mois*
 
 **A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de l'analyse collective via la phase d'exploration du terrtioire , il est temps de présenter aux différents acteurs vos apprentissages et d'imaginez ensemble, dans l'intérêt du territoire, les synergies possibles. Et si ...?**
 
@@ -513,8 +538,9 @@ Finalement, c'est même de l'envie qui a été créée, l'envie de participer à
 
 ---
 
+
 # Activer la co-construction
-*Sur 1 mois*
+*environ sur 1 mois*
 
 ## Objectifs et éléments
 
@@ -683,8 +709,9 @@ Positionnement des autres acteurs sur le sujet de la gouvernance :
 
 ---
 
+
 # Basculer en mode projet
-*(Phase en cours de lancement au 31 mai 2021 côté EDFR)*
+*environ sur 1 mois*
 
 Suite à la phase d'activation de la co-construction, le projet commun commence à se dessiner mais encore seulement sur le papier.
 La complexité du territoire est plus en conscience de tous les acteurs : il est possible d'appréhender le territoire et de se rendre compte des impacts des choix sur d'autres parties de ce système commun.
@@ -807,7 +834,9 @@ Les informations sont donc basées sur d'autres cas d'études et d'autres projet
 
 ---
 
+
 # Valider le premier cycle de co-construction
+*environ sur 2 mois*
 
 ## Objectifs et éléments
 
@@ -836,8 +865,9 @@ Choisir en amont Les indicateurs qui permettront d'évaluer la démarche.
 - faisable?
 - régénérarif?
 
----
 
+## Quelle posture adopter ?
+...
 ## Quels outils & ressources utiliser ?
 
 Apports du #[[design systémique]]
@@ -860,7 +890,9 @@ Apports de la #documentation & [[système de connaissances]]
 
 ---
 
+
 # Mettre à jour le guide d'essaimage
+*environ tous les 6 mois*
 
 ## Objectifs et éléments
 
@@ -875,17 +907,16 @@ S'assurer de la bonne conduite des essaimages
 
 ---
 
+## Quelle méthode employer ?
+...
+## Quelle posture adopter ?
+
+Les apports du mentorat
 ## Quels outils & ressources utiliser ?
 
 Les apports du #storytelling
 Les apports de la documentation
 Les apports du Design graphique
-
-
-
-## Quelle posture adopter ?
-
-Les apports du mentorat
 
 
 
@@ -899,6 +930,7 @@ Les apports du mentorat
 
 ---
 
+
 # Conclusion & remerciements
 
 ## Vision philosophique de l'approche
@@ -911,6 +943,7 @@ Biomimétisme et bio-inspiration
 
 
 ---
+
 
 # Annexes & ressources
 
