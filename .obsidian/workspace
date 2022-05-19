@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/voyager dans le temps.md",
+            "file": "_pages/index.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/voyager dans le temps.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/voyager dans le temps.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,7 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_pages/index.md",
     "_notes/voyager dans le temps.md",
     "_notes/la toile de la Vie.md",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
@@ -120,7 +121,6 @@
     "l'engagement.md",
     "la démarche itérative.md",
     "_notes/Gouvernance adaptable.md",
-    "_pages/index.md",
     "_notes/des assemblages à la symbiose projets.md"
   ]
 }
