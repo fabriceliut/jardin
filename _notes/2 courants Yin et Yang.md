@@ -6,7 +6,7 @@ Une des pistes de réflexion pour tenter de [[décoder la vie]]
 
 > Rien de scientifiquement valide ici, c'est plutôt un jet d'écriture totalement intuitif...
 
-La vie serait un mouvement crée par l’entrelacement de 2 courants d’énergie Yin & Yang. Plus poétiquement, j'appelerais ça [[La toile de la Vie]].
+La vie serait un mouvement crée par l’entrelacement de 2 courants d’énergie Yin & Yang. Plus poétiquement, j'appelerais ça [[la toile de la Vie]].
 
 Toute manifestation (ce qui rentre dans nos perceptions) est alors resultante de ce mouvement unique mais en même temps infiniement complexe.
 
