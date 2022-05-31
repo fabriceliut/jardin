@@ -56,67 +56,93 @@ Et pour rendre plus concret :
 *environ sur 1 mois*
 Vouloir travailler sur un territoire c'est comme vouloir travailler avec quelqu'un: avant de commencer le projet il faut déjà se rencontrer, se présenter, apprendre à se connaître, se faire confiance et ensuite seulement, écrire les premières lignes du projet commun.
 
-Il faut s'assurer que l'autre personne est la bonne personne. Et bien pour un territoire c'est pareil: il faut s'assurer que c'est le bon territoire. En effet, il est très possible que le territoire visé ne soit pas adapté à votre projet, du moins, en l'état. Vous pourriez passer beaucoup de temps, d'énergie et d'économie à "forcer" un territoire alors qu'il suffit souvent de bien réaliser cette première phase de l'approche territoriale pour "dé-risquer" le choix du territoire.
+Il faut s'assurer que l'autre personne est la bonne personne. Et bien pour un territoire c'est pareil: ==il faut s'assurer que c'est le bon territoire==. En effet, il est très possible que le territoire visé ne soit pas adapté à votre projet, du moins, en l'état. Vous pourriez passer beaucoup de temps, d'énergie et d'économie à "forcer" un territoire alors qu'il suffit souvent de bien réaliser cette première phase de l'approche territoriale pour "dé-risquer" le choix du territoire.
 
 **Comment rencontrer un territoire? En l'explorant.** Et qu'est-ce qu'explorer un territoire? Et bien c'est ce que nous allons présenter en détail dans cette première partie de l'approche territoriale.
 Partons à la rencontre d'un territoire...
 
+## Clarification préalable - comment définir un territoire et ses frontières?
+> partie en attente de rédaction...
+
 ## Objectifs et éléments - les 4 axes d'exploration d'un territoire
 l'exploration d'un territoire peut se réaliser avec le support d'une grille à 4 axes:
 - physique, géographique (et les usages en place sur le territoire)
-- acteurs et systèmes d'acteurs
+- acteurs et systèmes d'acteurs *(rôles, rapports, relations, enjeux humains etc...)*
 - enjeux politiques
 - enjeux & besoins éco-systémiques
 
 > accompagner d'une représentation visuelle de la grille 4 axes
 
 ### L'espace physique & les usages
-Il s'agit de la géographie physique du territoire, la topographie, la population, l'occupation du sol : forêts, cultures, plan/cours d'eau, villes, communes, etc...
+Il s'agit de bien prendre en compte le contexte géographie & physique du territoire, la topographie, les populations, l'occupation des sols : forêts, cultures, plan/cours d'eau, villes, communes, etc...
 
-**Connaître l'espace physique ainsi que la manière dont il est utilisé (les usages) permet de déterminer un cadre de contrainte nécessaire à tout projet.**
+**Connaître l'espace physique ainsi que la manière dont il est utilisé (les usages) permet de déterminer un cadre de contrainte nécessaire à tout projet de développement sur un territoire.**
 
-Permet en partie de répondre à la question : pourquoi choisir ce territoire ?
+Ce premier axe permet en partie de répondre à la question : pourquoi choisir ce territoire? 
+*(mais ce n'est pas suffisant, il faut la totalité des 4 axes)*
 > donner 2 exemples
 
-### Recherche & découverte des acteurs du territoire & du système d'acteurs
-Repérer les acteurs essentiels du territoire (nom, structure d'appartenance, fonction, éventuellement leurs idées et positionnements autour des enjeux du territoire).
+*vous pourrez prochainement télécharger un canvas qui va vous guider dans la synthèse de cet axe exploratoire.*
 
-### Modéliser visuellement le système d'acteurs
-Pour en avoir soi-même une meilleure vision et compréhension et pouvoir présenter le travail effectué à des acteurs et discuter autour d'un socle commun.
+### Recherche & découverte des acteurs du territoire & des systèmes d'acteurs
+Sur tous les territoires il y a des acteurs "leaders" engagés dans la dynamique du développement et ce n'est pas forcément les acteurs politiques. Ce sont des humains qu'on peut aussi reconnaître comme des "tête de ponts", des animateurs de réseaux etc...
 
-``[Remarque : un seul groupe a fait ce travail de modélisation (Piège), il faudrait leur demander si ça leur a apporté, on n'en a pas trop entendu parler...]``
+Repérer ces acteurs essentiels du territoire (nom, structure d'appartenance, fonction, éventuellement leurs idées et positionnements autour des enjeux du territoire) est nécessaire dès le début de l'exploration car dans tous les cas, vous serez amené à les rencontrer - si ça ne vient pas de vous ça viendra d'eux.
 
-Permet de représenter les types de liens et relations, s'il y a des coopérations en cours ou des oppositions, etc...Permet ainsi de comprendre la dynamique du territoires.
+De plus, ces acteurs étant moteurs, les connaître vous permettra plus facilement de découvrir la diversité des réseaux et communautés en place sur le territoire ainsi que la qualité des relations entre ces réseaux.
 
-**Permet de déterminer une nouvelle couche de contraintes pour le projet.**
+Plus tard, vous devrez faire AVEC la plupart de ces acteurs et surtout vous ne devrez pas faire CONTRE... alors autant être conscient de toute la diversité présente sur le territoire dès le départ avec une vision claire de leurs besoins, leurs enjeux, leurs attentes, etc... vous allez devenir vous-même un des acteurs de ce territoire, cette analyse va vous aidez à trouver ==votre point d'entrée sur le territoire== pour vous intégrer de manière la plus fluide possible.
 
-**[Découvrez une modélisation systémique exemple](https://go.stemic.app/maps/5c723050-3b73-42d8-bf99-8311e2180792)**
+Ce deuxième axe permet en partie de répondre à la question : pourquoi choisir ce territoire? 
+*(mais ce n'est pas suffisant, il faut la totalité des 4 axes)*
+> donner 2 exemples
+
+#### Modéliser visuellement le système d'acteurs
+Il est plus aisé pour se projeter et comprendre de visualiser ces réseaux d'acteurs (qui est dans quel réseau, qui est connecté à qui, la qualité des relations etc...) - vous pouvez alors ==modéliser les systèmes d'acteurs== avec des techniques très simple (pas besoin d'outils complexes ou de gros systèmes numériques)
+
+> donner 2 exemples de modélisations de systèmes d'acteurs
+
+**[Découvrez un système d'acteurs exemple](https://go.stemic.app/maps/5c723050-3b73-42d8-bf99-8311e2180792)**
+
+Cette objet visualisation vous permet déjà à vous d'y "voir clair"  et va également vous faciliter la présententation de votre exploration à d'autres acteurs en fluidifiant les échanges autour d'une ressource simple, commune et référence que vous allez pouvoir faire évoluer ensemble au fur et à mesure de vos compréhensions mutuelles.
+Sans un objet de cet ordre, très souvent, chaque acteur d'un projet est biaisé par son propre point de vue et ça risque de créer des débats qu'on peut facilement éviter.
+
+En visualisant très clairement les types de liens et relations, s'il y a des coopérations en cours ou des oppositions, etc...vous allez ainsi prendre conscience de la dynamique humaine du territoire vous permettant d'anticiper une stratégie pour que votre intégration sur face le plus possible "en douceur".
 ![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/TOugR4mD5U)
 
+*vous pourrez prochainement télécharger un canvas qui va vous guider dans la synthèse de cet axe exploratoire.*
 
-### Enjeux & besoins identifiés par les responsables du territoire
-Des enjeux et besoins qui sont spécifiques au territoire, liés à son climat, sa géographie, sa biodiversité, ses activités économiques et culturelles, etc.
+### Enjeux & besoins identifiés par les responsables politiques du territoire
+Par défaut, chaque territoire a déjà des acteurs institutionnels déclarés comme "responsables politiques" du territoire (sur différentes échelles, com, com-com, département, région...).
+Lors de l'exploration de l'axe 2 (systèmes d'acteurs) vous les avez certainement découvert. Ce 3ème axe va vous inviter à creuser plus spécifiquement leurs enjeux et leurs contraintes. En effet, travailler avec un territoire veut nécessairement dire ==travailler avec les politiques en place== sur le territoire.
+- Quelle est la priorisation politique des enjeux du territoire? Le climat, la biodiversité, l'autonomie et la résilience, les activités économiques, sociales, culturuelles, etc...?
+- Est-ce que vous êtes bien conscient de cette priorisation? 
+- Par qui les enjeux politiques sont-ils portés?
+- Est-ce que votre projet s'inscrit dans les priorités politiques du développement du territoire?
 
-`Exemples : le besoin de reconquête de terres agricoles et d'une irrigation adaptée et durable en Pays de Fayence, le retrait des aides ICHN (indemnité compensatoire de handicaps naturels) dans la Piège, la transition écologique, notamment la volonté de devenir TEPOS (Territoire à énergie positive) et la phytodépendance dans le Gers, la sécheresse dans l'Allier`
-
-Attention ici : ce sont très souvent les hypothèses  de points de vues isolés
-- Enjeux politiques
-- Enjeux sociaux
-- Enjeux économiques
-- Enjeux écologiques
+`Exemples : le besoin de reconquête de terres agricoles et d'une irrigation adaptée et durable en Pays de Fayence, le retrait des aides ICHN (indemnité compensatoire de handicaps naturels) dans la Piège, la transition écologique, notamment la volonté de devenir TEPOS (Territoire à énergie positive) et la phytodépendance dans le Gers, la sécheresse dans l'Allier etc...`
 
 
-Dans notre étude, nous cherchons avant tout ==à "croiser" les enjeux pour déterminer une approche systémique du territoire== incluant une redéfinition communes des enjeux et surtout une priorisation intelligente et justifiée.
-En effet, les acteurs politiques diront que leurs enjeux sont prioritaires comme les acteurs écologiques et économiques.
-La démarche de l'approche territoriale prend en compte la complexité et permet ainsi d'agir au plus juste des besoins du territoire.
+**Attention ici** : les enjeux politiques et leur priorisation sont très souvent hypothétiques. En effet, les politiques sont portées par des humains qui ont des engagements par rapport à un électorat - ce qui rend biaisé la priorisation d'un point de vue du territoire. Ce n'est qu'une version à mettre en regard avec les autres axes de l'exploration.
 
-**Permet de déterminer une nouvelle couche de contraintes pour le projet.**
+Dans notre exploration, nous cherchons avant tout ==à "croiser" les enjeux pour déterminer une approche systémique du territoire== incluant une redéfinition communes des enjeux et surtout une priorisation intelligente et justifiée.
+En effet, les acteurs politiques diront que leurs enjeux sont prioritaires tout comme les acteurs écologiques et économiques.
+
+**La démarche de l'approche territoriale prend en compte la complexité des points de vues en présence et permet ainsi d'agir au plus juste des besoins du territoire sans avoir à "choisir son camp".**
+
+Ce troisième axe permet en partie de répondre à la question : pourquoi choisir ce territoire? 
+*(mais ce n'est pas suffisant, il faut la totalité des 4 axes)*
+> donner 2 exemples
+
+*vous pourrez prochainement télécharger un canvas qui va vous guider dans la synthèse de cet axe exploratoire.*
 
 ### Enjeux & besoins éco-systémiques
-Cette autre axe d'exploration permet de se libérer des enjeux hypothèses précédents et de repartir d'une observation neutre et nouvelle du territoire.
-En, effet, les hypothèses des acteurs actuels sont peut-être fausses si elles ne partent pas d'une réelle étude complexe et systémique.
-Quels sont les services dont l'écosystème a besoin ? Que l'écosystème peut apporter ?
-**Nous repartons du territoire comme un écosystème vivant** : de quoi a-t-il besoin pour être en pleine santé ? Qu'est-ce que les humains apportent actuellement qui va dans ce sens et au contraire, qu'est-ce que les actions humaines détériorent objectivement parlant ?
+Cette autre axe d'exploration permet de se libérer des enjeux hypothétiques précédents et de repartir d'une ==observation neutre et nouvelle du territoire==.
+
+En, effet, les hypothèses des acteurs actuels sont peut-être fausses si elles ne partent pas d'une réelle étude complète et systémique, en dehors de tout enjeux personnel.
+
+Quels sont les services dont l'écosystème a besoin? Que l'écosystème peut apporter?
+**Nous considérons pour cet axe le territoire comme un écosystème vivant** : de quoi a-t-il besoin pour être en pleine santé? Qu'est-ce que les humains apportent actuellement qui va dans ce sens et au contraire, qu'est-ce que les actions humaines détériorent objectivement parlant?
 
 Il convient de prendre en compte les "services" d'un territoire, ses organes nécessaires à son fonctionnement :
 - **Approvisionnement en ressources**
@@ -130,23 +156,42 @@ eau / air / terre (grand cycle de l'eau : protection des ressources en eau, gest
 
 Quels sont les organes du territoire en santé et malades ? Quels organes semblent manquer ?
 
-### Créer une modélisation systémique du fonctionnement du territoire
+#### Créer une modélisation systémique du fonctionnement du territoire
 Comme on le ferait pour représenter le corps humain, le faire pour le territoire.
 - Visualiser les éléments, les organes
 - Visualiser les flux et les interactions entre les éléments
 - Qualifier les parties en santé et les parties malades
 
-**Permet de déterminer une nouvelle couche de contraintes pour le projet.**
+Ce quatrième axe permet en partie de répondre à la question : pourquoi choisir ce territoire?
+Cet axe d'exploration est un peu particulier: il permet de faire synthèse et de croiser les informations des 3 autres axes précédent. C'est cette exploration et modélisation éco-systémique qui va vous permettre une bonne lecture du terrtioire et qui va vous fournir le nécessaire pour prioriser et décider si ce territoire est adapté ou non à votre projet.
+> donner 2 exemples
 
-👉 _L'exploration permet ainsi d'affiner au fur et à mesure la délimitation du champ disponible au projet_
+*vous pourrez prochainement télécharger un canvas qui va vous guider dans la synthèse de cet axe exploratoire.*
+
+---
+
+👉 _L'exploration permet ainsi d'affiner au fur et à mesure la délimitation du champ disponible au projet._
 
 En croisant ces 4 couches d'études il est possible de déterminer avec précision le champ d'action possible et de prioriser les prochaines étapes.
 
 Voici quelques questions principales à se poser :
 
-- Quelles informations manquent ? Qui les détient? Ce qui donne les personnes à rencontrer
+- Quelles informations manquent ? Qui les détient? Ce qui donne les prochaines personnes à rencontrer
 - Quels acteurs semblent nécessaires pour le projet? Avec qui se mettre en lien? Qui mettre en lien?
 - Est-ce que le projet peut effectivement apporter du soin au territoire? Est-ce qu'il faut réviser le projet pour l'adapter? *Ici je parle du projet de celui qui initie l'approche territoriale comme un acteur de l'énergie par exemple.*
+- Est-ce qu'on doit redéfinir la définition et les limites du territoire cible du projet?
+
+Vous allez ainsi procéder par itérations et en aller-retours:
+- s'il vous manque des informations il vous faudra continuer les explorations par axes et les compléter
+- avec ces informations en plus, mettre à jour l'axe 4 qui permet de croiser toutes les informations du territoire et de créer un objet de décision
+- suite à nouvelle analyse, redéfinir ou réorienter le projet
+- s'il manque encore des informations, continuer la phase exploratoire...
+
+**Arrivera un moment où vous sentirez que vous aurez toutes les informations nécessaire pour être pleinement conscient du fonctionnement du territoire.** Vous saurez comment intégrer votre projet, par quel point d'entrée et en lien avec quels acteurs principaux. Vous pourrez ainsi raffiner votre stratégie d'entrée sur le territoire et rentrer serrainement dans l'étape suivante de l'approche territoriale: l'initiation des coopérations.
+
+Si votre exploration vous indique que ce n'est pas le bon territoire, vous aurez la matière nécessaire pour redéfinir votre territoire ou plus radicalement vous désengager d'un territoire qui comporte trop de risque pour lancer une nouvelle exploration ailleurs.
+
+Autre effet intéressant de l'exploration d'un territoire: peut-être que votre projet en l'état n'est pas adapté mais grâce à votre recherche il sera possible de détecter d'autres opportunités pour d'autres projets... en effet, la logique d'approche territoire n'est pas forcément de trouver la place adaptée pour votre projet mais aussi de ==travailler à rafiner votre projet pour qu'il réponde mieux aux besoins des territoires==.
 
 ---
 
