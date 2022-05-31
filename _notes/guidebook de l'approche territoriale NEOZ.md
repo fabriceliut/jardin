@@ -8,8 +8,8 @@ title: guidebook de l'approche territoriale NEOZ
 L'approche territoriale est une manière nouvelle de construire des projets de territoire. C'est une évolution du développement des projets énergie, mobilité, alimentaire et plus généralement de transition des territoires.
 Jusqu'alors, chaque développeur privé ou publique tentait d'implanter des produits ou services sur les territoires pour répondre à ses propres intérêts de développement économique. Le risque? Mettre en place sur les territoires des solutions à certains besoin qui vont devenir des problèmes plus gros dans l'avenir.
 
-> implanter des panneaux solaires sans s'assurer que les institutionnels, associatifs et autre privés soient dans la boucle du projet. En le découvrant trop tard, le chantier est arrêté causant beaucoup de pertes
-> mettre en place des partenariats avec certains acteurs et pas d'autres, créant alors des réactions de concurrences et des frictions qui peuvent immobiliser le territoire
+> - implanter des panneaux solaires sans s'assurer que les institutionnels, associatifs et autre privés soient dans la boucle du projet. En le découvrant trop tard, le chantier est arrêté causant beaucoup de pertes.
+> - mettre en place des partenariats avec certains acteurs et pas d'autres, créant alors des réactions de concurrences et des frictions qui peuvent immobiliser le territoire.
 
 **L'approche territoriale vient dé-risquer le développement de projets. comment?**
 - en s'assurant de ne rien mettre en place de manière isolée
