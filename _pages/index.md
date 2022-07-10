@@ -14,20 +14,21 @@ permalink: /
 
 ## Les dernières mises à jour.
 
-- [[voyager dans le temps]]
-- [[présentation community design 101]]
-- Et si [[Il n'y a pas de montagne]] ?
-- [[Comprendre ce qu'est un projet]]
-- [[Echec et mat du monopole]]
-- [[Régénérer est une direction]]
-- Je partage [[Ma vision du Design en 2021]]
+- [[pour quoi travailler ensemble?]] - parce que j'ai envie de travailler avec vous!
+- [[voyager dans le temps]] - c'est quoi le temps et comment bouger dedans?
+- [[présentation community design 101]] - découvrir cette branche du design facilement
+- Et si [[Il n'y a pas de montagne]] ? - et pas d'objectif à atteindre?
+- [[Comprendre ce qu'est un projet]] - parce qu'on fait tous des projets tout le temps...
+- [[Echec et mat du monopole]] - petite tristesse de la société actuelle
+- [[Régénérer est une direction]] - comprendre ce que veut dire régénérer
+- Je partage [[Ma vision du Design en 2021]] - parce que je suis engagé à ma manière
 - C'est quoi ce site, c'est quoi un [[jardin numérique]] ?
-- Est-ce qu'il est possible de [[décoder la vie]] ?
+- Est-ce qu'il est possible de [[décoder la vie]] ? - place aux grandes questions existencielles
 
 ---
 
 ### Approche globale.
-Découvrez les différents [[designs]] qui sont pour moi les principales approches dont les humains ont besoin pour 👉 [[Prendre soin du monde]].
+Découvrez les différents [[designs]] qui sont des approches dont nous avons besoin pour 👉 [[Prendre soin du monde]].
 Je tente actuellement de participer à ce soin de tous les jours avec l'[[Archipel Kyosei]].
 
 **Quelques sujets 👇**
@@ -49,7 +50,7 @@ Découvrez de nombreuses pistes de recherche pour 👉  [[Prendre soin de soi]].
 - [[N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !]]
 
 ### Approche numérique.
-Je suis convaincu que le numérique est une magnifique opportunité pour supporter les humains lorsqu'il est bien utilisé. Pour cette raison, et toujours un peu geek, je m'intéresse aux concepts de [[Second Brain]].
+Je suis convaincu que le numérique est une magnifique opportunité pour supporter les humains lorsqu'il est bien utilisé. Pour cette raison, et toujours un peu geek, je m'intéresse aux concepts de [[Second Brain]] et d'autres liens enrichissants homme>machine.
 
 **Quelques sujets 👇**
 - [[Automatisation]]
@@ -57,14 +58,15 @@ Je suis convaincu que le numérique est une magnifique opportunité pour support
 
 ---
 
-**Et en écriture 👇**
+**Et en cours d'écriture 👇**
 - [[start with why but stop with why]]
 - [[retrouver la confiance en l’intuition]]
 - [[Exploration de l'abstraction]]
 - [[se raconter des histoires]]
 - [[Créer des indicateurs qualitatifs]]
+- Bientôt des petits scénarios fictifs comme [[La vie en double face]]
 
-Bientôt des petits scénarios fictifs comme [[La vie en double face]]
+*en vous balandant entre ces premières pages vous pourrez en découvrir d'autres qui ne sont pas accessible via cet accueil... alors bonnes explorations!*
 
 ---
 

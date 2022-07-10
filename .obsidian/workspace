@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
-            "mode": "source",
+            "file": "_pages/index.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/guidebook de l'approche territoriale NEOZ.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_pages/index.md",
+    "_notes/pour quoi travailler ensemble?.md",
     "_notes/voyager dans le temps.md",
+    "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/la toile de la Vie.md",
     "système de connaissances.md",
     "actionnement.md",
     "l'engagement.md",
     "la démarche itérative.md",
-    "_notes/Gouvernance adaptable.md",
-    "_notes/des assemblages à la symbiose projets.md"
+    "_notes/Gouvernance adaptable.md"
   ]
 }
