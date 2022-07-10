@@ -14,7 +14,7 @@ permalink: /
 
 ## Les dernières mises à jour.
 
-- [[pour quoi travailler ensemble?]] - parce que j'ai envie de travailler avec vous!
+- [[pour quoi travailler ensemble]] - parce que j'ai envie de travailler avec vous!
 - [[voyager dans le temps]] - c'est quoi le temps et comment bouger dedans?
 - [[présentation community design 101]] - découvrir cette branche du design facilement
 - Et si [[Il n'y a pas de montagne]] ? - et pas d'objectif à atteindre?
