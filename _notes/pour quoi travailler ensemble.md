@@ -4,7 +4,7 @@ title: pour quoi travailler ensemble
 
 qu'est-ce que je peux vous apporter? pourquoi travailler ensemble? ==une manière de tisser le premier lien c'est de vous le dire.==
 
-je suis un humain curieux qui aime explorer au quotidien, dans tous les domaines possible, pour apprendre et découvrir. l'exploration passe par de la recherche intellectuelle mais également par des expériences concrètes et directes. c'est le combo théorie x pratique qui permet d'apprendre le mieux.
+je suis un humain curieux qui aime explorer au quotidien, dans tous les domaines possible, pour apprendre et découvrir. l'exploration passe par de la recherche intellectuelle mais également par des expériences concrètes et directes. c'est le combo théorie et pratique qui permet d'apprendre le mieux.
 
 apprendre c'est pour débloquer de nouvelles capacités, de nouvelles possibilités. découvrir en explorant c'est extraire de ces expériences de la matière à résoudre des problèmes, à faire émerger du nouveau nécessaire à renouveler l'existant.
 
