@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/pour quoi travailler ensemble.md",
+            "file": "_notes/des assemblages à la symbiose projets.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/pour quoi travailler ensemble.md",
+                "file": "_notes/des assemblages à la symbiose projets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/pour quoi travailler ensemble.md",
+                "file": "_notes/des assemblages à la symbiose projets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,11 +112,11 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/pour quoi travailler ensemble.md",
-    "_pages/index.md",
+    "_notes/la toile de la Vie.md",
     "_notes/voyager dans le temps.md",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
-    "_notes/la toile de la Vie.md",
+    "_notes/pour quoi travailler ensemble.md",
+    "_pages/index.md",
     "système de connaissances.md",
     "actionnement.md",
     "l'engagement.md",
