@@ -14,6 +14,7 @@ permalink: /
 
 ## Les dernières mises à jour.
 
+- [[woodstock 99 pour parler d'effondrement]] - est-ce bientôt la fin du festival?
 - [[pour quoi travailler ensemble]] - parce que j'ai envie de travailler avec vous!
 - [[voyager dans le temps]] - c'est quoi le temps et comment bouger dedans?
 - [[présentation community design 101]] - découvrir cette branche du design facilement
