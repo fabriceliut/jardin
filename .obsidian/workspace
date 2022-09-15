@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/woodstock 99 pour parler d'effondrement.md",
-            "mode": "source",
+            "file": "_notes/moins parler pour mieux coopérer.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/woodstock 99 pour parler d'effondrement.md",
+                "file": "_notes/moins parler pour mieux coopérer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/woodstock 99 pour parler d'effondrement.md",
+                "file": "_notes/moins parler pour mieux coopérer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,10 +110,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "073735aca94a89ea",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_pages/index.md",
     "_notes/woodstock 99 pour parler d'effondrement.md",
+    "_pages/index.md",
     "_notes/des assemblages à la symbiose projets.md",
     "_notes/la toile de la Vie.md",
     "_notes/voyager dans le temps.md",
