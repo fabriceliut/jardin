@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/moins parler pour mieux coopérer.md",
-            "mode": "preview",
+            "file": "_notes/tout commence par la veille.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Coopération",
+                "query": "design régéné",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/moins parler pour mieux coopérer.md",
+                "file": "_notes/tout commence par la veille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/moins parler pour mieux coopérer.md",
+                "file": "_notes/tout commence par la veille.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "073735aca94a89ea",
   "lastOpenFiles": [
-    "_notes/woodstock 99 pour parler d'effondrement.md",
-    "_pages/index.md",
-    "_notes/des assemblages à la symbiose projets.md",
-    "_notes/la toile de la Vie.md",
-    "_notes/voyager dans le temps.md",
-    "_notes/guidebook de l'approche territoriale NEOZ.md",
-    "_notes/pour quoi travailler ensemble.md",
-    "système de connaissances.md",
-    "actionnement.md",
-    "l'engagement.md"
+    "_notes/logique et nécessité des interrelations pour faire système en archipels.md",
+    "_notes/Second Brain.md",
+    "_notes/écologie.md",
+    "_notes/résilience.md",
+    "_notes/Pour toi chez moi ça veut dire quoi.md",
+    "_notes/neurosciences.md",
+    "_notes/nos relations humaines sont comme les neurones.md",
+    "_notes/linguistique.md",
+    "_notes/metagame.md",
+    "_notes/le vivant.md"
   ]
 }

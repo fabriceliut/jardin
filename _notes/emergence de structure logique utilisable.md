@@ -39,7 +39,7 @@ Nécessite de "simplexifier" pour faciliter les synergies et coopérations
 Nécessite de mettre en forme pour capter l’attention puis l’intérêt (storytelling, travail esthétique, rendu dynamique...)
 De la donnée (trace) au projet en action dans la matière.
 
-Plus en détails, [[Comprendre ce qu'est un projet]]
+Plus en détails, [[comprendre ce qu'est un projet]]
 
 ### Mettre en pratique et expérimenter.
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ef0d52e-5d47-42d7-ad46-319ea3f695f5/connaissance_utilisee.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201106T225856Z&X-Amz-Expires=86400&X-Amz-Signature=5dbc3d67f56fbb2f69dfbf48f8b4d5fd351b1493898417e0653181f1d2617abe&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22connaissance_utilisee.jpg%22)

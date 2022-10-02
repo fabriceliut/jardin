@@ -4,7 +4,7 @@ title: Retour dans le game ou aller simple vers le meta-game
 
 **Ce que j'appelle ici "game" c'est notre jeu de société** : des semaines d'activités divers pour faire rentrer de l'argent nécessaire à "vivre", prendre soin de notre famille & amis, nous divertir, etc...
 
-**Et puis le [[Metagame]] qui est le jeu d'observer le "game"**, d'en tirer des analyses pour mieux se comprendre, comprendre nos comportements, notre société et plus largement encore, s'activer à un peu mieux [[décoder la vie]]... C'est la prise de recule nécessaire pour sortir la tête du guidons et réouvrir le champ des possible !
+**Et puis le [[metagame]] qui est le jeu d'observer le "game"**, d'en tirer des analyses pour mieux se comprendre, comprendre nos comportements, notre société et plus largement encore, s'activer à un peu mieux [[décoder la vie]]... C'est la prise de recule nécessaire pour sortir la tête du guidons et réouvrir le champ des possible !
 
 Même s'il n'y a rien à comprendre en définitif, c'est toujours très enrichissant que de confronter sont point de vue avec d'autres "explorateurs des [[Archipels en Symbiose]].
 

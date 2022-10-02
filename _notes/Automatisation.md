@@ -89,4 +89,4 @@ _Ex : Utilisation de "Airtable" pour constituer rapidement et facilement des bas
 - Neoz Conseil
 
 ---
-#Afairepousser - héritage du site liut.me
+#Afairepousser - héritage du site liut.me - #offre 

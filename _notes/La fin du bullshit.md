@@ -17,4 +17,4 @@ Mais est-ce qu'on se rajouterait pas une règle : business mais NO Bullshit.
 -   Dans le partage, l'ouverture
 -   Sans avoir peur de la [[complexité]] des enjeux parce que justement c'est une opportunité pour faire ensemble
 
-**Et toi alors, prêt à arrêter le bullshit une bonne fois pour toute pour [[Prendre soin du monde]] à la place en toute sincérité et [[Dignité]] ?
+**Et toi alors, prêt à arrêter le bullshit une bonne fois pour toute pour [[Prendre soin du monde]] à la place en toute sincérité et [[dignité]] ?

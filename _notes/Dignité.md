@@ -1,5 +1,5 @@
 ---
-title: Dignité
+title: dignité
 ---
 
 Définition complète sur [Wikipédia](https://fr.wikipedia.org/wiki/Dignité).

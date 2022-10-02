@@ -30,4 +30,4 @@ Je réalise également ponctuellement des identités & images de marques, charte
 - Steamulo
 
 ---
-#Afairepousser - Héritage du site liut.me
+#Afairepousser - Héritage du site liut.me - #offre 

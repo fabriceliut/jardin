@@ -1,12 +1,12 @@
 ---
-title: Faisons partie de nous
+title: faisons partie de nous
 ---
 
 ### Faisons-nous partie de nous ?
 
 **La liberté est un état d'esprit.** Nous pouvons choisir de faire partie de quelque chose ou choisir de ne pas en être.
 
-La liberté est une offre, une promesse et une exigence de responsabilité. Une volonté de se connecter et d'offrir de la [[Dignité]] en réponse à ceux qui nous entourent.
+La liberté est une offre, une promesse et une exigence de responsabilité. Une volonté de se connecter et d'offrir de la [[dignité]] en réponse à ceux qui nous entourent.
 
 **L'indépendance est en fait une question de [[coopération]] et d'interdépendance.**
 
@@ -16,4 +16,6 @@ L'un des mots les plus importants que je connaisse n'a pas d'équivalent anglais
 
 Trouver la meilleure façon de voir, de comprendre et de prendre soin des personnes que nous appelons «nous» peut être en effet difficile, mais c'est indispensable.
 
-Traduction et réécriture [d'un article de Seth Godin](https://seths.blog/2020/07/are-you-part-of-us/) #article 
+Traduction et réécriture [d'un article de Seth Godin](https://seths.blog/2020/07/are-you-part-of-us/) #article
+
+une des bases philosophique de l'[[Archipel Kyosei]].

@@ -1,5 +1,5 @@
 ---
-title: Comprendre ce qu'est un projet
+title: comprendre ce qu'est un projet
 ---
 
 Un projet c'est la phase de "faire" qui relie des inspirations à une intention.
