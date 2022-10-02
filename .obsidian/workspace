@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/tout commence par la veille.md",
+            "file": "_pages/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/tout commence par la veille.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/tout commence par la veille.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
+    "_notes/évolutions des notes.md",
+    "_pages/index.md",
+    "_notes/tout commence par la veille.md",
     "_notes/logique et nécessité des interrelations pour faire système en archipels.md",
     "_notes/Second Brain.md",
     "_notes/écologie.md",
     "_notes/résilience.md",
     "_notes/Pour toi chez moi ça veut dire quoi.md",
     "_notes/neurosciences.md",
-    "_notes/nos relations humaines sont comme les neurones.md",
-    "_notes/linguistique.md",
-    "_notes/metagame.md",
-    "_notes/le vivant.md"
+    "_notes/nos relations humaines sont comme les neurones.md"
   ]
 }

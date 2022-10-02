@@ -17,3 +17,6 @@ pas grand chose n'a évolué pour le moment, je n'ai pas beaucoup trouvé le tem
 
 ## en date du 10/04/22
 gros coup de bascule de contenus entre ici et le jardin notion de manière à mieux répartir. ici ça reste des articles plus libres, larges, inspirants et exploratoires. sur le notion, des objets plus particulièrement utilisables, comme des guidebook, des framework, des articles de fond sur un sujet bien précis, etc...
+
+## en date du 02/10/22
+actualisation de l'index principal pour refléter un peu mieux la structure de ce que je fais et de ce que j'explore pour faciliter l'entrée dans le jardin. j'ai toujours des contenus publiques ici et sur notion, ce qui disperse mais je n'ai pas encore trouver la bonne logique d'organisation, c'est en cours, ranger mon cerveau numérique...

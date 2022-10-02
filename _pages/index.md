@@ -58,7 +58,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 - Bientôt des petits scénarios fictifs comme [[La vie en double face]]
 
 *en vous balandant entre ces premières pages vous pourrez en découvrir d'autres qui ne sont pas accessible via cet index...
-Au fil de l'[[évolutions des notes]] vous pourrez rebondir de de notes en notes, à la manière d'un Wikipedia mais sur des sujets de recherche personnels et très souvent, en mutations! Je vous souhaite une belle exploration ! ⛵*
+Au fil de l'[[évolutions des notes]] vous pourrez rebondir de notes en notes, à la manière d'un Wikipedia mais sur des sujets de recherche personnels et très souvent, en mutations! Je vous souhaite une belle exploration ! ⛵*
 
 ---
 
