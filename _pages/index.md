@@ -38,8 +38,8 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ## dernières mises à jour.
 
-- [[Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul?]]
-- [[comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience?]]
+- [[Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul]]
+- [[comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience]]
 - [[woodstock 99 pour parler d'effondrement]] - est-ce bientôt la fin du festival?
 - [[comprendre ce qu'est un projet]] - parce qu'on fait tous des projets tout le temps...
 - [[Echec et mat du monopole]] - petite tristesse de la société actuelle

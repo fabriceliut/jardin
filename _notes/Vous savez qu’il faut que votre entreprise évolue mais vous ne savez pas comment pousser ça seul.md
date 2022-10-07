@@ -1,5 +1,5 @@
 ---
-title: Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul?
+title: Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul
 ---
 
 >"comment est-ce possible, malgré toutes les informations dont on dispose aujourd'hui, qu'on continue de faire tourner l'entreprise et nos activités de la même manière sans chercher à transformer notre manière de faire face aux enjeux écologiques?”
