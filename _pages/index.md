@@ -38,6 +38,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ## dernières mises à jour.
 
+- [[comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience?]]
 - [[woodstock 99 pour parler d'effondrement]] - est-ce bientôt la fin du festival?
 - [[comprendre ce qu'est un projet]] - parce qu'on fait tous des projets tout le temps...
 - [[Echec et mat du monopole]] - petite tristesse de la société actuelle
