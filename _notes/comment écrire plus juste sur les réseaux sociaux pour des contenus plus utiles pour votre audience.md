@@ -36,13 +36,13 @@ Si vous préférez, vous pouvez aussi vous adresser à une personne qui a un pro
 
 Ici, vous pourrez commencer votre contenu par la positive: **“vous avez en tête de mettre Notion en place pour vous aider à gérer toutes les tâches de votre entreprise et déléguer plus efficacement?”**
 
-Ici, ça va parler fort et directement et vous êtes directement en train de parler de la solution que votre lecture a en tête. L’avantage de cette version c’est que ça “niche” encore plus votre contenu, sur ce qui est vraiment une demande côté lecture et ce qui est aussi “le produit” que vous maitrisez et que vous pourrez directement lui proposer.
+Ici, ça va parler fort et directement et vous êtes directement en train de parler de la solution que votre lecture a en tête. L’avantage de cette version c’est que ça “niche” encore plus votre contenu, sur ce qui est vraiment une demande côté lecteur et ce qui est aussi “le produit” que vous maitrisez et que vous pourrez directement lui proposer.
 
 Il va accrocher sur votre contenu et ensuite cliquer pour en savoir plus et là, il aura besoin de sentir qu’avec vous il aura rapidement ses solutions et sans que ça lui prenne trop de temps et la tête.
 
 En synthèse, rentrer dans la tête de ceux à qui vous voulez vous adresser semble bien plus juste pour rendre vos contenus utiles pour votre audience et aussi pour vous, pour tisser les liens et ouvrir des projets avec eux.
 
-Cette démarche demande d’arrêter de parler de soi, de ce qu’on fait pour **s’intéresser vraiment à continuer le fil de penser du lecture** avec le contenu qu’il va rencontrer sur son fil linkedIn par exemple.
+Cette démarche demande d’arrêter de parler de soi, de ce qu’on fait pour **s’intéresser vraiment à continuer le fil de penser du lecteur** avec le contenu qu’il va rencontrer sur son fil linkedIn par exemple.
 
 
 Ce que je présente ici n’est pas une vérité vrai mais un bel apprentissage à force d’écrire, écrire et écrire... on a envie de partager et d’aider mais si l’accroche est ratée, personne ne lira jamais nos contenus!
