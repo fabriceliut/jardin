@@ -4,16 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "073735aca94a89ea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
-            "mode": "preview",
-            "source": false
+        "id": "0d983b9696636370",
+        "type": "split",
+        "children": [
+          {
+            "id": "073735aca94a89ea",
+            "type": "leaf",
+            "dimension": 77.55331088664423,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/mon intention du moment.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "9bc9d2e87a963b96"
+          },
+          {
+            "id": "4117bce035db5d93",
+            "type": "leaf",
+            "dimension": 22.44668911335578,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/mon intention du moment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "9bc9d2e87a963b96"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
+                "file": "_notes/mon intention du moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
+                "file": "_notes/mon intention du moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,14 +141,14 @@
   "active": "073735aca94a89ea",
   "lastOpenFiles": [
     "_pages/index.md",
-    "_notes/Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul.md",
+    "_notes/mon intention du moment.md",
+    "Design thinking.md",
+    "_notes/design régénératif.md",
     "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
+    "_notes/Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul.md",
     "_notes/évolutions des notes.md",
     "_notes/tout commence par la veille.md",
     "_notes/logique et nécessité des interrelations pour faire système en archipels.md",
-    "_notes/Second Brain.md",
-    "_notes/écologie.md",
-    "_notes/résilience.md",
-    "_notes/Pour toi chez moi ça veut dire quoi.md"
+    "_notes/Second Brain.md"
   ]
 }
