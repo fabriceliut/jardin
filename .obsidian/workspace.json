@@ -4,44 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0d983b9696636370",
-        "type": "split",
+        "id": "e4281d56abd25752",
+        "type": "tabs",
         "children": [
           {
             "id": "073735aca94a89ea",
             "type": "leaf",
-            "dimension": 77.55331088664423,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_notes/mon intention du moment.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "9bc9d2e87a963b96"
+            }
           },
           {
-            "id": "4117bce035db5d93",
+            "id": "4161e56c7d3d5dc9",
             "type": "leaf",
-            "dimension": 22.446689113355784,
             "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "file": "_notes/mon intention du moment.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "9bc9d2e87a963b96"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -97,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/mon intention du moment.md",
+                "file": "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/mon intention du moment.md",
+                "file": "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +131,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "073735aca94a89ea",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_pages/index.md",
     "_notes/mon intention du moment.md",
+    "_pages/index.md",
     "Design thinking.md",
     "_notes/design régénératif.md",
     "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
