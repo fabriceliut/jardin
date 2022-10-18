@@ -40,6 +40,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ## dernières mises à jour.
 
+- [[Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles]]
 - [[Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul]]
 - [[comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience]]
 - [[woodstock 99 pour parler d'effondrement]] - est-ce bientôt la fin du festival?

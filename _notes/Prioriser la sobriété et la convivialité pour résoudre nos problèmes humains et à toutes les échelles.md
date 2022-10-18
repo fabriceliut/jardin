@@ -12,7 +12,7 @@ Il est possible de rédiger une bible de la « sobriété conviviale » - une 
 
 Certes le plus difficile n’est pas de connaître ce qu’on pourrait ou ce qu’on devrait faire mais plutôt de mettre en place le nécessaire dès aujourd’hui et en pas à pas pour le faire vraiment. 
 
-Et pour se motiver à une telle aventure il faut y trouver du sens et de la motivation: en quoi cette aventure vers la sobriété conviviale vaut la peine - et même - en quoi ce jeu vaut la peine d’être joué tous ensemble quelque soit nos cultures, nos nations, nos enjeux et à toutes les échelles? 
+Et pour se motiver à une telle aventure il faut y trouver du sens et une profonde intention personnelle: en quoi cette aventure vers la sobriété conviviale vaut la peine - et même - en quoi ce jeu vaut la peine d’être joué tous ensemble quelque soit nos cultures, nos nations, nos enjeux et à toutes les échelles? 
 
 Si considérer notre société comme malade et voir la sobriété conviviale comme un traitement heureux et naturel n’est pas suffisant pour motiver assez à se jeter à l’eau, j’aime aussi voir une liste d’avantages très directs et concrets: 
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_notes/mon intention du moment.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,9 +134,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "4161e56c7d3d5dc9",
   "lastOpenFiles": [
     "_notes/mon intention du moment.md",
+    "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
     "_pages/index.md",
     "Design thinking.md",
     "_notes/design régénératif.md",
@@ -144,7 +145,6 @@
     "_notes/Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul.md",
     "_notes/évolutions des notes.md",
     "_notes/tout commence par la veille.md",
-    "_notes/logique et nécessité des interrelations pour faire système en archipels.md",
-    "_notes/Second Brain.md"
+    "_notes/logique et nécessité des interrelations pour faire système en archipels.md"
   ]
 }
