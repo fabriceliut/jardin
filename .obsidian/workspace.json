@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "073735aca94a89ea",
+            "id": "33682f77d4acfc39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/mon intention du moment.md",
-                "mode": "preview",
+                "file": "_pages/index.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4161e56c7d3d5dc9",
+            "id": "0d1f5bac264e5c94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
+                "file": "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
                 "mode": "preview",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
+                "file": "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
+                "file": "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +134,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4161e56c7d3d5dc9",
+  "active": "0d1f5bac264e5c94",
   "lastOpenFiles": [
-    "_notes/mon intention du moment.md",
-    "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
     "_pages/index.md",
+    "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
+    "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
+    "_notes/mon intention du moment.md",
     "Design thinking.md",
     "_notes/design régénératif.md",
     "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
     "_notes/Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul.md",
     "_notes/évolutions des notes.md",
-    "_notes/tout commence par la veille.md",
-    "_notes/logique et nécessité des interrelations pour faire système en archipels.md"
+    "_notes/tout commence par la veille.md"
   ]
 }
