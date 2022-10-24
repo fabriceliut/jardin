@@ -36,3 +36,6 @@ Plutôt pour prendre soin de tout ce qui vit où l’inverse? en conscience ou p
 ce serait simplement comme se mettre devant la glace quand on doit faire un choix: on s'arrête un moment, on s'observe puis on laisse venir: dégénératif ou régénératif?
 
 > Go ou NoGo?
+
+---
+toutes ces réflexions sont impliquées dans la démarche de [[design régénératif]]
