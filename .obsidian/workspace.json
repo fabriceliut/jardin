@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a851d794bb75d48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/repartir des bases du vivant.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/repartir des bases du vivant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/repartir des bases du vivant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +134,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "33682f77d4acfc39",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
     "_pages/index.md",
+    "_notes/repartir des bases du vivant.md",
     "_notes/repartir de soi et de ses émotions pour changer le monde.md",
+    "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
     "_notes/Ça veut dire quoi impact pour toi.md",
     "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
     "_notes/mon intention du moment.md",
     "Design thinking.md",
     "_notes/design régénératif.md",
-    "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
-    "_notes/Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul.md"
+    "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md"
   ]
 }

@@ -38,8 +38,9 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ---
 
-## dernières mises à jour.
+## dernières mises à jour
 
+- [[repartir des bases du vivant]]
 - [[repartir de soi et de ses émotions pour changer le monde]]
 - [[Ça veut dire quoi impact pour toi]]
 - [[et toi ton impact, plutôt dégénératif ou régénératif]]
@@ -57,7 +58,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ---
 
-### bac à sujets (en cours) 👇
+### bac à sujets (à développer) 👇
 - [[start with why but stop with why]]
 - [[retrouver la confiance en l’intuition]]
 - [[Exploration de l'abstraction]]
