@@ -14,49 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d1f5bac264e5c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2506ee9e0848cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Ça veut dire quoi impact pour toi.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cfece3a2196973e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repartir de soi et de ses émotions pour changer le monde.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repartir de soi et de ses émotions pour changer le monde.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repartir de soi et de ses émotions pour changer le monde.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,12 +121,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4cfece3a2196973e",
+  "active": "33682f77d4acfc39",
   "lastOpenFiles": [
-    "_notes/Ça veut dire quoi impact pour toi.md",
-    "repartir de soi et de ses émotions pour changer le monde.md",
-    "_pages/index.md",
     "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
+    "_pages/index.md",
+    "_notes/repartir de soi et de ses émotions pour changer le monde.md",
+    "_notes/Ça veut dire quoi impact pour toi.md",
     "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
     "_notes/mon intention du moment.md",
     "Design thinking.md",
