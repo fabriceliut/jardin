@@ -26,13 +26,24 @@
               "type": "markdown",
               "state": {
                 "file": "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2506ee9e0848cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Ça veut dire quoi impact pour toi.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +145,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0d1f5bac264e5c94",
+  "active": "33682f77d4acfc39",
   "lastOpenFiles": [
-    "_pages/index.md",
+    "_notes/Ça veut dire quoi impact pour toi.md",
     "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
+    "_pages/index.md",
     "_notes/Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles.md",
     "_notes/mon intention du moment.md",
     "Design thinking.md",
     "_notes/design régénératif.md",
     "_notes/comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience.md",
     "_notes/Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul.md",
-    "_notes/évolutions des notes.md",
-    "_notes/tout commence par la veille.md"
+    "_notes/évolutions des notes.md"
   ]
 }

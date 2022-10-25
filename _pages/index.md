@@ -40,6 +40,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ## dernières mises à jour.
 
+- [[Ça veut dire quoi impact pour toi]]
 - [[et toi ton impact, plutôt dégénératif ou régénératif]]
 - [[Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles]]
 - [[Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul]]
