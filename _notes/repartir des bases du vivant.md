@@ -2,7 +2,12 @@
 title: repartir des bases du vivant
 ---
 
-je tenais à reposer ce que j'appelle les bases du vivant pour replacer ce qui devrait être les bases de ce qui anime ce qu'on fait au quotidien et de pourquoi est-ce qu'on se lève le matin. si par exemple je travaille sur un projet et que je me rend compte qu'il ne vient pas nourrir mes bases alors je peux me poser la question précieuse de si je continue ou pas.
+c'est quoi vraiment ce qui est vivant? Comment être plus vivant ou vitalisé à échelle personnelle déjà? 
+retrouver les bases de ce qui fait de nous des êtres vivants c'est revenir à la simplicité pour changer ses habitudes et son comportement au quotidien et pouvoir se régénérer déjà chacun à son échelle.
+
+> se régénérer, devenir pleinement vivant, c'est une fondation pour ensuite propager cette vitalité autour de soi, tel un virus vertueux.
+
+c'est pour cette raison que je tenais à reposer ce que j'appelle "les bases du vivant" pour replacer ce qui devrait être les bases de ce pour quoi on fait ce qu'on fait au quotidien. si par exemple je travaille sur un projet et que je me rend compte qu'il ne vient pas nourrir mes bases alors je peux me poser la question précieuse de si je continue ou pas.
 ces bases peuvent redéfinir les orientations d'un invividu au jour le jour mais aussi celles d'un groupe, d'une organisation ou même d'un territoire.
 
 c'est si facile de se perdre dans le flow des activités du quotidien. alors reprenons simplement les bases du vivant que nous oublions si souvent:
