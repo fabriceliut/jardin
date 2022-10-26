@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/repartir des bases du vivant.md",
+                "file": "_notes/bio-inspiration.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "design régéné",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/repartir des bases du vivant.md",
+                "file": "_notes/bio-inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/repartir des bases du vivant.md",
+                "file": "_notes/bio-inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,10 +134,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a851d794bb75d48d",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_pages/index.md",
     "_notes/repartir des bases du vivant.md",
+    "_pages/index.md",
     "_notes/repartir de soi et de ses émotions pour changer le monde.md",
     "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
     "_notes/Ça veut dire quoi impact pour toi.md",

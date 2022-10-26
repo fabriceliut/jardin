@@ -6,4 +6,8 @@ S'inspirer du minéral, végétal, animal & de la diversité des modèles, cultu
 
 En lien avec le [[biomimétisme]]
 
+## projets inspirants
+- https://www.ajc-maintenant.com/ - Alexis oeuvre à "bio-inspirer" les organisations pour faciliter leur changement de modèle grâce aux inspirations du vivant
+
+---
 #Afairepousser
