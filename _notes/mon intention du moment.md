@@ -33,9 +33,9 @@ je fais mon possible pour apporter de la beauté à mon échelle et dans chaque 
 
 **comment j'interviens?**
 
-je suis un designer (global) - qui se positionne comme un médecin généraliste ou un naturopath.
+je suis un designer (global) - qui se positionne comme un médecin généraliste ou un naturopathe.
 
-ma zone de génie est sur le moment du diagnostique:
+**ma zone de génie est sur le moment du diagnostique:**
 - écouter - comprendre la situation, la problématique, le système *(posture facilitante)*
 -   aider à visualiser cette situation, le contexte, le système *(systems thinking and mapping)*
 -   poser les questions pour cheminer vers des noeuds, des zones de verrous *(dialectique)*
@@ -53,7 +53,7 @@ et en proposant les personnes adaptées au moment et au besoin quand ce n'est pa
 
 - pour les objets numériques que je crée, c'est de 0€ à 200€, en achat direct
 - pour les accompagnements il y a plusieurs formats:
-	- freemium pour la première intervention possible suivant le projet - commencer en gratuit permet à chacun de savoir s'il est à sa place et si c'est adapté de coopérer
+	- freemium pour la première intervention possible suivant le projet - commencer par un échange et premier diagnostique gratuit permet à chacun de savoir s'il est à sa place et si c'est adapté de coopérer ensemble
 	- ensuite le taux jour va dépendre du projet: suivant son échelle, son impact, les délais, les engagements et responsabilités > ça peut donc aller de 500 à 2000€ jours.
 - possible aussi suivant les projets de définir un format en abonnement à mes services et accompagnements - l'abonné peut accéder à:
 	- du coaching régulier
