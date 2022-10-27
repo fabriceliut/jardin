@@ -62,5 +62,6 @@ et en proposant les personnes adaptées au moment et au besoin quand ce n'est pa
 	- des créations d'objets numériques sur mesure et suivant les besoins
 - possible aussi d'avoir **un fonctionnement d'investissement**: si je crois beaucoup au projet, qu'il porte la même intention que la mienne, je peux investir mon temps et mon énergie dans le projet en échange de presque rien côté financier - tout en prenant des parts dans le projet - le retour sur investissement se fera donc plus tard et seulement si le projet se développe bien.
 
+> vous cherchez à mieux cerner [[pour quoi travailler ensemble]]?
 
 *je développe beaucoup de ces axes dans ce jardin numérique, je vous laisse explorer. je mettrais cette fiche intention à jour au fil du temps...*
