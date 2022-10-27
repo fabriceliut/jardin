@@ -26,13 +26,28 @@ je fais mon possible pour apporter de la beauté à mon échelle et dans chaque 
 **et avec qui je travaille en priorité?**
 
 - prendre soin de mes proches et puis par cercles de mon monde local - *pour adresser les besoins court terme*
-- prendre soin du monde et donc je peux travailler avec les acteurs les plus dynamiques dans la redirection écologique - *pour adresser les besoins moyen, long terme et globaux)*
+- prendre soin du monde et donc je peux travailler avec les décideurs et leaders qui sont alignés avec mon intention et le monde que j'ai envie de co-créer avec eux (partenaires, entreprises régénératives) - *pour adresser les besoins moyen et long terme*
+	- qui sont curieux, ouverts à questionner et à travailler en profondeur les évolutions de leur système (systems oriented thinking)
+	-  qui sont conscients qu'il faut changer des choses, qui ne savent pas encore comment faire et qui vont chercher de l'aide (étape de diagnostique)
+	-  qui ont accès à un flux économique suffisant pour rémunérer le travail à produire ensemble
 
 **comment j'interviens?**
 
-- sur le terrain directement dans le cadre des projets que j'accompagne, avec la posture conseil, design et facilitation
-- en créant des objets numériques autonomes qui permettent déjà d'adresser des besoins et de lever des problématiques sans que j'intervienne directement
-- en proposant les personnes adaptées au moment et au besoin quand ce n'est pas moi grâce à tout un écosystème d'accompagnants avec qui je suis en coopération constante > [[Archipel Kyosei]]
+je suis un designer (global) - qui se positionne comme un médecin généraliste ou un naturopath.
+
+ma zone de génie est sur le moment du diagnostique:
+- écouter - comprendre la situation, la problématique, le système *(posture facilitante)*
+-   aider à visualiser cette situation, le contexte, le système *(systems thinking and mapping)*
+-   poser les questions pour cheminer vers des noeuds, des zones de verrous *(dialectique)*
+-   aider à synthétiser ces apprentissages et à prioriser des prochaines actions concrètes à déclencher pour faire évoluer les choses *(prototyper, co-construction)*
+-   apporter des spécialistes et autres expertises si nécessaire *(réseau, archipel)*
+-   apporter des ressources de connaissance *(management de la connaissance)*
+-   apporter un suivi des évolutions et tests - s’assurer que ça part dans la bonne direction - de réorienter quand il faut - que c’est régénératif d’un point de vue systémique
+
+j'agis directement sur le terrain, avec les équipes et dans le cadre des projets que j'accompagne, avec la posture conseil, design et facilitation.
+aussi en créant des objets numériques autonomes qui permettent déjà d'adresser des besoins et de lever des problématiques sans que j'intervienne directement.
+
+et en proposant les personnes adaptées au moment et au besoin quand ce n'est pas moi grâce à tout un écosystème d'accompagnants avec qui je suis en coopération constante > [[Archipel Kyosei]]
 
 **combien est-ce que ça coûte?**
 
