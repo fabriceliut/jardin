@@ -40,6 +40,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ## dernières mises à jour
 
+- [[process pour créer des contenus online]]
 - [[repartir des bases du vivant]]
 - [[repartir de soi et de ses émotions pour changer le monde]]
 - [[Ça veut dire quoi impact pour toi]]

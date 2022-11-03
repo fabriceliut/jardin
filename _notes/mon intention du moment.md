@@ -6,7 +6,7 @@ mon intention c’est **participer à régénérer notre société et le reste d
 je fais mon possible pour apporter de la beauté à mon échelle et dans chaque approche que je propose.
 
 
-**c'est donc travailler à améliorer, fluidifier ou même produire de la coopération** aux niveaux d'une équipe, d'une organisation ou même d'un territoire, par les axes suivants:
+**c'est donc travailler à améliorer, fluidifier organiser ou même produire de la coopération** aux niveaux d'une équipe, d'une organisation ou même d'un territoire, par les axes suivants:
 
 -   gérer et faire vivre l’écosystème par et pour l’intérêt de tous les parties - [[Prendre soin du monde]]
 -   piloter et gérer l’entreprise dans sa globalité 
