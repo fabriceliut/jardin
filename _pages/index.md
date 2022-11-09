@@ -35,6 +35,7 @@ quelques concepts, outils, méthodes, formats... qui ont émergé et qui portent
 je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décortiquer pour comprendre et peut-être réussir un jour à [[décoder la vie]]... et même si "je sais que je ne sais rien" cela n'enlève pas le plaisir des nouvelles découvertes.
 - [[voyager dans le temps]] - c'est quoi le temps et comment bouger dedans?
 - Et si [[Il n'y a pas de montagne]] ? - et pas d'objectif à atteindre?
+- [[et si tout ça c'était juste un rêve]]
 
 ---
 
