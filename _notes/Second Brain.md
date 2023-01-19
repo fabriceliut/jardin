@@ -51,4 +51,13 @@ j'ai mis en place un modèle pour l'application Notion qui vous permet de tester
 
 > Concept qui reste à développer plus en détails. si vous voulez échanger de vive voix et vous orienter vers un accompagnement, [nous pouvons nous rencontrer](https://liut-notion.super.site/)
 
+---
+### quelques premières sources
+
+-   [Site web de Tiago Forte]([https://tiagoforte.com/](https://tiagoforte.com/)) 
+-   [Livre "Building a Second Brain" de Tiago Forte]([https://tiagoforte.com/books/building-a-second-brain/](https://tiagoforte.com/books/building-a-second-brain/))
+-   [Vidéo de présentation de la méthode BASB de Tiago Forte]([https://www.youtube.com/watch?v=FvL7WdFcMf4](https://www.youtube.com/watch?v=FvL7WdFcMf4))
+
+---
+
 #Afairepousser #projet 
