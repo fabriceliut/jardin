@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e4281d56abd25752",
+        "id": "f35af1bf50262822",
         "type": "tabs",
         "children": [
           {
-            "id": "a9070fba04534212",
+            "id": "8ad2cbf53431f179",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "avec qui travailler",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +122,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a9070fba04534212",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_layouts/note.rtf",
+    "_layouts/note.html",
+    "README.md",
+    "assets/jazzyfrenchy.mp3",
+    "assets/image.jpg",
+    "assets/banques.jpg",
+    "assets/businessnonusual.png",
+    "assets/troisjours.jpeg",
+    "assets/miniavatar.jpeg",
+    "assets/coopererregenerer.jpeg",
+    "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
     "_notes/mon intention du moment.md",
     "_notes/Second Brain.md",
     "_notes/design circulaire.md",
