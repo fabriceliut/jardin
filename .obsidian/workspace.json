@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Second Brain.md",
+                "file": "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "second brain",
+                "query": "avec qui travailler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Second Brain.md",
+                "file": "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Second Brain.md",
+                "file": "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,15 +131,15 @@
   },
   "active": "a9070fba04534212",
   "lastOpenFiles": [
-    "_notes/design circulaire.md",
+    "_notes/mon intention du moment.md",
     "_notes/Second Brain.md",
+    "_notes/design circulaire.md",
     "_notes/travailler avec moi comme avec un ami.md",
     "_notes/process pour créer des contenus online.md",
     "_notes/et si tout ça c'était juste un rêve.md",
     "_notes/spirale dynamique.md",
     "_notes/théorie de l'évolution spirituelle de Ken Wilber.md",
     "_pages/index.md",
-    "les questions existentielles sont sans fin.md",
-    "_notes/Prendre soin du collectif.md"
+    "les questions existentielles sont sans fin.md"
   ]
 }
