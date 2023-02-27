@@ -124,8 +124,10 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_layouts/note.rtf",
     "_layouts/note.html",
+    "_layouts/note.html.rtf",
+    "_layouts/note.htlm.rtf",
+    "_layouts/note.rtf",
     "README.md",
     "assets/jazzyfrenchy.mp3",
     "assets/image.jpg",
