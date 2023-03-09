@@ -17,6 +17,8 @@ permalink: /
 ## axes de travail et de recherche
 avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
 
+je me présente désormais comme [[bras droit]] des dirigeants, leaders et CEOs - parce que c'est avec ces humains engagés que je suis le plus utile et le plus efficace.
+
 pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au coeur de mes explorations personnelles:
 - [[design régénératif]]
 - [[bio-inspiration]]

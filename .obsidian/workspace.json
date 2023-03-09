@@ -11,8 +11,12 @@
             "id": "8ad2cbf53431f179",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/bras droit.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/bras droit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_notes/bras droit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +130,9 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/Second Brain.md",
+    "_notes/bras droit.md",
+    "_pages/index.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
@@ -138,14 +147,12 @@
     "assets/coopererregenerer.jpeg",
     "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
     "_notes/mon intention du moment.md",
-    "_notes/Second Brain.md",
     "_notes/design circulaire.md",
     "_notes/travailler avec moi comme avec un ami.md",
     "_notes/process pour créer des contenus online.md",
     "_notes/et si tout ça c'était juste un rêve.md",
     "_notes/spirale dynamique.md",
     "_notes/théorie de l'évolution spirituelle de Ken Wilber.md",
-    "_pages/index.md",
     "les questions existentielles sont sans fin.md"
   ]
 }
