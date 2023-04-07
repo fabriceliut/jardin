@@ -6,7 +6,7 @@ title: La fin du bullshit
 
 Qui peut encore vouloir faire du business as usual quand c'est cette même manière de faire du business qui nous a mené là où nous en sommes ? Est-ce que je suis idéaliste de croire qu'il est possible d'arrêter le bullshit marketing sur LinkedIn parce que ça ne marchera plus ? Est-ce que je suis rêveur de croire que la considération première des professionnels sur ce réseau sera de questionner, d'écouter, de chercher à comprendre sincèrement les besoins des uns et des autres pour tenter d'y répondre ?
 
-> Est-ce que avec la fin du bullshit business il ne serait pas possible de continuer à faire "des affaires" mais dans une culture de la [[coopération]] sincère, ouverte, curieuse et généreuse ?
+> Est-ce que avec la fin du bullshit business il ne serait pas possible de continuer à faire "des affaires" mais dans une culture de la [[_notes/coopération]] sincère, ouverte, curieuse et généreuse ?
 
 Tu veux gagner de l'argent, ok. Tu as besoin de gagner de l'argent ok. Nous jouons ici tous au même jeu du capitalisme, pas de soucis.
 

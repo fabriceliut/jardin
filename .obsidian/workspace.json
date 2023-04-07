@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/bras droit.md",
-                "mode": "preview",
+                "file": "_notes/devenir une entreprise régénérative.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/bras droit.md",
+                "file": "_notes/devenir une entreprise régénérative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/bras droit.md",
+                "file": "_notes/devenir une entreprise régénérative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,10 +128,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "8ad2cbf53431f179",
   "lastOpenFiles": [
-    "_notes/Second Brain.md",
+    "_notes/coopération.md",
+    "_notes/devenir une entreprise régénérative.md",
     "_notes/bras droit.md",
+    "_notes/coopération 1.md",
+    "_notes/régénératif.md",
+    "_notes/design régénératif.md",
+    "_notes/Second Brain.md",
     "_pages/index.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",

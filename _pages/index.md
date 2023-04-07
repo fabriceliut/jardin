@@ -23,7 +23,7 @@ pour compléter les orientations principales précédentes, voilà quelques suje
 - [[design régénératif]]
 - [[bio-inspiration]]
 - [[complexité]] - [[système complexe]]
-- [[coopération]]
+- [[_notes/coopération]]
 - [[créer un système de connaissance coopératif]]
 
 quelques concepts, outils, méthodes, formats... qui ont émergé et qui portent ma pratique en tant que designer au quotidien:
