@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/devenir une entreprise régénérative.md",
-                "mode": "source",
+                "file": "_pages/index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,6 +56,14 @@
                 "sortOrder": "byCreatedTimeReverse"
               }
             }
+          },
+          {
+            "id": "aee41b322ef48690",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/devenir une entreprise régénérative.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/devenir une entreprise régénérative.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,13 +139,13 @@
   "active": "8ad2cbf53431f179",
   "lastOpenFiles": [
     "_notes/coopération.md",
+    "_pages/index.md",
     "_notes/devenir une entreprise régénérative.md",
     "_notes/bras droit.md",
     "_notes/coopération 1.md",
     "_notes/régénératif.md",
     "_notes/design régénératif.md",
     "_notes/Second Brain.md",
-    "_pages/index.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
