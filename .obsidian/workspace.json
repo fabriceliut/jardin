@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/qu'est-ce qu'un designer en 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/qu'est-ce qu'un designer en 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,11 +136,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8ad2cbf53431f179",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/coopération.md",
-    "_pages/index.md",
+    "_notes/Design fiction.md",
+    "_notes/qu'est-ce qu'un designer en 2024.md",
+    "_notes/l'entreprise c'est comme une série netflix.md",
     "_notes/devenir une entreprise régénérative.md",
+    "_pages/index.md",
+    "_notes/coopération.md",
     "_notes/bras droit.md",
     "_notes/coopération 1.md",
     "_notes/régénératif.md",

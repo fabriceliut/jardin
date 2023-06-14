@@ -1,6 +1,8 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "cssTheme": "Things",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "iA Writer Quattro S",
+  "textFontFamily": "iA Writer Quattro S"
 }
