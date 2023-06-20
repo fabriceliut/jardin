@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ad2cbf53431f179",
+            "id": "8ef426cea3ea423c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/le spécialiste et le généraliste.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/qu'est-ce qu'un designer en 2024.md",
+                "file": "_notes/le spécialiste et le généraliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/qu'est-ce qu'un designer en 2024.md",
+                "file": "_notes/le spécialiste et le généraliste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,16 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/Design fiction.md",
+    "_notes/penser global mais agir local.md",
+    "_notes/le spécialiste et le généraliste.md",
+    "_notes/remplacer l'ambition et l'engagement par le jeu.md",
+    "_notes/devenir un meilleur designer.md",
+    "_notes/débloquer un impact positif en tant que designer.md",
     "_notes/qu'est-ce qu'un designer en 2024.md",
+    "_pages/index.md",
+    "_notes/Design fiction.md",
     "_notes/l'entreprise c'est comme une série netflix.md",
     "_notes/devenir une entreprise régénérative.md",
-    "_pages/index.md",
     "_notes/coopération.md",
     "_notes/bras droit.md",
     "_notes/coopération 1.md",
