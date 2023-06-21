@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/le spécialiste et le généraliste.md",
+                "file": "_notes/spécialiste et généraliste.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/le spécialiste et le généraliste.md",
+                "file": "_notes/spécialiste et généraliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/le spécialiste et le généraliste.md",
+                "file": "_notes/spécialiste et généraliste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +139,8 @@
   "active": "8ef426cea3ea423c",
   "lastOpenFiles": [
     "_notes/penser global mais agir local.md",
-    "_notes/le spécialiste et le généraliste.md",
     "_notes/remplacer l'ambition et l'engagement par le jeu.md",
+    "_notes/spécialiste et généraliste.md",
     "_notes/devenir un meilleur designer.md",
     "_notes/débloquer un impact positif en tant que designer.md",
     "_notes/qu'est-ce qu'un designer en 2024.md",

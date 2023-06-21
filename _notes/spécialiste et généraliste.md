@@ -1,9 +1,10 @@
 ---
-title: le spécialiste et le généraliste
+title: spécialiste et généraliste
 ---
 
-## intention
 à l'origine, une discussion [sur linkedIN](https://www.linkedin.com/posts/marie-lou-barnaud_gaeznaezraliste-spaezcialiste-km-activity-6936975990766100480-4XMi?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+## intention
 > Les généralistes dites-moi, comment arrivez-vous à vous faire (re)connaître en tant que généraliste ?
 
 être plutôt à tendance généraliste, ce n'est pas facile tous les jours dans une société qui culturellement valorise et surtout comprend mieux les spécialistes et les experts.
