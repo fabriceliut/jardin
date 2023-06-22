@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ef426cea3ea423c",
+            "id": "744184d91d74b4c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/spécialiste et généraliste.md",
-                "mode": "preview",
+                "file": "_notes/profiter du chaos et des erreurs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/spécialiste et généraliste.md",
+                "file": "_notes/profiter du chaos et des erreurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/spécialiste et généraliste.md",
+                "file": "_notes/profiter du chaos et des erreurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +136,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8ef426cea3ea423c",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_notes/profiter du chaos et des erreurs.md",
+    "_notes/spécialiste et généraliste.md",
     "_notes/penser global mais agir local.md",
     "_notes/remplacer l'ambition et l'engagement par le jeu.md",
-    "_notes/spécialiste et généraliste.md",
     "_notes/devenir un meilleur designer.md",
     "_notes/débloquer un impact positif en tant que designer.md",
     "_notes/qu'est-ce qu'un designer en 2024.md",
-    "_pages/index.md",
     "_notes/Design fiction.md",
     "_notes/l'entreprise c'est comme une série netflix.md",
     "_notes/devenir une entreprise régénérative.md",
@@ -173,7 +174,6 @@
     "_notes/process pour créer des contenus online.md",
     "_notes/et si tout ça c'était juste un rêve.md",
     "_notes/spirale dynamique.md",
-    "_notes/théorie de l'évolution spirituelle de Ken Wilber.md",
-    "les questions existentielles sont sans fin.md"
+    "_notes/théorie de l'évolution spirituelle de Ken Wilber.md"
   ]
 }

@@ -14,6 +14,15 @@ permalink: /
   Il y a bien plus à découvrir encore, laissez vous porter par votre curiosité...
 </p>
 
+<ul>
+  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
+  {% for note in recent_notes | limit: 5 %}
+    <li>
+      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## axes de travail et de recherche
 avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
 
@@ -76,14 +85,6 @@ Au fil de l'[[évolutions des notes]] vous pourrez rebondir de notes en notes, �
 ---
 
 L'un de mes plus gros travaux en cours c'est la réalisation du [[guidebook de l'approche territoriale NEOZ]] qui adresse la transformation des territoires. *(fin d'écriture en cours)*
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes | limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 <style>
   .wrapper {
