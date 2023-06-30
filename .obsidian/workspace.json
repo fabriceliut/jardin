@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16563e3c894c419b",
+        "id": "d60ef30747397409",
         "type": "tabs",
         "children": [
           {
-            "id": "86027efe83593bde",
+            "id": "846bbf04eaeea528",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la pratique non déclarée du mouvement.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la pratique non déclarée du mouvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la pratique non déclarée du mouvement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +130,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "86027efe83593bde",
+  "active": "846bbf04eaeea528",
   "lastOpenFiles": [
+    "_notes/les 3 récits majeurs qui orientent nos vies.md",
+    "_notes/relier efficacement monde de la recherche et monde du terrain.md",
+    "_notes/le féminin & le masculin.md",
+    "_notes/la pratique non déclarée du mouvement.md",
     "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
-    "la pratique non déclarée du mouvement.md",
     "_notes/basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif.md",
     "_notes/pratiquer la meta conversation.md",
     "_notes/exploration de l'abstraction.md",
@@ -165,15 +162,12 @@
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
     "_layouts/note.rtf",
-    "README.md",
     "assets/jazzyfrenchy.mp3",
     "assets/image.jpg",
     "assets/banques.jpg",
     "assets/businessnonusual.png",
     "assets/troisjours.jpeg",
     "assets/miniavatar.jpeg",
-    "assets/coopererregenerer.jpeg",
-    "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
-    "_notes/mon intention du moment.md"
+    "assets/coopererregenerer.jpeg"
   ]
 }
