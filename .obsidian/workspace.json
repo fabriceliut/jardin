@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18657d874f9c35e6",
+            "id": "218871fd1123817a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +136,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "18657d874f9c35e6",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif.md",
+    "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
     "_notes/pratiquer la meta conversation.md",
-    "Untitled.md",
     "_notes/exploration de l'abstraction.md",
     "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
     "_notes/profiter du chaos et des erreurs.md",
@@ -173,7 +174,6 @@
     "assets/coopererregenerer.jpeg",
     "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
     "_notes/mon intention du moment.md",
-    "_notes/design circulaire.md",
-    "_notes/travailler avec moi comme avec un ami.md"
+    "_notes/design circulaire.md"
   ]
 }
