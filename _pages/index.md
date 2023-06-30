@@ -74,7 +74,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 ### bac à sujets (à développer) 👇
 - [[start with why but stop with why]]
 - [[retrouver la confiance en l’intuition]]
-- [[Exploration de l'abstraction]]
+- [[exploration de l'abstraction]]
 - [[se raconter des histoires]]
 - [[Créer des indicateurs qualitatifs]]
 - Bientôt des petits scénarios fictifs comme [[La vie en double face]]

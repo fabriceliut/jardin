@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f35af1bf50262822",
+        "id": "f0aacddcdce33fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "83700aac4dfb35e9",
+            "id": "18657d874f9c35e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +136,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "18657d874f9c35e6",
   "lastOpenFiles": [
-    "_notes/profiter du chaos et des erreurs.md",
+    "_notes/pratiquer la meta conversation.md",
+    "Untitled.md",
+    "_notes/exploration de l'abstraction.md",
     "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
+    "_notes/profiter du chaos et des erreurs.md",
     "_pages/index.md",
     "_notes/spécialiste et généraliste.md",
     "_notes/penser global mais agir local.md",
@@ -171,9 +174,6 @@
     "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
     "_notes/mon intention du moment.md",
     "_notes/design circulaire.md",
-    "_notes/travailler avec moi comme avec un ami.md",
-    "_notes/process pour créer des contenus online.md",
-    "_notes/et si tout ça c'était juste un rêve.md",
-    "_notes/spirale dynamique.md"
+    "_notes/travailler avec moi comme avec un ami.md"
   ]
 }

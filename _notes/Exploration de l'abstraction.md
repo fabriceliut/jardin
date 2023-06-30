@@ -1,5 +1,5 @@
 ---
-title: Exploration de l'abstraction
+title: exploration de l'abstraction
 ---
 
 Quelque chose qui est abstrait est isolé ou détaché d'une chose et de son type. Détaché de quelque chose de concret, on peut dire souvent de "palpable" dans le sens où ce qui est concret est suffisamment proche de nos perceptions et de nos sens pour qu'on puisse y trouver un point d'attache pour comprendre ce quelque chose qui était alors trop abstrait parce que détaché de ces ancrages. 
