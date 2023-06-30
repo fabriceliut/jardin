@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "744184d91d74b4c1",
+            "id": "83700aac4dfb35e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/profiter du chaos et des erreurs.md",
-                "mode": "source",
+                "file": "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/profiter du chaos et des erreurs.md",
+                "file": "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/profiter du chaos et des erreurs.md",
+                "file": "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,9 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_pages/index.md",
     "_notes/profiter du chaos et des erreurs.md",
+    "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
+    "_pages/index.md",
     "_notes/spécialiste et généraliste.md",
     "_notes/penser global mais agir local.md",
     "_notes/remplacer l'ambition et l'engagement par le jeu.md",
@@ -173,7 +174,6 @@
     "_notes/travailler avec moi comme avec un ami.md",
     "_notes/process pour créer des contenus online.md",
     "_notes/et si tout ça c'était juste un rêve.md",
-    "_notes/spirale dynamique.md",
-    "_notes/théorie de l'évolution spirituelle de Ken Wilber.md"
+    "_notes/spirale dynamique.md"
   ]
 }
