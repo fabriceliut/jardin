@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/expérimenter la danse méditative.md",
-                "mode": "preview",
+                "file": "_pages/index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,10 +85,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/expérimenter la danse méditative.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/expérimenter la danse méditative.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,12 +135,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2800572584ed88a8",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/coopération.md",
+    "_notes/guidebook de l'approche territoriale NEOZ.md",
+    "_notes/avoir de l’impact en tant qu’accompagnant et consultant externe.md",
+    "_pages/index.md",
+    "_notes/guidebook business as non usual.md",
+    "_notes/qu'est-ce qu'un designer en 2024.md",
+    "_notes/l'entreprise c'est comme une série netflix.md",
+    "_notes/devenir une entreprise régénérative.md",
+    "_notes/faisons partie de nous.md",
+    "_notes/Ma vision du Design en 2021.md",
+    "_notes/La fin du bullshit.md",
+    "_notes/basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif.md",
+    "_notes/expérimenter la danse méditative.md",
     "_notes/l'expérience du jeu de rôle.md",
     "_notes/créer sa propre infrastructure d'apprentissage.md",
-    "_pages/index.md",
-    "_notes/expérimenter la danse méditative.md",
     "_notes/gagnez sa vie avec son esprit plutôt que son temps.md",
     "_notes/présentation générale du design systémique.md",
     "_notes/diverger & converger mais en qualité.md",
@@ -153,17 +163,6 @@
     "_notes/remplacer covid par humanité.md",
     "_notes/nécessité de la diversité dans la transmission culturelle.md",
     "_notes/développer un esprit Chasseur cueilleur.md",
-    "_notes/la culture du feedback base de la coopération.md",
-    "_notes/être son propre commercial.md",
-    "_notes/apprendre à apprendre.md",
-    "_notes/extrait 1 du mooc regenerative design.md",
-    "_notes/créer un système de connaissance coopératif.md",
-    "_notes/design systémique.md",
-    "_notes/spirale dynamique.md",
-    "_notes/La stigmergie mieux que l’intelligence artificielle pour gérer la complexité.md",
-    "_notes/Second Brain.md",
-    "_notes/Prendre soin du monde.md",
-    "_notes/Guide book apprendre à vendre.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",

@@ -33,7 +33,7 @@ De ces analyses il est possible de basculer du chaos à la complexité et ainsi 
 On bascule de la peur paralysante du chaos à la joie créative de la complexité.
 
 ## Le Design jamais seul
-Il est Impossible d'appréhender un haut niveau de complexité avec un seul cerveau humain. Il faut travailler avec les autres humains complémentaires en terme d'intelligences & de sensibilités et ainsi **développer une culture de la [[_notes/coopération]] et une démarche d'[[intelligence collective]].**
+Il est Impossible d'appréhender un haut niveau de complexité avec un seul cerveau humain. Il faut travailler avec les autres humains complémentaires en terme d'intelligences & de sensibilités et ainsi **développer une culture de la [[coopération]] et une démarche d'[[intelligence collective]].**
 
 > Le designer est donc également un facilitateur qui invite, crée et anime des sessions de travail coopératives.
 

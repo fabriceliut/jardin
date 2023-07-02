@@ -8,7 +8,7 @@ Le modèle actuel est de concurrence, établi comme étant « normal » et sans 
 
 #Afairepousser 
 
-Et s’il était possible de mettre un place un modèle en [[_notes/coopération]] et [[régénératif]]? A quoi ça ressemblerait?
+Et s’il était possible de mettre un place un modèle en [[coopération]] et [[régénératif]]? A quoi ça ressemblerait?
 
 - plus de concurrence ça veut dire plus personne à battre ou un marché à gagner
 - Plus de logique d’être meilleur mais plutôt une logique d’être complet ensemble

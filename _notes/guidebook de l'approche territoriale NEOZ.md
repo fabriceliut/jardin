@@ -538,7 +538,7 @@ Voir l'outil sur **la posture leader**.
 
 ## Quels outils & ressources utiliser ?
 
-Apports de la [[_notes/coopération]]
+Apports de la [[coopération]]
 Apports de la #Sociodynamique
 Apport de l'  #Actionnement
 Apports de la #posturefacilitateur
@@ -601,7 +601,7 @@ Pour l'ordre du jour, rappeler les objectifs en sortie:
 - l'écriture du projet commun sera partagée et enrichie
 - des rôles de gouvernance seront partagés
 
-### Rentrer en [[_notes/coopération]] le mode projet
+### Rentrer en [[coopération]] le mode projet
 Jusqu'alors les liens de coopération n'était pas activés dans l'action; désormais, avec un début de plan d'action est de rôles pris, les différentes parties prenantes vont rentrer dans le "mode projet" en totale coopération:
 - Respect des engagements de chacun
 - Respect des intentions partagées et communes
@@ -1042,7 +1042,7 @@ Créer la confiance naturellement et humainement plutôt que administrativement 
 
 ## posture facilitateur
 
-Le Facilitateur est le garant de la [[_notes/coopération]]
+Le Facilitateur est le garant de la [[coopération]]
 Il crée l'environnement de travail propice
 Il invite à l'écoute
 Il invite à la prise de parole

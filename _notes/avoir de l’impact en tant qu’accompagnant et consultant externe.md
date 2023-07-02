@@ -12,7 +12,7 @@ audience ciblée - designers et consultants indépendants (avant garde)
 
 ## mode opératoire
 
-pré-requis pour assurer de l'impact - ne pas se positionner en concurrence entre nous mais plutôt en entre-aide → principe de [[_notes/coopération|coopération]] à bien intégrer.
+pré-requis pour assurer de l'impact - ne pas se positionner en concurrence entre nous mais plutôt en entre-aide → principe de [[coopération]] à bien intégrer.
 
 coopérations à activer - avec les structures plus grosses et anciennes de conseil ou de design qui ont déjà une force commerciale et les entrées dans les entreprises cibles.
 

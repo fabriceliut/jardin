@@ -52,7 +52,7 @@ Non je ne vous parlerais pas d’un monde sans argent, pas cette fois. Ni d’un
 
 ### Le chemin vers la [[résilience]].
 
-Pas de plan sur la comète. Pas de roadmap sur 5 ou 10 ans. Ce qui doit se renforcer ce n’est pas de fausses certitudes mais une capacité de réagir vite, d’être agile, résilient et j’irais même jusqu’à « [[antifragile]] ». **Pour se faire, c’est une nécessité de [[_notes/coopération|coopération]] à instaurer plutôt qu’un renforcement de la concurrence.**
+Pas de plan sur la comète. Pas de roadmap sur 5 ou 10 ans. Ce qui doit se renforcer ce n’est pas de fausses certitudes mais une capacité de réagir vite, d’être agile, résilient et j’irais même jusqu’à « [[antifragile]] ». **Pour se faire, c’est une nécessité de [[coopération]] à instaurer plutôt qu’un renforcement de la concurrence.**
 
 Alors oui ça commence fort, ce changement de paradigme entraîne de gros mouvements systémiques sur toutes les dimensions de notre réalité, rien que ça. **Mais si je vous assure que ça va permettre d’être plus efficient et de gagner plus de sous ([1](https://www.ideou.com/blogs/inspiration/growing-a-resilient-business-outside-of-silicon-valley)), vous continuez à lire ?**
 

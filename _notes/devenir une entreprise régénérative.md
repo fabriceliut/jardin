@@ -18,7 +18,7 @@ Les dirigeants d'entreprises qui ne changeront pas leur modèle d'organisation f
 **Voici comment nous travaillons :** nous collaborons étroitement avec la direction de l'entreprise, en commençant par redéfinir la vision de l'entreprise si nécessaire, pour ensuite développer des stratégies et des plans d'actions en lien, tout en intégrant des modèles régénératifs à chaque étape. Nous veillons à ce que ces principes soient également intégrés dans la mise en œuvre opérationnelle, afin de garantir que l'entreprise devienne véritablement régénérative.
 
 quelques principes généraux de la régénération:
-[[pensée systémique]] - [[bio-inspiration]] - [[_notes/coopération]]
+[[pensée systémique]] - [[bio-inspiration]] - [[coopération]]
 
 Les dirigeants peuvent nous découvrir à travers différents canaux tels que notre site web, où nous offrons des ressources gratuites pour aider à initier les premiers travaux et où nos études de cas sont disponibles pour une compréhension plus concrète de notre approche. Nous partageons également régulièrement de la veille et des ressources sur LinkedIn.
 
