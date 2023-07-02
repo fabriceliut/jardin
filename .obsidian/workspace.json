@@ -11,8 +11,12 @@
             "id": "2800572584ed88a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/expérimenter la danse méditative.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/nécessité de la diversité dans la transmission culturelle.md",
+                "file": "_notes/expérimenter la danse méditative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/nécessité de la diversité dans la transmission culturelle.md",
+                "file": "_notes/expérimenter la danse méditative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,10 +136,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "2800572584ed88a8",
   "lastOpenFiles": [
-    "_notes/créer sa propre infrastructure d'apprentissage.md",
     "_notes/l'expérience du jeu de rôle.md",
+    "_notes/créer sa propre infrastructure d'apprentissage.md",
+    "_pages/index.md",
     "_notes/expérimenter la danse méditative.md",
     "_notes/gagnez sa vie avec son esprit plutôt que son temps.md",
     "_notes/présentation générale du design systémique.md",
@@ -159,7 +164,6 @@
     "_notes/Second Brain.md",
     "_notes/Prendre soin du monde.md",
     "_notes/Guide book apprendre à vendre.md",
-    "_notes/vendre online en 2023.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
