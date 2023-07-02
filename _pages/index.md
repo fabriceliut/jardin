@@ -8,7 +8,7 @@ permalink: /
 # Hello ! 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  bienvenue dans mon [[jardin numérique]]. premières orientations pour votre exploration.
+  bienvenue dans mon [[jardin numérique]]. premières orientations pour vos explorations.
   découvrez comment [[Prendre soin de soi]] - [[Prendre soin du collectif]] - [[Prendre soin du monde]].
   apprenez-en plus sur les [[designs]], le concept de [[Second Brain]] et sur l'une de mes expérimentations de communauté, [[Archipel Kyosei]].
   Il y a bien plus à découvrir encore, laissez vous porter par votre curiosité...
@@ -16,7 +16,7 @@ permalink: /
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes | limit: 5 %}
+  {% for note in recent_notes | limit: 10 %}
     <li>
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
     </li>
@@ -35,12 +35,12 @@ pour compléter les orientations principales précédentes, voilà quelques suje
 - [[coopération]]
 - [[créer un système de connaissance coopératif]]
 
-quelques concepts, outils, méthodes, formats... qui ont émergé et qui portent ma pratique en tant que designer au quotidien:
+quelques concepts, outils, méthodes, formats... qui ont émergé et qui portent ma pratique au quotidien:
 - [[pour quoi travailler ensemble]]
 - [[guidebook business as non usual]]
 - [[Design circulaire sur 1 jour]]
 - [[Design systémique sur 3 jours]]
-- [[présentation community design 101]] - découvrir cette branche du design
+- [[présentation community design 101]]
 - [[N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !]]
 
 je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décortiquer pour comprendre et peut-être réussir un jour à [[décoder la vie]]... et même si "je sais que je ne sais rien" cela n'enlève pas le plaisir des nouvelles découvertes.
@@ -50,7 +50,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ---
 
-## dernières mises à jour
+## notes en avant
 
 - [[process pour créer des contenus online]]
 - [[repartir des bases du vivant]]
@@ -62,7 +62,6 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 - [[comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience]]
 - [[woodstock 99 pour parler d'effondrement]] - est-ce bientôt la fin du festival?
 - [[comprendre ce qu'est un projet]] - parce qu'on fait tous des projets tout le temps...
-- [[Echec et mat du monopole]] - petite tristesse de la société actuelle
 - [[Régénérer est une direction]] - comprendre ce que veut dire régénérer
 - Je partage [[Ma vision du Design en 2021]] - parce que je suis engagé à ma manière
 - C'est quoi ce site, c'est quoi un [[jardin numérique]] ?
@@ -71,7 +70,7 @@ je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décor
 
 ---
 
-### bac à sujets (à développer) 👇
+### d'autres notes (en cours) 👇
 - [[start with why but stop with why]]
 - [[retrouver la confiance en l’intuition]]
 - [[exploration de l'abstraction]]
