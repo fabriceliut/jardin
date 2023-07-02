@@ -5,7 +5,7 @@ permalink: /about
 image: /assets/miniavatar.jpeg
 ---
 
-![]({{page.image}})
+![[miniavatar.jpeg]]
 
 **Je suis Designer.** J’applique une pensée systémique et des principes régénératifs par bio-inspiration. 
 J’apporte une sensibilité et des méthodologies adaptées pour faciliter le développement de projets coopératifs.
@@ -21,11 +21,11 @@ N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[jardin 
 
 👇en détail ?
 
-# Je suis Designer Systémique & Facilitateur expert du Design Sprint.
+## Je suis Designer Systémique & Facilitateur expert du Design Sprint.
 
 _Explorateur du quotidien par la curiosité & activiste par l'approche Design Régénérative. J'anime régulièrement des conférences et ateliers sur Lyon, Paris et ailleurs sur invitation._
 
-## J'utilise la pensée complexe & systémique pour permettre un Design régénératif inspiré du vivant _(bio-inspiration)_. 
+### J'utilise la pensée complexe & systémique pour permettre un Design régénératif inspiré du vivant _(bio-inspiration)_. 
 
 J'accompagne les organisations et éco-systèmes projets à se transformer en résolvant **par des démarches Designs et coopératives** les problématiques complexes qui surviennent lors de leur évolution. J'apporte **une approche systémique bio-inspirée** pour appréhender la complexité et faciliter le passage à l’action et la concrétisation “dans le sens du vivant et d'un demain souhaitable”. Je suis également **expert en développement de communautés ouvertes** et en **création de business modèles complexes** (circulaire, éco-systémique, etc…)  
 
@@ -33,7 +33,7 @@ J'accompagne les organisations et éco-systèmes projets à se transformer en r�
 
 👉 [[Design circulaire sur 1 jour]]
 
-## J’apporte une sensibilité et des méthodes de [[facilitation]] adaptées pour interconnecter les humains et faciliter les coopérations. 
+### J’apporte une sensibilité et des méthodes de [[facilitation]] adaptées pour interconnecter les humains et faciliter les coopérations. 
 
 Dans un monde complexe, nous avons besoin de toute la diversité des modèles de pensée de notre humanité. C'est par cette complémentarité & notre intelligence collective que nous pourrons agir en cohérence avec nos ambitions tout en restant en accord avec les projets des autres & du reste du vivant.
 
@@ -41,7 +41,7 @@ _**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depu
 
 **La posture facilitateur** permet de mettre en synergie les différents acteurs & les éco-systèmes complémentaire directement autour de projets communs, dans un temps adapté.
 
-## Je participe à catalyser les initiatives et à créer les ressources en commun pour traiter nos problèmes de société et les transformer en opportunités d'évolutions collectives.  
+### Je participe à catalyser les initiatives et à créer les ressources en commun pour traiter nos problèmes de société et les transformer en opportunités d'évolutions collectives.  
 
 **Dans un monde complexe, tout est un grand système, tout est lié**. La connaissance et nos expériences sont à mettre en commun pour dynamiser les projets de chacun, forcément complémentaire. L'approche "Open-Source" s'applique désormais également en dehors du numérique. Nous faisons tous partie de la grande "entreprise Vie", il est nécessaire d'en prendre conscience pour ne plus ralentir notre évolution pour des raisons de concurrences d'idées ou économiques. Trouvons les points de synergies et agissons ensemble.
 
@@ -59,7 +59,7 @@ Lorsque nous aurons atteint ce nouvel "état temporaire" d'existence, nous pourr
 
 💡_"Tant qu'il y a des problèmes il y a des solutions."_
 
-## Vous voulez encourager financièrement ma démarche ? [Vous pouvez devenir membre du mouvement de Design Régénératif](https://www.buymeacoffee.com/liut "Link: https://www.buymeacoffee.com/liut") et profiter de tous les travaux, ressources & connaissances pour faire évoluer vos propres démarches.
+### Vous voulez encourager financièrement ma démarche ? [Vous pouvez devenir membre du mouvement de Design Régénératif](https://www.buymeacoffee.com/liut "Link: https://www.buymeacoffee.com/liut") et profiter de tous les travaux, ressources & connaissances pour faire évoluer vos propres démarches.
 
 Vous voulez voir [mon CV](https://standardresume.co/r/W8FdUb9_QUu4fymQ-9xdz "Link: https://standardresume.co/r/W8FdUb9_QUu4fymQ-9xdz") ?
 

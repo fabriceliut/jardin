@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,12 +136,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2800572584ed88a8",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/index.md",
+    "assets/miniavatar.jpeg",
+    "assets/banques.jpg",
+    "assets/image.jpg",
+    "assets/jazzyfrenchy.mp3",
+    "assets/businessnonusual.png",
+    "assets/troisjours.jpeg",
+    "assets/coopererregenerer.jpeg",
+    "{{page.image}}.md",
     "_notes/coopération.md",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/avoir de l’impact en tant qu’accompagnant et consultant externe.md",
-    "_pages/index.md",
     "_notes/guidebook business as non usual.md",
     "_notes/qu'est-ce qu'un designer en 2024.md",
     "_notes/l'entreprise c'est comme une série netflix.md",
@@ -160,19 +170,9 @@
     "_notes/accompagner une organisation avec une vision systémique.md",
     "_notes/devenir acteur de la transformation de son organisation.md",
     "_notes/La plus simple des interfaces numériques.md",
-    "_notes/remplacer covid par humanité.md",
-    "_notes/nécessité de la diversité dans la transmission culturelle.md",
-    "_notes/développer un esprit Chasseur cueilleur.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
-    "_layouts/note.rtf",
-    "assets/jazzyfrenchy.mp3",
-    "assets/image.jpg",
-    "assets/banques.jpg",
-    "assets/businessnonusual.png",
-    "assets/troisjours.jpeg",
-    "assets/miniavatar.jpeg",
-    "assets/coopererregenerer.jpeg"
+    "_layouts/note.rtf"
   ]
 }
