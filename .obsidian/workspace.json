@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d60ef30747397409",
+        "id": "0c9c26cd83703199",
         "type": "tabs",
         "children": [
           {
-            "id": "846bbf04eaeea528",
+            "id": "2800572584ed88a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/nécessité de la diversité dans la transmission culturelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_notes/nécessité de la diversité dans la transmission culturelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,34 +132,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "846bbf04eaeea528",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/les 3 récits majeurs qui orientent nos vies.md",
-    "_notes/relier efficacement monde de la recherche et monde du terrain.md",
-    "_notes/le féminin & le masculin.md",
-    "_notes/la pratique non déclarée du mouvement.md",
-    "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
-    "_notes/basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif.md",
-    "_notes/pratiquer la meta conversation.md",
-    "_notes/exploration de l'abstraction.md",
-    "_notes/enrichir les nouveaux projets grâce au compostage des anciens.md",
-    "_notes/profiter du chaos et des erreurs.md",
-    "_pages/index.md",
-    "_notes/spécialiste et généraliste.md",
-    "_notes/penser global mais agir local.md",
-    "_notes/remplacer l'ambition et l'engagement par le jeu.md",
-    "_notes/devenir un meilleur designer.md",
-    "_notes/débloquer un impact positif en tant que designer.md",
-    "_notes/qu'est-ce qu'un designer en 2024.md",
-    "_notes/Design fiction.md",
-    "_notes/l'entreprise c'est comme une série netflix.md",
-    "_notes/devenir une entreprise régénérative.md",
-    "_notes/coopération.md",
-    "_notes/bras droit.md",
-    "_notes/coopération 1.md",
-    "_notes/régénératif.md",
-    "_notes/design régénératif.md",
+    "_notes/créer sa propre infrastructure d'apprentissage.md",
+    "_notes/l'expérience du jeu de rôle.md",
+    "_notes/expérimenter la danse méditative.md",
+    "_notes/gagnez sa vie avec son esprit plutôt que son temps.md",
+    "_notes/présentation générale du design systémique.md",
+    "_notes/diverger & converger mais en qualité.md",
+    "_notes/la vie en tribus nomades.md",
+    "_notes/la chaîne des changements systémiques.md",
+    "_notes/accompagner une organisation avec une vision systémique.md",
+    "_notes/devenir acteur de la transformation de son organisation.md",
+    "_notes/La plus simple des interfaces numériques.md",
+    "_notes/remplacer covid par humanité.md",
+    "_notes/nécessité de la diversité dans la transmission culturelle.md",
+    "_notes/développer un esprit Chasseur cueilleur.md",
+    "_notes/la culture du feedback base de la coopération.md",
+    "_notes/être son propre commercial.md",
+    "_notes/apprendre à apprendre.md",
+    "_notes/extrait 1 du mooc regenerative design.md",
+    "_notes/créer un système de connaissance coopératif.md",
+    "_notes/design systémique.md",
+    "_notes/spirale dynamique.md",
+    "_notes/La stigmergie mieux que l’intelligence artificielle pour gérer la complexité.md",
     "_notes/Second Brain.md",
+    "_notes/Prendre soin du monde.md",
+    "_notes/Guide book apprendre à vendre.md",
+    "_notes/vendre online en 2023.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",

@@ -17,5 +17,8 @@ Grâce à cette connaissance en commun, il est possible de lire plus clairement 
 - [[du système projet aux assemblages projets]]
 - [[des assemblages à la symbiose projets]]
 
+### en compléments
+[[créer sa propre infrastructure d'apprentissage]]
+
 ---
 [[guidebook]] #tonotion

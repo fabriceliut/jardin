@@ -25,6 +25,6 @@ souvent en tant que responsable de l'entreprise vous tenez à tout régler de l'
 
 en tant qu'externe je cherche toujours à développer le plus possible l'autonomie de l'organisation suite à mes accompagnements... cela dit mon rôle aura été crucial pour les aider à passer un cap - comme leur rôle est nécessaire pour continuer le travail que nous avons commencé ensemble.
 
-les entreprises ont besoin de [[coopération]] avec des externes et le besoin est partagé dans l'autre sens. c'est cette complémentarité qui peut équilibrer un fonctionnement de société qui est encore trop bancal et individualiste à toutes les échelles.
+les entreprises ont besoin de [[_notes/coopération]] avec des externes et le besoin est partagé dans l'autre sens. c'est cette complémentarité qui peut équilibrer un fonctionnement de société qui est encore trop bancal et individualiste à toutes les échelles.
 
 #Afairepousser 

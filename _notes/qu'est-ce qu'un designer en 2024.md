@@ -10,7 +10,7 @@ Il fait émerger les questions clés à se poser pour répondre aux besoins des 
 
 Il participe à l’élaboration de systèmes permettant de répondre à ces besoins - il est de plus en plus à l'origine d'approches qu'on dit en [[design systémique]].
 
-Cette mission est complexe et exige de l’approcher en totale [[coopération]] avec les disciplines complémentaires (sciences, économie, écologie, technologie etc...)
+Cette mission est complexe et exige de l’approcher en totale [[_notes/coopération]] avec les disciplines complémentaires (sciences, économie, écologie, technologie etc...)
 
 Le designer prend alors également la posture de facilitateur et fournit les outils et méthodes nécessaire aux coopérations.
 
