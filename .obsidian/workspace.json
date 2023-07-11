@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,10 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_pages/about.md",
+    "_notes/guidebook de l'approche territoriale NEOZ.md",
+    "_notes/une société sous le lead de l'énergie du féminin.md",
     "_pages/index.md",
+    "_pages/about.md",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
     "assets/image.jpg",
@@ -149,7 +151,6 @@
     "assets/coopererregenerer.jpeg",
     "{{page.image}}.md",
     "_notes/coopération.md",
-    "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/avoir de l’impact en tant qu’accompagnant et consultant externe.md",
     "_notes/guidebook business as non usual.md",
     "_notes/qu'est-ce qu'un designer en 2024.md",
