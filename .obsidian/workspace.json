@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chatGPT et les vinyls.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chatGPT et les vinyls.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chatGPT et les vinyls.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,10 +149,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9515f1cef49a7ca3",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/chatGPT et les vinyls.md",
     "_notes/une société sous le lead de l'énergie du féminin.md",
-    "chatGPT et les vinyls.md",
     "_pages/index.md",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_pages/about.md",
