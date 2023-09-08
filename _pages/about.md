@@ -2,13 +2,16 @@
 layout: page
 title: About
 permalink: /about
-image: /assets/miniavatar.jpeg
+image: /assets/avatar_24
 ---
 
-![[miniavatar.jpeg]]
+![[avatar_24.jpg]]
 
-**Je suis Designer.** J’applique une pensée systémique et des principes régénératifs par bio-inspiration. 
-J’apporte une sensibilité et des méthodologies adaptées pour faciliter le développement de projets coopératifs.
+**Je suis Designer & j'accompagne principalement des dirigeants et CODIR.** 
+
+J’applique une pensée systémique et des principes régénératifs par bio-inspiration. 
+J’apporte une sensibilité et des méthodologies adaptées pour faciliter le développement de projets coopératifs complexes.
+
 Je participe à catalyser ces initiatives et à structurer les ressources en commun pour traiter nos problèmes de société et les transformer en opportunités d'évolution collective.
 
 > 💡 _"La vie ce n'est pas les molécules mais les liens entre les molécules."_
@@ -19,7 +22,7 @@ N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[jardin 
 
 ---
 
-👇en détail ?
+👇 en détail ?
 
 ## Je suis Designer Systémique & Facilitateur expert du Design Sprint.
 

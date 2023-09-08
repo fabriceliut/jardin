@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
+                "file": "_pages/about.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,11 +151,20 @@
   },
   "active": "9515f1cef49a7ca3",
   "lastOpenFiles": [
-    "_pages/index.md",
+    "_notes/Design circulaire sur 1 jour.md",
+    "_pages/about.md",
+    "_notes/Design systémique sur 3 jours.md",
+    "assets/avatar_24.jpg",
+    "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/chatGPT et les vinyls.md",
     "_notes/une société sous le lead de l'énergie du féminin.md",
-    "_notes/guidebook de l'approche territoriale NEOZ.md",
-    "_pages/about.md",
+    "_notes/La fin du bullshit.md",
+    "_notes/faisons partie de nous.md",
+    "_notes/devenir une entreprise régénérative.md",
+    "_notes/l'entreprise c'est comme une série netflix.md",
+    "_notes/qu'est-ce qu'un designer en 2024.md",
+    "_notes/guidebook business as non usual.md",
+    "_pages/index.md",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
     "assets/image.jpg",
@@ -166,13 +175,7 @@
     "{{page.image}}.md",
     "_notes/coopération.md",
     "_notes/avoir de l’impact en tant qu’accompagnant et consultant externe.md",
-    "_notes/guidebook business as non usual.md",
-    "_notes/qu'est-ce qu'un designer en 2024.md",
-    "_notes/l'entreprise c'est comme une série netflix.md",
-    "_notes/devenir une entreprise régénérative.md",
-    "_notes/faisons partie de nous.md",
     "_notes/Ma vision du Design en 2021.md",
-    "_notes/La fin du bullshit.md",
     "_notes/basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif.md",
     "_notes/expérimenter la danse méditative.md",
     "_notes/l'expérience du jeu de rôle.md",
@@ -182,8 +185,6 @@
     "_notes/diverger & converger mais en qualité.md",
     "_notes/la vie en tribus nomades.md",
     "_notes/la chaîne des changements systémiques.md",
-    "_notes/accompagner une organisation avec une vision systémique.md",
-    "_notes/devenir acteur de la transformation de son organisation.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
