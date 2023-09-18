@@ -5,7 +5,7 @@ permalink: /about
 image: /assets/avatar_24
 ---
 
-![[avatar_24.jpg]]
+![]({{page.image}})
 
 **Je suis Designer & j'accompagne principalement des dirigeants et CODIR.** 
 

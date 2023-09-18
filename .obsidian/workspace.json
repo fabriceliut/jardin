@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/Business as non usual, le guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "about",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,8 +152,12 @@
   },
   "active": "9515f1cef49a7ca3",
   "lastOpenFiles": [
-    "_notes/Design circulaire sur 1 jour.md",
+    "_notes/Business as non usual, le guide.md",
+    "_pages/index.md",
     "_pages/about.md",
+    "_notes/guidebook business as non usual.md",
+    "{{page.image}}.md",
+    "_notes/Design circulaire sur 1 jour.md",
     "_notes/Design systémique sur 3 jours.md",
     "assets/avatar_24.jpg",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
@@ -163,8 +168,6 @@
     "_notes/devenir une entreprise régénérative.md",
     "_notes/l'entreprise c'est comme une série netflix.md",
     "_notes/qu'est-ce qu'un designer en 2024.md",
-    "_notes/guidebook business as non usual.md",
-    "_pages/index.md",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
     "assets/image.jpg",
@@ -172,7 +175,6 @@
     "assets/businessnonusual.png",
     "assets/troisjours.jpeg",
     "assets/coopererregenerer.jpeg",
-    "{{page.image}}.md",
     "_notes/coopération.md",
     "_notes/avoir de l’impact en tant qu’accompagnant et consultant externe.md",
     "_notes/Ma vision du Design en 2021.md",
@@ -184,7 +186,6 @@
     "_notes/présentation générale du design systémique.md",
     "_notes/diverger & converger mais en qualité.md",
     "_notes/la vie en tribus nomades.md",
-    "_notes/la chaîne des changements systémiques.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
