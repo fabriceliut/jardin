@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Business as non usual, le guide.md",
-                "mode": "source",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "9515f1cef49a7ca3",
+            "id": "c4504d34a7b39cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
-                "mode": "preview",
+                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -61,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "about",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -127,13 +126,34 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "fe69ee80709b6df2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "6987d74016a314bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,19 +170,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9515f1cef49a7ca3",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/une société sous le lead de l'énergie du féminin.md",
+    "_notes/rédiger une vision d'entreprise claire et partagée.md",
+    "_notes/chatGPT et les vinyls.md",
     "_notes/Business as non usual, le guide.md",
-    "_pages/index.md",
-    "_pages/about.md",
-    "_notes/guidebook business as non usual.md",
     "{{page.image}}.md",
+    "_pages/about.md",
+    "_pages/index.md",
+    "_notes/guidebook business as non usual.md",
     "_notes/Design circulaire sur 1 jour.md",
     "_notes/Design systémique sur 3 jours.md",
     "assets/avatar_24.jpg",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
-    "_notes/chatGPT et les vinyls.md",
-    "_notes/une société sous le lead de l'énergie du féminin.md",
     "_notes/La fin du bullshit.md",
     "_notes/faisons partie de nous.md",
     "_notes/devenir une entreprise régénérative.md",
@@ -185,7 +206,6 @@
     "_notes/gagnez sa vie avec son esprit plutôt que son temps.md",
     "_notes/présentation générale du design systémique.md",
     "_notes/diverger & converger mais en qualité.md",
-    "_notes/la vie en tribus nomades.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
