@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c4504d34a7b39cfa",
+            "id": "ddfe8b4a267193dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md",
+                "file": "_notes/les niveaux de gestion des communications.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md",
+                "file": "_notes/les niveaux de gestion des communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md",
+                "file": "_notes/les niveaux de gestion des communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/rédiger une vision d'entreprise claire et partagée.md"
+                "file": "_notes/les niveaux de gestion des communications.md"
               }
             }
           }
@@ -173,6 +173,17 @@
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
     "_notes/une société sous le lead de l'énergie du féminin.md",
+    "_notes/les niveaux de gestion des communications.md",
+    "_notes/libérer le potentiel humain.md",
+    "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
+    "_notes/alterner entre pensée systémique et linéaire.md",
+    "assets/Alterner entre pensée systémique et linéaire..png",
+    "_notes/plan d'action d'entreprise et rôles responsables.md",
+    "_notes/Gouvernance adaptable.md",
+    "management de la connaissance.md",
+    "_notes/Archipel Kyosei.md",
+    "_notes/Les services de Archipel Kyosei.md",
+    "_notes/stratégies d'entreprise.md",
     "_notes/rédiger une vision d'entreprise claire et partagée.md",
     "_notes/chatGPT et les vinyls.md",
     "_notes/Business as non usual, le guide.md",
@@ -196,16 +207,6 @@
     "assets/businessnonusual.png",
     "assets/troisjours.jpeg",
     "assets/coopererregenerer.jpeg",
-    "_notes/coopération.md",
-    "_notes/avoir de l’impact en tant qu’accompagnant et consultant externe.md",
-    "_notes/Ma vision du Design en 2021.md",
-    "_notes/basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif.md",
-    "_notes/expérimenter la danse méditative.md",
-    "_notes/l'expérience du jeu de rôle.md",
-    "_notes/créer sa propre infrastructure d'apprentissage.md",
-    "_notes/gagnez sa vie avec son esprit plutôt que son temps.md",
-    "_notes/présentation générale du design systémique.md",
-    "_notes/diverger & converger mais en qualité.md",
     "_layouts/note.html",
     "_layouts/note.html.rtf",
     "_layouts/note.htlm.rtf",
