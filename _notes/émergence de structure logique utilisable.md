@@ -1,5 +1,5 @@
 ---
-title: emergence de structure logique utilisable
+title: émergence de structure logique utilisable
 ---
 
 >La connaissance n’est pas suffisante, elle doit être connectée et « testée » pour devenir du savoir actionnable.

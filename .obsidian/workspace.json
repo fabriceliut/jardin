@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9c26cd83703199",
+        "id": "9f53e577d21868a9",
         "type": "tabs",
         "children": [
           {
-            "id": "2800572584ed88a8",
+            "id": "398d405edb2275c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "ddfe8b4a267193dc",
+            "id": "8e3d3304e9e1bde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/les niveaux de gestion des communications.md",
+                "file": "_notes/du flux d’information au flow créatif.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/les niveaux de gestion des communications.md",
+                "file": "_notes/du flux d’information au flow créatif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -126,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/les niveaux de gestion des communications.md",
+                "file": "_notes/du flux d’information au flow créatif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/les niveaux de gestion des communications.md"
+                "file": "_notes/du flux d’information au flow créatif.md"
               }
             }
           }
@@ -172,6 +168,12 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/émergence de structure logique utilisable.md",
+    "_notes/du flux d’information au flow créatif.md",
+    "_notes/utiliser la même note atomique dans plusieurs contextes différents.md",
+    "_notes/des notes au livre, comme en musique.md",
+    "_notes/les notes atomiques de sources.md",
+    "_notes/écriture atomique.md",
     "_notes/une société sous le lead de l'énergie du féminin.md",
     "_notes/les niveaux de gestion des communications.md",
     "_notes/libérer le potentiel humain.md",
@@ -194,12 +196,6 @@
     "_notes/Design circulaire sur 1 jour.md",
     "_notes/Design systémique sur 3 jours.md",
     "assets/avatar_24.jpg",
-    "_notes/guidebook de l'approche territoriale NEOZ.md",
-    "_notes/La fin du bullshit.md",
-    "_notes/faisons partie de nous.md",
-    "_notes/devenir une entreprise régénérative.md",
-    "_notes/l'entreprise c'est comme une série netflix.md",
-    "_notes/qu'est-ce qu'un designer en 2024.md",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
     "assets/image.jpg",

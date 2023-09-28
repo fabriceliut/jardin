@@ -46,7 +46,7 @@ Ressources reliées à des thèmes
 - [[Notion]] pour la mise en narration et en forme page web
 - *mettre en forme ensuite en article, livre, audio, vidéo, expérience dans le réel, etc...*
 
-Après cette étape, on commence à voir se dessiner une [[emergence de structure logique utilisable]]
+Après cette étape, on commence à voir se dessiner une [[émergence de structure logique utilisable]]
 
 ---
 #Afairepousser 

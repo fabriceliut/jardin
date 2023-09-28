@@ -13,7 +13,7 @@ Grâce à cette connaissance en commun, il est possible de lire plus clairement 
 # Etapes de création du système
 - [[tout commence par la veille]]
 - [[structurer un système information]]
-- [[emergence de structure logique utilisable]]
+- [[émergence de structure logique utilisable]]
 - [[du système projet aux assemblages projets]]
 - [[des assemblages à la symbiose projets]]
 
