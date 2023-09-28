@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "8e3d3304e9e1bde0",
+            "id": "b548bf107c781eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/du flux d’information au flow créatif.md",
-                "mode": "source",
+                "file": "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/du flux d’information au flow créatif.md",
+                "file": "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/du flux d’information au flow créatif.md",
+                "file": "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/du flux d’information au flow créatif.md"
+                "file": "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md"
               }
             }
           }
@@ -168,6 +168,10 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md",
+    "_notes/le marketing de demain et d’aujourd’hui c’est la communauté.md",
+    "_notes/et si demain vous choisissiez de vous replacer par des produits autonomes?.md",
+    "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "_notes/émergence de structure logique utilisable.md",
     "_notes/du flux d’information au flow créatif.md",
     "_notes/utiliser la même note atomique dans plusieurs contextes différents.md",
@@ -192,9 +196,6 @@
     "{{page.image}}.md",
     "_pages/about.md",
     "_pages/index.md",
-    "_notes/guidebook business as non usual.md",
-    "_notes/Design circulaire sur 1 jour.md",
-    "_notes/Design systémique sur 3 jours.md",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
