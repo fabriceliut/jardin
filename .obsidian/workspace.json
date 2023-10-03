@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "398d405edb2275c8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b548bf107c781eb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bbfc973d544e0a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/c’est quoi notre vrai mission sur terre?.md",
-                "mode": "preview",
+                "file": "_pages/about.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/c’est quoi notre vrai mission sur terre?.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -134,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/c’est quoi notre vrai mission sur terre?.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/c’est quoi notre vrai mission sur terre?.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -178,8 +157,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "bbfc973d544e0a04",
   "lastOpenFiles": [
+    "{{page.image}}.md",
+    "_pages/about.md",
     "_notes/c’est quoi notre vrai mission sur terre?.md",
     "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md",
     "_notes/le marketing de demain et d’aujourd’hui c’est la communauté.md",
@@ -206,8 +187,6 @@
     "_notes/rédiger une vision d'entreprise claire et partagée.md",
     "_notes/chatGPT et les vinyls.md",
     "_notes/Business as non usual, le guide.md",
-    "{{page.image}}.md",
-    "_pages/about.md",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
