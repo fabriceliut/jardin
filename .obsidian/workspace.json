@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e4923fbe72dc62f6",
+            "id": "ffcb9ce5e7ce1296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/message aux leaders de la transition écologique sociétale en cours.md",
+                "file": "_notes/l'impuissance comme source de puissance collective.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/message aux leaders de la transition écologique sociétale en cours.md",
+                "file": "_notes/l'impuissance comme source de puissance collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/message aux leaders de la transition écologique sociétale en cours.md",
+                "file": "_notes/l'impuissance comme source de puissance collective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/message aux leaders de la transition écologique sociétale en cours.md"
+                "file": "_notes/l'impuissance comme source de puissance collective.md"
               }
             }
           }
@@ -172,9 +172,10 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_notes/l'impuissance comme source de puissance collective.md",
     "_notes/manifeste d'un champignon.md",
     "_notes/message aux leaders de la transition écologique sociétale en cours.md",
-    "_pages/about.md",
     "{{page.image}}.md",
     "_notes/c’est quoi notre vrai mission sur terre?.md",
     "_notes/lettre ouverte aux CEO engagés dans la transition sociétale.md",
@@ -199,7 +200,6 @@
     "_notes/Archipel Kyosei.md",
     "_notes/Les services de Archipel Kyosei.md",
     "_notes/stratégies d'entreprise.md",
-    "_notes/rédiger une vision d'entreprise claire et partagée.md",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
