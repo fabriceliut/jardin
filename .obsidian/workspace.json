@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffcb9ce5e7ce1296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
+                "file": "simplexité.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
+                "file": "simplexité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
+                "file": "simplexité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/une société sous le lead de l'énergie du féminin.md"
+                "file": "simplexité.md"
               }
             }
           }
@@ -171,11 +158,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ffcb9ce5e7ce1296",
+  "active": "bbfc973d544e0a04",
   "lastOpenFiles": [
-    "_notes/le féminin & le masculin.md",
-    "_notes/une société sous le lead de l'énergie du féminin.md",
+    "_notes/complexité.md",
+    "simplexité.md",
+    "_notes/logique.md",
     "_pages/about.md",
+    "_notes/une société sous le lead de l'énergie du féminin.md",
+    "_notes/le féminin & le masculin.md",
     "_notes/l'impuissance comme source de puissance collective.md",
     "_notes/manifeste d'un champignon.md",
     "_notes/message aux leaders de la transition écologique sociétale en cours.md",
@@ -198,9 +188,6 @@
     "assets/Alterner entre pensée systémique et linéaire..png",
     "_notes/plan d'action d'entreprise et rôles responsables.md",
     "_notes/Gouvernance adaptable.md",
-    "management de la connaissance.md",
-    "_notes/Archipel Kyosei.md",
-    "_notes/Les services de Archipel Kyosei.md",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
