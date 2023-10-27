@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_notes/simplexité.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -157,10 +157,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "bbfc973d544e0a04",
   "lastOpenFiles": [
-    "_notes/complexité.md",
+    "_notes/spirale dynamique.md",
     "_notes/simplexité.md",
+    "_notes/complexité.md",
     "_notes/logique.md",
     "_pages/about.md",
     "_notes/une société sous le lead de l'énergie du féminin.md",
@@ -186,7 +187,6 @@
     "_notes/alterner entre pensée systémique et linéaire.md",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "_notes/plan d'action d'entreprise et rôles responsables.md",
-    "_notes/Gouvernance adaptable.md",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",

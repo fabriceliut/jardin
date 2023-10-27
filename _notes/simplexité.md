@@ -41,3 +41,11 @@ En adoptant une approche de simplexité, nous pouvons créer un système plus ef
 - en partant d'un état donné de conscience, il y a une montée en complexité et donc une densification de conscience
 - quand la complexité devient trop dense, il y a mouvement de descente vers la simplicité et donc épuration, nettoyage pour ne garder que l'essentiel, sans dénaturer
 - et ainsi de suite les cycles repartent, c'est comme une montée en [[spirale dynamique]]
+
+---
+### note perso
+je pense que pour faciliter la redescente vers la simplicité il faut se laisser porter par l'énergie du féminin YIN > [[le féminin & le masculin]]
+- le masculin rationalise et fait monter en complexité mais devient dégénératif
+- le féminin reconnecte à l'intuition et donc va faire redescendre et en même temps intégrer la complexité pour une simplicité juste
+
+c'est pour moi d'un processus évolutif naturel dont on parle ici.
