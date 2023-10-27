@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/l'impuissance comme source de puissance collective.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "mode": "preview",
                 "source": false
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/l'impuissance comme source de puissance collective.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/l'impuissance comme source de puissance collective.md",
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/l'impuissance comme source de puissance collective.md"
+                "file": "_notes/une société sous le lead de l'énergie du féminin.md"
               }
             }
           }
@@ -170,8 +171,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "ffcb9ce5e7ce1296",
   "lastOpenFiles": [
+    "_notes/le féminin & le masculin.md",
+    "_notes/une société sous le lead de l'énergie du féminin.md",
     "_pages/about.md",
     "_notes/l'impuissance comme source de puissance collective.md",
     "_notes/manifeste d'un champignon.md",
@@ -188,7 +191,6 @@
     "_notes/des notes au livre, comme en musique.md",
     "_notes/les notes atomiques de sources.md",
     "_notes/écriture atomique.md",
-    "_notes/une société sous le lead de l'énergie du féminin.md",
     "_notes/les niveaux de gestion des communications.md",
     "_notes/libérer le potentiel humain.md",
     "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
@@ -199,7 +201,6 @@
     "management de la connaissance.md",
     "_notes/Archipel Kyosei.md",
     "_notes/Les services de Archipel Kyosei.md",
-    "_notes/stratégies d'entreprise.md",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
