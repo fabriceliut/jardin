@@ -4,7 +4,7 @@ tags:
   - Afairepousser
 ---
 
-concept important : la simplexité. Il s'agit d'un mouvement de conscience qui consiste à passer de la complexité à la simplicité. 
+### concept important : la simplexité. Il s'agit d'un mouvement de conscience qui consiste à passer de la complexité à la simplicité. 
 
 En d'autres termes, il est nécessaire de comprendre la [[complexité]] pour pouvoir agir de manière simple et efficace. Cela peut sembler évident, mais il est important de ne pas tomber dans la simplification excessive qui pourrait nous faire passer à côté de l'essentiel. 
 **En éliminant le superflu, nous pouvons créer un système plus fonctionnel et plus engageant, tout en utilisant moins de ressources.**
@@ -36,10 +36,8 @@ En adoptant une approche de simplexité, nous pouvons créer un système plus ef
      ​4. Loi 3 : Temps - comment gagner du temps en simplifiant.
      ​5. Loi 4 : Apprendre - comment tirer parti de la simplicité pour faciliter l'apprentissage et la compréhension.
 
- 
- 
- ### les cycles complexité -> simplicité -> complexité
- - c'est vivant, comme une pulsation
+### les cycles complexité -> simplicité -> complexité
+- c'est vivant, comme une pulsation
 - en partant d'un état donné de conscience, il y a une montée en complexité et donc une densification de conscience
 - quand la complexité devient trop dense, il y a mouvement de descente vers la simplicité et donc épuration, nettoyage pour ne garder que l'essentiel, sans dénaturer
 - et ainsi de suite les cycles repartent, c'est comme une montée en [[spirale dynamique]]
