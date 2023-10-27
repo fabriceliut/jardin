@@ -3,6 +3,7 @@ title: simplexité
 tags:
   - Afairepousser
 ---
+
 concept important : la simplexité. Il s'agit d'un mouvement de conscience qui consiste à passer de la complexité à la simplicité. 
 
 En d'autres termes, il est nécessaire de comprendre la [[complexité]] pour pouvoir agir de manière simple et efficace. Cela peut sembler évident, mais il est important de ne pas tomber dans la simplification excessive qui pourrait nous faire passer à côté de l'essentiel. 
