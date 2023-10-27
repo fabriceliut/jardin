@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "simplexité.md",
+                "file": "_notes/simplexité.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "simplexité.md",
+                "file": "_notes/simplexité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "simplexité.md",
+                "file": "_notes/simplexité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "simplexité.md"
+                "file": "_notes/simplexité.md"
               }
             }
           }
@@ -158,10 +157,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bbfc973d544e0a04",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
     "_notes/complexité.md",
-    "simplexité.md",
+    "_notes/simplexité.md",
     "_notes/logique.md",
     "_pages/about.md",
     "_notes/une société sous le lead de l'énergie du féminin.md",
