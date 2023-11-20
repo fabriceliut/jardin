@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9f53e577d21868a9",
+        "id": "fa786e00006059fd",
         "type": "tabs",
         "children": [
           {
-            "id": "bbfc973d544e0a04",
+            "id": "f1251992377f974a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/simplexité.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7c91c34b9f387366",
+            "id": "8e1b47fce5979ad3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/le combo entreprise et accompagnants externes est gagnant.md",
+                "file": "_notes/régénérer c'est faire passer la nature avant tout.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/le combo entreprise et accompagnants externes est gagnant.md",
+                "file": "_notes/régénérer c'est faire passer la nature avant tout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -126,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/le combo entreprise et accompagnants externes est gagnant.md",
+                "file": "_notes/régénérer c'est faire passer la nature avant tout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/le combo entreprise et accompagnants externes est gagnant.md"
+                "file": "_notes/régénérer c'est faire passer la nature avant tout.md"
               }
             }
           }
@@ -172,6 +168,7 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/régénérer c'est faire passer la nature avant tout.md",
     "_notes/simplexité.md",
     "_notes/le combo entreprise et accompagnants externes est gagnant.md",
     "_notes/spirale dynamique.md",
@@ -198,7 +195,6 @@
     "_notes/les niveaux de gestion des communications.md",
     "_notes/libérer le potentiel humain.md",
     "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
-    "_notes/alterner entre pensée systémique et linéaire.md",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
