@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa786e00006059fd",
+        "id": "440b49b4664fb083",
         "type": "tabs",
         "children": [
           {
-            "id": "f1251992377f974a",
+            "id": "5304e7c0fc345173",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "8e1b47fce5979ad3",
+            "id": "30e133332fce46fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/régénérer c'est faire passer la nature avant tout.md",
-                "mode": "source",
+                "file": "_notes/Redonner un Sens et une Dynamique aux Organisations.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/régénérer c'est faire passer la nature avant tout.md",
+                "file": "_notes/Redonner un Sens et une Dynamique aux Organisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/régénérer c'est faire passer la nature avant tout.md",
+                "file": "_notes/Redonner un Sens et une Dynamique aux Organisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/régénérer c'est faire passer la nature avant tout.md"
+                "file": "_notes/Redonner un Sens et une Dynamique aux Organisations.md"
               }
             }
           }
@@ -168,6 +168,8 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/Redonner un Sens et une Dynamique aux Organisations.md",
+    "_notes/Libérer les organisations humaines, penser au-delà des limites des boîtes.md",
     "_notes/régénérer c'est faire passer la nature avant tout.md",
     "_notes/simplexité.md",
     "_notes/le combo entreprise et accompagnants externes est gagnant.md",
@@ -193,8 +195,6 @@
     "_notes/les notes atomiques de sources.md",
     "_notes/écriture atomique.md",
     "_notes/les niveaux de gestion des communications.md",
-    "_notes/libérer le potentiel humain.md",
-    "_notes/pensée linéaire, pensée design et pensée systémique pour se compléter.md",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",

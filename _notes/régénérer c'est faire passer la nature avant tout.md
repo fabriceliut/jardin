@@ -18,4 +18,4 @@ Dans l’absolue c’est nécessaire à notre survie en tant qu’humanité.
 Quel que soit la mission de nos entreprises il y a **une mission supérieure qui la conditionne** et révise nos priorités.  
 Ça peut changer beaucoup de chose mais ça porte aussi beaucoup de sens.  
   
-À bien y réfléchir vous verrez, c’est gagnant gagnant gagnant et ça peut commencer dès demain.
+À bien y réfléchir vous verrez, c’est gagnant gagnant gagnant et agir [[régénératif]] peut commencer dès demain.
