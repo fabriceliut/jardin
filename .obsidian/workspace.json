@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46fdcd7522999d9a",
+        "id": "cfdcb0f5d38650fc",
         "type": "tabs",
         "children": [
           {
-            "id": "6f7e1f95b0f953a4",
+            "id": "8340b024f874e42d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/mon intention du moment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intention",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,8 +153,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6f7e1f95b0f953a4",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_layouts/note.html.sb-4449fd15-3VhQ17",
     "_pages/about.md",
     "_pages/index.md",
     "_notes/move your body every day.md",
@@ -190,7 +186,6 @@
     "_notes/Redonner un Sens et une Dynamique aux Organisations.md",
     "_notes/Libérer les organisations humaines, penser au-delà des limites des boîtes.md",
     "_notes/régénérer c'est faire passer la nature avant tout.md",
-    "_notes/simplexité.md",
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/avatar_24.jpg",
