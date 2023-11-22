@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about
-image: /assets/avatar_24
+image: .../assets/avatar_24
 ---
 ![]({{page.image}})
 
