@@ -2,9 +2,9 @@
 layout: page
 title: About
 permalink: /about
-image: assets/avatar_24
+image: /assets/avatar_24
 ---
-![[assets/avatar_24.jpg]]
+![]({{page.image}})
 
 **Je suis Designer & j'accompagne principalement des dirigeants et CODIR.** 
 
