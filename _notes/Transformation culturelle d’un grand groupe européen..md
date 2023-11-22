@@ -14,7 +14,7 @@ Richard vient au Comptoir suite à une demande prioritaire de son groupe : il fa
 
 ### **Le diagnostic au Comptoir.**
 
-Nos 3 premiers experts se lancent dans un jeu de question/réponses, la [[Dialectique]] s’installe en toute décontraction. L’objectif de ces rebonds d’esprit à esprit est de faire émerger les difficultés causes du projet.
+Nos 3 premiers experts se lancent dans un jeu de question/réponses, la [[dialectique]] s’installe en toute décontraction. L’objectif de ces rebonds d’esprit à esprit est de faire émerger les difficultés causes du projet.
 
 Pour commencer, Richard nous donnes les axes les plus important : devenir une entreprise plateforme, démarche phygitale, éco-système global de 100 000 leaders, etc…
 

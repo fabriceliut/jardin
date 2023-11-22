@@ -28,7 +28,7 @@ Penser « intégral » est une métamorphose personnelle à entrainer par dive
 
 [[Philosophie Pratique]] - *Anthropocène, éthique, évolution [[linguistique]], Être & conscience…*+10 modules
 
-**Sciences & [[logique]] -** *[[Dialectique]], logique mathématique, biologie, chimie, physique…*+10 modules
+**Sciences & [[logique]] -** *[[dialectique]], logique mathématique, biologie, chimie, physique…*+10 modules
 
 ---
 

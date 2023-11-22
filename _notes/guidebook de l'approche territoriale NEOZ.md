@@ -272,7 +272,7 @@ En effet, ils font partie intégrante du territoire et donc, il vont vous propos
 ## Quelle posture adopter ?
 
 ### Écoute
-Exactement à la manière d'un psychologue, d'un thérapeute, d'un coach... Tout commence  par l'écoute et poser des questions : principe de [[Dialectique]].
+Exactement à la manière d'un psychologue, d'un thérapeute, d'un coach... Tout commence  par l'écoute et poser des questions : principe de [[dialectique]].
 
 Exemple pour guider la conversation :
 
