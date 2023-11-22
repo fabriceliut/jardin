@@ -11,8 +11,12 @@
             "id": "ef72e18ebd70a95b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_pages/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/petite pensée sur la semaine de 4 jours.md",
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/petite pensée sur la semaine de 4 jours.md",
+                "file": "_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/petite pensée sur la semaine de 4 jours.md"
+                "file": "_pages/index.md"
               }
             }
           }
@@ -153,12 +157,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "ef72e18ebd70a95b",
   "lastOpenFiles": [
-    "Untitled.md",
     "_notes/petite pensée sur la semaine de 4 jours.md",
-    "_notes/investir dans les questions.md",
     "_notes/dialectique.md",
+    "_notes/institut de la pensée intégrale.md",
+    "_notes/investir dans les questions.md",
+    "Untitled.md",
     "_notes/le leader régénératif fait circuler.md",
     "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
     "_notes/construire les cathédrales aujourd'hui, c'est régénérer.md",
@@ -185,7 +190,6 @@
     "_notes/régénérer c'est faire passer la nature avant tout.md",
     "_notes/simplexité.md",
     "_notes/le combo entreprise et accompagnants externes est gagnant.md",
-    "_notes/spirale dynamique.md",
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/avatar_24.jpg",

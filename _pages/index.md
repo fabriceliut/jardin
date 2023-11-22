@@ -14,7 +14,7 @@ permalink: /
   Il y a bien plus à découvrir encore, laissez vous porter par votre curiosité...
 </p>
 
-<strong>Recently updated notes</strong>
+<strong>Dernières notes à jour</strong>
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes | limit: 10 %}
