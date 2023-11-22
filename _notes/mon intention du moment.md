@@ -5,6 +5,8 @@ title: mon intention du moment
 mon intention c’est **participer à régénérer notre société et le reste du vivant** qu'on a déjà trop déterioré. et pour régénérer il faut le faire ensemble, pour adresser la complexité des enjeux à toutes les échelles, et donc coopérer. 
 je fais mon possible pour apporter de la beauté à mon échelle et dans chaque approche que je propose.
 
+> Mon truc à moi c’est comment les humains s’organisent entre eux et comment régénérer les organisations qui dégénèrent et surtout en finalité comment structurer et dynamiser des organisations régénératives_
+
 
 **c'est donc travailler à améliorer, fluidifier organiser ou même produire de la coopération** aux niveaux d'une équipe, d'une organisation ou même d'un territoire, par les axes suivants:
 
@@ -23,22 +25,25 @@ je fais mon possible pour apporter de la beauté à mon échelle et dans chaque 
 -   processus coopératif pour questionner, imaginer, décider, produire, tester, réorienter - by design - [[Design thinking]]
 -   outils et méthodes numériques de coopération - en partie ce qui rentre dans [[Second Brain]]
 
-**et avec qui je travaille en priorité?**
+### avec qui je travaille en priorité?
 
-- prendre soin de mes proches et puis par cercles de mon monde local - *pour adresser les besoins court terme*
-- prendre soin du monde et donc je peux travailler avec les décideurs et leaders qui sont alignés avec mon intention et le monde que j'ai envie de co-créer avec eux (partenaires, entreprises régénératives) - *pour adresser les besoins moyen et long terme*
+Je participe à prendre soin du monde et donc je peux travailler avec les décideurs et leaders qui sont alignés avec mon intention et le monde que j'ai envie de co-créer avec eux (partenaires, entreprises régénératives) - *pour adresser les besoins moyen et long terme*
 	- qui sont curieux, ouverts à questionner et à travailler en profondeur les évolutions de leur système (systems oriented thinking)
 	-  qui sont conscients qu'il faut changer des choses, qui ne savent pas encore comment faire et qui vont chercher de l'aide (étape de diagnostique)
 	-  qui ont accès à un flux économique suffisant pour rémunérer le travail à produire ensemble
 
-**comment j'interviens?**
+*j'accompagne principalement les dirigeants d’entreprise à faire évoluer leurs organisations vers le régénératif car je crois que c'est seulement si la direction générale est directement concernée que les choses peuvent bouger efficacement.*
 
-je suis un designer (global) - qui se positionne comme un médecin généraliste ou un naturopathe.
+je vais aussi prendre soin de mes proches et puis par cercles de mon monde local - *pour adresser les besoins court terme et autour de moi*
+
+### comment j'interviens?
+
+je suis un designer (global) - qui se positionne comme un médecin généraliste ou un naturopathe des organisations.
 
 **ma zone de génie est sur le moment du diagnostique:**
 - écouter - comprendre la situation, la problématique, le système *(posture facilitante)*
 -   aider à visualiser cette situation, le contexte, le système *(systems thinking and mapping)*
--   poser les questions pour cheminer vers des noeuds, des zones de verrous *(dialectique)*
+-   poser les questions pour cheminer vers des noeuds, des zones de verrous *([[dialectique]])*
 -   aider à synthétiser ces apprentissages et à prioriser des prochaines actions concrètes à déclencher pour faire évoluer les choses *(prototyper, co-construction)*
 -   apporter des spécialistes et autres expertises si nécessaire *(réseau, archipel)*
 -   apporter des ressources de connaissance *(management de la connaissance)*
@@ -49,11 +54,11 @@ aussi en créant des objets numériques autonomes qui permettent déjà d'adress
 
 et en proposant les personnes adaptées au moment et au besoin quand ce n'est pas moi grâce à tout un écosystème d'accompagnants avec qui je suis en coopération constante > [[Archipel Kyosei]]
 
-**combien est-ce que ça coûte?**
+### combien est-ce que ça coûte?
 
 - pour les objets numériques que je crée, c'est de 0€ à 200€, en achat direct
 - pour les accompagnements il y a plusieurs formats:
-	- freemium pour la première intervention possible suivant le projet - commencer par un échange et premier diagnostique gratuit permet à chacun de savoir s'il est à sa place et si c'est adapté de coopérer ensemble
+	- Taux jour très réduit (30 à 50%) pour la première intervention possible suivant le projet - commencer par un échange et premier diagnostique gratuit permet à chacun de savoir s'il est à sa place et si c'est adapté de coopérer ensemble
 	- ensuite le taux jour va dépendre du projet: suivant son échelle, son impact, les délais, les engagements et responsabilités > ça peut donc aller de 500 à 2000€ jours.
 - possible aussi suivant les projets de définir un format en abonnement à mes services et accompagnements - l'abonné peut accéder à:
 	- du coaching régulier
@@ -63,5 +68,17 @@ et en proposant les personnes adaptées au moment et au besoin quand ce n'est pa
 - possible aussi d'avoir **un fonctionnement d'investissement**: si je crois beaucoup au projet, qu'il porte la même intention que la mienne, je peux investir mon temps et mon énergie dans le projet en échange de presque rien côté financier - tout en prenant des parts dans le projet - le retour sur investissement se fera donc plus tard et seulement si le projet se développe bien.
 
 > vous cherchez à mieux cerner [[pour quoi travailler ensemble]]?
+
+### ma vision derrière?
+
+vivre dans une société joyeuse, belle, en connexion avec une vie douce et équilibrée. ça peut paraitre utopique mais c'est une intention, un bout de vision qui me donne envie de me lever le matin et d'aller supporter les organisations.
+
+### mes missions principales?
+- Guider les dirigeants
+- Soutenir l’organisation des communautés humaines
+### mes objectifs
+- Accompagner 5 dirigeants par an
+- Participer à régénérer 1 entreprise tous les ans
+- Faire émerger une entreprise régénerative tous les 2 ans
 
 *je développe beaucoup de ces axes dans ce jardin numérique, je vous laisse explorer. je mettrais cette fiche intention à jour au fil du temps...*
