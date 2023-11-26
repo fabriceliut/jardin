@@ -11,8 +11,12 @@
             "id": "8340b024f874e42d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/dialectique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/mon intention du moment.md",
+                "file": "_notes/dialectique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/mon intention du moment.md",
+                "file": "_notes/dialectique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/mon intention du moment.md"
+                "file": "_notes/dialectique.md"
               }
             }
           }
@@ -153,15 +157,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "8340b024f874e42d",
   "lastOpenFiles": [
-    "_layouts/note.html.sb-4449fd15-3VhQ17",
-    "_pages/about.md",
-    "_pages/index.md",
+    "_notes/petite pensée sur la semaine de 4 jours.md",
+    "_notes/mon intention du moment.md",
     "_notes/move your body every day.md",
     "_notes/accents.md",
     "_notes/안녕하세요.md",
-    "_notes/petite pensée sur la semaine de 4 jours.md",
+    "_layouts/note.html.sb-4449fd15-3VhQ17",
+    "_pages/about.md",
+    "_pages/index.md",
     "_notes/dialectique.md",
     "_notes/institut de la pensée intégrale.md",
     "_notes/investir dans les questions.md",
