@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cfdcb0f5d38650fc",
+        "id": "881d5a508af58e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "8340b024f874e42d",
+            "id": "14755656d4a71571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/dialectique.md",
+                "file": "_notes/un rituel pour bien lancer la semaine.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad5425037adea916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/guidebook business as non usual.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/dialectique.md",
+                "file": "_notes/un rituel pour bien lancer la semaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/dialectique.md",
+                "file": "_notes/un rituel pour bien lancer la semaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/dialectique.md"
+                "file": "_notes/un rituel pour bien lancer la semaine.md"
               }
             }
           }
@@ -157,8 +169,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8340b024f874e42d",
+  "active": "14755656d4a71571",
   "lastOpenFiles": [
+    "www.loom.com/share/d7af619b93404ed196b6f2698f027310.md",
+    "_notes/un rituel pour bien lancer la semaine.md",
+    "www.loom.com/share",
+    "www.loom.com",
+    "_notes/guidebook business as non usual.md",
+    "assets/todolundi.png",
     "_notes/petite pensée sur la semaine de 4 jours.md",
     "_notes/mon intention du moment.md",
     "_notes/move your body every day.md",
@@ -170,7 +188,6 @@
     "_notes/dialectique.md",
     "_notes/institut de la pensée intégrale.md",
     "_notes/investir dans les questions.md",
-    "Untitled.md",
     "_notes/le leader régénératif fait circuler.md",
     "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
     "_notes/construire les cathédrales aujourd'hui, c'est régénérer.md",
@@ -187,10 +204,8 @@
     "_notes/animals/cats.md",
     "_notes/animals",
     "_notes/your-first-note.md",
-    "_notes/guidebook business as non usual.md",
     "_notes/Redonner un Sens et une Dynamique aux Organisations.md",
     "_notes/Libérer les organisations humaines, penser au-delà des limites des boîtes.md",
-    "_notes/régénérer c'est faire passer la nature avant tout.md",
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/avatar_24.jpg",
@@ -201,8 +216,6 @@
     "assets/businessnonusual.png",
     "assets/troisjours.jpeg",
     "assets/coopererregenerer.jpeg",
-    "_layouts/note.html.rtf",
-    "_layouts/note.htlm.rtf",
-    "_layouts/note.rtf"
+    "_layouts/note.html.rtf"
   ]
 }
