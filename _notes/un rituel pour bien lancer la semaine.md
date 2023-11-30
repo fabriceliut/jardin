@@ -22,7 +22,9 @@ image: /assets/todolundi.png
 
 
 et voilà! quand tout est bien posé et mon agenda plein de bonnes choses à la bonne place, je n'ai plus à remettre en question et je sais que je suis au clair et prêt pour me lancer dans ma semaine.
-bien entendu je ne suis pas aussi rigide que ça peut paraître : ce qui est positionner semble être la meilleure version "logique et fonctionnelle" de ma semaine mais le plus important c'est qu'au jour le jour, si je ne sens pas que je suis dans l'énergie de suivre "le plan" et bien j'autorise assez naturellement des ajustements, des évolutions et des changements.
+
+bien entendu je ne suis pas aussi rigide que ça peut paraître : ce qui est positionné semble être la meilleure version "logique et fonctionnelle" de ma semaine mais le plus important c'est qu'au jour le jour, **si je ne sens pas que je suis dans l'énergie de suivre "le plan" et bien j'autorise assez naturellement des ajustements**, des évolutions et des changements.
+
 c'est beaucoup plus simple et rapide d'accueillir les aléas du direct en se basant sur un programme clair et priorisé.
 l'intention est d'être au clair et de ne rien forcer.
 
@@ -30,4 +32,4 @@ au départ ça peut paraître très lourd comme lancement de semaine mais c'est 
 
 il y a quelques temps j'avais produit [une version vidéo](https://www.loom.com/share/d7af619b93404ed196b6f2698f027310) sur une version plus "light" de ce lancement de semaine mais ça peut aussi vous intéresser et vous suffire!
 
-si tu veux tester ce rituel, je t'invite à créer une liste de tâches simple dans ton logiciel de gestion favoris et à expérimenter!
+si vous voulez tester ce rituel, je vous invite à créer une liste de tâches simple dans votre logiciel de gestion favoris et à expérimenter!
