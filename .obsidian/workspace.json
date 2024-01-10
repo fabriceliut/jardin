@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1c442f952fcdfed9",
+        "id": "50c7480e6a0b4907",
         "type": "tabs",
         "children": [
           {
-            "id": "27bd5f21d15f0add",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "00cd5314fe52b40e",
+            "id": "8901cedc46203230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/régénérer pour ne pas dégénérer.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "avantage externe",
+                "query": "business as",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/régénérer pour ne pas dégénérer.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -122,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/régénérer pour ne pas dégénérer.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -144,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/régénérer pour ne pas dégénérer.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -168,14 +161,16 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/le slash effect.md",
+    "assets/avatar_24.jpg",
+    "_pages/about.md",
+    "_notes/guidebook business as non usual.md",
     "_notes/régénérer pour ne pas dégénérer.md",
+    "_notes/le slash effect.md",
     "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
     "_notes/un rituel pour bien lancer la semaine.md",
     "www.loom.com/share/d7af619b93404ed196b6f2698f027310.md",
     "www.loom.com/share",
     "www.loom.com",
-    "_notes/guidebook business as non usual.md",
     "assets/todolundi.png",
     "_notes/petite pensée sur la semaine de 4 jours.md",
     "_notes/mon intention du moment.md",
@@ -183,7 +178,6 @@
     "_notes/accents.md",
     "_notes/안녕하세요.md",
     "_layouts/note.html.sb-4449fd15-3VhQ17",
-    "_pages/about.md",
     "_pages/index.md",
     "_notes/dialectique.md",
     "_notes/institut de la pensée intégrale.md",
@@ -201,11 +195,9 @@
     "404.html",
     "_notes/consistency.md",
     "_notes/animals/tigers.md",
-    "_notes/animals/cats.md",
     "_notes/animals",
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "assets/Alterner entre pensée systémique et linéaire..png",
-    "assets/avatar_24.jpg",
     "assets/miniavatar.jpeg",
     "assets/banques.jpg",
     "assets/image.jpg",
