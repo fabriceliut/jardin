@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "03670b2a0ad9a4a6",
+            "id": "00cd5314fe52b40e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
-                "mode": "preview",
+                "file": "_notes/régénérer pour ne pas dégénérer.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "avantage externe",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
+                "file": "_notes/régénérer pour ne pas dégénérer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
+                "file": "_notes/régénérer pour ne pas dégénérer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md"
+                "file": "_notes/régénérer pour ne pas dégénérer.md"
               }
             }
           }
@@ -166,8 +166,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "03670b2a0ad9a4a6",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/le slash effect.md",
+    "_notes/régénérer pour ne pas dégénérer.md",
     "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
     "_notes/un rituel pour bien lancer la semaine.md",
     "www.loom.com/share/d7af619b93404ed196b6f2698f027310.md",
@@ -201,8 +203,6 @@
     "_notes/animals/tigers.md",
     "_notes/animals/cats.md",
     "_notes/animals",
-    "_notes/your-first-note.md",
-    "_notes/Redonner un Sens et une Dynamique aux Organisations.md",
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/avatar_24.jpg",
