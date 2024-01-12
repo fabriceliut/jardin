@@ -9,7 +9,7 @@ je crois sincèrement que c'est le combo "interne + apports externes" qui est ga
 pas tout le temps bien entendu : c'est plutôt de chercher à avoir les bonnes personnes, aux bons moments, aux bons endroits.
 vous apporter ces personnes, c'est le rôle des externes. vous aider à déterminer le bon équilibre entre interne et externe c'est aussi le rôle de ces externes.
 
-### 4 autres avantages de travailler avec des externes
+### 4 autres avantages de travailler avec des externes en analogie avec le vivant (la forêt)
 
 
 **Accompagnement et soutien** : les accompagnants externes jouent un rôle crucial en accompagnant les entreprises dans leur développement et en leur fournissant des conseils stratégiques. De la même manière, les champignons des entreprises, en tant que végétaux, soutiennent la croissance et la survie des entreprises en fournissant des ressources et des opportunités.
@@ -25,3 +25,5 @@ vous apporter ces personnes, c'est le rôle des externes. vous aider à détermi
 pour aller plus loin, je vous invite à lire [[manifeste d'un champignon]] pour bien cerner par bio-inspiration à quel point suivre le fonctionnement naturel porte une grande valeur ajoutée pour tout le monde.
 
 le principe de [[bras droit]] est adapté aussi à échelle de votre organisation : une organisation d'accompagnement ou plusieurs sont comme les bras droits de l'entreprise : ce qui existe à l'échelle des individus se réplique à l'échelle du dessus, c'est une logique en [[pensée systémique]].
+
+voilà un exemple avec les [[avantages de travailler avec un COO externe à temps partagé]]
