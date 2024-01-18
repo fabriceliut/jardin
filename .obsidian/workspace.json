@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe95d932203ff69",
+        "id": "4d661efbeed078e8",
         "type": "tabs",
         "children": [
           {
-            "id": "e667ff54c556cf96",
+            "id": "3c195b2266fe0fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/avantages de travailler avec un COO externe à temps partagé.md",
+                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/avantages de travailler avec un COO externe à temps partagé.md",
+                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/avantages de travailler avec un COO externe à temps partagé.md",
+                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/avantages de travailler avec un COO externe à temps partagé.md"
+                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e667ff54c556cf96",
+  "active": "3c195b2266fe0fcb",
   "lastOpenFiles": [
-    "2.md",
+    "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
     "_notes/avantages de travailler avec un COO externe à temps partagé.md",
+    "2.md",
     "_notes/le combo entreprise et accompagnants externes est gagnant.md",
     "_pages/about.md",
     "assets/avatar_24.jpg",
@@ -191,7 +192,6 @@
     "_notes/Ceo, n'oubliez pas votre COO ou COS.md",
     "_notes/mettre en place un service design dans l'entreprise.md",
     "_notes/la recherche action pour remplacer les démarches d'innovation classiques.md",
-    "_notes/Easy tips pour dirigeant, comment gagner 2h par jour.md",
     "_layouts/note.html",
     "_includes/footer.html",
     "_config.yml",
