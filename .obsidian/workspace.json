@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d661efbeed078e8",
+        "id": "bc9500e31f0034b0",
         "type": "tabs",
         "children": [
           {
-            "id": "3c195b2266fe0fcb",
+            "id": "8a34b8c46acad68f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
+                "file": "_notes/Le régénératif n'est pas une hype.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
+                "file": "_notes/Le régénératif n'est pas une hype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
+                "file": "_notes/Le régénératif n'est pas une hype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md"
+                "file": "_notes/Le régénératif n'est pas une hype.md"
               }
             }
           }
@@ -157,8 +159,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3c195b2266fe0fcb",
+  "active": "8a34b8c46acad68f",
   "lastOpenFiles": [
+    "_notes/Le régénératif n'est pas une hype.md",
     "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
     "_notes/avantages de travailler avec un COO externe à temps partagé.md",
     "2.md",
@@ -189,7 +192,6 @@
     "_notes/construire les cathédrales aujourd'hui, c'est régénérer.md",
     "_notes/Ceo, n'oubliez pas votre COO ou COS.md",
     "_notes/mettre en place un service design dans l'entreprise.md",
-    "_notes/la recherche action pour remplacer les démarches d'innovation classiques.md",
     "_layouts/note.html",
     "_includes/footer.html",
     "_config.yml",
