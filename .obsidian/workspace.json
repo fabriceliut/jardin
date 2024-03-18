@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c171c66901949fb7",
+        "id": "6175805976d1a94c",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b92257c5ce9160",
+            "id": "6e90d53bc1e72196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/vibrer pour trouver le bonheur.md",
+                "file": "_notes/gérer son organisation en se basant sur son ressenti.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/vibrer pour trouver le bonheur.md",
+                "file": "_notes/gérer son organisation en se basant sur son ressenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/vibrer pour trouver le bonheur.md",
+                "file": "_notes/gérer son organisation en se basant sur son ressenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/vibrer pour trouver le bonheur.md"
+                "file": "_notes/gérer son organisation en se basant sur son ressenti.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d6b92257c5ce9160",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "Untitled.md",
     "_notes/vibrer pour trouver le bonheur.md",
+    "_notes/gérer son organisation en se basant sur son ressenti.md",
     "_notes/Le régénératif n'est pas une hype.md",
     "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
     "_notes/avantages de travailler avec un COO externe à temps partagé.md",

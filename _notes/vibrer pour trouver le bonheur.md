@@ -12,7 +12,7 @@ La réalité est juste un tissu énergétique qui bouge et qui change de vibrati
 
 On peut participer à un certain courant vibratoire énergétique, se phaser.
 
-Et tout ce qu'on fait, au final, qu'on peut juger comme étant bien, pas bien, dégénératif, régénératif, destructeur ou créateur, n'est que des fluctuations dans ce champ énergétique qui crée une évolution vibratoire globale et qui fait évoluer le champ vibratoire de la Terre, voire de l'Univers.
+Et tout ce qu'on fait, au final, qu'on peut juger comme étant bien, pas bien, dégénératif, régénératif, destructeur ou créateur, n'est que des fluctuations dans ce champ énergétique qui crée une évolution vibratoire globale et qui fait évoluer le champ vibratoire de la Terre, voir de l'Univers.
 
 **Tout ça n'a aucune importance.**
 **On est juste en train de vibrer.**
