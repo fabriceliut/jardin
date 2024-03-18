@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc9500e31f0034b0",
+        "id": "c171c66901949fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "8a34b8c46acad68f",
+            "id": "d6b92257c5ce9160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Le régénératif n'est pas une hype.md",
+                "file": "_notes/vibrer pour trouver le bonheur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Le régénératif n'est pas une hype.md",
+                "file": "_notes/vibrer pour trouver le bonheur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Le régénératif n'est pas une hype.md",
+                "file": "_notes/vibrer pour trouver le bonheur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/Le régénératif n'est pas une hype.md"
+                "file": "_notes/vibrer pour trouver le bonheur.md"
               }
             }
           }
@@ -159,8 +159,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8a34b8c46acad68f",
+  "active": "d6b92257c5ce9160",
   "lastOpenFiles": [
+    "Untitled.md",
+    "_notes/vibrer pour trouver le bonheur.md",
     "_notes/Le régénératif n'est pas une hype.md",
     "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
     "_notes/avantages de travailler avec un COO externe à temps partagé.md",
@@ -190,8 +192,6 @@
     "_notes/le leader régénératif fait circuler.md",
     "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
     "_notes/construire les cathédrales aujourd'hui, c'est régénérer.md",
-    "_notes/Ceo, n'oubliez pas votre COO ou COS.md",
-    "_notes/mettre en place un service design dans l'entreprise.md",
     "_layouts/note.html",
     "_includes/footer.html",
     "_config.yml",
