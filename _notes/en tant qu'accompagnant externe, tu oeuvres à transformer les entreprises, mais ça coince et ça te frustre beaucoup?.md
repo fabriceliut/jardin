@@ -1,7 +1,8 @@
 ---
 title: en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?
 tags:
-  - article
+  - transformation
+  - guidebook
 ---
 tu es loin d'être un cas isolé, c'est même l'inverse et très partagé ( venant de +100 accompagnants externes avec qui j'ai pu échanger régulièrement depuis +10ans).
 
@@ -80,3 +81,5 @@ Entendant ces retours encore et encore, notre héros a ressenti le besoin de cha
 Il s'est mis à envisager le voyage de transformation d'une entreprise comme un récit de héros, impliquant le management, des accompagnateurs en coopération sincère et les contributeurs de l'entreprise.
 
 Notre héros était prêt, plein de tactiques, de ressources et de questions, attendant une invitation à une autre aventure, à un autre voyage de transformation. Espérant inspirer, motiver et gagner la confiance, il était prêt à jouer son rôle dans l'univers des transformations d'entreprises flexibles et adaptables, visant toujours un avenir durable et régénératif.
+
+pour [[Prendre soin du monde]]

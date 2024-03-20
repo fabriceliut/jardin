@@ -20,3 +20,5 @@ tags:
 Jouer avec le couple COO COS me semble très adapté pour sortir les CEO de l’isolation et leur permettre de tenir vraiment la vision et la conduite des stratégies - même pour des PME et plus petites structures.  
   
 Suivant la taille il y aura plus ou moins besoin d’un temps plein.
+
+Pour [[Prendre soin du collectif]]

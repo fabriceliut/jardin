@@ -1,7 +1,8 @@
 ---
 title: guidebook de l'approche territoriale NEOZ
+tags:
+  - guidebook
 ---
-
 # Introduction ✅
 ## Qu'est-ce qu'une approche territoriale ?
 

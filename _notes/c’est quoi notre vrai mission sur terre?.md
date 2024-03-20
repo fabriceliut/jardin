@@ -37,4 +37,4 @@ Et du coup, tous les autre sujets complexes et du moment n’ont plus vraiment d
 
 ### La vision > la mission > le rôle… et enfin l’action qui a du sens et toujours en lien avec les efforts des autres pour construire le paradis ensemble. 
 
-Ça vous dit de rejoindre cette entreprise? Ici on essaie déjà d'y croire avec quelques autres humains de l'[[Archipel Kyosei]].
+Ça vous dit de rejoindre cette entreprise? Ici on essaie déjà d'y croire avec quelques autres humains de l'[[Archipel Kyosei]] / pour [[Prendre soin du monde]].

@@ -3,7 +3,6 @@ title: Gouvernance adptable
 tags:
   - Afairepousser
 ---
-
 La #gouvernance est compliquée lorsqu’il faut s’accorder à beaucoup. Cependant, s’il était possible de disposé d’un #language suffisamment riche et partant d’une base assez simple pour “construire” pleins de “languages” de gouvernances différents mais qui viennent de la même base et pouvant donc collaborer chacun à sa manière, ce serait possible de créer des multi gouvernances interconnectées 🙂 Je pense ici aux ontologies, à la #sémantique. Arriver à trouver “la tour de babel”, et pour la trouver, je pense qu’il y a intérêt à étudier le #sanskrit : c’est un #language qui repose sur 14 notes originelles et qui permet de construire ce que l’on veut ensuite, tout en étant dans la même langue où tout le monde se comprend.
 
 **La structuration grammaticale est très proche du code et des variables.**

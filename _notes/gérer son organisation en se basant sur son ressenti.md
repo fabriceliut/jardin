@@ -2,6 +2,7 @@
 title: gérer son organisation en se basant sur son ressenti
 tags:
   - article
+  - projectmanagement
 ---
 Gérer son organisation en se basant sur son ressenti est essentiel pour être en phase avec ses énergies et ses envies.
 
@@ -14,3 +15,5 @@ Par exemple, si l'on se sent plus enclin à l'exploration ou au repos qu'à la p
 En étant conscient de nos différentes énergies et en choisissant les activités qui y correspondent, on peut non seulement accomplir nos tâches de manière plus authentique, mais aussi apporter plus de beauté et de qualité à ce que l'on fait.
 
 Suivre le flux naturel de nos envies et de nos énergies nous permet de rentrer dans un état de flow propice à la créativité et à l'accomplissement, ce qui peut au final améliorer notre productivité de manière authentique et qualitative.
+
+pour [[Prendre soin de soi]]

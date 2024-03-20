@@ -18,4 +18,4 @@ Avec de nouvelles organisations c’est de nouveaux possible pour faire ensemble
   
 Avec impatience de « jouer ensemble » plutôt que de voir la situation comme un problème bloquant et critique.  
   
-Let’s play!
+Let’s play! pour [[Prendre soin du monde]].

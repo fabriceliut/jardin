@@ -1,5 +1,7 @@
 ---
 title: diverger & converger mais en qualité
+tags:
+  - designs
 ---
 
 dans l'approche du [[Design thinking]] on parle de 2 grandes phases de créativité : la divergence et la convergence.

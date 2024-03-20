@@ -1,5 +1,8 @@
 ---
 title: Design circulaire sur 1 jour
+tags:
+  - offre
+  - designs
 ---
 
 *L’approche circulaire se met en place grâce à une première journée construite spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles opportunité d’un re-design circulaire.*
@@ -40,7 +43,3 @@ Basculer d’un modèle linéaire à un modèle circulaire est l’un des premie
 [Design circulaire en détails](https://www.notion.so/liutnotes/Guide-Book-Circular-Design-3d056642017e4793a61f23fb7fea29a5)
 
 *C’est avec l'[[Archipel Kyosei]] tout le tissu du réseau complémentaire que vous pourrez initier cette démarche.*
-
----
-
-#offre

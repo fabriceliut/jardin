@@ -1,5 +1,7 @@
 ---
 title: intellecte
+tags:
+  - terminologie
 ---
 Piste d'étude pour [[décoder la vie]]
 

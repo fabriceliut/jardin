@@ -1,9 +1,6 @@
 ---
 title: Il n'y a pas de montagne
 ---
-
-Hello 🤙
-
 Parce qu'on aime les citations, je commencerais ainsi :
 
 > A **Hindu proverb** on the many ways to win 👇
@@ -36,3 +33,5 @@ Que ce soit la carrière, l'argent, la responsabilité familiale, la passion, l'
 Il y a juste moi là, qui me dit "il n'y a pas de montagne, rien à gravir et rien à atteindre"... **Mais alors, qu'est-ce que ça fait ?**
 
 Si a ce moment de l'exercice vous trouvez ça absurde, c'est possible que ce soit parce que votre raison résiste. SI vous êtes perdus, ce doit être normal, je le suis aussi. Si ça vous fait peur, je crois que c'est à accepter parce que c'est une belle peur, celle qui marque le début d'une nouvelle exploration dans un territoire inconnu...
+
+pour [[décoder la vie]]

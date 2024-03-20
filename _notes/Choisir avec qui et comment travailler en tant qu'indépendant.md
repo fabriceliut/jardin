@@ -1,5 +1,7 @@
 ---
 title: Choisir avec qui et comment travailler en tant qu'indépendant
+tags:
+  - guidebook
 ---
 
 Je fais partie d'un collectif qui est un "archipel" : [[Archipel Kyosei]]
@@ -169,3 +171,5 @@ De mon côté l' [[Archipel Kyosei]] est clairement le système dans lequel j'ai
 > Dans un monde en archipel, on peut choisir son groupe mais jamais le groupe n'est isolé des autres : c'est un peu le beurre et l'argent du beurre !
 
 *Si vous vous sentez l'âme d'un.e explorateur.trice, n'hésitez pas à m'écrire pour en savoir plus sur les archipels ou si vous avez des questions sur les autres modèles de collectifs, je peux vous orienter également et avec tout autant de plaisir !*
+
+[[guidebook]]

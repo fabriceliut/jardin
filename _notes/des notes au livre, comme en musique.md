@@ -1,6 +1,7 @@
 ---
 title: des notes au livre, comme en musique
 tags:
+  - contentmarketing
 ---
 Comme pour créer un morceau de musique avec les notes des instruments, l’écriture passe par la création de notes qui vont structurer un contenu plus complexe.
 

@@ -1,5 +1,7 @@
 ---
 title: institut de la pensée intégrale
+tags:
+  - projet
 ---
 
 *Une nouvelle institution pour penser & penser le monde autrement, pour faire autrement ensemble.*

@@ -1,5 +1,8 @@
 ---
 title: devenir un meilleur designer
+tags:
+  - designs
+  - Afairepousser
 ---
 
 [slides à l'origine de cette note](https://gamma.app/docs/jmqdgdw18mdf6g5)
@@ -41,5 +44,3 @@ trop difficile seul de bouger votre entreprise ou vos clients? Je suis là pour 
 
 il faut travailler directement sur la frustration des humains qui veulent changer les choses.
 Il faut s'assurer d'adresser ceux qui ont les moyens de leurs ambitions. (économique & décision)
-
-#Afairepousser 

@@ -28,4 +28,4 @@ voici les caractéristiques, loin d'être exaustives et surtout loin de respecte
 
 > je développerais plus en détails chaque point prochainement, en attendant le livre de Olivier qui sera plus juste et plus complet :)
 
-je viendrais compléter également sur comment le développement massif du [[design régénératif]] peut accélérer notre transition de civilisation vers celle de la vie.
+je viendrais compléter également sur comment le développement massif du [[design régénératif]] peut accélérer notre transition de civilisation vers celle de la vie et [[Prendre soin du monde]].

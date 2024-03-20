@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6175805976d1a94c",
+        "id": "5182684bdc7c5de1",
         "type": "tabs",
         "children": [
           {
-            "id": "6e90d53bc1e72196",
+            "id": "0036086b9a118841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/gérer son organisation en se basant sur son ressenti.md",
+                "file": "_notes/intellecte.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "externe",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/gérer son organisation en se basant sur son ressenti.md",
+                "file": "_notes/intellecte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/gérer son organisation en se basant sur son ressenti.md",
+                "file": "_notes/intellecte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +137,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/gérer son organisation en se basant sur son ressenti.md"
+                "file": "_notes/intellecte.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,39 +158,40 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "0036086b9a118841",
   "lastOpenFiles": [
-    "_notes/vibrer pour trouver le bonheur.md",
-    "_notes/gérer son organisation en se basant sur son ressenti.md",
-    "_notes/Le régénératif n'est pas une hype.md",
-    "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
-    "_notes/avantages de travailler avec un COO externe à temps partagé.md",
-    "2.md",
-    "_notes/le combo entreprise et accompagnants externes est gagnant.md",
-    "_pages/about.md",
-    "assets/avatar_24.jpg",
+    "_notes/intelligence collective.md",
+    "_notes/intellecte.md",
+    "_notes/institut de la pensée intégrale.md",
+    "_notes/Il n'y a pas de montagne.md",
+    "_notes/ignorance, curiosité et recherche scientifique.md",
+    "_notes/identité de groupe.md",
+    "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/guidebook business as non usual.md",
-    "_notes/régénérer pour ne pas dégénérer.md",
-    "_notes/le slash effect.md",
-    "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
-    "_notes/un rituel pour bien lancer la semaine.md",
-    "www.loom.com/share/d7af619b93404ed196b6f2698f027310.md",
+    "_notes/guidebook.md",
+    "_notes/Guide book apprendre à vendre.md",
+    "_notes/Gouvernance adaptable.md",
+    "_notes/gérer son organisation en se basant sur son ressenti.md",
+    "_notes/gagnez sa vie avec son esprit plutôt que son temps.md",
+    "_notes/faisons partie de nous.md",
+    "_notes/Faire confiance par la coopération et sans forcer.md",
+    "_notes/faire confiance autrement.md",
+    "_notes/facilitation.md",
+    "_notes/extrait 1 du mooc regenerative design.md",
+    "_notes/extimité.md",
+    "_notes/exploration de l'abstraction.md",
+    "_notes/expérimenter la danse méditative.md",
+    "_notes/évolutions des notes.md",
+    "_notes/être son propre commercial.md",
+    "_notes/et toi ton impact, plutôt dégénératif ou régénératif.md",
+    "_notes/et si tout ça c'était juste un rêve.md",
+    "_notes/et si on était déjà au paradis?.md",
+    "Untitled.canvas",
+    "assets/avatar_24.jpg",
     "www.loom.com/share",
     "www.loom.com",
     "assets/todolundi.png",
-    "_notes/petite pensée sur la semaine de 4 jours.md",
-    "_notes/mon intention du moment.md",
-    "_notes/move your body every day.md",
-    "_notes/accents.md",
-    "_notes/안녕하세요.md",
     "_layouts/note.html.sb-4449fd15-3VhQ17",
-    "_pages/index.md",
-    "_notes/dialectique.md",
-    "_notes/institut de la pensée intégrale.md",
-    "_notes/investir dans les questions.md",
-    "_notes/le leader régénératif fait circuler.md",
-    "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
-    "_notes/construire les cathédrales aujourd'hui, c'est régénérer.md",
     "_layouts/note.html",
     "_includes/footer.html",
     "_config.yml",

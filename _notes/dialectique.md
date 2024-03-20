@@ -3,6 +3,7 @@ title: dialectique
 tags:
   - concept
   - Afairepousser
+  - designs
 ---
 La dialectique est une méthode de discussion, de raisonnement ou d'analyse qui cherche à découvrir la vérité par le dialogue contradictoire de différentes opinions ou idées. Elle est souvent associée à la philosophie de Socrate, Platon et Hegel.
 

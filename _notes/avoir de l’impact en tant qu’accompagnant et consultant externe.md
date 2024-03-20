@@ -33,6 +33,6 @@ méthode à activer - détecter les "petits pas" à faire pour rentrer dans les 
 - création en commun de contenus vidéo, articles, templates notion, outils, jeux, etc...
 - formations aux méthodes et approches des uns et des autres (CEC, perma-entreprise, fresques, etc...)
 
-ce qui compte c'est de faire "meta écosystème" voir même imaginer une "entreprise de territoire en commun" - tous ensemble pour adresser les sujets de transition et [[régénératif]].
+ce qui compte c'est de faire "meta écosystème" voir même imaginer une "entreprise de territoire en commun" - tous ensemble pour adresser les sujets de transition et [[régénératif]] pour [[Prendre soin du monde]].
 
 #Afairepousser 

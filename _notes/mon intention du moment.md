@@ -5,7 +5,7 @@ title: mon intention du moment
 mon intention c’est **participer à régénérer notre société et le reste du vivant** qu'on a déjà trop déterioré. et pour régénérer il faut le faire ensemble, pour adresser la complexité des enjeux à toutes les échelles, et donc coopérer. 
 je fais mon possible pour apporter de la beauté à mon échelle et dans chaque approche que je propose.
 
-> Mon truc à moi c’est comment les humains s’organisent entre eux et comment régénérer les organisations qui dégénèrent et surtout en finalité comment structurer et dynamiser des organisations régénératives_
+> Mon truc à moi c’est comment les humains s’organisent entre eux et comment régénérer les organisations qui dégénèrent et surtout en finalité comment structurer et dynamiser des organisations régénératives.
 
 
 **c'est donc travailler à améliorer, fluidifier organiser ou même produire de la coopération** aux niveaux d'une équipe, d'une organisation ou même d'un territoire, par les axes suivants:
@@ -38,7 +38,7 @@ je vais aussi prendre soin de mes proches et puis par cercles de mon monde local
 
 ### comment j'interviens?
 
-je suis un designer (global) - qui se positionne comme un médecin généraliste ou un naturopathe des organisations.
+je suis Chief of Staff & designer (global) - qui se positionne comme un médecin généraliste ou un naturopathe des organisations.
 
 **ma zone de génie est sur le moment du diagnostique:**
 - écouter - comprendre la situation, la problématique, le système *(posture facilitante)*
@@ -49,7 +49,7 @@ je suis un designer (global) - qui se positionne comme un médecin généraliste
 -   apporter des ressources de connaissance *(management de la connaissance)*
 -   apporter un suivi des évolutions et tests - s’assurer que ça part dans la bonne direction - de réorienter quand il faut - que c’est régénératif d’un point de vue systémique
 
-j'agis directement sur le terrain, avec les équipes et dans le cadre des projets que j'accompagne, avec la posture conseil, design et facilitation.
+j'agis directement sur le terrain, avec les équipes et dans le cadre des projets que j'accompagne, avec la posture COS, conseil, design et facilitation.
 aussi en créant des objets numériques autonomes qui permettent déjà d'adresser des besoins et de lever des problématiques sans que j'intervienne directement.
 
 et en proposant les personnes adaptées au moment et au besoin quand ce n'est pas moi grâce à tout un écosystème d'accompagnants avec qui je suis en coopération constante > [[Archipel Kyosei]]
@@ -77,7 +77,7 @@ vivre dans une société joyeuse, belle, en connexion avec une vie douce et équ
 - Guider les dirigeants
 - Soutenir l’organisation des communautés humaines
 ### mes objectifs
-- Accompagner 5 dirigeants par an
+- Accompagner 5 directions générales par an
 - Participer à régénérer 1 entreprise tous les ans
 - Faire émerger une entreprise régénerative tous les 2 ans
 

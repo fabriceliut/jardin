@@ -1,5 +1,7 @@
 ---
 title: faisons partie de nous
+tags:
+  - Meta-analyse
 ---
 
 ### Faisons-nous partie de nous ?

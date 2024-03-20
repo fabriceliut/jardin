@@ -1,5 +1,7 @@
 ---
 title: et si on était déjà au paradis?
+tags:
+  - Afairepousser
 ---
 
 
@@ -21,4 +23,4 @@ title: et si on était déjà au paradis?
     -   Comment est-ce que vous vous sentez à ce stade? Est-ce que la réalité est plus légère ?
 -   maintenant, vous pouvez profiter du voyage. Faites de beaux rêves !
 
-#Afairepousser - [[décoder la vie]]
+pour [[décoder la vie]]

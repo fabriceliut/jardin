@@ -1,8 +1,10 @@
 ---
 title: Guide book apprendre à vendre
+tags:
+  - business
+  - guidebook
+  - Afairepousser
 ---
-#Afairepousser
-
 *Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]] j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
 
 *Au-delà d'une démarche commerciale, apprendre à vendre en archipel représente surtout une lecture de comment tisser des liens de confiance nécessaire pour entrer en coopération.*

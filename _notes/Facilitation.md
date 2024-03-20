@@ -1,5 +1,8 @@
 ---
 title: facilitation
+tags:
+  - terminologie
+  - designs
 ---
 
 # Pourquoi la facilitation et le [[Design Sprint]] ?

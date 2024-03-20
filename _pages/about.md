@@ -6,7 +6,7 @@ image: assets/avatar_24.jpg
 ---
 ![]({{page.image}})
 
-**Je suis Designer & j'accompagne principalement des dirigeants et CODIR.** 
+**Je suis Chief of Staff, designer, facilitateur & j'accompagne principalement des dirigeants et CODIR.** 
 
 J’applique une pensée systémique et des principes régénératifs par bio-inspiration. 
 J’apporte une sensibilité et des méthodologies adaptées pour faciliter le développement de projets coopératifs complexes.
@@ -23,7 +23,7 @@ N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[jardin 
 
 👇 en détail ?
 
-## Je suis Designer Systémique & Facilitateur expert du Design Sprint.
+## Je suis Chief of Staff externe, Designer Systémique & Facilitateur expert du Design Sprint.
 
 _Explorateur du quotidien par la curiosité & activiste par l'approche Design Régénérative. J'anime régulièrement des conférences et ateliers sur Lyon, Paris et ailleurs sur invitation._
 
@@ -53,13 +53,13 @@ _**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depu
 
 ## Pourquoi est-ce que je fait tout ça ?
 
-Je vois notre société actuelle comme un système qui dégénère bien plus qu'il ne se régénère. L'industrialisation nous a totalement éloigné du "bon sens" de vivre. **Mon action en tant que Designer est de participer à fluidifier le quotidien des systèmes humains pour libérer la création et redonner une dynamique régénérative à nos initiatives.** Notre société doit gagner en tolérance, en diversité et en coopération pour se développer en symbiose, comme une forêt primaire, saine et abondante, pour nous et en accord avec le reste du vivant.
+Je vois notre société actuelle comme un système qui dégénère bien plus qu'il ne se régénère. L'industrialisation nous a totalement éloigné du "bon sens" de vivre. **Mon action en tant qu'intervenant est de participer à fluidifier le quotidien des systèmes humains pour libérer la création et redonner une dynamique régénérative à nos initiatives.** Notre société doit gagner en tolérance, en diversité et en coopération pour se développer en symbiose, comme une forêt primaire, saine et abondante, pour nous et en accord avec le reste du vivant.
 
 📕 [[livre du Comptoir]]
 
 Lorsque nous aurons atteint ce nouvel "état temporaire" d'existence, nous pourrons profiter de nouveaux paradigmes de société, **d'une nouvelle réalité à explorer librement ensemble**. Tout ceci peut paraître idéaliste ? C'est une des postures "Politique" que porte le Design de demain, nécessairement optimiste.
 
-💡_"Tant qu'il y a des problèmes il y a des solutions."_
+💡 *"Tant qu'il y a des problèmes il y a des solutions."*
 
 ### Vous voulez encourager financièrement ma démarche ? [Vous pouvez devenir membre du mouvement de Design Régénératif](https://www.buymeacoffee.com/liut "Link: https://www.buymeacoffee.com/liut") et profiter de tous les travaux, ressources & connaissances pour faire évoluer vos propres démarches.
 

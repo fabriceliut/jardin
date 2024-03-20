@@ -45,4 +45,4 @@ ensuite se poser la question de la quantité d'énergie que je suis prêt à met
 toutes ces questions sont un guide du quotidien pour s'assurer d'être aligné avec soi.
 
 ---
-*ce type de note va s'enrichir au fil du temps et des échanges et rencontres - si vous avez envie de participer, vous avez juste à m'écrire en partageant vos points de vues, vos sources etc... qui vont permettre d'enrichir le sujet.* #Afairepousser
+*ce type de note va s'enrichir au fil du temps et des échanges et rencontres - si vous avez envie de participer, vous avez juste à m'écrire en partageant vos points de vues, vos sources etc... qui vont permettre d'enrichir le sujet.* #Afairepousser - pour [[Prendre soin du monde]]

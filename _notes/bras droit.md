@@ -25,3 +25,5 @@ Il est possible qu'il existe des origines moins guerrières pour l'expression "b
     
 
 Ces théories sont plus spéculatives et moins documentées que les théories liées au monde militaire ou médiéval, mais elles soulignent que l'expression "bras droit" peut avoir des origines variées et complexes.
+
+Pour [[Prendre soin du collectif]]

@@ -1,6 +1,8 @@
 ---
 title: Design systémique sur 3 jours
 image: /assets/troisjours.jpeg
+tags:
+  - offre
 ---
 
 ![]({{page.image}})
@@ -27,8 +29,4 @@ le [[design systémique]] permet de se poser, d’analyser et de déterminer ave
 > Toutes les grosses entreprises de ce monde sont en train de basculer sur un business systémique mais volontairement elles n’en parlent pas. Raison de plus pour réagir dès maintenant.
 
 ## retrouvez tout le programme sur 3 jours [sur le playbook notion](https://liutnotes.notion.site/3days-systemic-design-b19bab7cb6cf40718518336097bd079d)
-
----
-
-#offre
 

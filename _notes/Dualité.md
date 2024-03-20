@@ -1,5 +1,7 @@
 ---
 title: dualité
+tags:
+  - terminologie
 ---
 Première ouverture par [l'exploration du Wiki](https://fr.wikipedia.org/wiki/Dualité).
 

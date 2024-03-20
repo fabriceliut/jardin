@@ -1,5 +1,7 @@
 ---
 title: devenir une entreprise régénérative
+tags:
+  - régénératif
 ---
 
 en tant que [[bras droit]] des dirigeants, j'ai un focus à accompagner ceux qui veulent faire de leurs entreprises des organisations régénératives.
@@ -24,3 +26,4 @@ Les dirigeants peuvent nous découvrir à travers différents canaux tels que no
 
 Nous avons déjà accompagné plus de 20 entreprises et dirigeants dans leur intention régénérative et comptons renforcer notre impact pour répondre aux urgences actuelles.
 
+pour [[Prendre soin du monde]]

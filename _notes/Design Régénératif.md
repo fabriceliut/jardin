@@ -1,5 +1,7 @@
 ---
 title: Design régénératif
+tags:
+  - designs
 ---
 
 ### définition synthétique

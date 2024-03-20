@@ -9,7 +9,7 @@ Est-ce qu'on peut étudier et comprendre notre propre société, dans le détail
 
 La question devient : et si [[tout dans la vie est langage et conversation]] ?
 
-Et si toutes ces explorations sont aurant de points de vues sur la réalité, qu'est-ce que ça donnerait si on tentait de les relier tous ? Est-ce que si notre [[conscience]] collective atteint l'état de [[noosphère]] nous ne pourrions pas atteindre l'état final de compréhension de nous-même ?
+Et si toutes ces explorations sont autant de points de vues sur la réalité, qu'est-ce que ça donnerait si on tentait de les relier tous ? Est-ce que si notre [[conscience]] collective atteint l'état de [[noosphère]] nous ne pourrions pas atteindre l'état final de compréhension de nous-même ?
 
 Pourquoi comprendre ? Pourquoi chercher à tout décrypter ? Dans un premier temps, ce serait déjà pour récolter la sagesse nécessaire à [[Prendre soin du monde]].
 

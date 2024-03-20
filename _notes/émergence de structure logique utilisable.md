@@ -1,5 +1,9 @@
 ---
 title: émergence de structure logique utilisable
+tags:
+  - guidebook
+  - knowledgemanagement
+  - Afairepousser
 ---
 
 >La connaissance n’est pas suffisante, elle doit être connectée et « testée » pour devenir du savoir actionnable.
@@ -60,6 +64,3 @@ Les sources, les pensées
 ## Des actions au projet.
 
 Quand toute la structure pour un projet est en place, on peut évoluer [[du système projet aux assemblages projets]]
-
----
-#Afairepousser 

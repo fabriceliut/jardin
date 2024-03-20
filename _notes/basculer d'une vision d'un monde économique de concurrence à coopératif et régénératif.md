@@ -32,4 +32,4 @@ Et pour ceux qui s’inquiètent que tout s’écroule: oui, pendant que ce nouv
 
 Le modèle actuel est dégénératif nous le voyons bien au quotidien. Celui dont je vous parle est régénératif et revitalisant et vous le sentirez dès les premiers mois!
 
-Alors, on bascule ensemble?
+Alors, on bascule ensemble? Pour [[Prendre soin du monde]].

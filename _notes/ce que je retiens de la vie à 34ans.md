@@ -15,4 +15,4 @@ integrate friends and family into your schedule every day: you don't work on you
 
 In conclusion for today, take care of your body your family, and your friends. Accept all it remains as it is and just do your best.
 
-#Afairepousser 
+#Afairepousser pour [[Prendre soin de soi]]

@@ -1,8 +1,6 @@
-
 ---
 title: développer un esprit Chasseur cueilleur
 ---
-
 Qu’est-ce que ça voudrait dire qu’être chasseur cueilleur de nos jours? Surtout quand on habite à la base en ville comme moi ici à Lyon?
 
 J'aime l'idée que je me fais de ce modèle de vie qui était le nôtre avant de nous sédentarités pour des questions d’agriculture et d’exploitation du blé. Le point de vue de Harari dans «Sapiens» c’est une exploitation de l’homme par le blé, que je trouve très pertinent.
@@ -11,7 +9,7 @@ Alors dans ma manière de penser la vie et le quotidien, je peux commencer par m
 
 ## changer de point de vue
 
-Plutôt que penser à « semer des graines » pour « récolter des opportunités » par exemple je pourrais plutôt penser à « me déplacer », explorer d’autres territoires, développer mon écoute et mon observation pour découvrir les opportunités présentes dans un nouvel environnement, un nouveau contexte.
+**Plutôt que penser à « semer des graines » pour « récolter des opportunités » par exemple je pourrais plutôt penser à « me déplacer », explorer d’autres territoires, développer mon écoute et mon observation pour découvrir les opportunités présentes dans un nouvel environnement, un nouveau contexte.**
 
 Changer de contexte pour continuer de vivre ailleurs, autrement, plutôt qu’étendre mon territoire pour planter plus et exploiter plus (ce qui en viendra à me prendre plus de temps et d’énergie).
 
@@ -40,3 +38,5 @@ Se rendre compte à quel point nous pouvons être des cultivateurs et se questio
 - Je suis aussi fluide et adaptable que possible: danser et me réjouir quand il y a de l’abondance raisonnable et me déplacer, changer, évoluer quand c’est plus rude et compliqué
 
 Je pourrais continuer de développer cette liste longtemps seul mais elle me semble plus pertinente à construire à plusieurs, pour justement faire « culture partagée » même s’il faudrait un autre mot que culture que je n’ai pas, plus juste.
+
+pour [[Prendre soin du monde]]

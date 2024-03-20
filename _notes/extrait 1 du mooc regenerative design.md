@@ -1,5 +1,8 @@
 ---
 title: extrait 1 du mooc regenerative design
+tags:
+  - régénératif
+  - Afairepousser
 ---
 
 [[design régénératif]] - [[système complexe]] - [[bio-inspiration]] - 1.2-4 Regeneration (mooc chapter)
@@ -57,5 +60,3 @@ title: extrait 1 du mooc regenerative design
 
 - product designer to process designer > to regenerative process designer
 - for #business dev > no longer promise deliverables but the fact of empowering employees and the organization thanks to the work to be done
-
-#Afairepousser 

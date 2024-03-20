@@ -1,5 +1,9 @@
 ---
 title: enrichir les nouveaux projets grâce au compostage des anciens
+tags:
+  - knowledgemanagement
+  - projectmanagement
+  - guidebook
 ---
 
 ## intention

@@ -1,5 +1,7 @@
 ---
 title: Créer un système de connaissance coopératif
+tags:
+  - guidebook
 ---
 
 Tout projet vient de la compréhension d'un besoin à adresser et pour comprendre les besoins il faut se mettre en écoute : tout commence avec la veille !

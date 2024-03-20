@@ -1,5 +1,7 @@
 ---
 title: et si demain vous choisissiez de vous replacer par des produits autonomes?
+tags:
+  - contentmarketing
 ---
 Pour l’exercice : dans 8mois, vous ne pourrez plus exercer votre activité durant 2ans, mais il vous faut quand même développer une économie. 
 

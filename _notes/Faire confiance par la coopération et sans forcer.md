@@ -1,9 +1,11 @@
 ---
 title: Faire confiance par la coopération et sans forcer
+tags:
+  - article
 ---
 
 Lorsqu'on pratique le [[Yoga]] très souvent le maître répète durant la pratique en mouvement qu'il ne sert à rien de forcer. Il convient d'orienter tout le champ de sa [[conscience]] sur la posture, sur le corps et de laisser faire, sans forcer.
-On fait alors confiance au processus, sans rien essayer d'accélérer plus. On accepte que nous ne sommes pas au contrôle, que c'est le corps qui fait le travail, qui s'adapte à ces nouvelles conditions, se renforce petit à petit...
+On fait alors [[confiance]] au processus, sans rien essayer d'accélérer plus. On accepte que nous ne sommes pas au contrôle, que c'est le corps qui fait le travail, qui s'adapte à ces nouvelles conditions, se renforce petit à petit...
 Bien entendu, il est toujours possible de forcer, comme dans la plupart des autres dimensions de la vie. Et comme ailleurs, forcer permet d'aller plus vite mais pas plus longtemps : la blessure est vite arrivée.
 
 Tout dans [[le vivant]] demande son propre temps et c'est ce que la pratique du yoga accepte totalement : **faire avec ce qu'on a en présence, faire suivant le rythme naturel et se réjouir de ce qui évolue**. C'est un gros travail d'acceptation, surtout pour quelqu'un qui serait de culture occidentale voir latine, une culture "de terre & de feu" qui réclame toujours une forte activité, une forte intensité jusqu'à épuisement...
@@ -17,5 +19,3 @@ Inspiré du yoga justement, ce qui est en expérimentation dans des écosystème
 **Pour que ça fonctionne il semble nécessaire que le groupe soit conscient des énergies et des dynamiques de chacun : qui accélère, qui va plus lentement**. **Conscient aussi des temporalités** : parfois ceux qui étaient à fond changent de vitesse et ceux qui étaient beaucoup plus lent mettent plus de rythme... Tout change tout le temps et demande une écoute et une obervation fine, tout comme la conscience qu'on peut mettre dans une pose de yoga. Ceux qui forcent trop doivent lâcher prise et faire confiance au processus coopératif du groupe pour ne pas brûler les autres et ceux qui ne suivent pas le mouvement voir le figent doivent plutôt chercher à trouver leur implication pour maintenir le mouvement sans le gêler... 
 
 Encore une occasion de prendre conscience que tout est [[2 courants Yin et Yang]], que le collectif est un organisme vivant qui fait corps et qui doit être conscient de ses postures, sa santé, sa dynamique pour évoluer, lâcher, gagner en force, en souplesse, en [[résilience]] et comme avec le yoga peut-être trouver la [[Santé Parfaite]]...
-
-#article 

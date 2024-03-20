@@ -1,5 +1,8 @@
 ---
 title: éducation de demain
+tags:
+  - futur
+  - Afairepousser
 ---
 
 ## Ma vision d'un futur souhaitable par l'apprentissage.
@@ -28,5 +31,3 @@ Il cite beaucoup les principes de convivialité de Ivan Illich, fermant le conce
 _Début du récit 5:15_
 
 [#2 L'école de demain](https://open.spotify.com/episode/6qiN0H9UFv8ATNAS2MSSHt?si=uwPzcKJZT6ePGf_OxijMbw)
-
-#futur #Afairepousser 

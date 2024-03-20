@@ -1,5 +1,7 @@
 ---
 title: Design fiction
+tags:
+  - designs
 ---
 
 une des approches et méthode [[designs]] qui cherche à faire émerger des actions très concrètes dans le présent en se reposant sur un travail d'imaginaire de futurs souhaitables ou à "fermer".
