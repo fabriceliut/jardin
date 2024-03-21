@@ -1,5 +1,7 @@
 ---
 title: joies passives
+tags:
+  - philosophie
 ---
 
 Ce sont des joies liées à des désirs et des plaisirs qui ne sont pas profondément en accord avec notre nature profonde.
@@ -13,5 +15,3 @@ Exemples :
 - Faire certaines activités alors qu'on sait en amont que cela va nous coûter en énergie (une travail par exemple)
 
 A l'opposé on trouve les [[joies actives]].
-
-#philosophie 

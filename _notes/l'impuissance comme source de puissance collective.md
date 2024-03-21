@@ -2,6 +2,7 @@
 title: l'impuissance comme source de puissance collective
 tags:
   - article
+  - philosophie
 ---
 ***philosophiquement, l’impuissance peut être perçue comme une condition qui nous confronte à nos limites et à notre vulnérabilité. Elle peut être vécue comme une source de réflexion, de croissance personnelle et d’interconnexion avec les autres.***
 

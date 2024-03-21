@@ -1,7 +1,6 @@
 ---
 title: la chaîne des changements systémiques
 ---
-
 On cherche souvent à créer intellectuellement le système qui peut régler de manière complexe et macro nos problématiques de société.
 
 Mais les changements systémiques à grande échelle démarrent toujours de changements locaux, par des systèmes simples qui fonctionnent déjà très bien.

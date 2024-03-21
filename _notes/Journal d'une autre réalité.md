@@ -1,7 +1,8 @@
 ---
 title: Journal d'une autre réalité
+tags:
+  - atome
 ---
-
 Je n'aurais jamais imaginé vivre un jour la réalité de cette manière. 
 
 J'ai bien compris qu'on pouvait altérer la réalité voir la transformer en prenant certaines substances pour aider comme le LSD, la DMT ou autres [[psychédélique]] .. mais à chaque sortie de trip, c'est un retour à une réalité connue, structurée suivant une logique connue et c'est bien ce qui est rassurant. 

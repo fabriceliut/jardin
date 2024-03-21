@@ -1,7 +1,8 @@
 ---
 title: l'expérience du jeu de rôle
+tags:
+  - Meta-analyse
 ---
-
 **Abandonner le personnage de votre vie l’espace de quelques heures, pour au travers d’autres personnages qui ne sont pas “vous”, découvrir votre Être dans toute sa profondeur.**
 
 Il est envisageable de penser que **nous vivons tous dans la peau d’un personnage** au quotidien, que celui-ci soit naturel et profond ou construit pour s’adapter, ou se protéger de l’extérieur.  

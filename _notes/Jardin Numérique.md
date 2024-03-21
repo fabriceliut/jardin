@@ -1,7 +1,10 @@
 ---
 title: jardin numérique
+tags:
+  - terminologie
+  - Afairepousser
+  - guidebook
 ---
-
 Qu'est-ce qu'un jardin numérique ? Je tenterais dans cette série de "notes reliées" d'expliquer en détail le fonctionnement mais également la philosophie derrière qui est très importante car elle apporte une réelle évolution à la création de contenu & au partage de ce contenu.
 
 Pour ce site, j'utilise un thème qui permet cette navigation, je pourrais même dire cette "plantation". Je vous laisse découvrir la logique du créateur ici > [[Your first seed]]
@@ -24,4 +27,4 @@ C'est pour moi actuellement le meilleur outil pous structurer tout mon "arbre de
 --
 Les 2 grandes branches sont “[[Prendre soin du monde]]” et "[[Prendre soin de soi]]"... la [[dualité]] et la non dualité, 2 mouvements qui se complètent au quotidien dans lesquels pour le moment j’arrive à rentrer tous les sujets de ma vie... Construction à suivre 😃
 
-#Afairepousser [[guidebook]]
+[[guidebook]]

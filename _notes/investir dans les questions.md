@@ -2,6 +2,7 @@
 title: investir dans les questions
 tags:
   - article
+  - designs
 ---
 **La valeur est dans les questions.**  
   
@@ -37,6 +38,4 @@ N’oublions pas que nous sommes pleins de biais et de dénis, alors mieux vaut 
   
 Sauf si on aime tant créer des problèmes de plus en plus complexes et donc de plus en plus difficile à formuler en questions sur lesquelles il est possible de travailler.  
   
-Les questions avant les solutions : voilà mon avis sur la question :)  
-  
-Un outil proposé pour ça que j’utilise régulièrement : la [[dialectique]].
+Les questions avant les solutions : voilà mon avis sur la question :)
