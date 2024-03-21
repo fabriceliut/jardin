@@ -1037,7 +1037,7 @@ Créer la confiance naturellement et humainement plutôt que administrativement 
 
 ---
 
-> La coopération est nécessaire pour entrer en [[Co-construction]]
+> La coopération est nécessaire pour entrer en [[co-construction]]
 > La co-construction n'est pas possible dans un contexte de collaboration
 
 

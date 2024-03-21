@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5182684bdc7c5de1",
+        "id": "537ea4eae7b4d0b4",
         "type": "tabs",
         "children": [
           {
-            "id": "0036086b9a118841",
+            "id": "960d25027e2efdd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/la culture du feedback base de la coopération.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Afairepousser",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/la culture du feedback base de la coopération.md",
+                "file": "_notes/changer le monde en créant d'autres histoires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -114,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/la culture du feedback base de la coopération.md",
+                "file": "_notes/changer le monde en créant d'autres histoires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/la culture du feedback base de la coopération.md"
+                "file": "_notes/changer le monde en créant d'autres histoires.md"
               }
             }
           }
@@ -160,8 +155,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a5496dc58e483739",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/process pour résoudre des problématiques complexes.md",
+    "_notes/changer le monde en créant d'autres histoires.md",
+    "_notes/co-construction.md",
+    "_notes/Les apports du Design pour la transition énergétique.md",
+    "_notes/la culture du feedback base de la coopération.md",
     "_notes/guidebook de l'approche territoriale NEOZ.md",
     "_notes/Le jeune Karl Marx.md",
     "_notes/Echec et mat du monopole.md",
@@ -183,11 +183,6 @@
     "_pages/about.md",
     "_notes/le leader régénératif fait circuler.md",
     "_notes/investir dans les questions.md",
-    "_notes/petite pensée sur la semaine de 4 jours.md",
-    "_notes/un rituel pour bien lancer la semaine.md",
-    "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
-    "_notes/le slash effect.md",
-    "_notes/régénérer pour ne pas dégénérer.md",
     "Untitled.canvas",
     "assets/avatar_24.jpg",
     "www.loom.com/share",
