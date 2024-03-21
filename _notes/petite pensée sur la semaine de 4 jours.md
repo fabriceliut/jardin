@@ -2,6 +2,8 @@
 title: petite pensée sur la semaine de 4 jours
 tags:
   - article
+  - transformation
+  - cas-étude
 ---
 La semaine de 4 jours est devenue la nouvelle norme dans votre entreprise? Est-ce que vous êtes en train d’essayer? Voici quelques éléments pour passer le cap :  
   

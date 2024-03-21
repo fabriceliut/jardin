@@ -1,7 +1,9 @@
 ---
 title: la vie en tribus nomades
+tags:
+  - fiction
+  - rêve
 ---
-
 Je vous partage un rêve d’un mode de vie que je ne connais pas mais qui m’inspire beaucoup.
 
 J’ai toujours eu ce sentiment en moi qui me fait sentir que notre mode de vie occidental actuel n’est pas le mieux qu’on puisse avoir et même plutôt dégénératif.

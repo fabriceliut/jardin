@@ -1,5 +1,8 @@
 ---
 title: La stigmergie mieux que l’intelligence artificielle pour gérer la complexité
+tags:
+  - bio-inspiration
+  - cas-exemple
 ---
 
 Je commence avec un exemple simple pour illustrer cette question : [Google a racheté Waze](https://www.frandroid.com/marques/google/145902_google-pourrait-acquerir-lapplication-de-navigation-waze) il y a quelques années, l’application de navigation alimentée principalement en intelligence… [humaine](https://support.google.com/waze/answer/6078702?hl=fr) !
@@ -37,7 +40,3 @@ Et si la priorité était de favoriser la stigmergie et l’[[intelligence colle
 **Tout ceci représente le fonctionnement d'[[Archipel Kyosei]] :**
 
 une rencontre avec des humains venant de multiples écosystèmes complémentaires pour travailler ensemble et avec les organisations dans leur transformation. Le monde de demain ne sera alors peut-être pas sauvé en majeure partie par le numérique, mais peut-être plutôt par des humains beaucoup plus conscients, curieux et ouverts à la diversité et à la coopération en toutes situations, un peu comme ces si mignonnes petites fourmis.
-
----
-
-#article

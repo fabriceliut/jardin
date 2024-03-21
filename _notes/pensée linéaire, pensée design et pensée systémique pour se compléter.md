@@ -2,8 +2,9 @@
 title: pensée linéaire, pensée design et pensée systémique pour se compléter
 tags:
   - Afairepousser
+  - designs
+  - systémique
 ---
-
 ### intention
 pas besoin d'opposer ces modèles de pensées car ils se complètent pleinement
 - [article source](https://medium.com/systems-thinking-made-simple/a-linear-thinker-a-design-thinker-and-a-systems-thinker-walk-into-a-bar-dd2db739a38a)

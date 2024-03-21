@@ -1,5 +1,7 @@
 ---
-title: Transformation d’un espace café en Living Lab.
+title: Transformation d’un espace café en Living Lab
+tags:
+  - cas-étude
 ---
 
 > Cette transformation a donné naissance à l'[[Archipel Kyosei]] dont je fais partie maintenant

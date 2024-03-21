@@ -1,7 +1,8 @@
 ---
 title: Pour toi chez moi ça veut dire quoi
+tags:
+  - Meta-analyse
 ---
-
 Une question que je trouvais belle et sensible, alors, j'ai demandé aux autres. Inspirant pour comprendre comment [[Prendre soin de soi]].
 
 [Voir le post sur Facebook](https://www.facebook.com/fabrice.liut/posts/10225096641267812?comment_id=10225102203206857&notif_id=1609962608262516&notif_t=feed_comment&ref=notif)
@@ -20,7 +21,7 @@ Chez moi ce sont les endroits, les moments où je ne peux qu’être moi-même, 
 
 Chez moi, je ne sais plus trop où c'est à force de bouger tout le temps... Peut-être en effet que ce n'est pas un lieu physique, mais mes affaires qui me suivent.
 
-Chez moi, c'est un lieu refuge, dans chaque ville, ce lieu dans lequel je me sens bien et en #sécurité, que je met un peu de temps à apprivoiser pour justement me sentir.. chez moi...
+Chez moi, c'est un lieu refuge, dans chaque ville, ce lieu dans lequel je me sens bien et en sécurité, que je met un peu de temps à apprivoiser pour justement me sentir.. chez moi...
 
 C'est partout sur la planète ou j'ai envie de rester un peu. A force de voyager et de ne jamais rester longtemps à un endroit fixe, ma maison, ma zone de confort devient tout simplement moi-même...
 
@@ -39,3 +40,5 @@ Cela représente mes fondations, le point de départ de mon évolution future.
 Chez moi c'est alors partout ou presque, ou rien ne m'empêche d'être...vivante, un petit maillon de cette terre-nature...
 
 Où peut-être que finalement non , je ne vais pas te le dire, mais je veux bien te le murmurer...
+
+pour [[décoder la vie]].

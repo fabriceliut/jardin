@@ -1,6 +1,8 @@
 ---
 title: les niveaux de gestion des communications
 tags:
+  - knowledgemanagement
+  - guidebook
 ---
 Il est utile de comprendre les détails de comment fonctionne la communication entre humains pour mieux s’organiser et réduire l’effort de traiter de l’information. 
 
@@ -94,3 +96,5 @@ Ce fonctionnement asynchrone va demander une qualité de formulation de l’info
 - Gérer ses tâches en se basant sur une prise de note sans traitement et organisation supplémentaire (nv3)
 - Garder de l’information traitée au même endroit que de l’information nouvelle (tout en inbox) 
 - Ne rien organiser, ne rien archiver
+
+fait partie des [[guidebook]].

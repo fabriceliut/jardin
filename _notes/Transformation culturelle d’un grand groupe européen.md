@@ -1,7 +1,8 @@
 ---
-title: Transformation culturelle d’un grand groupe européen.
+title: Transformation culturelle d’un grand groupe européen
+tags:
+  - cas-étude
 ---
-
 *[[Le Comptoir]] accompagne depuis 1 an un grand groupe (+100 000 collaborateurs) dans sa transformation culturelle globale. La démarche est portée par Fabrice, Designer systémique, Hugo, consultant numérique et enfin Fanny, anthropologue, tous 3 membres des écosystèmes du Comptoir.*
 
 ### **Au départ, une rencontre.**

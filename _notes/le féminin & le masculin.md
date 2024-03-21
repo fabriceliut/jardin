@@ -1,5 +1,8 @@
 ---
 title: le féminin & le masculin
+tags:
+  - spiritualité
+  - Meta-analyse
 ---
 je propose de présenter le féminin comme l'énergie Yin et le masculin comme l'énergie Yang. les principes de ces 2 énergies sont exactement les même que présentés dans les théories orientales qui utilisent les principes yin/yang.
 
@@ -52,4 +55,4 @@ l’énergie masculine lie les parties comme la notion de fraternité pour renfo
 - utilise ce que le féminin donne comme force pour aller à l’extérieur chercher de nouvelles ressources pour rapporter au féminin
 - va chercher à l’extérieur pour renforcer l’intérieur
 
-#Afairepousser 
+dans la série [[décoder la vie]]

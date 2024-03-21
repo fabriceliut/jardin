@@ -2,10 +2,12 @@
 title: mettre en place un service design dans l'entreprise
 tags:
   - article
+  - designs
+  - offre
 ---
 Vous n’avez pas encore de département ou de service « design » dans votre entreprise? Alors il vous manque clairement un service!  
   
-Le pôle « design » est un rouage nécessaire d’une entreprise. **En effet « design » fait référence à tout le processus de réflexion collective, du concept à la conception finale de votre produit ou service, que ce soit numérique ou autre**.  
+Le pôle « [[designs]] » est un rouage nécessaire d’une entreprise. **En effet « design » fait référence à tout le processus de réflexion collective, du concept à la conception finale de votre produit ou service, que ce soit numérique ou autre**.  
   
 Sans service design, c’est comme si l’entreprise devait « sauter » de la vision stratégique au marketing et à la vente directement : sans processus de conception formel, en place et déclaré!  
   

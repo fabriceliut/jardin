@@ -1,12 +1,14 @@
 ---
 title: process pour créer des contenus online
+tags:
+  - knowledgemanagement
 ---
 
 rien de magique sauf que si justement: 2022 est une année merveilleuse pour créer dans le monde numérique, il y a tout ce qu’il faut!
 
 ### capturer et enregistrer
 
-pour enregistrer du podcast à plusieurs, j'utilise [Riverside](https://riverside.fm/) en gratuit qui permet de créer un “studio” dans lequel inviter ceux avec qui tu veux enregistrer. tu as simplement un lien à leur envoyer et dès qu’ils ont rejoin, un clique sur enregistrer et c’est partie! l’application traite directement le son pour assurer une bonne qualité et enregistre toutes les pistes entrantes en séparées ce qui laisse la liberté du montage derrière.
+pour enregistrer du podcast à plusieurs, j'utilise [Riverside](https://riverside.fm/) en gratuit qui permet de créer un “studio” dans lequel inviter ceux avec qui tu veux enregistrer. tu as simplement un lien à leur envoyer et dès qu’ils ont rejoint, un clique sur enregistrer et c’est partie! l’application traite directement le son pour assurer une bonne qualité et enregistre toutes les pistes entrantes en séparées ce qui laisse la liberté du montage derrière.
 
 ### éditer
 

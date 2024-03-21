@@ -1,7 +1,8 @@
 ---
 title: travailler avec moi comme avec un ami
+tags:
+  - philosophie
 ---
-
 Avec moi ce sera comme faire un projet avec un ami:
 
 -   l'écoute représente le coeur de mon accompagnement

@@ -2,6 +2,9 @@
 title: le leader régénératif fait circuler
 tags:
   - article
+  - régénératif
+  - archipel
+  - projet
 ---
 Un leader, un influenceur, une tête de réseau etc… c’est une personne qui est tout le temps sollicitée et donc très difficilement disponible pour répondre à toutes les demandes entrantes.  
   

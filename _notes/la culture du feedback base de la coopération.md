@@ -1,5 +1,8 @@
 ---
 title: la culture du feedback base de la coopération
+tags:
+  - Afairepousser
+  - coopération
 ---
 
 [https://link.medium.com/BQpHDilNAtb](https://link.medium.com/BQpHDilNAtb) (article source)
@@ -13,5 +16,3 @@ je développerais ici l'idée que le feedback est une base simple, saine et esse
 
 - Quand tu fais un truc toujours penser au retour à donner, au rebond d’info pour la suite
 - Dire pourquoi c’est important, ce que ça apporte
-
-#Afairepousser 

@@ -1,7 +1,8 @@
 ---
 title: Le jeune Karl Marx
+tags:
+  - Meta-analyse
 ---
-
 _Réflexion suite au film « le jeune Karl Marx »._
 
 Il semble qu’une nouvelle boucle d’évolution humaine se produise. A l’époque, le prolétariat contre la bourgeoisie et aujourd’hui les grandes puissances capitalistes et les communs.

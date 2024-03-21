@@ -1,5 +1,8 @@
 ---
 title: présentation community design 101
+tags:
+  - communitydesign
+  - guidebook
 ---
 
 - [fabrice liut](https://liut.me) - designer & facilitateur - ==systems thinker==

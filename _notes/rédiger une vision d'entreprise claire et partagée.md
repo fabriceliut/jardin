@@ -1,6 +1,9 @@
 ---
 title: rédiger une vision d'entreprise claire et partagée
 tags:
+  - futur
+  - transformation
+  - guidebook
 ---
 Série de contenus spécialement pour partager ce que j’ai appris en travaillant avec des dirigeants de plus utile pour d’autres.
 

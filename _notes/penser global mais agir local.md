@@ -1,7 +1,9 @@
 ---
 title: penser global mais agir local
+tags:
+  - systémique
+  - Afairepousser
 ---
-
 ## intention
 *soutenir la prise d'action individuelle et la simplicité en se libérant du point de vue global qui fait prendre conscience mais qui donne aussi un sentiment d'être trop petit et impuissant.*
 
@@ -29,4 +31,4 @@ chacun prend conscience globalement des tendances du monde puis de sa place dans
 peut-être même que chacun peut se rendre compte qu'il est déjà bien à sa place et héros de sa propre histoire. bien entendu, cette aventure nécessite de la patience et de la foi sur le long terme.
 l'intention et l'intuition sont les meilleurs alliés sur le chemin, les guides qui permettent d'avancer et de se réorienter, pas à pas - la boussole intérieure.
 
-#Afairepousser 
+pour [[Prendre soin du monde]].

@@ -1,5 +1,8 @@
 ---
 title: les notes atomiques de sources
+tags:
+  - contentmarketing
+  - knowledgemanagement
 ---
 Il y a les notes atomiques de ce qui vient de moi : une idée centrée, un concept.
 

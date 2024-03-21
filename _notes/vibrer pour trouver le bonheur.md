@@ -2,6 +2,7 @@
 title: vibrer pour trouver le bonheur
 tags:
   - article
+  - spiritualité
 ---
 *Peu importe ce que je fais dans ma vie, je vis et je crée des fluctuations dans le champ énergétique qui font évoluer moi,la Terre et l'Univers. Mais ce qui compte vraiment, c'est de vibrer et de ressentir de la joie et du bonheur, car c'est sur ce chemin que l'humain peut atteindre l'éveil et un état d'extase perpétuel.*
 

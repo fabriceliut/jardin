@@ -1,5 +1,8 @@
 ---
 title: vision du moment présent
+tags:
+  - philosophie
+  - spiritualité
 ---
 
 https://twitter.com/SlaapMe/status/1358707657151029249?s=20
@@ -10,5 +13,4 @@ J’ai déjà vécu ce « moment » comme beaucoup d’entre nous mais le plus d
 
 Rentrer dans une autre dimension, une autre [[réalité]]. Rien à voir avec ici, rien à voir avec la matière, c’est autre chose et au-delà des mots. **Très souvent je me demande pourquoi on fait ce que l’on fait plutôt que de nous entre-aider à sortir du temps.**
 
----
-#Afairepousser [[spiritualité]]
+en lien avec [[spiritualité]].

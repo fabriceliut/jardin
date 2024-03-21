@@ -1,5 +1,7 @@
 ---
 title: livre du Comptoir
+tags:
+  - projet
 ---
 
 ### **Le Comptoir des temps nouveaux. Un ouvrage présentant l’approche et les modèles concrets du Comptoir permettant d’accompagner la transformation de notre société et la création de « temps nouveaux » souhaitable et vraisemblables.**

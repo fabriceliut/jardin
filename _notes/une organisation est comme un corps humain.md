@@ -1,7 +1,9 @@
 ---
 title: une organisation est comme un corps humain
+tags:
+  - bio-inspiration
+  - régénératif
 ---
-
 Comment avoir une meilleure conscience de nos organisations si nous n’avons pas déjà une bonne conscience de notre propre corps? Inspirons nous de nous-même pour trouver des solutions pour nos entreprises.
 
 ### Quand nous sommes malades
@@ -17,6 +19,3 @@ Comment se comporte la direction d’une organisation lorsque l’organisation v
 ### Comment être naturopathe de son organisation?
 
 > Partie en cours d’écriture par notre duo experts naturopathe/transition des organisations…
-
----
-#Afairepousser 

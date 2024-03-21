@@ -2,6 +2,7 @@
 title: plan d'action d'entreprise et rôles responsables
 tags:
   - Afairepousser
+  - guidebook
 ---
 Suite de cette série pour partager ce que j’ai appris de plus important avec les dirigeants que j’ai accompagné qui peut enrichir les autres. 
 
@@ -131,3 +132,5 @@ Et pour s’activer, suivre, piloter, réorienter il est cœur d’avoir un plan
 - Méthodes de gestion de projet : [[management projet]]
 - Méthodes de gestion de la connaissance : [[management de la connaissance]]
 - Les outils, les ressources et les bonnes pratiques au quotidien
+
+pour [[Prendre soin du collectif]].

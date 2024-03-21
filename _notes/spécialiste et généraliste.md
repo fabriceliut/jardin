@@ -1,7 +1,10 @@
 ---
 title: spécialiste et généraliste
+tags:
+  - Afairepousser
+  - transformation
+  - entreprenariat
 ---
-
 à l'origine, une discussion [sur linkedIN](https://www.linkedin.com/posts/marie-lou-barnaud_gaeznaezraliste-spaezcialiste-km-activity-6936975990766100480-4XMi?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ## intention
@@ -63,4 +66,4 @@ c'est un biais risqué car le médecin est rarement le malade en même temps...
 
 globalement, si vous devez travailler une problématiques complexe et systémique - il sera plus intéressant de commencer le travail et un accompagnement avec un généraliste qui va ensuite vous aider à compléter une équipe de spécialistes - plutôt que de sauter sur un spécialiste pour une seule dimension isolée d'un problème plus complet à traiter globalement - et qui n'est peut-être même pas le bon problème!
 
-#Afairepousser 
+pour [[Prendre soin du collectif]].

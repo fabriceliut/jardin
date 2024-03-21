@@ -1,5 +1,7 @@
 ---
 title: Découverte de Roam
+tags:
+  - projet
 ---
 
 # Date à définir.
@@ -16,5 +18,3 @@ Je vous propose 40 minutes max d'un tour de découverte de notre instance [[Roam
 - Roam & la prise de note en multiplayers (règles, bonnes pratiques, partage d'expériences)
 - Roam demain ? Et les autres applications de sa génération ?
 - Répondre à vos questions
-
-#event

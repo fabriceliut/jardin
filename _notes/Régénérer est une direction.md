@@ -1,5 +1,7 @@
 ---
 title: Régénérer est une direction
+tags:
+  - régénératif
 ---
 
 Régénérer n’est pas une destination ou un objectif mais une direction, une tangente. **À chaque instant, à chaque action, nous prenons une direction, une orientation**. Est-ce que ce qu'on est là maintenant en train de faire est [[régénératif]] ou dégénératif ? Ce serait la question à se poser, en pleine conscience, tout le temps.
@@ -17,8 +19,6 @@ C'est ce qu'on pourrait appeler "le choix déterminant de la vie" - également e
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FOmega%2Fd50EJqYA7l?alt=media&token=cd155080-20a1-4084-97ee-cb8d7ca1ee55)
 
-Inspiration du [livre]([[Livres et vidéos]]) 👉 Le génie de Viktor.Schauberger, Naturaliste, garde forestier et scientifique intuitif par l'observation
+Inspiration du [livre]([[Livres et vidéos]]) 👉 Le génie de Viktor.Schauberger, Naturaliste, garde forestier et scientifique intuitif par l'observation.
 
----
-
-#article 
+pour [[Prendre soin du monde]].

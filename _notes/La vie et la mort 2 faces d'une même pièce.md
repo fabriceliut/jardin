@@ -1,5 +1,7 @@
 ---
 title: La vie et la mort 2 faces d'une même pièce
+tags:
+  - rêve
 ---
 
 Voilà ce que j'ai noté hier soir, directement en me réveillant d'un rêve très intense.

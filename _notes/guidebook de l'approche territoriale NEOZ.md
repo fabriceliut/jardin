@@ -540,9 +540,9 @@ Voir l'outil sur **la posture leader**.
 ## Quels outils & ressources utiliser ?
 
 Apports de la [[coopération]]
-Apports de la #Sociodynamique
-Apport de l'  #Actionnement
-Apports de la #posturefacilitateur
+Apports de la Sociodynamique
+Apport de l' Actionnement
+Apports de la posture en [[facilitation]]
 Apports de l' [[intelligence collective]]
 Apports du [[design systémique]]
 Apports sur [[Les types de relation]]
@@ -612,7 +612,7 @@ Toutes les parties prenantes, dans le développement de leurs propres projets, v
 
 Tout le monde est désormais une partie d'un même "corps" territoire commun.
 
-### La #Co-construction en pas à pas
+### La Co-construction en pas à pas
 Durant la phase de co-construction, tous les acteurs du territoire rentrent vraiment dans un mode projet coopératif:
 - Ils mettent en place une #gouvernance et installent des "rituels" de synchronisation et de mise à niveau en terme d'information des actions de chacun
 - Ils mettent en place les rôles nécessaires au bon développement du projet de territoire
@@ -690,7 +690,7 @@ Pour revenir au présent, le groupe décompose les différentes actions à mettr
 De ces priorisations il est possible de déterminer les prochains petit pas à activer directement en sortie de réunion.
 Ces actions sont ensuite assignées aux différents rôles porteurs qui vont, en prenant le rôle, s'engager à remplir ces actions et à apporter les rétributions associées / partager les feedbacks positifs comme négatifs.
 
-Instaurer les bases de la #Co-construction 
+Instaurer les bases de la Co-construction 
 Constituer une #gouvernance 
 
 ---
@@ -900,7 +900,7 @@ S'il y a validation, il y a GO également sur l'intégration des apprentissages 
 
 ## Quelle méthode employer ?
 
-Faire un état des lieux en #Co-construction
+Faire un état des lieux en Co-construction
 Choisir en amont Les indicateurs qui permettront d'évaluer la démarche.
 - définir des KPIs
 - définir des OKRs
@@ -919,7 +919,7 @@ Choisir en amont Les indicateurs qui permettront d'évaluer la démarche.
 Apports du #[[design systémique]]
 Apports du #[[design régénératif]]
 Apports du [[business design]]
-Apports de la #documentation & [[système de connaissances]]
+Apports de la documentation & [[système de connaissances]]
 
 ---
 

@@ -1,5 +1,8 @@
 ---
 title: Mutation Culturelle
+tags:
+  - Afairepousser
+  - terminologie
 ---
 
 Par approche en [[bio-inspiration]] il est possible d'envisager les évolutions culturelles comme des mutations génétiques. **La mutation biologique pour le matériel et la mutation culturelle pour le monde de l'immatériel.**
@@ -9,4 +12,4 @@ Tout en considérant également les impacts dans l'autre sens : les évolutions 
 Tout service ou produit, tout objet (même un objet de langage) porte un impact sur les évolutions culturelles comme par exemple les produits numériques.
 Un objet peut changer la société (l'argent par exemple) comme la société peut changer ses objets. C'est avec la [[pensée systémique]] qui nous est possible d'appréhender cette [[complexité]].
 
-#Afairepousser 
+pour [[Prendre soin du monde]]

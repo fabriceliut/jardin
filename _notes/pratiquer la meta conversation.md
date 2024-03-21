@@ -1,10 +1,12 @@
 ---
 title: pratiquer la meta conversation
+tags:
+  - Meta-analyse
 ---
 
 Est-ce que vous aussi vous sentez que lors d’une conversation il y a des évolutions comme par « niveaux » - comme si les échanges changeaient de hauteur, de fréquence, de niveau d’abstraction? (cf [[exploration de l'abstraction]])
 
-C'est possible de partir d’un sujet très concret comme un objet de tendance ou d’actualité et puis par rebond de remonter sur des idées, des concepts, des analyses… est-ce que vous sentez et appréciez cette remontée plus « meta » lors d’une conversation?
+C'est possible de partir d’un sujet très concret comme un objet de tendance ou d’actualité et puis par rebond de remonter sur des idées, des concepts, des analyses… est-ce que vous sentez et appréciez cette remontée plus « meta » lors d’une conversation? (un échange qui parle du [[metagame]])
 
 > Exemple simple pour illustrer: on peut parler de l’éducation française et puis du modèle de l’éducation et ensuite de ce qu’est l’éducation et de comment est-ce qu’on apprendre et puis enfin de comment apprendre à apprendre…
 

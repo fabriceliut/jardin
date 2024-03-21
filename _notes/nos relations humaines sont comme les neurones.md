@@ -1,5 +1,7 @@
 ---
 title: nos relations humaines sont comme les neurones
+tags:
+  - Meta-analyse
 ---
 
 Et si le fonctionnement de nos relations humaines suivait exactement les même lois que celles qui définissent le comportement des neurones les uns avec les autres ?

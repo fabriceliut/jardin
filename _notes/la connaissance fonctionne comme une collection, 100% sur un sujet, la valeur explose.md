@@ -1,5 +1,7 @@
 ---
 title: la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose
+tags:
+  - knowledgemanagement
 ---
 
 Je développerai ici le concept de « collection de connaissances » très proche de la définition des savoirs. Dors et déjà, quel lien par rapport aux démarches de [[Archipel Kyosei]]?

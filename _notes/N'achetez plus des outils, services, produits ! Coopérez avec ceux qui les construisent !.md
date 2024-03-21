@@ -1,5 +1,7 @@
 ---
 title: N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !
+tags:
+  - outils
 ---
 
 L'humain évolue dans un monde de la technique comme solution à tout depuis bien longtemps. L'ère industrielle n'a pas aidé à calmer ça, elle l'a développée et rendue culturellement normalisée.
@@ -104,7 +106,3 @@ Sur le schéma que je vous partage dans cet article, il y a deux "étages" de pl
 **Comment libérer [[l'imaginaire]] ?** En lui laissant de la place, en arrêtant de réfléchir tout le temps et de rationaliser tout le temps. Les "eurêka !" surviennent souvent sous la douche : une nouvelle matière pénètre la logique du scientifique pendant qu'il se frotte le dos : c'est exactement l'élément qui lui manquait pour terminer sa théorie !
 
 **[[Comment libérer l'imaginaire ?]]** Ce sera pour un prochain article. Mais d'ici là, **essayez de rencontrer des personnes qui ont d'autres modèles de pensée que le vôtre** : vous aurez alors de grandes chances d'explorer des domaines encore à découvrir pour vous et ce sera peut-être le théâtre, l'art, la musique... **Tout ce champ d'exploration en dehors du rationnel qui peut libérer votre imaginaire.**
-
----
-
-#article

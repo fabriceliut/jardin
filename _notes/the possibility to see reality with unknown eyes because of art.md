@@ -1,5 +1,9 @@
 ---
 title: the possibility to see reality with unknown eyes because of art
+tags:
+  - art
+  - Afairepousser
+  - Meta-analyse
 ---
 
 https://twitter.com/SlaapMe/status/1361048078048968705
@@ -15,5 +19,3 @@ to art, we can open ourself today to other realities we can’t imagine by ourse
 artists to open our perceptions doors (as [@aldouxhuxley](https://twitter.com/aldouxhuxley) could say)...
 
 Sometime I forget that the only thing I know is that I know nothing... thx Socrate, thx people who put new questions in my head. Thx art 🖼 to open my windows 🪟 everyday.
-
-#Afairepousser 

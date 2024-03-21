@@ -1,7 +1,9 @@
 ---
 title: logique et nécessité des interrelations pour faire système en archipels
+tags:
+  - archipel
 ---
-Une des étude qu'on porte avec [[Archipel Kyosei]] pour faire grandir le mouvement des [[Archipels en Symbiose]]. En même temps, élément de [[Recherche-Action]] sur l'évolution de notre société et surtout des alternatives au mouvement dominant.
+Une des études qu'on porte avec [[Archipel Kyosei]] pour faire grandir le mouvement des [[Archipels en Symbiose]]. En même temps, élément de [[Recherche-Action]] sur l'évolution de notre société et surtout des alternatives au mouvement dominant.
 
 ---
 ## Comment faire système "en archipels" ?
@@ -48,6 +50,6 @@ Relions tout ce qui s’agite, et tout le monde peut le faire.
 
 Un exemple simple auquel vous pouvez participer pour relier > [Ref des archipels](https://workflowy.com/s/les-archipels-de-la/aEViTvhGbXP23ZV4)
 
-**Relions !**
+**Relions !** pour [[Prendre soin du monde]].
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/adc8ac8c946b468cafce0bef2213c7ee" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

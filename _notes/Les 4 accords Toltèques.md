@@ -1,5 +1,8 @@
 ---
 title: Les 4 accords Toltèques
+tags:
+  - spiritualité
+  - philosophie
 ---
 
 - Que votre parole soit impeccable.

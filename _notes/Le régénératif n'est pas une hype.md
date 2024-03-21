@@ -2,8 +2,8 @@
 title: Le régénératif n'est pas une hype
 tags:
   - article
+  - régénératif
 ---
-
 Signal faible sur le sujet du [[régénératif]] pour ceux à qui ça parle : maintenant 6 ans que je suis à fond dedans aussi et d'autres depuis +30ans... ce n'est pas...👇  
   
 ce n'est pas un petit sujet marketing. c'est un engagement, profond, complexe, holistique, long terme, profond voir même sincèrement et humblement spirituel.  

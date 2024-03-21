@@ -1,7 +1,10 @@
 ---
 title: structurer un système information
+tags:
+  - knowledgemanagement
+  - guidebook
+  - Afairepousser
 ---
-
 ## Les données en interrelations.
 L’information n’est pas suffisante, **elle doit être traitée et connectée pour en faire de la connaissance utilisable.**
 **Le système d'information est fait pour relier les termes, les concepts, les sujets pour créer des ponts et connexions entre des bouts d’informations séparés.**
@@ -41,12 +44,9 @@ Ressources reliées à des thèmes
         - Leur rédaction est totalement libre et n’attend pas une utilité ou une structure logique et partageable
         - Un peu comme un journal intime ouvert et commun
 
-### 🧰Outils.
+### 🧰 Outils.
 - [[Roam Research]] ou [[Workflowy]] pour tout le travail qui va jusqu'au projet posé en logique et à l'écrit
 - [[Notion]] pour la mise en narration et en forme page web
 - *mettre en forme ensuite en article, livre, audio, vidéo, expérience dans le réel, etc...*
 
-Après cette étape, on commence à voir se dessiner une [[émergence de structure logique utilisable]]
-
----
-#Afairepousser 
+Après cette étape, on commence à voir se dessiner une [[émergence de structure logique utilisable]].

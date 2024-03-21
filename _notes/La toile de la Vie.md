@@ -1,5 +1,8 @@
 ---
 title: la toile de la Vie
+tags:
+  - spiritualité
+  - Meta-analyse
 ---
 
 > La vie qu'on perçoit est le reflet en images concrètes d'une toile vivante & abstraite à l'arrière, derrière le mental et la raison. Le monde de l'inconscient, la vie, tissu d'énergie dans lequel et duquel Tout est entrelacé, Tout est lié, Tout est UN... Une onde vibrante Nous parcourt mettant TOUT en mouvement... La Vie.
@@ -16,4 +19,4 @@ Mais alors, pourquoi ne vit-on pas dans cette sensibilité ? J'aurais forcément
 
 La toile de la Vie, le support de l'[[Inconscient]] d'où tout émerge. J'ai un livre à vous partager pour parler de ça aussi, ["Psychologie du yoga de la Kundalini" de Jung](https://roamresearch.com/#/app/Omega/page/b3dciGWNh). Vraiment fascinant de prendre conscience que même à l'intérieur de nous, il y a tout un monde qui ne nous appartient pas... **L'impersonnel dans la chapelle de la personnalité**... Plus ça va plus je me dis qu'il n'y a vraiment pas à savoir qui JE suis mais plutôt explorer qui NOUS sommes en dansant sur le dancefloor de la Vie...
 
-Lié à la série [[décoder la vie]].
+Lié à la série [[décoder la vie]] & [[spiritualité]].

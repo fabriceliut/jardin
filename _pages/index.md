@@ -27,23 +27,20 @@ permalink: /
 ## axes de travail et de recherche
 avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
 
-j'ai plutôt une posture de [[bras droit]] des dirigeants, leaders et CEOs - parce que c'est avec ces humains engagés que je suis le plus utile et le plus efficace.
+je porte une casquette de "chief of staff externe" : j'accompagne les directions générales d'entreprises avec une posture de génératiste.
 
-pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au coeur de mes explorations personnelles:
-- [[design régénératif]]
+- [[pourquoi travailler avec un généraliste plutôt qu’un spécialiste?]]
+- [[pour quoi travailler ensemble]]
+
+pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au coeur de mes explorations :
+- [[régénératif]]
 - [[bio-inspiration]]
 - [[complexité]] - [[système complexe]]
-- [[coopération]]
-- [[créer un système de connaissance coopératif]]
+- [[présentation générale du design systémique]]
+- [[simplexité]]
+- [[metagame]]
 
-quelques concepts, outils, méthodes, formats... qui ont émergé et qui portent ma pratique au quotidien:
-- [[pour quoi travailler ensemble]]
-- [[Design systémique sur 3 jours]]
-- [[présentation community design 101]]
-- [[N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !]]
-
-je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décortiquer pour comprendre et peut-être réussir un jour à [[décoder la vie]]... et même si "je sais que je ne sais rien" cela n'enlève pas le plaisir des nouvelles découvertes.
-
+je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décortiquer pour comprendre, sentir et peut-être réussir un jour à [[décoder la vie]]... et même si "je sais que je ne sais rien" cela n'enlève pas le plaisir des nouvelles découvertes.
 
 ---
 

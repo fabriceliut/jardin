@@ -1,5 +1,8 @@
 ---
 title: Retour dans le game ou aller simple vers le meta-game
+tags:
+  - Meta-analyse
+  - Afairepousser
 ---
 
 **Ce que j'appelle ici "game" c'est notre jeu de société** : des semaines d'activités divers pour faire rentrer de l'argent nécessaire à "vivre", prendre soin de notre famille & amis, nous divertir, etc...
@@ -12,7 +15,7 @@ Même s'il n'y a rien à comprendre en définitif, c'est toujours très enrichis
 <p><a href="https://vimeo.com/500983781">Retour dans le &quot;game&quot; ou aller simple vers le &quot;meta-game&quot;</a> from <a href="https://vimeo.com/bioscene">R&eacute;seau Bio-Sc&egrave;ne</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
-### Synthèse écrire des échanges à venir.
+### Synthèse écrite des échanges à venir.
 
 _...En attendant_
 
@@ -20,6 +23,3 @@ _...En attendant_
 -   Qu'est-ce que la coopération, en profondeur ?
 -   C'est quoi le vivant ? Différence entre "vie" & "nature".
 -   ...
-
----
-#Afairepousser 

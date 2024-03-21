@@ -1,7 +1,9 @@
 ---
 title: qu'est-ce qu'un designer en 2024
+tags:
+  - designs
+  - Afairepousser
 ---
-
 Le designer porte un état d’esprit, une manière de penser et d’interagir avec le monde - on parle de [[Design thinking]], un modèle de pensée, un "worldview".
 
 Le designer observe le monde qui l’entoure, il l’étudie et le questionne continuellement - c'est un explorateur et un curieux qui ne s'arrête jamais.
@@ -17,5 +19,3 @@ Le designer prend alors également la posture de facilitateur et fournit les out
 Il accompagne le processus créatif des problématiques aux tests de prototypes de solutions.
 
 Il aide à faire le lien entre le futur et le présent, entre l’abstrait et le concret, le virtuel et le réel - comme par exemple avec le [[Design fiction]].
-
-#Afairepousser 

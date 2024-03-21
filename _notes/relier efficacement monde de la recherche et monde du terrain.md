@@ -1,7 +1,10 @@
 ---
 title: relier efficacement monde de la recherche et monde du terrain
+tags:
+  - régénératif
+  - transformation
+  - Afairepousser
 ---
-
 ### contexte
 Suite à discussion avec Olaf, un ami de [[Archipel Kyosei]]
 
@@ -28,4 +31,4 @@ alors pour votre prochain projet, plutôt que de jouer au scientifique et à l'e
 
 cette approche peut coûter plus cher car plus d'intervenants mais le travail coopératif sur un temps très court peut faire gagner des semaines derrière... c'est donc un très bon investissement!
 
-#Afairepousser 
+pour [[Prendre soin du monde]].

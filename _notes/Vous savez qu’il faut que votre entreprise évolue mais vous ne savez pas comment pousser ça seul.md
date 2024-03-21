@@ -1,8 +1,10 @@
 ---
 title: Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul
+tags:
+  - transformation
+  - guidebook
 ---
-
->"comment est-ce possible, malgré toutes les informations dont on dispose aujourd'hui, qu'on continue de faire tourner l'entreprise et nos activités de la même manière sans chercher à transformer notre manière de faire face aux enjeux écologiques?”
+> comment est-ce possible, malgré toutes les informations dont on dispose aujourd'hui, qu'on continue de faire tourner l'entreprise et nos activités de la même manière sans chercher à transformer notre manière de faire face aux enjeux écologiques?”
 
 est-ce que vous aussi cette frustration vous remonte des trips chaque matin? est-ce que vous sentez une forme d'impuissance malgré le fait que vous pourriez proposer des choses pour faire évoluer votre entreprise?
 
@@ -20,6 +22,4 @@ j'invite au premier lien et surtout ne restez jamais figés! s'il y a des choses
   
 **c'est ma raison d'être personnelle**: j'ai besoin de vous pour travailler à changer le système dans lequel vous évoluez au quotidien.
 
-alors, on s'appelle et on voit comment faire évoluer les choses?
-
-> calendly.com/liut
+alors, [on s'appelle](calendly.com/liut) et on voit comment faire évoluer les choses?

@@ -1,9 +1,10 @@
 ---
 title: moins parler pour mieux coopérer
+tags:
+  - Afairepousser
+  - coopération
+  - bio-inspiration
 ---
-
-#Afairepousser #asynchrone
-
 Je ne vois pas pourquoi nous serions l’espèce la plus évoluée. Nous sommes certes en « bout de chaîne » de mutations mais nous ne sommes pas les seuls sur cette terre il y a beaucoup d’humilité à avoir face au reste du vivant.
 
 J’aime à repartir de ce point pour questionner l’usage que nous faisons de notre langage et de notre mode de communication principal : pour faire des choses ensemble, on parle, on discute, on débat, on a des conversations... mais est-ce que nous sommes certains que cette manière de communiquer pour réussir à faire ensemble est la plus efficiente ?

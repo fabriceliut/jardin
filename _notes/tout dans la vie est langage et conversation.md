@@ -1,7 +1,10 @@
 ---
 title: tout dans la vie est langage et conversation
+tags:
+  - language
+  - Afairepousser
+  - article
 ---
-
 Peut-être que l'étude de la [[linguistique]] nous permettrait de comprendre l'art, les échecs, l'entreprenariat, la danse, etc... Sans pour autant tout expérimenter en profondeur.
 
 Et si en pratiquant une discipline en tant que débutant, en apprenant les règles et bases nous étions en fait en train d'en apprendre l'alphabet bien spécifique. Ce n'est pas "A" mais le premier pas, ce n'est pas B mais le second geste pour tracer un trait sur la toile...
@@ -17,6 +20,3 @@ Je suis fasciné d'imaginer que chaque domaine d'expression, chaque activité es
 Est-ce qu'on ne dit pas de tel ou tel sujet qu'il "nous parle" ? Est-ce que Tout tout le temps n'est pas en train de s'adresser à nous et de nous raconter des histoires par nos 5 sens ?
 
 Est-ce que derrière la linguistique il n'y pas surtout l'étude brute de la [[logique]] ? Est-ce qu'on ne touche pas aux limites de notre [[raison]] ?
-
----
-#Afairepousser #article 

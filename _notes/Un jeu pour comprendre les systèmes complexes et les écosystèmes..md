@@ -1,7 +1,9 @@
 ---
 title: Un jeu pour comprendre les systèmes complexes et les écosystèmes.
+tags:
+  - systémique
+  - guidebook
 ---
-
 Merci Nick, créateur de ce petit jeu, pour m'aider à répondre en partie, de manière fun et plus simplement à ce qu'est le [[design systémique]] . Mais avant ça, petite présentation globale du sujet.
 
 ### **C'est quoi un système ?**
@@ -65,7 +67,3 @@ _Alors, toi aussi tu as envie de tout comprendre maintenant ? 🚀_
 Maintenant que vous avez compris ce qu'est un système complexe et peut-être même que vous avez aimé designer les vôtres, vous avez certainement envie de faire le lien avec "la vrai vie" et vos problématiques complexes actuelles ? Et bien c'est une opportunité idéale pour [nous rencontrer](https://liut.me/contact) non?
 
 si vous voulez plus de contenus sur le thème, vous pouvez aussi commencer par suivre [ma newsletter](https://liut.substack.com)
-
----
-
-#article

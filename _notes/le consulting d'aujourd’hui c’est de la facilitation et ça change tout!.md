@@ -11,8 +11,10 @@ Le consulting a évolué ces dernières années pour devenir davantage une [[fac
 
 Cette évolution permet de créer une relation de confiance et de partenariat entre les consultants et leurs clients, ce qui améliore considérablement l'efficacité et la pertinence des solutions proposées.
 
-Je suis convaincu que cette approche de "facilitation X conseil" est la clé pour réussir dans le monde complexe et en constante évolution d'aujourd'hui.
+Je suis convaincu que cette approche de "*facilitation X conseil*" est la clé pour réussir dans le monde complexe et en constante évolution d'aujourd'hui.
 
 ### en lien?
 - [[le combo entreprise et accompagnants externes est gagnant]]
 - [[avoir de l’impact en tant qu’accompagnant et consultant externe]]
+- [[Ceo, n'oubliez pas votre COO ou COS]]
+- [[avantages de travailler avec un COO externe à temps partagé]]

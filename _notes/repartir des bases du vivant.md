@@ -1,7 +1,10 @@
 ---
 title: repartir des bases du vivant
+tags:
+  - régénératif
+  - bio-inspiration
+  - Afairepousser
 ---
-
 c'est quoi vraiment ce qui est vivant? Comment être plus vivant ou vitalisé à échelle personnelle déjà? 
 retrouver les bases de ce qui fait de nous des êtres vivants c'est revenir à la simplicité pour changer ses habitudes et son comportement au quotidien et pouvoir se régénérer déjà chacun à son échelle.
 
@@ -35,4 +38,4 @@ ensuite, bien manger et boire, entretenir de bonnes relations humains et bien re
 
 si je m'assure de ces besoins dans cet ordre, je m'assure d'être plutôt [[régénératif]] avec moi-même. je pars des bases du vivant pour en définir mes propres bases et ensuite utiliser cet "outil" pour naviguer dans mes choix du quotidien.
 
-cet outil peut aussi s'appliquer à une organisation pour redéfinir sa raison d'être et son fonctionnement de base. #Afairepousser -> *ça pourra donner naissance à un outil plus construit.*
+cet outil peut aussi s'appliquer à une organisation pour redéfinir sa raison d'être et son fonctionnement de base -> *ça pourra donner naissance à un outil plus construit.*

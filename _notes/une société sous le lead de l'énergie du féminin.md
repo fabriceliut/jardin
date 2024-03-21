@@ -2,6 +2,8 @@
 title: une société sous le lead de l'énergie du féminin
 tags:
   - Afairepousser
+  - spiritualité
+  - régénératif
 ---
 et si le féminin prenait le lead - une société sous lead de l'énergie du féminin, du jamais vu encore - j'ai envie d'encourager ça.
 
@@ -24,7 +26,7 @@ voir le tableau comparatifs des 2 énergies : [[le féminin & le masculin]] pour
 
 
 
-comme dans les théories du yin/yang, trop d'une énergie d'un polarité est destructeur et dégénératif. trop de masculin et tout brûle, trop de féminin et c'est la noyade.
+comme dans les théories du [[Yin Yang]], trop d'une énergie d'un polarité est destructeur et dégénératif. trop de masculin et tout brûle, trop de féminin et c'est la noyade.
 
 alors notre mission serait d'être conscient de cette balance et de tout faire pour l'équilibrée. c'est déjà un jeu qui se joue à échelle personne, mais c'est aussi à échelle de nos groupes, de nos organisations et de toute la société humaine dans son ensemble.
 
@@ -44,8 +46,8 @@ en même temps pour "être au pouvoir" il faut réussir à prendre cette place e
 - accepter, laisser faire
 - être doux, sensible, vulnérable
 - dans l'écoute et l'accueil
-- ouvert à la coopération
-- favoriser l'intuition plutôt que la raison
+- ouvert à la [[coopération]]
+- favoriser l'[[intuition]] plutôt que la raison
 
 et surtout pour ceux qui ont un comportement très masculin - ce sera pour eux une vrai bascule, un changement de polarité peut-être violent mais nécessaire dans la situation d'urgence sociétal que nous sommes en train de vivre.
 

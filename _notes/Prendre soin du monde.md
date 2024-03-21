@@ -1,5 +1,7 @@
 ---
 title: Prendre soin du monde
+tags:
+  - index
 ---
 
 Vivre au quotidien s'exprime pour moi sur 2 dimensions majeures : le monde & moi. Il y a des temps pour prendre soin du monde & d'autres pour [[Prendre soin de soi]]. Entre ces deux extrêmes, il y a ce qui fait de nous des êtres sociaux, c'est à dire [[Prendre soin du collectif]].

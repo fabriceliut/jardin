@@ -1,5 +1,7 @@
 ---
 title: Prendre soin du collectif
+tags:
+  - index
 ---
 
 Sujet au coeur de l'[[Archipel Kyosei]] & de beaucoup d'autres collectifs qui cherchent de nouveaux modèles pour évoluer ensemble.

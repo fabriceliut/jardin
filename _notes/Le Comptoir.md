@@ -1,5 +1,7 @@
 ---
 title: le Comptoir
+tags:
+  - projet
 ---
 
 ## Il est grandement temps de penser autrement, pour faire autrement.
@@ -34,13 +36,13 @@ L’aventure commune est lancée ! Continuons main dans la main durant les diff�
 
 ## 🗄️ Cas d’études du Comptoir.
 
-### [[Transformation culturelle d’un grand groupe européen.]]
+### [[Transformation culturelle d’un grand groupe européen]]
 Une anthropologue, un designer et un consultant sur les organisations et les usages du numérique pour une profonde mutation d’un grand groupe.
 
-### [[Transformation du système éducatif d’un établissement d’enseignement supérieur.]]
+### [[Transformation du système éducatif d’un établissement d’enseignement supérieur]]
 Multiples ateliers documentés avec les intervenants designers et développeurs du Comptoir.
 
-### [[Transformer le territoire lyonnais par une Fabrique.]]
+### [[Transformer le territoire lyonnais par une Fabrique]]
 Intervention des experts en prospective politique, des designers, des agents de la métropole & des communs avec les citoyens lyonnais.
 
 ### [[institut de la pensée intégrale]]

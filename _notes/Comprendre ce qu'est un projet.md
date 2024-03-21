@@ -6,7 +6,7 @@ tags:
 
 Un projet c'est la phase de "faire" qui relie des inspirations à une intention.
 
-Intention qui vient d'un #imaginaire qu'on veut voir se réaliser. Pour qu'il se réalise, on doit collecter de la matière, que ce soit ressources physiques ou intellectuelles qui peuvent être des inspirations et des idées.
+Intention qui vient d'un imaginaire qu'on veut voir se réaliser. Pour qu'il se réalise, on doit collecter de la matière, que ce soit ressources physiques ou intellectuelles qui peuvent être des inspirations et des idées.
 
 Tout le travail dans le "faire" consiste à assembler ces matières premières par le prisme de notre intention pour créer et rendre réel ce qui était encore alors seulement de l'ordre de l'imaginaire et donc, de l'inconscient.
 

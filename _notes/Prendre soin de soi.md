@@ -1,5 +1,7 @@
 ---
 title: Prendre soin de soi
+tags:
+  - index
 ---
 
 Vivre au quotidien s'exprime pour moi sur 2 dimensions majeures : le monde & moi. Il y a des temps pour [[Prendre soin du monde]] & d'autres pour Prendre soin de soi.

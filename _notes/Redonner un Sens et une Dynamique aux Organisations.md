@@ -2,6 +2,7 @@
 title: Redonner un Sens et une Dynamique aux Organisations
 tags:
   - article
+  - régénératif
 ---
 Pour une fois c’est simple : **comment changer la société et redonner une dynamique et du sens à toutes nos organisations ?…**  
   

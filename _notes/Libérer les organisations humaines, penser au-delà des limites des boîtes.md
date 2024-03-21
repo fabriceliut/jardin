@@ -2,6 +2,8 @@
 title: Libérer les organisations humaines, penser au-delà des limites des boîtes
 tags:
   - article
+  - régénératif
+  - transformation
 ---
 Un entreprise est généralement perçue comme une « boîte » avec un intérieur et un extérieur, ce qui crée des limitations et des biais qui ne sont pas nécessaire, je m’explique…  
   
@@ -34,4 +36,4 @@ Et le plus beau là-dedans c’est qu’il n’y a rien à créer : tout est dé
   
 Plus de boîte. Des possibilités libérées de partout.  
   
-Et toi, tu vois encore des boites?
+Et toi, tu vois encore des boites? pour [[Prendre soin du collectif]].

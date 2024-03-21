@@ -2,8 +2,9 @@
 title: le slash effect
 tags:
   - article
+  - entreprenariat
 ---
-Pas simple d’expliquer ce que je fais depuis des années et puis j’apprendre que ça porte un nom : le slash effect ;)  
+Pas simple d’expliquer ce que je fais depuis des années et puis j’apprendre que ça porte un nom : **le slash effect** ;)  
   
 Quand on ne peut se décrire que avec des "slash" parce que la logique de carrière sur une verticale n’existe plus mais plutôt une vie dans l’exploration et les compléments de plusieurs compétences et approches.  
   

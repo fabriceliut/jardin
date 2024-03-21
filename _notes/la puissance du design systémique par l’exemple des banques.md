@@ -1,6 +1,8 @@
 ---
 title: la puissance du design systémique par l’exemple des banques
 image: /assets/banques.jpg
+tags:
+  - cas-étude
 ---
 
 > The power of systems design lies in the fact that one initiative has the potential to respond to many needs at the same time. - Gunter Pauli, Blue Economy 3.0
@@ -46,5 +48,3 @@ Suite à ce sprint il est possible de traiter « en conscience » et en pas à
 Ces démarches sont accessibles à toutes les organisations, de toutes les échelles. Si ça semble « trop impliquant », économiquement et temporellement, ou trop complexe, il y a tout intérêt alors de le faire en collaboration avec d’autres organisations, pour répartir l’effort et multiplier les solutions…
 
 Réglons alors les problèmes causes ensemble tout en développant une meilleure lecture des besoins réels des humains. Ainsi, transformer ses bases pour plus de [[résilience]] et d’adaptabilité tout en ouvrant son activité sur des marchés porteurs car utiles, adaptés et pensés pour le moyen et long terme en accord avec notre monde en constant changement.
-
-#cas-étude

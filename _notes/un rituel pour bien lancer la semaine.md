@@ -2,6 +2,8 @@
 title: un rituel pour bien lancer la semaine
 tags:
   - tips
+  - guidebook
+  - numérique
 image: /assets/todolundi.png
 ---
 *voici un modèle que j'utilise tous les lundis sur 3h environ pour bien lancer ma semaine, tout poser à plat, planifier et être au clair sur les priorités, les urgences et ainsi la tête au calme et la charge mentale au plus bas.*
@@ -33,3 +35,5 @@ au départ ça peut paraître très lourd comme lancement de semaine mais c'est 
 il y a quelques temps j'avais produit [une version vidéo](https://www.loom.com/share/d7af619b93404ed196b6f2698f027310) sur une version plus "light" de ce lancement de semaine mais ça peut aussi vous intéresser et vous suffire!
 
 si vous voulez tester ce rituel, je vous invite à créer une liste de tâches simple dans votre logiciel de gestion favoris et à expérimenter!
+
+pour [[Prendre soin de soi]].

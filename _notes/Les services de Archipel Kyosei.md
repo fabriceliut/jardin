@@ -1,5 +1,8 @@
 ---
 title: Les services de Archipel Kyosei
+tags:
+  - archipel
+  - projet
 ---
 
 ## **Grâce à ses différents écosystèmes, l'archipel permet d’accéder à toutes les ressources et à tous les compétences nécessaires pour réussir entamer une transformation. Nos experts vous aideront à déterminer les services dont vous avez réellement besoin.**
@@ -92,5 +95,3 @@ Depuis des siècles, l’humain tente de comprendre le monde. Beaucoup de décou
 - Biologie
 - Géopolitique
 - Urbanisme & Démographie
-
-#ressources

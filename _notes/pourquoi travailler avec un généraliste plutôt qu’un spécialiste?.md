@@ -1,5 +1,9 @@
 ---
 title: pourquoi travailler avec un généraliste plutôt qu’un spécialiste?
+tags:
+  - Afairepousser
+  - philosophie
+  - systémique
 ---
 
 Présenter les avantages des 2 modes.
@@ -19,6 +23,3 @@ Généraliste
 CTA - lien d’invitation pour rejoindre une communauté de généralistes qui essaient d’apprendre ensemble comment se vendre en tant que généralistes.
 
 https://twitter.com/growthcurrency/status/1406388886314491904
-
----
-#Afairepousser 

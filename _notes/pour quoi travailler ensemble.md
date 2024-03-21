@@ -1,5 +1,9 @@
 ---
 title: pour quoi travailler ensemble
+tags:
+  - offre
+  - projet
+  - philosophie
 ---
 
 qu'est-ce que je peux vous apporter? pourquoi travailler ensemble? ==une manière de tisser le premier lien c'est de vous le dire.==

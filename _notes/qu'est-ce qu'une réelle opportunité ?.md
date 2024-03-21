@@ -1,17 +1,17 @@
 ---
 title: qu'est-ce qu'une réelle opportunité ?
+tags:
+  - Afairepousser
+  - entreprenariat
 ---
-
 inspiration d'un [tweet](https://twitter.com/SlaapMe/status/1405634038795182080)
 
--   you need to listen a lot and try to understand how you can participate • you need to make people understand how you can help and what is your value • you need to understand if this project has value for you too
+vous devez écouter beaucoup et essayer de comprendre comment vous pouvez participer • vous devez faire comprendre aux gens comment vous pouvez aider et quelle est votre valeur • vous devez comprendre si ce projet a de la valeur pour vous aussi
 
-If the opportunity is just ideas or concepts, it is not a project yet. Can you help it become a project? Do you want to give the energy to initiate a new project?
+Si l'opportunité n'est qu'une idée ou un concept, ce n'est pas encore un projet. Pouvez-vous aider à le transformer en projet ? Voulez-vous dépenser de l'énergie pour lancer un nouveau projet ?
 
--   if you like people involved, if you have time or if you have money or competencies to get it... Go! • or maybe it is a too early stage for you? No problem, don't go!
+Si vous aimez les personnes impliquées, si vous avez du temps ou si vous avez de l'argent ou des compétences pour y arriver... Allez-y ! • Ou peut-être est-il encore trop tôt pour vous ? Pas de problème, n'y allez pas !
 
-You are the only person who can define if an opportunity is real or not. You can create your mental model or the framework to detect and prioritize.
+Vous êtes la seule personne qui peut définir si une opportunité est réelle ou non. Vous pouvez créer votre modèle mental ou le cadre pour détecter et prioriser.
 
-Create it, don't lose your life energy. Not all opportunities are yours.
-
-#Afairepousser 
+**Créez-le, ne perdez pas votre énergie vitale. Toutes les opportunités ne sont pas pour vous.**

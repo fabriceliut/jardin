@@ -1,7 +1,8 @@
 ---
 title: profiter du chaos et des erreurs
+tags:
+  - systémique
 ---
-
 [inspiration de cet article](https://beauulrey.medium.com/organized-chaos-df1e3ff188ee)
 
 en général lorsqu'on travaille pour un client est attendu en sortie un livrable qui doit être le plus juste et efficace par rapport à la demande pour mériter son sous.
@@ -28,11 +29,9 @@ mais ça demande d'accepter une autre culture du travail et de connaître un peu
 c'est contre intuitif dans un premier temps, difficile à expliquer pour permettre de se projeter même si validé par la science. souvent, il faut en faire l'expérience directe pour basculer.
 
 ## take to go
-- accepter le chaos présent
+- accepter le [[chaos]] présent
 - monter une équipe qui va coopérer pour explorer, se poser d'autres questions et surtout expérimenter et tester dans des environnements types workshops qui sont propices à faire des erreurs "contrôlées"
 - vite faire des erreurs, vite apprendre pour réorienter et tester à nouveau, faire des erreurs, apprendre encore et ainsi de suite
 - accepter que les plans stratégiques, les plans d'actions et les livrables ne sont plus vraiment les meilleurs objets pour être le plus résilient et performant possible
 
 c'est une réelle culture du travail - si vous arrivez à imaginer une entreprise qui fonctionnerait comme ça au quotidien... pas facile encore hein?
-
-#àreviser

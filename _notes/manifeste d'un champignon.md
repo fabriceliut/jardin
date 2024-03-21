@@ -2,6 +2,7 @@
 title: manifeste d'un champignon
 tags:
   - offre
+  - archipel
 ---
 Comme dans la nature, les champignons et les végétaux ont une relation symbiotique qui les rend dépendants les uns des autres. Les champignons fournissent aux végétaux des nutriments essentiels pour leur croissance, tandis que les végétaux fournissent aux champignons des sucres produits grâce à la photosynthèse. Cette relation est essentielle pour leur survie et leur croissance.
 

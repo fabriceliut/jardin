@@ -1,5 +1,7 @@
 ---
 title: maïeutique
+tags:
+  - terminologie
 ---
 
 

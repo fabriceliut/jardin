@@ -1,7 +1,8 @@
 ---
 title: Ressources du Comptoir
+tags:
+  - projet
 ---
-
 ## **Toutes nos ressources sont en commun et propriétés de tous suivant la logique de l’open-source et de la création ouverte.**
 
 > La connaissance est infinie. C’est en favorisant sa circulation que nous pourrons créer une abondance, autant immatérielle que matérielle. Le partage d’un bien matériel divise – partager un bien immatériel multiplie. Créeons des autoroutes de la connaissance.Permaculture humaine
@@ -80,5 +81,3 @@ Comprendre la démarche de tests utilisateurs & de recherche.
 # Essais & Anticipations.
 
 - [For those who know](https://medium.com/for-those-who-know), antenne lyonnaise de la démarche internationale. Ecritures sur les futurs possible, toujours inspirant.
-
-#Afairepousser 

@@ -12,7 +12,7 @@ Ce système simple est toujours dirigé par une personne qui a le pouvoir de dé
 Cette personne est difficile à atteindre directement, il faut souvent passer par des personnes relais.
 > Les amis de mes amis sont mes amis
 
-Le vrai travail de changement systémique complexe et à grande échelle commence donc toujours par une rencontre, une première relation.
+Le vrai travail de [[design systémique]] complexe et à grande échelle commence donc toujours par une rencontre, une première relation.
 
 toujours un humain qui doit créer la confiance chez un autre humain qui est proche du système simple sur lequel on veut agir.
 

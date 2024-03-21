@@ -1,5 +1,7 @@
 ---
 title: les 3 récits majeurs qui orientent nos vies
+tags:
+  - storytelling
 ---
 
 - 1.

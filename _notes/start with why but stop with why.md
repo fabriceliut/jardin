@@ -1,7 +1,10 @@
 ---
 title: start with why but stop with why
+tags:
+  - philosophie
+  - psychologie
+  - transformation
 ---
-
 Se poser la question "pourquoi" et un point de départ nécessaire quand il s'agit de faire ou créer quoi que ce soit. En effet, on cherche à répondre à un besoin réel avec une conscience systémique plutôt que de travailler sur un sujet qui n'est pas le bon sujet ou la priorité. Se demander "pourquoi", c'est la prise de recule nécessaire pour démarrer l'esprit clair et écrire ce pourquoi en premier, comme le dit très bien Simon Sinek, est nécessaire pour assurer que tout le travail qui va suivre sur le "comment" et le "quoi" aura de la forme et une utilité réelle, même en terme de business pur.
 
 Cela dit, lorsqu'on remonte le chemin jusqu'à ce pourquoi, on peut remonter très très haut. Et souvent, on risque aussi de remonter trop haut, par exemple, sur des raisons d'être comme celle de sauver la planète: ce pourquoi peut paraître bien trop énorme pour un seul humain, on risque de se sentir noyé, perdu, impuissant.
@@ -17,6 +20,3 @@ De mon point de vue, pour la santé de la planète, c'est pareil. Si nous voulon
 Le Why est utile pour ouvrir les imaginaires dans un système où ils sont fermés et insuffisants pour nourrir l’inspiration et remonter d’une échelle d’observation sur les choses.
 
 Ensuite il faut s'arrêter et redescendre sur le "comment" passer à l'action en cohérence avec ce pourquoi. Ensuite, il est temps de "stop with why" et d'agir.
-
----
-#Afairepousser 

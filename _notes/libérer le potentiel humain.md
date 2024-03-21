@@ -26,4 +26,4 @@ Cette anecdote me semble tellement criante pour mettre en avant des petites solu
 
 Voilà un tout petit modèle simple qui peut s’appliquer n’importe quand, comme dans le train mais aussi pour des grandes décisions stratégiques en Codir - un essentiel du [[management projet]].
 
-Les basics sont parfois à réapprendre avant même de chercher à innover : [[less is more]].
+Les basics sont parfois à réapprendre avant même de chercher à innover : [[less is more]]. pour [[Prendre soin du collectif]]

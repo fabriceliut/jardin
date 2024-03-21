@@ -2,6 +2,7 @@
 title: régénérer c'est faire passer la nature avant tout
 tags:
   - article
+  - régénératif
 ---
 > « passer d’une culture à somme nulle (gagnant-perdant) à une culture à somme non nulle (gagnant-gagnant) nécessite une collaboration généralisée pour s’assurer que la nature gagne aussi (gagnant-gagnant-gagnant) et gagne en premier, car elle est la fournisseuse de l’abondance dont nous dépendons. ...  
   
@@ -19,3 +20,5 @@ Quel que soit la mission de nos entreprises il y a **une mission supérieure qui
 Ça peut changer beaucoup de chose mais ça porte aussi beaucoup de sens.  
   
 À bien y réfléchir vous verrez, c’est gagnant gagnant gagnant et agir [[régénératif]] peut commencer dès demain.
+
+pour [[Prendre soin du monde]] et une approche [[non-human centric design]].

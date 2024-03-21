@@ -2,6 +2,7 @@
 title: se connecter et se faire confiance plus facilement
 tags:
   - tips
+  - coopération
 ---
 Pour travailler ensemble les humains passent toujours par les même étapes :  
   
@@ -33,4 +34,4 @@ Dès que j’ai un projet qui rentre, j’ai une liste de gens avec lesquels je 
   
 C’est faire entreprise ensemble sans statut social et déclaré nécessaire. Ce qui compte c’est l’énergie et l’intention.  
   
-Pour être [[régénératif]].
+Pour être [[régénératif]] et [[Prendre soin du collectif]].

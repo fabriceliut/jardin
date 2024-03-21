@@ -2,8 +2,8 @@
 title: simplexité
 tags:
   - Afairepousser
+  - terminologie
 ---
-
 ### concept important : la simplexité. Il s'agit d'un mouvement de conscience qui consiste à passer de la complexité à la simplicité. 
 
 En d'autres termes, il est nécessaire de comprendre la [[complexité]] pour pouvoir agir de manière simple et efficace. Cela peut sembler évident, mais il est important de ne pas tomber dans la simplification excessive qui pourrait nous faire passer à côté de l'essentiel. 
@@ -48,4 +48,4 @@ je pense que pour faciliter la redescente vers la simplicité il faut se laisser
 - le masculin rationalise et fait monter en complexité mais devient dégénératif
 - le féminin reconnecte à l'intuition et donc va faire redescendre et en même temps intégrer la complexité pour une simplicité juste
 
-c'est pour moi d'un processus évolutif naturel dont on parle ici.
+c'est pour moi d'un processus évolutif naturel dont on parle ici, pour [[Prendre soin du monde]].
