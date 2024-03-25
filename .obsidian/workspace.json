@@ -11,8 +11,12 @@
             "id": "960d25027e2efdd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#article",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/changer le monde en créant d'autres histoires.md",
+                "file": "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/changer le monde en créant d'autres histoires.md",
+                "file": "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/changer le monde en créant d'autres histoires.md"
+                "file": "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md"
               }
             }
           }
@@ -142,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +160,7 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md",
     "_notes/process pour résoudre des problématiques complexes.md",
     "_notes/changer le monde en créant d'autres histoires.md",
     "_notes/co-construction.md",
@@ -182,7 +186,6 @@
     "_notes/présentation générale du design systémique.md",
     "_pages/about.md",
     "_notes/le leader régénératif fait circuler.md",
-    "_notes/investir dans les questions.md",
     "Untitled.canvas",
     "assets/avatar_24.jpg",
     "www.loom.com/share",
