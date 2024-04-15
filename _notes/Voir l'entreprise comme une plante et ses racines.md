@@ -1,7 +1,7 @@
 ---
 title: Voir l'entreprise comme une plante et ses racines
 tags:
-  - art
+  - bio-inspiration
 image: /assets/plante_racine.png
 ---
 ![]({{page.image}})
