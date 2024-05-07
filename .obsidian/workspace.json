@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Voir l'entreprise comme une plante et ses racines.md",
+                "file": "_notes/chief of staff externe.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "business",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Voir l'entreprise comme une plante et ses racines.md",
+                "file": "_notes/chief of staff externe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Voir l'entreprise comme une plante et ses racines.md",
+                "file": "_notes/chief of staff externe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/Voir l'entreprise comme une plante et ses racines.md"
+                "file": "_notes/chief of staff externe.md"
               }
             }
           }
@@ -160,10 +159,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b5a3dbe447a6a2db",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/guidebook business as non usual.md",
+    "_pages/index.md",
+    "_notes/chief of staff externe.md",
+    "_notes/approche du comptoir.md",
+    "_notes/le Comptoir.md",
     "_notes/Voir l'entreprise comme une plante et ses racines.md",
+    "_notes/guidebook business as non usual.md",
     "assets/plante_racine.png",
     "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md",
     "lettre de motivation pour Lumia.md",
@@ -185,10 +188,6 @@
     "_notes/évolutions des notes.md",
     "_notes/Gouvernance adaptable.md",
     "_notes/Pour toi chez moi ça veut dire quoi.md",
-    "_notes/joies actives.md",
-    "_notes/joies passives.md",
-    "_pages/index.md",
-    "_notes/simplexité.md",
     "Untitled.canvas",
     "assets/avatar_24.jpg",
     "www.loom.com/share",

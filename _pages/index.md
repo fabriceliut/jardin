@@ -27,7 +27,7 @@ permalink: /
 ## axes de travail et de recherche
 avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
 
-je porte une casquette de "chief of staff externe" : j'accompagne les directions générales d'entreprises avec une posture de génératiste.
+je porte une casquette de "[[chief of staff externe]]" : j'accompagne les directions générales d'entreprises avec une posture de généraliste.
 
 - [[pourquoi travailler avec un généraliste plutôt qu’un spécialiste?]]
 - [[pour quoi travailler ensemble]]
