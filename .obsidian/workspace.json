@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a44ec4783a5fc994",
+        "id": "b41c19ceb27d6be7",
         "type": "tabs",
         "children": [
           {
-            "id": "b5a3dbe447a6a2db",
+            "id": "364b6082712d10ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/chief of staff externe.md",
+                "file": "_notes/la bascule d’état de penser entre journée et soirée.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/chief of staff externe.md",
+                "file": "_notes/la bascule d’état de penser entre journée et soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/chief of staff externe.md",
+                "file": "_notes/la bascule d’état de penser entre journée et soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/chief of staff externe.md"
+                "file": "_notes/la bascule d’état de penser entre journée et soirée.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_pages/index.md",
     "_notes/chief of staff externe.md",
+    "_notes/la bascule d’état de penser entre journée et soirée.md",
+    "_pages/index.md",
     "_notes/approche du comptoir.md",
     "_notes/le Comptoir.md",
     "_notes/Voir l'entreprise comme une plante et ses racines.md",
@@ -187,7 +188,6 @@
     "_notes/comprendre ce qu'est un projet.md",
     "_notes/évolutions des notes.md",
     "_notes/Gouvernance adaptable.md",
-    "_notes/Pour toi chez moi ça veut dire quoi.md",
     "Untitled.canvas",
     "assets/avatar_24.jpg",
     "www.loom.com/share",
