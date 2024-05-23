@@ -31,4 +31,4 @@ ce n'est pas moi qui le dis : ce sont les avant-gardistes, ceux qui savent capte
   
 Grâce à eux, je vois ce qui arrive 4 ans avant. eux savent voir parfois 20-30 ans avant, sans réussir à l'expliquer et aussi parce que ça fait peur.
 
-![[echelle-creativite.png]]
+![]({{page.image}})
