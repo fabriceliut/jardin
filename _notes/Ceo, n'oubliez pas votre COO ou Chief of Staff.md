@@ -1,5 +1,5 @@
 ---
-title: Ceo, n'oubliez pas votre COO ou COS
+title: Ceo, n'oubliez pas votre COS ou Chief of Staff
 tags:
   - tips
 ---
@@ -19,6 +19,6 @@ tags:
   
 Jouer avec le couple COO COS me semble très adapté pour sortir les CEO de l’isolation et leur permettre de tenir vraiment la vision et la conduite des stratégies - même pour des PME et plus petites structures.  
   
-Suivant la taille il y aura plus ou moins besoin d’un temps plein.
+Suivant la taille il y aura plus ou moins besoin d’un temps plein. si vous voulez en savoir plus sur le [[chief of staff externe]] qui permet de profiter d'un COS sans un recrutement full time direct et pour des moments clés.
 
 Pour [[Prendre soin du collectif]]

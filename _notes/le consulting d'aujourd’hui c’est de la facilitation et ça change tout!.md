@@ -16,5 +16,5 @@ Je suis convaincu que cette approche de "*facilitation X conseil*" est la clé p
 ### en lien?
 - [[le combo entreprise et accompagnants externes est gagnant]]
 - [[avoir de l’impact en tant qu’accompagnant et consultant externe]]
-- [[Ceo, n'oubliez pas votre COO ou COS]]
+- [[Ceo, n'oubliez pas votre COO ou Chief of Staff]]
 - [[avantages de travailler avec un COO externe à temps partagé]]
