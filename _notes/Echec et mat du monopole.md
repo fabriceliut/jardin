@@ -1,7 +1,6 @@
 ---
 title: Echec et mat du monopole
 ---
-
 Nous sommes dans un monde qui va toujours plus vite. un tel rythme que même ceux qui analysent la société commencent à avoir un mal fou à suivre ce qu'il se passe ; sauf certainement ceux qui ont beaucoup de cerveaux et de ressources pour l'analyser et interpréter la [[complexité]] quasiment en continue : les monopoles économiques.
 
 Eux, ils jouent tout simplement aux échec et très certainement avec beaucoup de coups d'avance. C'est très prétentieux de notre part que d'imaginer les GAFAM ou les grandes entreprises chinoises inconscientes de l'état de notre monde et du risque d'effondrement climatique ou autre.

@@ -3,7 +3,6 @@ title: la pratique non déclarée du mouvement
 tags:
   - mouvement
 ---
-
 dans la série pour [[Prendre soin de soi]] par le [[Mouvement Naturel]].
 
 il y a ce qu'on déclare comme étant une pratique, un sport ou un entrainement et puis il y a le reste du temps - et c'est justement comment est-ce qu'on bouge dans ces temps non déclarés qui m'intéresse ici.

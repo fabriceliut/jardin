@@ -4,7 +4,6 @@ tags:
   - futur
   - Afairepousser
 ---
-
 ## Ma vision d'un futur souhaitable par l'apprentissage.
 
 -   Un monde décentralisé, fonctionnant en éco-systèmes

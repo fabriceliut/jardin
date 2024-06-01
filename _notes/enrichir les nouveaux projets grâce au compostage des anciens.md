@@ -5,7 +5,6 @@ tags:
   - projectmanagement
   - guidebook
 ---
-
 ## intention
 à chaque nouveau projet il y a le risque de réinventer la roue, quelque soit le projet. l'idée ici est de proposer un petit guide permettant de "composter" ou recycler un ancien projet pour en faire des ressources pour un nouveau.
 c'est un peu comme l'[[économie circulaire]] de la donnée et de la connaissance.

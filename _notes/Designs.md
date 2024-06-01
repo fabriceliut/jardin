@@ -3,7 +3,6 @@ title: designs
 tags:
   - designs
 ---
-
 **Les pensée & démarches "Designs"** prennent une place de plus en plus importante et nécessaire dans l'évolution de notre société et de nos systèmes, que ce soit les organisations entreprises ou les organismes publics, le secteur humanitaire ou associatif.
 
 > Quelques exemple ? IDEO, Patagonia, Apple, IBM, AirBnb, Uber, Facebook, Amazone, Lego... Pour ne citer que les plus grosses organisations.

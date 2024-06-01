@@ -4,7 +4,6 @@ tags:
   - philosophie
   - projet
 ---
-
 mon intention c’est **participer à régénérer notre société et le reste du vivant** qu'on a déjà trop déterioré. et pour régénérer il faut le faire ensemble, pour adresser la complexité des enjeux à toutes les échelles, et donc coopérer. 
 je fais mon possible pour apporter de la beauté à mon échelle et dans chaque approche que je propose.
 

@@ -1,7 +1,6 @@
 ---
 title: Automatisation
 ---
-
 # Pourquoi Automatiser et améliorer la gestion projets et du temps ?
 
 Pour arrêter de faire plusieurs fois les même tâches. Pour libérer le temps nécessaire à l'expression de la créativité & au regain d'énergie. C'est surtout un élément nécessaire de la transition numérique actuelle.

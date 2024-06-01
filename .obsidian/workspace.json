@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a8afffa83efd93d",
+        "id": "6ac6421630d15b74",
         "type": "tabs",
         "children": [
           {
-            "id": "3e5e6c6f703cebd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Plan pour une régénération sociétale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60903fe6d4f1eab8",
+            "id": "7dff54101a53ed6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Plan pour une régénération sociétale.md",
+                "file": "_notes/Règles de calcul de mes tarifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Plan pour une régénération sociétale.md",
+                "file": "_notes/Règles de calcul de mes tarifs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/Plan pour une régénération sociétale.md"
+                "file": "_notes/Règles de calcul de mes tarifs.md"
               }
             }
           }
@@ -171,36 +159,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "7dff54101a53ed6f",
   "lastOpenFiles": [
-    "_notes/Règles de calcul de mes tarifs.md",
     "_notes/Plan pour une régénération sociétale.md",
-    "_notes/présentation générale du design systémique.md",
-    "_pages/index.md",
-    "_pages/about.md",
     "_notes/l'échelle de la Créativité.md",
-    "_notes/chief of staff externe.md",
-    "_notes/avantages de travailler avec un COO externe à temps partagé.md",
-    "_notes/Ceo, n'oubliez pas votre COO ou Chief of Staff.md",
-    "_notes/guidebook business as non usual.md",
-    "assets/echelle-creativite.png",
     "_notes/la bascule d’état de penser entre journée et soirée.md",
-    "_notes/approche du comptoir.md",
-    "_notes/le Comptoir.md",
+    "_notes/chief of staff externe.md",
     "_notes/Voir l'entreprise comme une plante et ses racines.md",
-    "assets/plante_racine.png",
     "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md",
-    "lettre de motivation pour Lumia.md",
-    "_notes/process pour résoudre des problématiques complexes.md",
     "_notes/changer le monde en créant d'autres histoires.md",
+    "_notes/process pour résoudre des problématiques complexes.md",
     "_notes/co-construction.md",
     "_notes/Les apports du Design pour la transition énergétique.md",
-    "_notes/la culture du feedback base de la coopération.md",
-    "_notes/guidebook de l'approche territoriale NEOZ.md",
-    "_notes/Le jeune Karl Marx.md",
-    "_notes/Echec et mat du monopole.md",
-    "_notes/moins parler pour mieux coopérer.md",
-    "_notes/Journal d'une autre réalité.md",
+    "_notes/Organiser son information grâce au système PARAT.md",
+    "_notes/gérer son organisation en se basant sur son ressenti.md",
+    "_notes/vibrer pour trouver le bonheur.md",
+    "_notes/Le régénératif n'est pas une hype.md",
+    "_notes/en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?.md",
+    "_notes/avantages de travailler avec un COO externe à temps partagé.md",
+    "_notes/régénérer pour ne pas dégénérer.md",
+    "_notes/le slash effect.md",
+    "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
+    "_notes/un rituel pour bien lancer la semaine.md",
+    "_notes/petite pensée sur la semaine de 4 jours.md",
+    "_notes/dialectique.md",
+    "_notes/investir dans les questions.md",
+    "_notes/le leader régénératif fait circuler.md",
+    "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
+    "_notes/construire les cathédrales aujourd'hui, c'est régénérer.md",
+    "assets/echelle-creativite.png",
+    "assets/plante_racine.png",
     "Untitled.canvas",
     "assets/avatar_24.jpg",
     "www.loom.com/share",

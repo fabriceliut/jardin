@@ -5,7 +5,6 @@ tags:
   - knowledgemanagement
   - Afairepousser
 ---
-
 >La connaissance n’est pas suffisante, elle doit être connectée et « testée » pour devenir du savoir actionnable.
 
 Les concepts qui s’opposent viennent se nourrir et c'est également ce qu'on cherche en reliant l'information.

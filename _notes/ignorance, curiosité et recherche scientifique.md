@@ -3,7 +3,6 @@ title: ignorance, curiosité et recherche scientifique
 tags:
   - Meta-analyse
 ---
-
 [source ressource d'écriture](https://austinkleon.com/2021/08/03/absence-of-certainty-awareness-of-ignorance/)
 
 The physicist Carlo Rovelli has a beautiful way of talking about science in terms of [ignorance and curiosity](https://austinkleon.com/2021/07/26/ignorant-but-curious/).

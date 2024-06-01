@@ -1,7 +1,6 @@
 ---
 title: basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif
 ---
-
 Le modèle actuel est de concurrence, établi comme étant « normal » et sans alternative réelle.
 
 > (Détailler d’où vient ce modèle, détailler le concept de worldview qui peut être différent à l’actuel parce que ça change tout le temps, cf interview dans le mooc regenerative design)

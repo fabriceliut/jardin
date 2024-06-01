@@ -3,7 +3,6 @@ title: comprendre ce qu'est un projet
 tags:
   - guidebook
 ---
-
 Un projet c'est la phase de "faire" qui relie des inspirations à une intention.
 
 Intention qui vient d'un imaginaire qu'on veut voir se réaliser. Pour qu'il se réalise, on doit collecter de la matière, que ce soit ressources physiques ou intellectuelles qui peuvent être des inspirations et des idées.

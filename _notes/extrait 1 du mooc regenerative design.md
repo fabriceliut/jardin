@@ -4,7 +4,6 @@ tags:
   - régénératif
   - Afairepousser
 ---
-
 [[design régénératif]] - [[système complexe]] - [[bio-inspiration]] - 1.2-4 Regeneration (mooc chapter)
 
 - sustainability is not enough

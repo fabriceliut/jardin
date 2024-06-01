@@ -3,7 +3,6 @@ title: Choisir avec qui et comment travailler en tant qu'indépendant
 tags:
   - guidebook
 ---
-
 Je fais partie d'un collectif qui est un "archipel" : [[Archipel Kyosei]]
 
 C'est un type d'écosystème , comme il en existe beaucoup d'autres. Je ne vous connais pas encore mais voilà ce que plus de 8 ans dans l'exploration des communautés m'a appris et qui **peut vous orienter** dans le choix de votre prochaine "famille". 

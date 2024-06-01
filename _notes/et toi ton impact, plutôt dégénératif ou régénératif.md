@@ -3,7 +3,6 @@ title: et toi ton impact, plutôt dégénératif ou régénératif
 tags:
   - régénératif
 ---
-
 j'ai ouvert cette réflexion récemment à propos de l’impact des hommes sur la nature et le vivant:
 - depuis très longtemps ça n’a jamais été une priorité sociétale
 - puis, quand même, depuis quelques années ça semble vouloir remonter

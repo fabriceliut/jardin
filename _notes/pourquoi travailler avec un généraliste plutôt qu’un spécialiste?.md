@@ -5,7 +5,6 @@ tags:
   - philosophie
   - systémique
 ---
-
 Présenter les avantages des 2 modes.
 
 Expliquer en quoi ils sont complémentaires et quand les faire intervenir.

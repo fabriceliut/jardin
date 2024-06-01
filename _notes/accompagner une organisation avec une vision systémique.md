@@ -1,7 +1,6 @@
 ---
 title: accompagner une organisation avec une vision systémique
 ---
-
 la posture d'accompagnant doit respecter des étapes et un rythme pour travailler avec une organisation : celles de l'organisation elle-même.
 
 ### quelques étapes clés

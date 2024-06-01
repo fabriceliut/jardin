@@ -4,7 +4,6 @@ tags:
   - Afairepousser
   - spiritualité
 ---
-
 https://twitter.com/SlaapMe/status/1372286294995374084
 
 Prenez-vous le temps de respirer, de ressentir ? Si ce n'est pas assez, comme moi, vous ne pouvez pas développer votre système émotionnel à plein potentiel.

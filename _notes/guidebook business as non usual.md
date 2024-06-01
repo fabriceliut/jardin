@@ -27,7 +27,7 @@ Je suis Fabrice Liut, un Designer qui fait de la recherche et analyse les [[syst
 
 Si nous sommes à peine déconfinés & dans la peur persistante d’une pandémie mondiale, c’est à cause de ce système (**[1](https://www.podcastjournal.net/Covid-19-la-mondialisation-en-cause_a27639.html)**,**[2](https://newclimateeconomy.net/content/press-release-bold-climate-action-could-deliver-us26-trillion-2030-finds-global-commission)**,**[3](https://www.marianne.net/economie/le-coronavirus-annonce-la-fin-du-capitalisme-neoliberal-selon-le-chef-economiste-de-la)**). En toute logique, si nous continuons à le faire tourner de la même manière sans rien changer du tout, nous ne pouvons que nous attendre à d’autres contretemps plus graves encore.
 
-### Tout n’est pas rationnalisable.
+### Tout n’est pas rationalisable.
 
 Dans ce système, les humains sont des ressources allouées à des tâches. On analyse leur performance et on optimise leur rendement.
 

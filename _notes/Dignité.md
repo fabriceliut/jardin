@@ -3,7 +3,6 @@ title: dignité
 tags:
   - terminologie
 ---
-
 Définition complète sur [Wikipédia](https://fr.wikipedia.org/wiki/Dignité).
 
 > la dignité est le fait que la personne ne doit jamais être traitée comme un moyen, mais comme une fin en soi.

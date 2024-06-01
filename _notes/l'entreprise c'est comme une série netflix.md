@@ -1,7 +1,6 @@
 ---
 title: l'entreprise c'est comme une série netflix
 ---
-
 un consultant, facilitateur ou un intervenant externe arrive en cours d'un histoire qui est ent rain de s'écrire depuis bien plus longemps que lui, parfois à l'episode 10 de la saison 12... et ça permet de se rendre compte des avantages de parfois, pour les moments adaptés... se payer un accompagnement externe.
 
 ### avantages

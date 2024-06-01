@@ -5,7 +5,6 @@ tags:
   - projet
   - philosophie
 ---
-
 qu'est-ce que je peux vous apporter? pourquoi travailler ensemble? ==une manière de tisser le premier lien c'est de vous le dire.==
 
 je suis un humain curieux qui aime explorer au quotidien, dans tous les domaines possible, pour apprendre et découvrir. l'exploration passe par de la recherche intellectuelle mais également par des expériences concrètes et directes. c'est le combo théorie et pratique qui permet d'apprendre le mieux.

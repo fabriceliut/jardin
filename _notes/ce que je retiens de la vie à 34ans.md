@@ -1,7 +1,6 @@
 ---
 title: ce que je retiens de la vie à 34ans
 ---
-
 https://twitter.com/SlaapMe/status/1394379370425470977
 
 move move move! Never forget your body, it is as important as your relationships, projects, and your thoughts

@@ -4,7 +4,6 @@ tags:
   - spiritualité
   - philosophie
 ---
-
 - Que votre parole soit impeccable.
 - N'en faites jamais une affaire personnelle.
 - Ne faites aucune supposition.

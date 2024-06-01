@@ -4,7 +4,6 @@ tags:
   - philosophie
   - spiritualité
 ---
-
 https://twitter.com/SlaapMe/status/1358707657151029249?s=20
 
 Le moment du moment, si serré qu’il n’y a plus d’espace et de temps... alors sans temps c’est l’éternité, dans cet espace qui n’en est plus un, il n’y a plus de début ni de fin.

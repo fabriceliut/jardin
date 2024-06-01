@@ -3,7 +3,6 @@ title: La recherche de la santé parfaite
 tags:
   - santé
 ---
-
 > Article archive de 2015 pour [[Prendre soin de soi]]
 
 Je me suis lancé il y a peu dans la lecture de “Santé Parfaite” du docteur “X” qui présente et explique toute la tradition Ayurveda, cette science orientale vieille de plus de 5000 ans.

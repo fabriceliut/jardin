@@ -4,7 +4,6 @@ tags:
   - futur
   - Afairepousser
 ---
-
 Fabrice, designer systémique du Comptoir, applique régulièrement sa veille et son analyse des systèmes humains pour générer des prospectives et guider l’écriture de futurs souhaitables.
 
 [Siècle digital](https://siecledigital.fr/) lui propose de donner sa voix sur l’école de demain. En voici le récit qui commence à 5:15.

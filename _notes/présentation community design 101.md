@@ -4,7 +4,6 @@ tags:
   - communitydesign
   - guidebook
 ---
-
 - [fabrice liut](https://liut.me) - designer & facilitateur - ==systems thinker==
 - ⚛️ quelques cas de communautés
 	- **les designers lyonnais** - local - +4500

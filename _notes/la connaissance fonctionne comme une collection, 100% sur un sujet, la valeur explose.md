@@ -3,7 +3,6 @@ title: la connaissance fonctionne comme une collection, 100% sur un sujet, la va
 tags:
   - knowledgemanagement
 ---
-
 Je développerai ici le concept de « collection de connaissances » très proche de la définition des savoirs. Dors et déjà, quel lien par rapport aux démarches de [[Archipel Kyosei]]?
 
 -   ce collectif crée un commun, c’est à dire qu’il est à tous et pour tous, surtout en terme de connaissances et d’inspirations

@@ -3,7 +3,6 @@ title: institut de la pensée intégrale
 tags:
   - projet
 ---
-
 *Une nouvelle institution pour penser & penser le monde autrement, pour faire autrement ensemble.*
 
 La pensée complexe couplée à une approche systémique permet d’appréhender le réel sous des angles multiples et ainsi de développer la capacité d’agir en situations complexes & instables.

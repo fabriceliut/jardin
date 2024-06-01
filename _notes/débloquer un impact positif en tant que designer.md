@@ -1,7 +1,6 @@
 ---
 title: débloquer un impact positif en tant que designer
 ---
-
 il faut prendre en compte est accepter de travailler en situation de complexité.
 pour adresser la complexité, il faut développer la [[pensée systémique]].
 pour mettre en place une approche de la complexité, "les [[designs]]" sont des outils et méthodes adaptés.

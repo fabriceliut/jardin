@@ -3,7 +3,6 @@ title: comment écrire plus juste sur les réseaux sociaux pour des contenus plu
 tags:
   - contentmarketing
 ---
-
 Je ne suis pas expert des réseaux sociaux par contre, je me suis vraiment planté depuis un paquet de temps dans ma manière d’écrire!
 
 Et pourtant, je suis designer: mon métier c’est de partir d’une connaissance fine des besoins et des attentes des utilisateurs avant de faire quoi que ce soit. Me mettre à leur place et construire pour eux voir avec eux quand possible la réponse la plus adaptée.

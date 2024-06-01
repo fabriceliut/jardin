@@ -3,7 +3,6 @@ title: Archipel Kyosei
 tags:
   - projet
 ---
-
 ## 👐 Notre engagement ?
 
 Connecter les acteurs institutionnels, associatifs, entreprises & indépendants pour faire "système" ensemble, **en totale coopération & inclusivité.**

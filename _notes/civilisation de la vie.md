@@ -1,7 +1,6 @@
 ---
 title: civilisation de la vie
 ---
-
 il y a quelques temps, j'avais des échanges très enrichissants comme toujours avec un ami penseur, Olivier Frérot. il m'a présenté son concept d'analyse des civilisations qui se succèdent.
 voici quelques caractéristiques de la "civilisation de la vie" actuellement émergente et qui viendrait à remplacer notre civilisation moderne occidentale actuelle. pour ceux qui se sentent en dissonance avec le monde actuel, c'est peut-être que vous êtes plus de la nouvelle civilisation et ça, c'est plutôt bon signe!
 

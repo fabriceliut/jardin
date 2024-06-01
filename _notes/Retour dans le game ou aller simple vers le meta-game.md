@@ -4,7 +4,6 @@ tags:
   - Meta-analyse
   - Afairepousser
 ---
-
 **Ce que j'appelle ici "game" c'est notre jeu de société** : des semaines d'activités divers pour faire rentrer de l'argent nécessaire à "vivre", prendre soin de notre famille & amis, nous divertir, etc...
 
 **Et puis le [[metagame]] qui est le jeu d'observer le "game"**, d'en tirer des analyses pour mieux se comprendre, comprendre nos comportements, notre société et plus largement encore, s'activer à un peu mieux [[décoder la vie]]... C'est la prise de recule nécessaire pour sortir la tête du guidons et réouvrir le champ des possible !

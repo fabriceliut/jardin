@@ -3,7 +3,6 @@ title: devenir une entreprise régénérative
 tags:
   - régénératif
 ---
-
 en tant que [[bras droit]] des dirigeants, j'ai un focus à accompagner ceux qui veulent faire de leurs entreprises des organisations régénératives.
 
 mais qu'est-ce que ça veut dire que de devenir une entreprise régénérative? (cf [[régénératif]])

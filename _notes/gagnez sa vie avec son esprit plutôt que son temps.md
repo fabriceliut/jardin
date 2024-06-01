@@ -3,7 +3,6 @@ title: gagnez sa vie avec son esprit plutôt que son temps
 tags:
   - business
 ---
-
 N'est-ce pas un concept intéressant ?
 
 > "The power of the mind is infinite, while we all know how limited time is."   

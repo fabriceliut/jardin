@@ -4,7 +4,6 @@ tags:
   - Afairepousser
   - coopération
 ---
-
 [https://link.medium.com/BQpHDilNAtb](https://link.medium.com/BQpHDilNAtb) (article source)
 
 je développerais ici l'idée que le feedback est une base simple, saine et essentielle pour construire et faire vivre une entreprise apprenante & [[régénératif]].

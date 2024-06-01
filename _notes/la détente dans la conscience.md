@@ -1,7 +1,6 @@
 ---
 title: la détente dans la conscience
 ---
-
 _Phrase concept venant d'une de mes profs de théâtre d'improvisation._
 
 Un état de confort "minimum" permet de ne pas être en situation de survie et ainsi d'être disponible pour découvrir, apprendre, explorer, contempler. Cet état permet de VIVRE pour ÊTRE et d'ÊTRE pour VIVRE - il permet aussi de [[Prendre soin de soi]].

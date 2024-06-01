@@ -3,7 +3,6 @@ title: chatGPT et les vinyls
 tags:
   - IA
 ---
-
 certain ont peur de l'impact de l'intelligence artificielle et ça m'a fait pensé à la transition du support vinyl à numérique pour la musique. je développe.
 
 à l'époque du vinyl, la musique était "physique" dans le sens où il fallait un objet concret pour pouvoir la jouer et l'écouter, tout comme un instrument classique.

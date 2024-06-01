@@ -1,7 +1,6 @@
 ---
 title: apprendre à apprendre
 ---
-
 ## Présentation globale du concept
 
 Quel besoin adressé

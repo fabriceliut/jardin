@@ -1,7 +1,6 @@
 ---
 title: Au-delà de la résilience
 ---
-
 [[résilience]], c'est devenu tendance d'en parler et de dire qu'on travaille à la développer. Et surtout, souvent, on parle de résilience quand on ne veut pas avouer parler de survie.
 
 Une entreprise qui ne sait plus quoi faire pour sortir de ses difficultés dues aux conditions du COVID doit développer sa résilience. Souvent c'est surtout qu'elle doit trouver des solutions pour ne pas s'effondrer dans un futur proche.

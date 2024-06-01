@@ -1,7 +1,6 @@
 ---
 title: et si tout ça c'était juste un rêve
 ---
-
 Imagines que tu es dans un #rêve là maintenant et tu t’en rends compte: est-ce que tu n’aurais pas envie d’aller voir les autres personnes qui sont dedans et de leur parler, leur demander : *« toi aussi tu sais qu’on est dans un rêve? »*
 
 Est-ce que tu n’aurais pas envie d’explorer ce rêve avec la personne qui te répondrait *"oui"*? 

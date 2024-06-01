@@ -5,7 +5,6 @@ tags:
   - Afairepousser
   - Meta-analyse
 ---
-
 https://twitter.com/SlaapMe/status/1361048078048968705
 
 Do you think you know what reality is ? It is physic ? Does it exist some common rules ? Red is red and blue is blue ? I think we need to be more openminded in front of « something » so crazy and magical as life is.

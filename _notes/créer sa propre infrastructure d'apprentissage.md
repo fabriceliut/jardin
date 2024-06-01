@@ -3,7 +3,6 @@ title: créer sa propre infrastructure d'apprentissage
 tags:
   - offre
 ---
-
 - [thread twitter source](https://twitter.com/rroudt/status/1346910995193597953?s=21)
 
 - _contenu à produire..._

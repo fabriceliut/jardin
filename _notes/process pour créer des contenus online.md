@@ -3,7 +3,6 @@ title: process pour créer des contenus online
 tags:
   - knowledgemanagement
 ---
-
 rien de magique sauf que si justement: 2022 est une année merveilleuse pour créer dans le monde numérique, il y a tout ce qu’il faut!
 
 ### capturer et enregistrer

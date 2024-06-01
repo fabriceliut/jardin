@@ -1,7 +1,6 @@
 ---
 title: bras droit
 ---
-
 **L'expression "bras droit" est utilisée pour désigner une personne qui est très proche et très importante pour une autre, généralement un dirigeant ou un chef d'entreprise.** 
 
 L'origine exacte de cette expression n'est pas claire, mais il existe plusieurs théories sur son origine.

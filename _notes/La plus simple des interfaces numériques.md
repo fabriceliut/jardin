@@ -5,7 +5,6 @@ tags:
   - numérique
   - Afairepousser
 ---
-
 depuis maintenant plus de 10ans je me passionne à suivre l’évolution de nos outils numériques, en tant qu’accompagnant à la gestion de projet, gestion de la connaissance mais aussi en tant qu'ux designer.
 
 je suis passé par tous les types d’applications et d’interface pour en arriver aujourd’hui à ce qui pour moi et le plus fonctionnel, efficace et agréable: les application avec le moins d’interface graphique possible.

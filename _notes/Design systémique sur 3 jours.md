@@ -4,7 +4,6 @@ image: /assets/troisjours.jpeg
 tags:
   - offre
 ---
-
 ![]({{page.image}})
 
 *L’approche systémique de l'[[Archipel Kyosei]] se met en place grâce à 3 journées construites spécifiquement pour poser concrètement, en coopération, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles priorités d’actions & de transformations à initier.*

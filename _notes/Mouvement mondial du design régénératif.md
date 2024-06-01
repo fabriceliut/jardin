@@ -4,7 +4,6 @@ tags:
   - régénératif
   - article
 ---
-
 L'humanité est confrontée à de nombreuses menaces mondiales résultant de l'ampleur, du rythme et de l'intensité des changements de nos systèmes culturels, technologiques, politiques et économiques. Ce qui nous manque, c'est la capacité d'appréhender et de guider ce processus évolutif extrêmement complexe à l'échelle de la société.
 
 L'un de nos plus grands défis du 21e siècle sera de **cultiver les capacités de guider intentionnellement les changements sociétaux en utilisant un assemblage de nos meilleurs ressources provenant des sciences, technologie, gestion organisationnelle et expression artistique**. En d'autres termes,**l'humanité a besoin d'une science & d'une culture de conception régénérative** pour un changement sociétal intentionnel nécessaire permettant le bien-être & la santé des écosystèmes vivants, de nos familles, entreprises, villes & villages, régions & nations.

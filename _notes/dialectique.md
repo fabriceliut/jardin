@@ -11,4 +11,7 @@ La dialectique est une méthode de discussion, de raisonnement ou d'analyse qui 
 
 Un concept lié très proche : la questiologie. également, le processus de [[Design thinking]] passe toujours par une première étape de questionnements qui doivent aboutir sur des questions priorisées à adresser avant de passer à la recherche de solutions.
 
-Le point central c'est : il vaut mieux prendre plus de temps pour se poser les bonnes questions plutôt que de centrer les efforts à créer des solutions qui ne vont pas répondre aux problèmes réels, voir même créer d'autres problèmes innatendus. 
+Le point central c'est : il vaut mieux prendre plus de temps pour se poser les bonnes questions plutôt que de centrer les efforts à créer des solutions qui ne vont pas répondre aux problèmes réels, voir même créer d'autres problèmes inatendus.
+
+En lien avec ce sujet principal : 
+- [[investir dans les questions]]

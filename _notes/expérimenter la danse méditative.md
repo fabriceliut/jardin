@@ -3,7 +3,6 @@ title: expérimenter la danse méditative
 tags:
   - mouvement
 ---
-
 - **La danse méditative est ce qu’on souhaite en faire. C’est une pratique de méditation active, combinant des bases de Yoga, avec exercices de respiration et danse libre.**
     
       

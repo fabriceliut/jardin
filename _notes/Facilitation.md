@@ -4,7 +4,6 @@ tags:
   - terminologie
   - designs
 ---
-
 # Pourquoi la facilitation et le [[Design Sprint]] ?
 
 Pour créer **un environnement** favorisant la créativité et l’émergence. Pour conduire un groupe en favorisant la diversité et pour résoudre des problématiques complexes efficacement. Pour libérer l'expérience de "faire ensemble" et transformer des problématiques majeures en opportunités collectives.

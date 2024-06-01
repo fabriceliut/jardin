@@ -4,7 +4,7 @@ tags:
   - atome
   - Meta-analyse
 ---
->c'est une analyse "meta" de notre alternance de mode de fonctionnement cognitif.
+>c'est une analyse pour "[[pratiquer la meta conversation]]" : notre alternance de mode de fonctionnement cognitif.
 
 **La bascule d'état de penser entre la journée et la soirée est un phénomène naturel qui nous permet de trouver un équilibre entre notre côté rationnel et notre côté intuitif. En étant conscients de ces changements, nous pouvons mieux comprendre nos pensées et nos émotions et les utiliser de manière plus efficace pour notre bien-être.**
 

@@ -1,7 +1,6 @@
 ---
 title: C'est quoi lâcher prise
 ---
-
 Tout part d'une question sur Facebook d'un ami, Anys.M qui peut inspirer les recherches pour [[Prendre soin de soi]].
 
 > C'est quoi pour vous le lâcher-prise ? Comment réagissez-vous dans des situations incontrôlables ?

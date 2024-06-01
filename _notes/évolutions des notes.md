@@ -5,6 +5,8 @@ tags:
 ---
 Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[jardin numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
 
+## en date du 01/06/24
+Simplement un coup de clean dans les pages pour m'assurer que je suis toujours aligné avec mes propos des notes plus anciennes. je me rend compte qu'on change tellement vite que des affirmations passées sont souvent à réviser. la prochaine étape sera de vraiment réviser les notes ressources en profondeur et de les compléter pour avancer petit à petit vers un jardin numérique qui ressemble à un ouvrage interactif.
 
 ## en date du 20/03/24
 je remet des liens et de la structure logique entre les notes pour faciliter la navigation, les rebond et les explorations.

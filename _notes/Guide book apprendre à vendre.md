@@ -22,6 +22,7 @@ En effet, je suis pas certain que beaucoup de profiles soient prêts à déclenc
 *A l'échelle individuelle, on fonctionne aussi en pas à pas, par petits ajustements et le point de départ peu être l'activité physique, l'alimentation, les relations, les habitudes, etc... Mais rarement on se lève un matin et on décide d'investir sur une transformation complète de notre "Moi".*
 
 # Connaître sincèrement son interlocuteur
+
 Comment est-ce qu'on l'a découvert ? 
 - Article ? Podcast ? Evènement ?
 	

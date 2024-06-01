@@ -4,7 +4,6 @@ tags:
   - storytelling
   - régénératif
 ---
-
 Only because of our shared imagination, we destroyed planet Earth. Can we regenerate it if we create others stories together ?
 
 New stories > new paradigms > new rules to play game of life, like a [[metagame]].

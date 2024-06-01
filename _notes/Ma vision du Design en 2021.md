@@ -4,7 +4,6 @@ tags:
   - designs
   - guidebook
 ---
-
 Je me dis actuellement acteur du [[design systémique]] et du [[design régénératif]]. Mais qu'est-ce que veulent dire ces termes associés ensemble pour une vision complète du Design ?
 
 **Je vais vous l'exposer dans cet essai**. C'est pour moi la mise à jour nécessaire du Design pour 2021 en 4 points :

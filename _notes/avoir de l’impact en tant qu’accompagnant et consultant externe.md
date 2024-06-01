@@ -1,7 +1,6 @@
 ---
 title: avoir de l’impact en tant qu’accompagnant et consultant externe
 ---
-
 ## intention
 
 fournir avec ce framework une vision et des méthodes pour développer l’impact régénératif des accompagnants, facilitateurs et consultant externes qui travaillent avec des organisations de toutes tailles et secteurs.

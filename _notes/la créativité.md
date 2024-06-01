@@ -20,3 +20,5 @@ La créativité fait référence à la capacité de penser de manière nouvelle 
 **Il est important de noter que toutes les idées créatives ne mènent pas à l'innovation**. Pour qu'une idée soit innovante, elle doit être mise en œuvre et avoir un impact tangible et positif. Par conséquent, **vous pouvez penser à la créativité comme le moteur de l'innovation**.
 
 En somme, la créativité génère des idées, tandis que l'innovation les met en application. Les deux sont nécessaires pour le progrès et la croissance dans de nombreux domaines, y compris les affaires, la technologie, l'éducation, l'art et la science.
+
+Pour développer plus loin avec [[l'échelle de la Créativité]].

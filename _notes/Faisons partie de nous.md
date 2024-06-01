@@ -3,7 +3,6 @@ title: faisons partie de nous
 tags:
   - Meta-analyse
 ---
-
 ### Faisons-nous partie de nous ?
 
 **La liberté est un état d'esprit.** Nous pouvons choisir de faire partie de quelque chose ou choisir de ne pas en être.

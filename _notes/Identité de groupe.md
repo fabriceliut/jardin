@@ -3,7 +3,6 @@ title: identité de groupe
 tags:
   - Meta-analyse
 ---
-
 J'ouvre une nouvelle exploration collective autour du concept d'identité de groupe. Je prendrais un scénario assez simple d'entrepreneur pour illustrer ma réflexion.
 Appelons-le Xavier. Xavier est entrepreneur et souhaite s'associer avec des personnes complémentaire pour développer son projet. Il est alors face à plusieurs choix :
 - Monter un structure (asso, entreprise) et recruter

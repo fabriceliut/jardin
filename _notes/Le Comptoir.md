@@ -3,7 +3,6 @@ title: le Comptoir
 tags:
   - projet
 ---
-
 ## Il est grandement temps de penser autrement, pour faire autrement.
 ### Notre société vit une transformation sans précédents.
 

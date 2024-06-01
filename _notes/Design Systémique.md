@@ -3,7 +3,6 @@ title: design systémique
 tags:
   - designs
 ---
-
 C'est l'un des [[designs]] & l'application concrète de la [[pensée systémique]] via, par exemple, la [[modélisation systémique]].
 
 # Pourquoi le Design Systémique ? [(def)](https://en.wikipedia.org/wiki/Systemic_design "Link: https://en.wikipedia.org/wiki/Systemic_design")

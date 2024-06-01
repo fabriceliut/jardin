@@ -1,7 +1,6 @@
 ---
 title: Ça veut dire quoi impact pour toi
 ---
-
 ce terme est sur la bouche de beaucoup de personnes, il donne du sens à nos actions: si on a de l'impact, alors on est utile et plus on a d'impact plus nous sommes utiles largement, "ça fait bouger les choses".
 
 **mais est-ce qu'on donne tous la même définition à ce mot?** c'est pour explorer ce terme que je crée cette note qui va évoluer au fil de mes explorations. en effet, quand j'entend parler d'impact autour de moi, j'entend souvent des intentions et des "manières" très différentes de développer un impact et le "pour quoi" est également très différent.

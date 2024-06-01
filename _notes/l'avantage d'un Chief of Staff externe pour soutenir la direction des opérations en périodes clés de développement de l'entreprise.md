@@ -21,4 +21,6 @@ tags:
 
 *le COS externe devient un réel support au développement de l'entreprise et un interface avec le monde extérieur pour fluidifier les apports de ressources (humains et connaissances) nécessaire pour supporter la charge de la complexité grandissante de l'organisation.*
 
-en lien [[Ceo, n'oubliez pas votre COO ou Chief of Staff]]
+en lien :
+- [[Ceo, n'oubliez pas votre COO ou Chief of Staff]]
+- [[chief of staff externe]]

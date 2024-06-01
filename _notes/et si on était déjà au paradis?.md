@@ -3,8 +3,6 @@ title: et si on était déjà au paradis?
 tags:
   - Afairepousser
 ---
-
-
 -   Envie d'être libre de faire ce que je veux en rêve même si ça fait du mal aux autres
 -   Parce que je peux pas dans la vie réelle
 -   et si le réelle c'était déjà un rêve ? Un rêve lucide ?

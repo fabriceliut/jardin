@@ -3,7 +3,6 @@ title: La fin du bullshit
 tags:
   - philosophie
 ---
-
 **Je me demande quand est-ce que ça va finir le bullshit.** Vraiment, qui aime le mensonge, les vendeurs de rêve, la manipulation, le détournement d'intérêt ? Après une année 2020 qui nous montre très explicitement toutes les failles de transparence et de sincérité de notre système, qui peut encore désirer revenir à un état "normal" des choses ?
 
 Qui peut encore vouloir faire du business as usual quand c'est cette même manière de faire du business qui nous a mené là où nous en sommes ? Est-ce que je suis idéaliste de croire qu'il est possible d'arrêter le bullshit marketing sur LinkedIn parce que ça ne marchera plus ? Est-ce que je suis rêveur de croire que la considération première des professionnels sur ce réseau sera de questionner, d'écouter, de chercher à comprendre sincèrement les besoins des uns et des autres pour tenter d'y répondre ?
