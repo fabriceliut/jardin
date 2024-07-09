@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed417d60c2bc6a2",
+        "id": "1191dceaf5a2ca88",
         "type": "tabs",
         "children": [
           {
-            "id": "9555bd5bc5a3922b",
+            "id": "1199facd163734a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité.md",
-                "mode": "source",
+                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité.md",
+                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité.md",
+                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité.md"
+                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9555bd5bc5a3922b",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
     "_notes/Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité.md",
     "_notes/Plan pour une régénération sociétale.md",
     "_notes/l'échelle de la Créativité.md",
@@ -186,7 +187,6 @@
     "_notes/dialectique.md",
     "_notes/investir dans les questions.md",
     "_notes/le leader régénératif fait circuler.md",
-    "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
