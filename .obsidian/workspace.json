@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
+                "file": "_notes/Plan pour une régénération sociétale.md",
                 "mode": "preview",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
+                "file": "_notes/Plan pour une régénération sociétale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
+                "file": "_notes/Plan pour une régénération sociétale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md"
+                "file": "_notes/Plan pour une régénération sociétale.md"
               }
             }
           }
@@ -159,8 +159,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "1199facd163734a4",
   "lastOpenFiles": [
+    "_notes/Règles de calcul de mes tarifs.md",
+    "_notes/Roam Research.md",
+    "_notes/Découverte de Roam.md",
+    "_notes/Guide book apprendre à vendre.md",
+    "_pages/index.md",
+    "_pages/about.md",
     "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
     "_notes/Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité.md",
     "_notes/Plan pour une régénération sociétale.md",
@@ -181,12 +187,6 @@
     "_notes/avantages de travailler avec un COO externe à temps partagé.md",
     "_notes/régénérer pour ne pas dégénérer.md",
     "_notes/le slash effect.md",
-    "_notes/le consulting d'aujourd’hui c’est de la facilitation et ça change tout!.md",
-    "_notes/un rituel pour bien lancer la semaine.md",
-    "_notes/petite pensée sur la semaine de 4 jours.md",
-    "_notes/dialectique.md",
-    "_notes/investir dans les questions.md",
-    "_notes/le leader régénératif fait circuler.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
