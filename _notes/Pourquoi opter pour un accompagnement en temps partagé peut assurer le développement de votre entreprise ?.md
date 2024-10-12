@@ -11,7 +11,7 @@ _Cet article vous explique en quoi cette solution, que nous avons adoptée chez_
 
 ## Un modèle accessible dès les premières phases de développement
 
-Le recrutement d’un dirigeant (COO, [[chief of staff externe]], CFO, etc.) en interne est souvent une solution onéreuse, peu adaptée aux jeunes entreprises ou à celles en phase de transition. Avec un expert en temps partagé, **vous accédez rapidement à des compétences pointues sans supporter le coût d’un recrutement à temps plein**. Cette solution est particulièrement pertinente lorsque vos besoins en expertise sont temporaires ou fluctuants.
+Le recrutement d’un dirigeant (COO, [[chief of staff]], CFO, etc.) en interne est souvent une solution onéreuse, peu adaptée aux jeunes entreprises ou à celles en phase de transition. Avec un expert en temps partagé, **vous accédez rapidement à des compétences pointues sans supporter le coût d’un recrutement à temps plein**. Cette solution est particulièrement pertinente lorsque vos besoins en expertise sont temporaires ou fluctuants.
 
 > _Ainsi, dès les premières étapes de croissance, vous pouvez intégrer une expertise senior sans alourdir inutilement votre structure de coûts._
 

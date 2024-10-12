@@ -1,5 +1,5 @@
 ---
-title: chief of staff externe
+title: chief of staff
 tags:
   - atome
 ---
@@ -17,7 +17,7 @@ pourquoi travailler avec un chief of staff externe?
 - parce que vous avez des grands projets ponctuels à piloter, qui ne nécessitent pas un recrutement long terme.
 - parce que vous avez besoin d'un interim, en attendant un recrutement, ou bien pour remplacer un congé maternité/paternité.
 
-pour comprendre plus en détail les avantages de travailler avec un COS externe en part time -> https://liut.me/cos
+pour comprendre plus en détail les avantages de travailler avec un COS externe en part time -> https://liut.me
 
 ### les avantages concret d'un COS externe, expert en transformation des organisations
 

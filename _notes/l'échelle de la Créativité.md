@@ -26,7 +26,7 @@ me balader dans des univers très conformes pour en extraire le nécessaire à s
   
 j'aime faire le pont entre la diversité des approches puis traduire et inviter les autres à se balader avec moi.  
   
-je n'arrive pas à me dire "consultant" : trop conforme - j'apporte de la valeur autrement, comme un "[[chief of staff externe]]" qui sera un standard de demain en remplacement du classique "conseil".  
+je n'arrive pas à me dire "consultant" : trop conforme - j'apporte de la valeur autrement, comme un "[[chief of staff]]" qui sera un standard de demain en remplacement du classique "conseil".  
 ce n'est pas moi qui le dis : ce sont les avant-gardistes, ceux qui savent capter demain avant tout le monde.  
   
 Grâce à eux, je vois ce qui arrive 4 ans avant. eux savent voir parfois 20-30 ans avant, sans réussir à l'expliquer et aussi parce que ça fait peur.

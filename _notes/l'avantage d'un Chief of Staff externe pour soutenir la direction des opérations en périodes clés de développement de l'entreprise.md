@@ -23,4 +23,4 @@ tags:
 
 en lien :
 - [[Ceo, n'oubliez pas votre COO ou Chief of Staff]]
-- [[chief of staff externe]]
+- [[chief of staff]]
