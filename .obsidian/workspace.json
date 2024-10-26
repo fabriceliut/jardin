@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83e51320dff45ba5",
+        "id": "ec9491968e2cbc50",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd902c30412a202",
+            "id": "7cf89a6970a4052a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/L'analogie entre l'écriture assistée par IA et la création musicale.md",
-                "mode": "source",
+                "file": "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/L'analogie entre l'écriture assistée par IA et la création musicale.md",
+                "file": "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise"
             }
           },
           {
@@ -104,7 +114,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -113,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/L'analogie entre l'écriture assistée par IA et la création musicale.md",
+                "file": "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise"
             }
           },
           {
@@ -128,7 +142,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -137,8 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/L'analogie entre l'écriture assistée par IA et la création musicale.md"
-              }
+                "file": "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise"
             }
           }
         ],
@@ -161,8 +179,9 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/Chief of Staff - La solution pour dépasser la charge de travail et garder le cap.md",
+    "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md",
     "_notes/L'analogie entre l'écriture assistée par IA et la création musicale.md",
+    "_notes/Chief of Staff - La solution pour dépasser la charge de travail et garder le cap.md",
     "_notes/chief of staff.md",
     "_notes/Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?.md",
     "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
@@ -186,7 +205,6 @@
     "_notes/l'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise.md",
     "_notes/changer le monde en créant d'autres histoires.md",
     "_notes/process pour résoudre des problématiques complexes.md",
-    "_notes/co-construction.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
