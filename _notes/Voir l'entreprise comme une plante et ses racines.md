@@ -31,6 +31,6 @@ Pour ensuite pratiquer, évoluer et demain peut-être trouver plus de sagesse.
   
 Il nous reste tellement à découvrir et nous ne sommes qu’au début de nos explorations.  
   
-Pour la bio inspiration voyez aussi du côté de [🌱 Alexis CLAISSE](https://www.linkedin.com/in/ACoAAAOuaKcB0PnjQuVc1fM7VAxqICjy-Q87WOg) et les séminaires qu’il organise : parfait premier pas pour intégrer les non humains dans votre entreprise.  
+Pour la bio-inspiration voyez aussi du côté de [🌱 Alexis CLAISSE](https://www.linkedin.com/in/ACoAAAOuaKcB0PnjQuVc1fM7VAxqICjy-Q87WOg) et les séminaires qu’il organise : parfait premier pas pour intégrer les non humains dans votre entreprise.  
   
 *Il y a mieux à faire que planter des arbres pour gagner des crédits carbonés quand on veut s’engager avec le reste du vivant.*
