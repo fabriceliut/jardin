@@ -19,7 +19,7 @@ Et pas animés par la même vision, la même histoire.
 
 Dans ce cas je n’aurais rien à faire de plus et ce sera très bien ainsi...
 
-Mais au fond de moi j’ai encore cet appel de « les rassembler tous, et ensemble guérir le monde ».
+Mais au fond de moi j’ai encore cet appel de « les rassembler tous, et ensemble guérir le monde » - parce que je crois qu'il faut [[Prendre soin du collectif]] car ce n'est pas encore le cas.
 
 Un truc héroïque du genre et sur le chemin de sacrés épopées à des échelles beaucoup plus mythiques et héroïques que nos vies actuelles.
 
