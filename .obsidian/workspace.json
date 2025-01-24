@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81fc1e6ac50363cc",
+        "id": "2ae6041911806250",
         "type": "tabs",
         "children": [
           {
-            "id": "9681acd23efc4c36",
+            "id": "c3923dd4116b28a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_notes/comment être ensemble vraiment pour guérir le monde.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "comment être ensemble vraiment pour guérir le monde"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,8 +175,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9681acd23efc4c36",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/comment être ensemble vraiment pour guérir le monde.md",
     "_notes/Voir l'entreprise comme une plante et ses racines.md",
     "_notes/coopération.md",
     "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
@@ -199,7 +203,6 @@
     "_pages/index.md",
     "_pages/about.md",
     "_notes/Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité.md",
-    "_notes/la bascule d’état de penser entre journée et soirée.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
