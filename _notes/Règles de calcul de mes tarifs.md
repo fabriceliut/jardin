@@ -7,7 +7,7 @@ j'ai à coeur d'être le plus transparent, explicite et surtout le plus juste da
 
 # concernant les accompagnements (design, facilitation, conseil) il y a plusieurs formats:
 
-- **la première rencontre sur 1:00 est toujours gratuite**. elle permet "de se sentir", l'écoute et une premier diagnostic général du besoin. vous repartez déjà avec des premières pistes d'interventions à dégrossir sur une étape suivante
+- **la première rencontre sur 45min est toujours gratuite**. elle permet "de se sentir", l'écoute et une premier diagnostic général du besoin. vous repartez déjà avec des premières pistes d'interventions à dégrossir sur une étape suivante
 - ensuite **le taux horaire va varier suivant 6 paramètres**: nature, échelle, impact, délais du projet + le niveau d'engagement & de responsabilités de l'intervention - ainsi **le taux peut varier de 600 à 2000€ la journée** - _il comprend les frais de gestion projet & administratifs_
 
 je fais toujours en sorte de me fondre au projet comme si c'était le mien. j'ai donc un engagement d'optimiser les coûts/efforts/impact - et de m'assurer un suivi pendant et après mon intervention.
