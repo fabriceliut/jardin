@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5f436fec12c420",
+        "id": "b241cc1e8056556b",
         "type": "tabs",
         "children": [
           {
-            "id": "061659b6960b2311",
+            "id": "a1199f6dc804bb12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Du combat à la coexistence, renaître au-delà de nos peurs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Du combat à la coexistence, renaître au-delà de nos peurs"
+              "title": "New tab"
             }
           }
         ]
@@ -179,6 +175,7 @@
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
     "_notes/Du combat à la coexistence, renaître au-delà de nos peurs.md",
+    "_notes/Mon approche sensible avec les directions d'entreprise.md",
     "_notes/une humanité en expansion infinie.md",
     "_notes/Règles de calcul de mes tarifs.md",
     "_notes/comment être ensemble vraiment pour guérir le monde.md",
@@ -203,7 +200,6 @@
     "_notes/Roam Research.md",
     "_notes/Découverte de Roam.md",
     "_notes/Guide book apprendre à vendre.md",
-    "_pages/index.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
