@@ -6,7 +6,7 @@ image: assets/avatar_24.jpg
 ---
 ![]({{page.image}})
 
-**Je suis Chief of Staff, designer, facilitateur & j'accompagne principalement des dirigeants et CODIR.** 
+**Je suis designer & facilitateur. J'accompagne les dirigeants, CODIR et COMEX.** 
 
 J’applique une pensée systémique et des principes régénératifs par bio-inspiration. 
 J’apporte une sensibilité et des méthodologies adaptées pour faciliter le développement de projets coopératifs complexes.
@@ -23,7 +23,7 @@ N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[jardin 
 
 👇 en détail ?
 
-## Je suis Chief of Staff externe, Designer Systémique & Facilitateur expert du Design Sprint.
+## Je suis Designer Systémique & Facilitateur expert du Design Sprint.
 
 _Explorateur du quotidien par la curiosité & activiste par l'approche Design Régénérative. J'anime régulièrement des conférences et ateliers sur Lyon, Paris et ailleurs sur invitation._
 
@@ -39,7 +39,7 @@ J'accompagne les organisations et éco-systèmes projets à se transformer en r�
 
 Dans un monde complexe, nous avons besoin de toute la diversité des modèles de pensée de notre humanité. C'est par cette complémentarité & notre intelligence collective que nous pourrons agir en cohérence avec nos ambitions tout en restant en accord avec les projets des autres & du reste du vivant.
 
-_**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depuis plus de 9 ans. Elle est d'une efficience remarquable pour faciliter la mise en synergie et la coopération autour de problématiques majeures à résoudre._
+_**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depuis plus de 10 ans. Elle est d'une efficience remarquable pour faciliter la mise en synergie et la coopération autour de problématiques majeures à résoudre._
 
 **La posture facilitateur** permet de mettre en synergie les différents acteurs & les éco-systèmes complémentaire directement autour de projets communs, dans un temps adapté.
 
@@ -53,11 +53,12 @@ _**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depu
 
 ## Pourquoi est-ce que je fait tout ça ?
 
-Je vois notre société actuelle comme un système qui dégénère bien plus qu'il ne se régénère. L'industrialisation nous a totalement éloigné du "bon sens" de vivre. **Mon action en tant qu'intervenant est de participer à fluidifier le quotidien des systèmes humains pour libérer la création et redonner une dynamique régénérative à nos initiatives.** Notre société doit gagner en tolérance, en diversité et en coopération pour se développer en symbiose, comme une forêt primaire, saine et abondante, pour nous et en accord avec le reste du vivant.
+Je vois notre société actuelle comme un système qui dégénère bien plus qu'il ne se régénère. L'industrialisation nous a totalement éloigné du "bon sens" de vivre. **Mon action en tant qu'intervenant est de participer à fluidifier le quotidien des systèmes humains pour libérer la création et redonner une dynamique régénérative à nos initiatives.** 
+Notre société doit gagner en tolérance, en diversité et en coopération pour se développer en symbiose, comme une forêt primaire, saine et abondante, pour nous et en accord avec le reste du vivant.
 
-📕 [[livre du Comptoir]]
+📕 [[livre du Comptoir]] pour symboliser mes intentions.
 
-Lorsque nous aurons atteint ce nouvel "état temporaire" d'existence, nous pourrons profiter de nouveaux paradigmes de société, **d'une nouvelle réalité à explorer librement ensemble**. Tout ceci peut paraître idéaliste ? C'est une des postures "Politique" que porte le Design de demain, nécessairement optimiste.
+Lorsque nous aurons atteint ce nouvel "état temporaire" d'existence, nous pourrons profiter de nouveaux paradigmes de société, **d'une nouvelle réalité à explorer librement ensemble**. Tout ceci peut paraître idéaliste ? C'est une des postures "Politique" que je porte, nécessairement optimiste.
 
 💡 *"Tant qu'il y a des problèmes il y a des solutions."*
 

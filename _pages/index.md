@@ -10,8 +10,7 @@ permalink: /
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   bienvenue dans mon [[jardin numérique]]. premières orientations pour vos explorations.
   découvrez comment [[Prendre soin de soi]] - [[Prendre soin du collectif]] - [[Prendre soin du monde]].
-  apprenez-en plus sur les [[designs]], le concept de [[Second Brain]] et sur l'une de mes expérimentations de communauté, [[Archipel Kyosei]].
-  Il y a bien plus à découvrir encore, laissez vous porter par votre curiosité...
+  Il y a bien plus à découvrir encore, laissez vous porter par votre curiosité 👇
 </p>
 
 <strong>Dernières notes à jour</strong>
@@ -27,10 +26,11 @@ permalink: /
 ## axes de travail et de recherche
 avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
 
-je porte une casquette de "[[chief of staff]]" : j'accompagne les directions générales d'entreprises avec une posture de généraliste.
+je porte une casquette proche d'un "[[chief of staff]]" : j'accompagne les directions générales d'entreprises avec une posture de généraliste.
 
 - [[pourquoi travailler avec un généraliste plutôt qu’un spécialiste?]]
 - [[pour quoi travailler ensemble]]
+- [[Mon approche sensible avec les directions d'entreprise]]
 
 pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au coeur de mes explorations :
 - [[régénératif]]
