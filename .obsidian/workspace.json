@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65e86724e1cd4fbf",
+        "id": "2ebe22265e77be39",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f11907456036d3",
+            "id": "99480847b4caa88d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "99480847b4caa88d",
   "lastOpenFiles": [
+    "_notes/fusionner écologie et économie en un seul concept intégré.md",
     "_pages/about.md",
     "_pages/index.md",
     "_notes/Mon approche sensible avec les directions d'entreprise.md",
@@ -199,7 +200,6 @@
     "_notes/retrouver la confiance en l’intuition.md",
     "_notes/faire confiance autrement.md",
     "_notes/Plan pour une régénération sociétale.md",
-    "_notes/Roam Research.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
