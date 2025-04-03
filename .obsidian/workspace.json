@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ebe22265e77be39",
+        "id": "548f5adda2d9c727",
         "type": "tabs",
         "children": [
           {
-            "id": "99480847b4caa88d",
+            "id": "7f5159eff657a97b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_notes/La danse de la vie, trouver la beauté dans la fluidité.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "La danse de la vie, trouver la beauté dans la fluidité"
             }
           }
         ]
@@ -172,8 +176,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "99480847b4caa88d",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/La danse de la vie, trouver la beauté dans la fluidité.md",
     "_notes/fusionner écologie et économie en un seul concept intégré.md",
     "_pages/about.md",
     "_pages/index.md",
@@ -199,7 +204,6 @@
     "_notes/confiance.md",
     "_notes/retrouver la confiance en l’intuition.md",
     "_notes/faire confiance autrement.md",
-    "_notes/Plan pour une régénération sociétale.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
