@@ -6,69 +6,58 @@ image: assets/avatar_24.jpg
 ---
 ![]({{page.image}})
 
-**Je suis designer & facilitateur. J'accompagne les dirigeants, CODIR et COMEX.** 
+Salut, moi c’est Fabrice Liut.
 
-J’applique une pensée systémique et des principes régénératifs par bio-inspiration. 
-J’apporte une sensibilité et des méthodologies adaptées pour faciliter le développement de projets coopératifs complexes.
+J’accompagne les dirigeants et leurs équipes à gagner en efficacité, en plaisir et en clarté, mais toujours avec une touche qui m’est propre : une curiosité insatiable, un regard systémique, et une envie profonde de réinventer nos façons de faire ensemble. Mon truc, c’est de mêler l’exigence du pragmatisme et l’ouverture à l’inattendu, en m’inspirant du vivant, des systèmes naturels, et de tout ce qui fait la richesse de notre monde.
 
-Je participe à catalyser ces initiatives et à structurer les ressources en commun pour traiter nos problèmes de société et les transformer en opportunités d'évolution collective.
-
-> 💡 _"La vie ce n'est pas les molécules mais les liens entre les molécules."_
+## **Ce qui me distingue**
 
 
+Je ne suis pas un consultant classique, ni un coach “hors-sol”. J’aime plonger au cœur du terrain, écouter, ressentir, observer ce qui se joue vraiment. Je pose des questions qui dérangent parfois, mais qui ouvrent toujours des portes. Mon approche, c’est celle d’un généraliste qui connecte les points, éclaire les zones d’ombre, et fait émerger l’essentiel pour avancer.
 
-N'hésitez pas à me contacter pour n'importe quoi ! Une partie de mon [[jardin numérique]] est également sur [Notion](https://www.notion.so/liutnotes/Explorer-cr-er-ensemble-a39dc93057aa45999a87feffe61ed956) 😍
 
----
+J’ai un goût particulier pour les sujets complexes, là où tout semble emmêlé, là où il faut accepter de ne pas tout contrôler. Je travaille avec la pensée systémique, la bio-inspiration, et cette conviction qu’on a tout à gagner à s’inspirer de la nature, des réseaux invisibles, des racines et des liens plus que des organigrammes.
 
-👇 en détail ?
 
-## Je suis Designer Systémique & Facilitateur expert du Design Sprint.
+## **Pourquoi travailler avec moi ?**
 
-_Explorateur du quotidien par la curiosité & activiste par l'approche Design Régénérative. J'anime régulièrement des conférences et ateliers sur Lyon, Paris et ailleurs sur invitation._
+- Parce que je ne vous apporte pas de recettes toutes faites, mais un regard neuf, vivant, et une capacité à faire émerger ce qui compte vraiment.
+- Parce que je crois à la puissance du collectif, à l’intelligence émotionnelle, et à la capacité d’une équipe à se transformer de l’intérieur.
+- Parce que j’aime autant fluidifier le quotidien que questionner vos paradigmes, toujours dans la simplicité et l’action concrète.
+ 
 
-### J'utilise la pensée complexe & systémique pour permettre un Design régénératif inspiré du vivant _(bio-inspiration)_. 
+## **Ma méthode, en toute transparence**
 
-J'accompagne les organisations et éco-systèmes projets à se transformer en résolvant **par des démarches Designs et coopératives** les problématiques complexes qui surviennent lors de leur évolution. J'apporte **une approche systémique bio-inspirée** pour appréhender la complexité et faciliter le passage à l’action et la concrétisation “dans le sens du vivant et d'un demain souhaitable”. Je suis également **expert en développement de communautés ouvertes** et en **création de business modèles complexes** (circulaire, éco-systémique, etc…)  
+1. **Immersion** : Je m’intègre à vos équipes, j’écoute, j’observe, je ressens. Je capte les dynamiques, les tensions, les élans.
+2. **Diagnostic sensible** : J’aide à visualiser les systèmes, à poser les vrais enjeux, à identifier les points de blocage et les potentiels inexploités.
+3. **Questions & feedback** : Je sers de miroir, je pose les questions qui font avancer, je facilite les prises de conscience collectives.
+4. **Mise en mouvement** : On priorise ensemble, on passe à l’action, on ajuste, on apprend en chemin.
 
-👉 [[Design systémique sur 3 jours]]
+  
+## **Ce qui m’anime**
 
-👉 [[Design circulaire sur 1 jour]]
 
-### J’apporte une sensibilité et des méthodes de [[facilitation]] adaptées pour interconnecter les humains et faciliter les coopérations. 
+Je me lève chaque matin avec l’envie de contribuer à une société plus joyeuse, plus belle, plus vivante. J’aime explorer, relier, transmettre, mais surtout accompagner les humains à se reconnecter à ce qui fait sens pour eux et pour le monde. Je crois à la force des rencontres, à la magie des liens faibles, et à la nécessité de régénérer nos organisations pour qu’elles servent le vivant, pas l’inverse.
 
-Dans un monde complexe, nous avons besoin de toute la diversité des modèles de pensée de notre humanité. C'est par cette complémentarité & notre intelligence collective que nous pourrons agir en cohérence avec nos ambitions tout en restant en accord avec les projets des autres & du reste du vivant.
 
-_**Le [[Design Sprint]]**_ _est une recette coopérative que j'expérimente depuis plus de 10 ans. Elle est d'une efficience remarquable pour faciliter la mise en synergie et la coopération autour de problématiques majeures à résoudre._
+## **Ce que vous gagnez à travailler avec moi**
 
-**La posture facilitateur** permet de mettre en synergie les différents acteurs & les éco-systèmes complémentaire directement autour de projets communs, dans un temps adapté.
+- Un allié qui vous aide à voir plus clair, à aligner vos équipes, à fluidifier vos projets, sans jamais perdre de vue la dimension humaine et systémique.
+- Un regard décalé, parfois poétique, mais toujours ancré dans le réel et l’action.
+- Une énergie tournée vers la coopération, la simplicité, et l’envie d’inventer ensemble des façons de faire qui nous ressemblent.
 
-### Je participe à catalyser les initiatives et à créer les ressources en commun pour traiter nos problèmes de société et les transformer en opportunités d'évolutions collectives.  
 
-**Dans un monde complexe, tout est un grand système, tout est lié**. La connaissance et nos expériences sont à mettre en commun pour dynamiser les projets de chacun, forcément complémentaire. L'approche "Open-Source" s'applique désormais également en dehors du numérique. Nous faisons tous partie de la grande "entreprise Vie", il est nécessaire d'en prendre conscience pour ne plus ralentir notre évolution pour des raisons de concurrences d'idées ou économiques. Trouvons les points de synergies et agissons ensemble.
+Tout commence par une rencontre, sans engagement. On échange, on voit si ça matche, et vous repartez déjà avec des pistes concrètes. Et si ce n’est pas moi la bonne personne, je vous oriente vers mon réseau d’experts et de passionnés.
 
-👉 Projets principal en lien, [L'Archipel Kyosei](https://archipelkyosei.com/ "Link: https://archipelkyosei.com").
 
-👉 Mon [[jardin numérique]]
+Envie de tenter l’aventure ? Parlons-en simplement.
 
-## Pourquoi est-ce que je fait tout ça ?
 
-Je vois notre société actuelle comme un système qui dégénère bien plus qu'il ne se régénère. L'industrialisation nous a totalement éloigné du "bon sens" de vivre. **Mon action en tant qu'intervenant est de participer à fluidifier le quotidien des systèmes humains pour libérer la création et redonner une dynamique régénérative à nos initiatives.** 
-Notre société doit gagner en tolérance, en diversité et en coopération pour se développer en symbiose, comme une forêt primaire, saine et abondante, pour nous et en accord avec le reste du vivant.
-
-📕 [[livre du Comptoir]] pour symboliser mes intentions.
-
-Lorsque nous aurons atteint ce nouvel "état temporaire" d'existence, nous pourrons profiter de nouveaux paradigmes de société, **d'une nouvelle réalité à explorer librement ensemble**. Tout ceci peut paraître idéaliste ? C'est une des postures "Politique" que je porte, nécessairement optimiste.
-
-💡 *"Tant qu'il y a des problèmes il y a des solutions."*
-
-### Vous voulez encourager financièrement ma démarche ? [Vous pouvez devenir membre du mouvement de Design Régénératif](https://www.buymeacoffee.com/liut "Link: https://www.buymeacoffee.com/liut") et profiter de tous les travaux, ressources & connaissances pour faire évoluer vos propres démarches.
-
-Vous voulez voir [mon CV](https://standardresume.co/r/W8FdUb9_QUu4fymQ-9xdz "Link: https://standardresume.co/r/W8FdUb9_QUu4fymQ-9xdz") ?
+À bientôt,  
+Fabrice
 
 ---
-Vous aussi vous voulez développer votre premier jardin numérique ?
-[available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Vous aussi vous voulez développer votre premier jardin numérique ? Utilisez le même thème que moi : [sur GitHub ici](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 <style>
   .wrapper {
