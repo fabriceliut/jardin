@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7f68403f30a728b",
+        "id": "878ae9993d47cfd1",
         "type": "tabs",
         "children": [
           {
-            "id": "abfa6b1aca09ec71",
+            "id": "0da350fc0a2a57b4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "système complexe",
+                "query": "bio-inspiration",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,10 +173,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "abfa6b1aca09ec71",
+  "active": "0da350fc0a2a57b4",
   "lastOpenFiles": [
-    "_notes/système complexe.md",
     "_notes/bio-inspiration.md",
+    "_notes/évolutions des notes.md",
+    "_notes/système complexe.md",
     "pensée-systémique.md",
     "design-régénératif.md",
     "_notes/régénératif.md",
@@ -200,7 +201,6 @@
     "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
     "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
     "_notes/Ma vision du dirigeant engagé.md",
-    "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",

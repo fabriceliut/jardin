@@ -1,8 +1,6 @@
 ---
 title: bio-inspiration
 ---
-# Bio-inspiration
-
 **Apprendre de la nature pour faire mieux en entreprise.**
 
 Plutôt que de réinventer la roue, pourquoi ne pas s'inspirer de ce qui marche depuis des millions d'années ?

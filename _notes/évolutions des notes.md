@@ -5,6 +5,9 @@ tags:
 ---
 Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[jardin numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
 
+## en date du 17/06/25
+Je viens de mettre à jour les pages principales qui sont en lien sur l'accueil pour assurer une cohérence de positionnement et de discours avec ce que je peux dire son mon site pro principal, liut.me et mon Linkedin - tout n'était plus à jour, j'étais encore trop complexe alors que je cherche désormais à être efficace, plus direct et pragmatique.
+
 ## en date du 01/06/24
 Simplement un coup de clean dans les pages pour m'assurer que je suis toujours aligné avec mes propos des notes plus anciennes. je me rend compte qu'on change tellement vite que des affirmations passées sont souvent à réviser. la prochaine étape sera de vraiment réviser les notes ressources en profondeur et de les compléter pour avancer petit à petit vers un jardin numérique qui ressemble à un ouvrage interactif.
 
