@@ -41,6 +41,5 @@ Si l'idée d'embaucher un Chief of Staff à plein temps semble prématurée pour
 
 Ainsi, vous pouvez progressivement construire cette nouvelle dynamique dans votre équipe de direction, avec la sécurité d’un accompagnement sur-mesure dès le début.
 
-Avec [TheTandem](https://www.linkedin.com/company/thetandemgroupe/) et notamment [Olivier Giry](https://www.linkedin.com/in/oliviergiry/) nous croyons beaucoup à ce rôle qui fonctionne très bien avec un sénior externe en temps partagé : ce format permet de tester, de modérer les coûts, d'être agile et d'aider pour le recrutement futur d'un interne.
 
 > _Le Chief of Staff est plus qu'un soutien logistique : il devient votre bras droit stratégique, le garant de la continuité entre vos idées et leur réalisation. Alors, prêt à franchir le pas et à tester cette nouvelle approche de la délégation de direction ?_

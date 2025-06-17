@@ -8,10 +8,9 @@ permalink: /
 # Hello ! 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  bienvenue dans mon [[jardin numérique]]. premières orientations pour vos explorations.
-  découvrez comment [[Prendre soin de soi]] - [[Prendre soin du collectif]] - [[Prendre soin du monde]].
-  Il y a bien plus à découvrir encore, laissez vous porter par votre curiosité 👇
+  Bienvenue dans mon [[jardin numérique]]. Ici, je partage mes idées, mes méthodes et mes découvertes pour [[Prendre soin de soi]], [[Prendre soin du collectif]] et [[Prendre soin du monde]]. Ce jardin, c’est un espace ouvert où vous pouvez piocher des ressources concrètes, explorer des pistes nouvelles et trouver de l’inspiration pour avancer dans vos propres projets. Laissez-vous guider par votre curiosité, il y a sûrement un sujet qui résonnera avec vos envies ou vos questions du moment. 👇
 </p>
+
 
 <strong>Dernières notes à jour</strong>
 <ul>
@@ -40,7 +39,9 @@ pour compléter les orientations principales précédentes, voilà quelques suje
 - [[simplexité]]
 - [[metagame]]
 
-je ne saurais expliquer pourquoi, mais j'ai toujours voulu tout analyser, décortiquer pour comprendre, sentir et peut-être réussir un jour à [[décoder la vie]]... et même si "je sais que je ne sais rien" cela n'enlève pas le plaisir des nouvelles découvertes.
+Je l’avoue, j’ai toujours eu ce réflexe de tout observer, de décortiquer le moindre détail pour essayer de comprendre comment ça marche — la vie, les relations, les organisations. C’est une démarche un peu “meta”, parfois très personnelle, mais qui nourrit tout ce que je fais. Même si je sais qu’on ne peut jamais tout saisir, j’y trouve un vrai plaisir, et souvent, des idées ou des éclairages qui viennent enrichir mes accompagnements et mes projets.
+
+Pour explorer avec moi ces univers, par ici pour tenter de [[décoder la vie]].
 
 ---
 

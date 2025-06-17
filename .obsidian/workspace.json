@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "878ae9993d47cfd1",
+        "id": "43c7551e41d66d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "0da350fc0a2a57b4",
+            "id": "03994d8ccb4a1795",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bio-inspiration",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,8 +172,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0da350fc0a2a57b4",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/spécialiste et généraliste.md",
+    "_notes/une organisation est comme un corps humain.md",
+    "_notes/Design systémique sur 3 jours.md",
+    "_notes/travailler avec moi comme avec un ami.md",
+    "_notes/Plan pour une régénération sociétale.md",
+    "_notes/présentation community design 101.md",
+    "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
+    "_notes/Chief of Staff - La solution pour dépasser la charge de travail et garder le cap.md",
+    "_notes/Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?.md",
+    "_notes/le Comptoir.md",
+    "_notes/Archipel Kyosei.md",
+    "_notes/Les services de Archipel Kyosei.md",
     "_notes/bio-inspiration.md",
     "_notes/évolutions des notes.md",
     "_notes/système complexe.md",
@@ -189,18 +200,6 @@
     "_pages/about.md",
     "_notes/comprendre ce qu'est un projet.md",
     "_notes/La danse de la vie, trouver la beauté dans la fluidité.md",
-    "_notes/Le paradoxe de l'action lointaine, chemin vers un impact plus authentique.md",
-    "_notes/fusionner écologie et économie en un seul concept intégré.md",
-    "_pages/index.md",
-    "_notes/Du combat à la coexistence, renaître au-delà de nos peurs.md",
-    "_notes/une humanité en expansion infinie.md",
-    "_notes/Règles de calcul de mes tarifs.md",
-    "_notes/comment être ensemble vraiment pour guérir le monde.md",
-    "_notes/Voir l'entreprise comme une plante et ses racines.md",
-    "_notes/coopération.md",
-    "_notes/8 Principes Essentiels pour Relever les Défis de Demain.md",
-    "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
-    "_notes/Ma vision du dirigeant engagé.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",

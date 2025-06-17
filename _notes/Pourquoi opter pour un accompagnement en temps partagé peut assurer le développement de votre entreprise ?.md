@@ -3,6 +3,8 @@ title: Pourquoi opter pour un accompagnement en temps partagé peut assurer le d
 tags:
   - chiefofstaff
 ---
+> L'entreprise TheTandem n'est plus mais cela n'enlève en rien la valeur des réflexions partagées ici qui viennent toujours alimenter mes perspectives et ma manière de travailler au quotidien : dans la proximité, pour de l'efficience et de la joie au travail.
+
 _Dans les moments clés de votre entreprise,_ certaines décisions peuvent faire toute la différence_. Recruter un cadre de direction à temps plein ? Travailler avec un consultant classique ? Ou bien choisir une troisième voie : l’accompagnement en temps partagé ?_
 
 _Cet article vous explique en quoi cette solution, que nous avons adoptée chez_ [[TheTandem]] , peut être un levier puissant pour accélérer votre croissance tout en maîtrisant vos coûts.

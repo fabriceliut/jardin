@@ -3,12 +3,14 @@ title: le Comptoir
 tags:
   - projet
 ---
-## Il est grandement temps de penser autrement, pour faire autrement.
-### Notre société vit une transformation sans précédents.
+Le Comptoir, c’était le point de départ d’une aventure collective. À l’époque, je voulais rassembler des personnes, des organisations et des territoires pour mieux traverser les transitions et la complexité du monde actuel. L’enjeu : sortir chacun de son coin, croiser les regards et avancer ensemble, de façon concrète.
 
-**Le Comptoir est un macro-écosystème qui met en synergie et accompagne les individus, organisations et territoires dans leurs transitions afin qu’ils s’adaptent à la complexité du monde actuel.**
 
-Le monde actuel ? Un monde plus conscient, en changement continu et profondément complexe. S’adapter se développe par la coopération et le partage en commun de nos inspirations & connaissances. Ce monde est un système socio-économique, politique et culturel qui doit s’inspirer du vivant ([[bio-inspiration]]) et rechercher constamment et radicalement la prospérité et [[résilience]].
+On partait d’un constat simple : aujourd’hui, tout bouge vite, tout est lié, et personne n’a toutes les réponses seul. Pour s’adapter, il faut coopérer, partager ce qu’on sait, s’inspirer du vivant, et viser la résilience – pas juste la survie, mais la capacité à prospérer dans la durée.
+
+
+C’est ce modèle qui a posé les bases de ce que j’ai développé ensuite, toujours avec cette envie de faire simple, efficace et humain.
+
 
 > Découvrir en détail le [[Manifeste du Comptoir]]
 
