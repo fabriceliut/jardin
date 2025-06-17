@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f2b89eb9ec0bba4",
+        "id": "f7f68403f30a728b",
         "type": "tabs",
         "children": [
           {
-            "id": "c3cb6c849d379fd2",
+            "id": "abfa6b1aca09ec71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Mon approche sensible avec les directions d'entreprise.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mon approche sensible avec les directions d'entreprise"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "approche direction sensible",
+                "query": "système complexe",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +173,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c3cb6c849d379fd2",
+  "active": "abfa6b1aca09ec71",
   "lastOpenFiles": [
+    "_notes/système complexe.md",
+    "_notes/bio-inspiration.md",
+    "pensée-systémique.md",
+    "design-régénératif.md",
+    "_notes/régénératif.md",
+    "_notes/Mon approche sensible avec les directions d'entreprise.md",
     "_notes/pour quoi travailler ensemble.md",
     "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
     "_notes/chief of staff.md",
@@ -189,7 +191,6 @@
     "_notes/Le paradoxe de l'action lointaine, chemin vers un impact plus authentique.md",
     "_notes/fusionner écologie et économie en un seul concept intégré.md",
     "_pages/index.md",
-    "_notes/Mon approche sensible avec les directions d'entreprise.md",
     "_notes/Du combat à la coexistence, renaître au-delà de nos peurs.md",
     "_notes/une humanité en expansion infinie.md",
     "_notes/Règles de calcul de mes tarifs.md",
@@ -200,11 +201,6 @@
     "_notes/se connecter et se faire confiance plus facilement pour rapidement coopérer.md",
     "_notes/Ma vision du dirigeant engagé.md",
     "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md",
-    "_notes/L'analogie entre l'écriture assistée par IA et la création musicale.md",
-    "_notes/Chief of Staff - La solution pour dépasser la charge de travail et garder le cap.md",
-    "_notes/Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?.md",
-    "_notes/Nécessaire sur cette terre ou transparent ?.md",
-    "_notes/l'échelle de la Créativité.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
