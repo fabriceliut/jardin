@@ -5,20 +5,38 @@ tags:
   - philosophie
   - systémique
 ---
-Présenter les avantages des 2 modes.
+**Pourquoi travailler avec un généraliste plutôt qu’un spécialiste ?**
 
-Expliquer en quoi ils sont complémentaires et quand les faire intervenir.
 
-Généraliste
+**Vos enjeux sont complexes ? Un généraliste vous aide à voir l’ensemble du système, à poser les bonnes questions et à orienter vers les bons spécialistes, au bon moment.**
 
--   Comprendre le système
--   Poser les bonnes questions
--   Orienter vers les bons spécialistes et au bon moment
--   Apporter la prise de recule nécessaire tout du long de la vie projet
--   …
 
----
+**Les atouts du généraliste**
 
-CTA - lien d’invitation pour rejoindre une communauté de généralistes qui essaient d’apprendre ensemble comment se vendre en tant que généralistes.
+- Comprendre rapidement le fonctionnement global de votre organisation
+- Identifier les vrais leviers d’action, pas seulement les symptômes
+- Prendre du recul pour clarifier les priorités et fluidifier la coordination
+- Vous accompagner tout au long du projet, pour garantir cohérence et efficacité
+- Savoir mobiliser les bons experts quand c’est nécessaire, sans multiplier les intervenants
 
-https://twitter.com/growthcurrency/status/1406388886314491904
+  
+
+**Complémentarité avec les spécialistes**
+
+Un spécialiste est indispensable pour résoudre un problème technique précis. Mais sans vision d’ensemble, on risque de perdre du temps et de l’énergie sur des solutions partielles. Le généraliste, lui, orchestre l’ensemble : il s’assure que chaque intervention s’inscrit dans une stratégie globale, au service de vos vrais objectifs.
+
+  
+
+**Quand faire appel à un généraliste ?**
+
+- Quand la croissance s’accélère et que l’organisation devient complexe
+- Quand les équipes perdent du temps en coordination ou en reporting
+- Quand il faut pivoter ou réussir un projet critique sans perturber l’existant
+- Quand vous voulez des résultats concrets, sans multiplier les chantiers
+
+  
+
+**Ma conviction : même équipes, meilleure organisation = plus de résultats et plus de plaisir au travail.**
+
+
+Vous voulez en parler ? [Contactez-moi sur liut.me ↗](https://liut.me)

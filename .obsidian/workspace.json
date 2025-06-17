@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e97e3ce3502d3ef",
+        "id": "4f2b89eb9ec0bba4",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ac34628a5bcbe6",
+            "id": "c3cb6c849d379fd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Mon approche sensible avec les directions d'entreprise.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mon approche sensible avec les directions d'entreprise"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "approche direction sensible",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,8 +177,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c6ac34628a5bcbe6",
+  "active": "c3cb6c849d379fd2",
   "lastOpenFiles": [
+    "_notes/pour quoi travailler ensemble.md",
+    "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
+    "_notes/chief of staff.md",
+    "_notes/mon intention du moment.md",
     "_pages/about.md",
     "_notes/comprendre ce qu'est un projet.md",
     "_notes/La danse de la vie, trouver la beauté dans la fluidité.md",
@@ -193,13 +202,9 @@
     "_notes/De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise.md",
     "_notes/L'analogie entre l'écriture assistée par IA et la création musicale.md",
     "_notes/Chief of Staff - La solution pour dépasser la charge de travail et garder le cap.md",
-    "_notes/chief of staff.md",
     "_notes/Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?.md",
     "_notes/Nécessaire sur cette terre ou transparent ?.md",
     "_notes/l'échelle de la Créativité.md",
-    "_notes/la créativité.md",
-    "_notes/Faire confiance par la coopération et sans forcer.md",
-    "_notes/confiance.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
