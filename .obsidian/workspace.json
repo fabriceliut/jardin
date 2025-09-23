@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2927eb9688afe96e",
+        "id": "57f8615dc70fe4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "2e92b6299a4b47bc",
+            "id": "eac9065a37187c02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/(Re)tisser des relations authentiques, réflexions et invitations.md",
+                "file": "_notes/L'art de l'équilibre, entre contrôle et lâcher-Prise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Re)tisser des relations authentiques, réflexions et invitations"
+              "title": "L'art de l'équilibre, entre contrôle et lâcher-Prise"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,8 +180,9 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/L’art délicat de transmettre la sagesse, entre inspiration et appropriation.md",
+    "_notes/L'art de l'équilibre, entre contrôle et lâcher-Prise.md",
     "_notes/(Re)tisser des relations authentiques, réflexions et invitations.md",
+    "_notes/L’art délicat de transmettre la sagesse, entre inspiration et appropriation.md",
     "_notes/L’art de la synchronicité, entre intuition et réflexion.md",
     "_notes/spécialiste et généraliste.md",
     "_notes/une organisation est comme un corps humain.md",
@@ -204,7 +206,6 @@
     "_notes/pour quoi travailler ensemble.md",
     "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
     "_notes/chief of staff.md",
-    "_notes/mon intention du moment.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
