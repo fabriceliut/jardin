@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57f8615dc70fe4bb",
+        "id": "9abba3820547cd68",
         "type": "tabs",
         "children": [
           {
-            "id": "eac9065a37187c02",
+            "id": "ec2f87dc2910784a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/L'art de l'équilibre, entre contrôle et lâcher-Prise.md",
+                "file": "_notes/du système projet aux assemblages projets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'art de l'équilibre, entre contrôle et lâcher-Prise"
+              "title": "du système projet aux assemblages projets"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/du système projet aux assemblages projets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for du système projet aux assemblages projets"
             }
           },
           {
@@ -159,8 +160,7 @@
               "title": "File properties for De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,34 +178,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "ec2f87dc2910784a",
   "lastOpenFiles": [
-    "_notes/L'art de l'équilibre, entre contrôle et lâcher-Prise.md",
-    "_notes/(Re)tisser des relations authentiques, réflexions et invitations.md",
-    "_notes/L’art délicat de transmettre la sagesse, entre inspiration et appropriation.md",
-    "_notes/L’art de la synchronicité, entre intuition et réflexion.md",
-    "_notes/spécialiste et généraliste.md",
-    "_notes/une organisation est comme un corps humain.md",
-    "_notes/Design systémique sur 3 jours.md",
-    "_notes/travailler avec moi comme avec un ami.md",
-    "_notes/Plan pour une régénération sociétale.md",
-    "_notes/présentation community design 101.md",
+    "_notes/Design Sprint.md",
+    "_notes/coopération.md",
+    "_notes/des assemblages à la symbiose projets.md",
+    "_notes/confiance.md",
+    "_notes/Conception design.md",
+    "_notes/comprendre ce qu'est un projet.md",
+    "_notes/complexité.md",
+    "_notes/guidebook business as non usual.md",
     "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
-    "_notes/Chief of Staff - La solution pour dépasser la charge de travail et garder le cap.md",
-    "_notes/Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?.md",
+    "_notes/C'est quoi lâcher prise.md",
+    "_notes/Automatisation.md",
+    "_notes/pourquoi une approche & un design régénératif est nécessaire.md",
+    "_notes/personne morale.md",
+    "_notes/pensée analogique.md",
+    "_notes/pensée systémique.md",
+    "_notes/modélisation systémique.md",
+    "_notes/livre du Comptoir.md",
+    "_notes/liens bidirectionnels.md",
     "_notes/le Comptoir.md",
-    "_notes/Archipel Kyosei.md",
-    "_notes/Les services de Archipel Kyosei.md",
-    "_notes/bio-inspiration.md",
-    "_notes/évolutions des notes.md",
-    "_notes/système complexe.md",
-    "pensée-systémique.md",
-    "design-régénératif.md",
-    "_notes/régénératif.md",
-    "_notes/Mon approche sensible avec les directions d'entreprise.md",
-    "_notes/pour quoi travailler ensemble.md",
-    "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
-    "_notes/chief of staff.md",
+    "_notes/jardin numérique.md",
+    "_notes/institut de la pensée intégrale.md",
+    "_notes/identité de groupe.md",
+    "_notes/extimité.md",
+    "_notes/designs.md",
+    "_notes/design régénératif.md",
+    "_notes/design systémique.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",

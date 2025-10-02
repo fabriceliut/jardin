@@ -17,14 +17,13 @@ Certains, séduits par la profondeur de ces expériences de lâcher-prise, vont 
 # L'équilibriste intérieur
 
 La véritable sagesse ne résiderait-elle pas ailleurs ? Ce n'est pas un penchant radical qui vaut mieux qu'un autre, c'est les deux, les deux en même temps. Cette révélation, née d'une expérience profonde en psychanalyse, pointe vers une voie plus subtile : celle de l'équilibriste.
-    
+
 Le défi n'est pas de choisir entre contrôle et lâcher-prise, mais d'apprendre à tenir sur ce fil d'équilibriste au milieu. Cela demande de développer une présence consciente qui nous permet de doser, moment après moment, ce qui est nécessaire de chaque côté.
-    
 
 # L'art de la juste mesure
 
--Le plus difficile n'est finalement pas de lâcher prise - nos sociétés regorgent de techniques pour cela. Le véritable défi consiste à revenir à notre quotidien en gardant en nous la détente du lâcher-prise tout en réintégrant "ce qui suffit" de contrôle, de maîtrise, de rationnel.
-    
+Le plus difficile n'est finalement pas de lâcher prise - nos sociétés regorgent de techniques pour cela. Le véritable défi consiste à revenir à notre quotidien en gardant en nous la détente du lâcher-prise tout en réintégrant "ce qui suffit" de contrôle, de maîtrise, de rationnel.
+
 Cette intégration demande une finesse particulière :
 - Reconnaître quand le contrôle devient rigidité stérile
 - Identifier quand le lâcher-prise devient fuite ou négligence
@@ -36,4 +35,6 @@ Maintenir cet équilibre, nourri par les deux polarités, constitue peut-être t
     
 Cette danse demande de la patience, de la bienveillance envers soi-même, et surtout l'acceptation que l'équilibre n'est pas un état fixe mais un mouvement perpétuel. Comme sur un fil, c'est dans le micro-ajustement constant que se trouve la stabilité.
     
-Car au final, il se passe des choses au niveau inconscient #psychanalyse quand nous acceptons cette complexité plutôt que de chercher des solutions radicales. L'équilibre véritable émerge non pas de la perfection, mais de notre capacité à rester présents à ce qui est, moment après moment.
+Car au final, il se passe des choses au niveau [[inconscient]] quand nous acceptons cette [[complexité]] plutôt que de chercher des solutions radicales. L'équilibre véritable émerge non pas de la perfection, mais de notre capacité à rester présents à ce qui est, moment après moment.
+
+Note qui participe à [[décoder la vie]]

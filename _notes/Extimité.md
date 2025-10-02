@@ -1,5 +1,7 @@
 ---
 title: extimité
+tags:
+  - terminologie
 ---
 Première définition sur [Wiki](https://fr.wikipedia.org/wiki/Extimité).
 

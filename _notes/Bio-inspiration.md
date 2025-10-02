@@ -1,5 +1,7 @@
 ---
 title: bio-inspiration
+tags:
+  - terminologie
 ---
 **Apprendre de la nature pour faire mieux en entreprise.**
 

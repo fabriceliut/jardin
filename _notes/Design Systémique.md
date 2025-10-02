@@ -2,6 +2,7 @@
 title: design systémique
 tags:
   - designs
+  - terminologie
 ---
 C'est l'un des [[designs]] & l'application concrète de la [[pensée systémique]] via, par exemple, la [[modélisation systémique]].
 

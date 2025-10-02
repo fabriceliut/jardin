@@ -2,6 +2,7 @@
 title: Design régénératif
 tags:
   - designs
+  - terminologie
 ---
 ### définition synthétique
 Une des démarches [[designs]] qui intègre une orientation régénérative c'est à dire qui tend à revitaliser ou suivre le mouvement du vivant. L'opposé serait une approche dégénérative qui mène à la stérilité, à l'arrêt & à la mort. Elle fait le pont entre design et [[écologie]].

@@ -1,5 +1,7 @@
 ---
 title: coopération
+tags:
+  - terminologie
 ---
 *"Une coopération réussie repose sur un résultat produit en commun. Encore mieux un résultat gagnant-gagnant. Encore mieux : un résultat gagnant pour moi, gagnant pour l'autre et gagnant pour ceux que l'on a impacté."* - Définition de Christophe Dumais.
 

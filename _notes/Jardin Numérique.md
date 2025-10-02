@@ -17,7 +17,6 @@ C'est actuellement l'app qui héberge [Mon jardin numérique actuel](https://www
 Elle permet de gérer une présentation du contenu très propre en pages web dynamiques, avec le fonctionnement des [[liens bidirectionnels]] bien spécifiques aux jardins numériques.
 
 ## [[Roam Research]]
->Je vous propose une [[Découverte de Roam]] qui reste pour moi le système le plus abouti pour construire un véritable jardin numérique, même à plusieurs !
 
 ## Workflowy
 C'est pour moi actuellement le meilleur outil pous structurer tout mon "arbre de pensées" & ma structure mentale. Bientôt un tour découverte.
