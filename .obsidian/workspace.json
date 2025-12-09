@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f791f518f3b56eae",
+        "id": "da137ccb95479fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "0e8f151aa7017bb6",
+            "id": "7ba7140acf026b65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Puissance, une énergie intérieure à libérer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Puissance, une énergie intérieure à libérer"
+              "title": "New tab"
             }
           }
         ]
@@ -180,6 +176,8 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/L'Humilité, Le Socle de la Puissance.md",
+    "_notes/puissance.md",
     "_notes/Puissance, une énergie intérieure à libérer.md",
     "_notes/du système projet aux assemblages projets.md",
     "_notes/Design Sprint.md",
@@ -204,8 +202,6 @@
     "_notes/jardin numérique.md",
     "_notes/institut de la pensée intégrale.md",
     "_notes/identité de groupe.md",
-    "_notes/extimité.md",
-    "_notes/designs.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
