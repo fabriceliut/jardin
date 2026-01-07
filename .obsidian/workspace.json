@@ -11,10 +11,14 @@
             "id": "7ba7140acf026b65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Champignons magiques, présence et leçons.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Champignons magiques, présence et leçons"
             }
           }
         ]
@@ -176,6 +180,7 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/Champignons magiques, présence et leçons.md",
     "_notes/L'Humilité, Le Socle de la Puissance.md",
     "_notes/puissance.md",
     "_notes/Puissance, une énergie intérieure à libérer.md",
@@ -201,7 +206,6 @@
     "_notes/le Comptoir.md",
     "_notes/jardin numérique.md",
     "_notes/institut de la pensée intégrale.md",
-    "_notes/identité de groupe.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
