@@ -7,20 +7,23 @@ permalink: /
 
 # Hello ! 👋
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p class="intro-box">
   Bienvenue dans mon [[jardin numérique]]. Ici, je partage mes idées, mes méthodes et mes découvertes pour [[Prendre soin de soi]], [[Prendre soin du collectif]] et [[Prendre soin du monde]]. Ce jardin, c’est un espace ouvert où vous pouvez piocher des ressources concrètes, explorer des pistes nouvelles et trouver de l’inspiration pour avancer dans vos propres projets. Laissez-vous guider par votre curiosité, il y a sûrement un sujet qui résonnera avec vos envies ou vos questions du moment. 👇
 </p>
 
 
 <strong>Dernières notes à jour</strong>
-<ul>
+<div class="timeline">
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes | limit: 10 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
+    <div class="timeline-item">
+      <div class="timeline-date">{{ note.last_modified_at | date: "%d %b %Y" }}</div>
+      <div class="timeline-card">
+        <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      </div>
+    </div>
   {% endfor %}
-</ul>
+</div>
 
 ## axes de travail et de recherche
 avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
