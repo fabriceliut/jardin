@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d736ce95577cda99",
+        "id": "b7891431cf61a688",
         "type": "tabs",
         "children": [
           {
-            "id": "e8de39e9a738a6ef",
+            "id": "b75afeeab7158058",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?"
+              "title": "New tab"
             }
           }
         ]
@@ -178,11 +174,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "b75afeeab7158058",
   "lastOpenFiles": [
+    "_notes/La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?.md",
     "assets/une vie libérée.png",
     "assets/détendre les tensions.png",
-    "_notes/La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?.md",
     "assets/facteurs de contraction.jpeg",
     "_notes/Champignons magiques, présence et leçons.md",
     "_notes/L'Humilité, Le Socle de la Puissance.md",
@@ -224,7 +220,6 @@
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/miniavatar.jpeg",
-    "assets/banques.jpg",
     "assets/jazzyfrenchy.mp3",
     "_layouts/note.html.rtf"
   ]

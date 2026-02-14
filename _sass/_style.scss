@@ -2,35 +2,36 @@
    VARIABLES & THEMING
    ============================================= */
 :root {
-  --bg-color: #ffffff;
-  --text-color: #292929;
-  --secondary-text: #757575;
-  --accent-color: #1a1a1a;
-  --border-color: #e6e6e6;
-  --box-bg: #f7f7f8;
-  --link-color: #1a1a1a;
-  --link-hover: #000000;
-  --code-bg: rgba(0, 0, 0, 0.05);
-  --code-text: #d63384;
-  --intro-bg: #f5f7ff;
-  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-  --card-shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.08);
-}
-
-[data-theme="dark"] {
+  /* Default: Dark Mode */
   --bg-color: #0f0f0f;
   --text-color: #ededed;
   --secondary-text: #b0b0b0;
-  --accent-color: #ffffff;
+  --accent-color: #786CFF;
   --border-color: #2a2a2a;
   --box-bg: #1a1a1a;
-  --link-color: #90caf9;
-  --link-hover: #bbdefb;
+  --link-color: #786CFF;
+  --link-hover: #9d94ff;
   --code-bg: rgba(255, 255, 255, 0.08);
   --code-text: #ff79c6;
-  --intro-bg: #1a1a1a;
+  --intro-bg: #161622;
   --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  --card-shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.3);
+  --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.15);
+}
+
+[data-theme="light"] {
+  --bg-color: #ffffff;
+  --text-color: #292929;
+  --secondary-text: #757575;
+  --accent-color: #786CFF;
+  --border-color: #e6e6e6;
+  --box-bg: #f7f7f8;
+  --link-color: #786CFF;
+  --link-hover: #5a4ecc;
+  --code-bg: rgba(0, 0, 0, 0.05);
+  --code-text: #d63384;
+  --intro-bg: #f0eeff;
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.12);
 }
 
 $font-family-serif: 'Merriweather', Georgia, Cambria, "Times New Roman", Times, serif;
@@ -81,14 +82,14 @@ nav {
   gap: 0.6rem;
   font-weight: 700;
   font-size: 1.25rem;
-  color: var(--accent-color);
+  color: var(--text-color);
   text-decoration: none;
   border: none;
   line-height: 1;
 
   &:hover {
     text-decoration: none;
-    opacity: 0.8;
+    color: var(--accent-color);
   }
 }
 
@@ -129,13 +130,23 @@ nav {
   }
 }
 
-/* Show correct icon based on theme */
-[data-theme="light"] .sun-icon {
+/* Show correct icon based on theme:
+   Dark mode → show Sun icon (action: switch to light)
+   Light mode → show Moon icon (action: switch to dark) */
+:root .theme-toggle .sun-icon {
   display: block !important;
 }
 
-[data-theme="dark"] .moon-icon {
+[data-theme="light"] .theme-toggle .sun-icon {
+  display: none !important;
+}
+
+[data-theme="light"] .theme-toggle .moon-icon {
   display: block !important;
+}
+
+[data-theme="dark"] .theme-toggle .moon-icon {
+  display: none !important;
 }
 
 /* =============================================
