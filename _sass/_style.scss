@@ -1,99 +1,114 @@
+/* Variables & Theming */
 :root {
-  /* Default Dark Mode */
-  --bg-color: #1a1a1a;
-  --text-color: #e0e0e0;
-  --primary-color: #ffffff;
-  --secondary-color: #a0a0a0;
-  --border-color: #333333;
-  --box-bg: #252525;
-  --link-color: #ffffff;
-  --accent-color: #786CFF;
-  /* User requested specific purple for Dark Mode */
-}
-
-[data-theme="light"] {
-  /* Light Mode */
   --bg-color: #ffffff;
   --text-color: #292929;
-  --primary-color: #1a1a1a;
-  --secondary-color: #757575;
+  --secondary-text: #757575;
+  --accent-color: #1a1a1a;
   --border-color: #e6e6e6;
   --box-bg: #f9f9f9;
   --link-color: #1a1a1a;
-  --accent-color: #786CFF;
-  /* Same accent for consistency */
+  --link-hover: #000000;
+  --code-bg: rgba(0, 0, 0, 0.05);
+  --code-text: #d63384;
 }
 
-$color-primary: var(--primary-color);
-$color-secondary: var(--secondary-color);
-$color-accent: var(--accent-color);
-$color-text: var(--text-color);
-$color-subtext: var(--secondary-color);
-$color-border: var(--border-color);
-$color-background: var(--bg-color);
-$color-box-background: var(--box-bg);
-$color-link: var(--link-color);
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+  --secondary-text: #a0a0a0;
+  --accent-color: #ffffff;
+  --border-color: #333333;
+  --box-bg: #1e1e1e;
+  --link-color: #e0e0e0;
+  --link-hover: #ffffff;
+  --code-bg: rgba(255, 255, 255, 0.1);
+  --code-text: #ff79c6;
+}
 
 $font-family-serif: 'Merriweather', Georgia, Cambria, "Times New Roman", Times, serif;
-$font-family-sans: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-
+$font-family-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 $border-radius: 4px;
-/* Subtler radius */
-$box-shadow: none;
-/* Flatter design */
 
 body {
-  box-sizing: border-box;
+  background-color: var(--bg-color);
+  color: var(--text-color);
   font-family: $font-family-serif;
   margin: 0;
   line-height: 1.6;
-  background-color: $color-background;
-  color: $color-text;
   font-size: 1.125rem;
-  /* 18px base size implies ~29px line-height, excellent for reading */
+  transition: background-color 0.3s ease, color 0.3s ease;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .wrapper {
-  max-width: 1100px;
-  /* Wider container to accommodate sidebar */
+  max-width: 720px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
 }
 
-/* Header & Nav - Clean, Sans-Serif UI */
+/* Header & Nav */
 header,
 nav {
   margin-bottom: 4rem;
   padding: 1.5rem 0;
-
   font-family: $font-family-sans;
+}
+
+.nav-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
 
-  a {
-    font-weight: 500;
-    font-size: 1rem;
-    color: $color-primary;
+.nav-logo {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--accent-color);
+  text-decoration: none;
+  letter-spacing: -0.03em;
+  border: none;
+  line-height: 1;
+
+  &:hover {
     text-decoration: none;
-    border: none;
-
-    &:hover {
-      color: $color-secondary !important;
-    }
-  }
-
-  /* Logo/Title specific */
-  a b {
-    font-weight: 700;
-    letter-spacing: -0.02em;
-    font-size: 1.1rem;
+    color: var(--accent-color);
+    opacity: 0.8;
   }
 }
 
-/* Typography - Editorial Style */
+/* Theme Toggle Button */
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-color);
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background-color 0.2s;
+
+  &:hover {
+    background-color: var(--box-bg);
+  }
+
+  svg {
+    display: none;
+  }
+}
+
+/* Logic to show correct icon */
+[data-theme="light"] .sun-icon {
+  display: block;
+}
+
+[data-theme="dark"] .moon-icon {
+  display: block;
+}
+
+
+/* Typography */
 h1,
 h2,
 h3,
@@ -101,8 +116,7 @@ h4,
 h5,
 h6 {
   font-family: $font-family-sans;
-  /* Modern headings like Medium/Substack often use San-Serif for titles vs Serif body */
-  color: $color-primary;
+  color: var(--accent-color);
   margin-top: 2.5em;
   margin-bottom: 0.5em;
   line-height: 1.2;
@@ -113,7 +127,6 @@ h6 {
 h1 {
   font-size: 2.75rem;
   margin-top: 0;
-  /* Titles at top shouldn't have huge margin */
   margin-bottom: 1rem;
 }
 
@@ -125,68 +138,38 @@ h3 {
   font-size: 1.5rem;
 }
 
-p,
-li {
-  margin-bottom: 0.5em;
-  font-weight: 300;
-  text-wrap: pretty;
-}
-
 p {
   margin-bottom: 1.5em;
+  font-weight: 300;
 }
 
-/* Links - Minimalist */
 a {
-  color: inherit;
+  color: var(--link-color);
   text-decoration: underline;
-  text-decoration-color: rgba(0, 0, 0, 0.2);
+  text-decoration-color: rgba(125, 125, 125, 0.3);
   text-decoration-thickness: 1px;
   transition: all 0.2s ease;
 
   &:hover {
-    color: var(--accent-color);
-    text-decoration-color: var(--accent-color);
-    background: transparent;
+    color: var(--link-hover);
+    text-decoration-color: var(--link-hover);
   }
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 2.5rem auto;
-}
-
-/* Quotes - Editorial */
-blockquote {
-  margin: 2.5rem 0;
-  padding-left: 1.5rem;
-  border-left: 3px solid $color-primary;
-  font-family: $font-family-serif;
-  font-style: italic;
-  font-size: 1.4rem;
-  /* Larger quote text */
-  line-height: 1.4;
-  color: $color-text;
-  background: transparent;
-  box-shadow: none;
-}
-
+/* Code */
 code {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: var(--code-bg);
   padding: 0.2em 0.4em;
   border-radius: 2px;
   font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
   font-size: 0.85em;
-  color: #d63384;
-  /* Standard appealing code pink/red */
+  color: var(--code-text);
 }
 
 pre {
   background-color: var(--box-bg);
   padding: 1.5rem;
-  border-radius: 4px;
+  border-radius: $border-radius;
   overflow-x: auto;
   font-size: 0.9rem;
   margin: 2rem 0;
@@ -198,100 +181,59 @@ pre {
   }
 }
 
-hr {
-  border: 0;
-  height: 1px;
-  height: 1px;
-  background: var(--border-color);
-  opacity: 1;
-  margin: 4rem auto;
-  width: 100px;
-  /* Small divider style */
-}
-
-/* Components */
+/* Helper Class for Backlinks/Boxes */
 .backlink-box {
   background: var(--box-bg);
-  padding: 1rem;
+  padding: 1.25rem;
   border-radius: $border-radius;
-  margin-top: 0;
-  /* Removed top margin */
-  border: 1px solid transparent;
-  font-size: 0.9rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--border-color);
 
   h3 {
-    font-size: 1.1rem;
+    font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: $color-secondary;
+    color: var(--secondary-text);
     margin-top: 0;
-  }
-
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  li {
     margin-bottom: 0.5rem;
   }
-}
 
-/* Note Layout (Sidebar) */
-.note-layout {
-  display: grid;
-  gap: 3rem;
-  grid-template-columns: 1fr;
+  a.internal-link {
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.25rem;
+    border: none;
+    color: var(--accent-color);
 
-  @media (min-width: 900px) {
-    grid-template-columns: 2fr 1fr;
-    align-items: start;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  div {
+    line-height: 1.4;
+    color: var(--secondary-text);
   }
 }
 
-.note-sidebar {
-  font-size: 0.9em;
-
-  .sidebar-title {
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font-size: 1.1rem;
-    color: var(--secondary-color);
-  }
-}
-
-.backlink-grid {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-.backlink-excerpt {
-  color: var(--text-color);
-  margin-top: 0.5rem;
-  opacity: 0.8;
-}
-
-.no-backlinks {
-  color: var(--secondary-color);
-  font-style: italic;
-}
-
+/* Footer */
 footer {
   margin-top: 6rem;
   padding-top: 2rem;
   padding-bottom: 4rem;
-  /* Bottom spacing */
-  border-top: 1px solid $color-border;
-  color: $color-secondary;
+  border-top: 1px solid var(--border-color);
+  color: var(--secondary-text);
   font-family: $font-family-sans;
   font-size: 0.9rem;
   text-align: center;
 
   a {
     text-decoration: none;
-    color: $color-text;
+    color: var(--text-color);
     font-weight: 600;
+    border: none;
 
     &:hover {
       text-decoration: underline;
@@ -299,46 +241,18 @@ footer {
   }
 }
 
-/* Theme Toggle Button */
-#theme-toggle {
-  background: none;
-  border: none;
-  cursor: pointer;
-  padding: 0.5rem;
-  color: var(--primary-color);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: color 0.2s ease;
-
-  &:hover {
-    color: var(--secondary-color);
-  }
-
-  svg {
-    width: 20px;
-    height: 20px;
-  }
-
-  .sun-icon {
-    display: none;
-  }
-
-  .moon-icon {
-    display: block;
-  }
+hr {
+  border: 0;
+  height: 1px;
+  background: var(--border-color);
+  margin: 4rem auto;
+  width: 100px;
 }
 
-
-
-[data-theme="dark"] {
-  #theme-toggle {
-    .sun-icon {
-      display: block;
-    }
-
-    .moon-icon {
-      display: none;
-    }
-  }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2.5rem auto;
+  border-radius: $border-radius;
 }
