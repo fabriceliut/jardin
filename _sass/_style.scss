@@ -329,23 +329,7 @@ footer {
   }
 }
 
-.sun-icon {
-  display: none;
-  /* In light mode (default), show Moon to switch to Dark? Or show Sun to represent Light? Standard is: Show the *action* (Moon) or *current* (Sun)?
-    Usually: 
-    - Light Mode -> Show Moon (to go Dark)
-    - Dark Mode -> Show Sun (to go Light)
-    
-    My CSS variables say: :root is Light Mode.
-    So by default in :root, we should see Moon.
-    */
-  display: none;
-}
 
-.moon-icon {
-  display: block;
-}
-}
 
 [data-theme="dark"] {
   #theme-toggle {
