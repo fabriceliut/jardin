@@ -1,8 +1,8 @@
 /* =============================================
-   VARIABLES & THEMING — Dark Mode Default
+   VARIABLES — Dark Mode Only
    ============================================= */
-:root,
-[data-theme="dark"] {
+:root {
+  color-scheme: dark;
   --bg-color: #0f0f0f;
   --text-color: #e8e8e8;
   --heading-color: #ffffff;
@@ -17,23 +17,6 @@
   --intro-bg: #14131f;
   --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.2);
-}
-
-[data-theme="light"] {
-  --bg-color: #ffffff;
-  --text-color: #2a2a2a;
-  --heading-color: #1a1a1a;
-  --secondary-text: #6b6b6b;
-  --accent-color: #786CFF;
-  --border-color: #e2e2e2;
-  --box-bg: #f5f5f7;
-  --link-color: #5a4ecc;
-  --link-hover: #786CFF;
-  --code-bg: rgba(0, 0, 0, 0.05);
-  --code-text: #d63384;
-  --intro-bg: #eeedf8;
-  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.15);
 }
 
 $font-family-serif: 'Merriweather', Georgia, Cambria, "Times New Roman", Times, serif;
@@ -52,7 +35,6 @@ body {
   margin: 0;
   line-height: 1.7;
   font-size: 1.125rem;
-  transition: background-color 0.3s ease, color 0.3s ease;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -104,50 +86,7 @@ nav {
   display: inline-block;
 }
 
-/* =============================================
-   THEME TOGGLE
-   ============================================= */
-.theme-toggle {
-  background: var(--box-bg);
-  border: 1px solid var(--border-color);
-  cursor: pointer;
-  color: var(--text-color);
-  padding: 0.5rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  transition: background-color 0.2s, transform 0.2s;
-  flex-shrink: 0;
 
-  &:hover {
-    background-color: var(--border-color);
-    transform: scale(1.1);
-  }
-
-  /* Hide both icons by default */
-  .sun-icon,
-  .moon-icon {
-    display: none;
-  }
-}
-
-/* Dark mode: show Sun (action = switch to light) */
-[data-theme="dark"] .theme-toggle .sun-icon,
-:root:not([data-theme="light"]) .theme-toggle .sun-icon {
-  display: block;
-}
-
-/* Light mode: show Moon (action = switch to dark) */
-[data-theme="light"] .theme-toggle .moon-icon {
-  display: block;
-}
-
-[data-theme="light"] .theme-toggle .sun-icon {
-  display: none;
-}
 
 /* =============================================
    TYPOGRAPHY
@@ -200,10 +139,13 @@ a {
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
   transition: color 0.2s ease, text-decoration-color 0.2s ease;
+  background: none;
+  -webkit-text-decoration-skip: ink;
 
   &:hover {
     color: var(--link-hover);
     text-decoration-color: var(--link-hover);
+    background: none;
   }
 }
 
@@ -243,6 +185,9 @@ blockquote {
   a {
     color: var(--link-color);
     font-weight: 500;
+    background: none;
+    padding: 0;
+    border-radius: 0;
   }
 }
 
