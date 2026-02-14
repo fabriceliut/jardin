@@ -1,37 +1,39 @@
 /* =============================================
-   VARIABLES & THEMING
+   VARIABLES & THEMING — Dark Mode Default
    ============================================= */
-:root {
-  /* Default: Dark Mode */
+:root,
+[data-theme="dark"] {
   --bg-color: #0f0f0f;
-  --text-color: #ededed;
-  --secondary-text: #b0b0b0;
+  --text-color: #e8e8e8;
+  --heading-color: #ffffff;
+  --secondary-text: #a0a0a0;
   --accent-color: #786CFF;
   --border-color: #2a2a2a;
-  --box-bg: #1a1a1a;
-  --link-color: #786CFF;
-  --link-hover: #9d94ff;
+  --box-bg: #181818;
+  --link-color: #9d94ff;
+  --link-hover: #c2bcff;
   --code-bg: rgba(255, 255, 255, 0.08);
   --code-text: #ff79c6;
-  --intro-bg: #161622;
-  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.15);
+  --intro-bg: #14131f;
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.2);
 }
 
 [data-theme="light"] {
   --bg-color: #ffffff;
-  --text-color: #292929;
-  --secondary-text: #757575;
+  --text-color: #2a2a2a;
+  --heading-color: #1a1a1a;
+  --secondary-text: #6b6b6b;
   --accent-color: #786CFF;
-  --border-color: #e6e6e6;
-  --box-bg: #f7f7f8;
-  --link-color: #786CFF;
-  --link-hover: #5a4ecc;
+  --border-color: #e2e2e2;
+  --box-bg: #f5f5f7;
+  --link-color: #5a4ecc;
+  --link-hover: #786CFF;
   --code-bg: rgba(0, 0, 0, 0.05);
   --code-text: #d63384;
-  --intro-bg: #f0eeff;
-  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-  --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.12);
+  --intro-bg: #eeedf8;
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --card-shadow-hover: 0 8px 24px rgba(120, 108, 255, 0.15);
 }
 
 $font-family-serif: 'Merriweather', Georgia, Cambria, "Times New Roman", Times, serif;
@@ -52,6 +54,7 @@ body {
   font-size: 1.125rem;
   transition: background-color 0.3s ease, color 0.3s ease;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .wrapper {
@@ -82,7 +85,7 @@ nav {
   gap: 0.6rem;
   font-weight: 700;
   font-size: 1.25rem;
-  color: var(--text-color);
+  color: var(--heading-color);
   text-decoration: none;
   border: none;
   line-height: 1;
@@ -98,7 +101,6 @@ nav {
   height: 32px;
   border-radius: 6px;
   margin: 0;
-  /* override img default margin */
   display: inline-block;
 }
 
@@ -125,28 +127,26 @@ nav {
     transform: scale(1.1);
   }
 
-  svg {
+  /* Hide both icons by default */
+  .sun-icon,
+  .moon-icon {
     display: none;
   }
 }
 
-/* Show correct icon based on theme:
-   Dark mode → show Sun icon (action: switch to light)
-   Light mode → show Moon icon (action: switch to dark) */
-:root .theme-toggle .sun-icon {
-  display: block !important;
+/* Dark mode: show Sun (action = switch to light) */
+[data-theme="dark"] .theme-toggle .sun-icon,
+:root:not([data-theme="light"]) .theme-toggle .sun-icon {
+  display: block;
+}
+
+/* Light mode: show Moon (action = switch to dark) */
+[data-theme="light"] .theme-toggle .moon-icon {
+  display: block;
 }
 
 [data-theme="light"] .theme-toggle .sun-icon {
-  display: none !important;
-}
-
-[data-theme="light"] .theme-toggle .moon-icon {
-  display: block !important;
-}
-
-[data-theme="dark"] .theme-toggle .moon-icon {
-  display: none !important;
+  display: none;
 }
 
 /* =============================================
@@ -159,7 +159,7 @@ h4,
 h5,
 h6 {
   font-family: $font-family-sans;
-  color: var(--accent-color);
+  color: var(--heading-color);
   margin-top: 2.5em;
   margin-bottom: 0.5em;
   line-height: 1.2;
@@ -185,15 +185,21 @@ h3 {
 p {
   margin-bottom: 1.5em;
   font-weight: 300;
+  text-wrap: pretty;
+}
+
+li {
+  margin-bottom: 0.3em;
+  font-weight: 300;
 }
 
 a {
   color: var(--link-color);
   text-decoration: underline;
-  text-decoration-color: rgba(125, 125, 125, 0.3);
+  text-decoration-color: rgba(120, 108, 255, 0.4);
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
-  transition: all 0.2s ease;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
 
   &:hover {
     color: var(--link-hover);
@@ -201,15 +207,43 @@ a {
   }
 }
 
+/* Internal wiki-links from the garden */
+a.internal-link {
+  color: var(--link-color);
+  text-decoration-color: rgba(120, 108, 255, 0.4);
+  font-weight: 500;
+
+  &:hover {
+    color: var(--link-hover);
+    text-decoration-color: var(--link-hover);
+  }
+}
+
+blockquote {
+  margin: 2rem 0;
+  padding: 1rem 1.5rem;
+  border-left: 3px solid var(--accent-color);
+  font-style: italic;
+  color: var(--secondary-text);
+  background: var(--box-bg);
+  border-radius: 0 $radius-sm $radius-sm 0;
+}
+
 /* =============================================
    INTRO BOX
    ============================================= */
 .intro-box {
-  padding: 2rem 1.5rem;
+  padding: 1.5rem 1.5rem;
   background: var(--intro-bg);
   border-radius: $radius;
   border: 1px solid var(--border-color);
   line-height: 1.8;
+  color: var(--text-color);
+
+  a {
+    color: var(--link-color);
+    font-weight: 500;
+  }
 }
 
 /* =============================================
@@ -222,17 +256,18 @@ a {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--secondary-text);
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 2.5rem;
   display: block;
 }
 
 /* =============================================
-   TIMELINE / LATEST NOTES
+   TIMELINE / LATEST NOTES – Card Grid
    ============================================= */
 .notes-grid {
   display: grid;
-  gap: 1rem;
-  margin: 2rem 0;
+  gap: 0.75rem;
+  margin: 0.5rem 0 2rem;
 }
 
 .note-card {
@@ -242,20 +277,18 @@ a {
   background: var(--box-bg);
   border: 1px solid var(--border-color);
   border-radius: $radius;
-  padding: 1.25rem 1.5rem;
-  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1),
-    box-shadow 0.25s ease,
-    border-color 0.25s ease;
+  padding: 1rem 1.25rem;
+  text-decoration: none !important;
+  color: var(--text-color);
+  transition: transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
   cursor: pointer;
 
   &:hover {
-    transform: translateY(-3px);
+    transform: translateY(-2px);
     box-shadow: var(--card-shadow-hover);
-    border-color: var(--link-color);
-  }
-
-  &:active {
-    transform: translateY(-1px);
+    border-color: var(--accent-color);
   }
 }
 
@@ -264,26 +297,20 @@ a {
   font-size: 0.78rem;
   color: var(--secondary-text);
   white-space: nowrap;
-  min-width: 90px;
+  min-width: 85px;
   font-weight: 500;
 }
 
 .note-title {
   flex: 1;
+  font-family: $font-family-sans;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--heading-color);
+  line-height: 1.3;
 
-  a {
-    font-family: $font-family-sans;
-    font-weight: 600;
-    font-size: 1rem;
-    color: var(--text-color);
-    text-decoration: none;
-    border: none;
-    display: block;
-    transition: color 0.2s;
-  }
-
-  .note-card:hover & a {
-    color: var(--link-color);
+  .note-card:hover & {
+    color: var(--accent-color);
   }
 }
 
@@ -292,19 +319,20 @@ a {
    ============================================= */
 .highlight-box {
   background: var(--intro-bg);
-  padding: 2rem;
+  padding: 1.5rem;
   border-radius: $radius;
-  border-left: 4px solid var(--link-color);
+  border-left: 4px solid var(--accent-color);
   margin: 2rem 0;
 
   h3 {
     margin-top: 0;
     font-size: 1.1rem;
+    color: var(--heading-color);
   }
 
   p {
     margin-bottom: 0;
-    font-size: 1.05rem;
+    font-size: 1rem;
   }
 }
 
@@ -314,7 +342,7 @@ a {
 .feature-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
+  gap: 0.75rem;
   margin: 1.5rem 0;
 }
 
@@ -322,22 +350,22 @@ a {
   background: var(--box-bg);
   border: 1px solid var(--border-color);
   border-radius: $radius;
-  padding: 1.5rem;
+  padding: 1.25rem;
   text-align: center;
-  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1),
-    box-shadow 0.25s ease,
-    border-color 0.25s ease;
+  transition: transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
 
   &:hover {
-    transform: translateY(-3px);
+    transform: translateY(-2px);
     box-shadow: var(--card-shadow-hover);
-    border-color: var(--link-color);
+    border-color: var(--accent-color);
   }
 
   a {
     font-weight: 600;
-    font-size: 1rem;
-    color: var(--accent-color);
+    font-size: 0.95rem;
+    color: var(--heading-color);
     text-decoration: none;
     border: none;
     display: block;
@@ -350,17 +378,17 @@ a {
 .tag-cloud {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.6rem;
-  margin: 1.5rem 0;
+  gap: 0.5rem;
+  margin: 1rem 0;
 }
 
 .tag {
   background: var(--box-bg);
   border: 1px solid var(--border-color);
-  padding: 0.4rem 1rem;
+  padding: 0.35rem 0.9rem;
   border-radius: 50px;
   font-family: $font-family-sans;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 500;
   color: var(--secondary-text);
   text-decoration: none;
@@ -375,12 +403,12 @@ a {
 
   &:hover {
     background: var(--accent-color);
-    color: var(--bg-color);
+    color: #ffffff;
     border-color: var(--accent-color);
     transform: translateY(-1px);
 
     a {
-      color: var(--bg-color);
+      color: #ffffff;
     }
   }
 }
@@ -404,6 +432,7 @@ pre {
   overflow-x: auto;
   font-size: 0.9rem;
   margin: 2rem 0;
+  border: 1px solid var(--border-color);
 
   code {
     background-color: transparent;
@@ -413,15 +442,52 @@ pre {
 }
 
 /* =============================================
+   NOTE LAYOUT (Article pages)
+   ============================================= */
+.note-layout {
+  display: block;
+}
+
+.note-content {
+  margin-bottom: 3rem;
+}
+
+.note-sidebar {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color);
+
+  .sidebar-title {
+    font-family: $font-family-sans;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--secondary-text);
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+.backlink-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* =============================================
    BACKLINKS
    ============================================= */
 .backlink-box {
   background: var(--box-bg);
-  padding: 1.25rem;
+  padding: 1rem 1.25rem;
   border-radius: $radius-sm;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
   border: 1px solid var(--border-color);
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-color: var(--accent-color);
+  }
 
   h3 {
     font-size: 0.85rem;
@@ -433,31 +499,41 @@ pre {
   }
 
   a.internal-link {
+    font-family: $font-family-sans;
     font-weight: 600;
+    font-size: 0.95rem;
     text-decoration: none;
     display: block;
     margin-bottom: 0.25rem;
     border: none;
-    color: var(--accent-color);
+    color: var(--link-color);
 
     &:hover {
-      opacity: 0.8;
+      color: var(--link-hover);
     }
   }
+}
 
-  div {
-    line-height: 1.4;
-    color: var(--secondary-text);
-  }
+.backlink-excerpt {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--secondary-text);
+  margin-top: 0.25rem;
+}
+
+.no-backlinks {
+  color: var(--secondary-text);
+  font-style: italic;
+  font-size: 0.9rem;
 }
 
 /* =============================================
    FOOTER
    ============================================= */
 footer {
-  margin-top: 6rem;
+  margin-top: 4rem;
   padding-top: 2rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
   border-top: 1px solid var(--border-color);
   color: var(--secondary-text);
   font-family: $font-family-sans;
@@ -466,12 +542,13 @@ footer {
 
   a {
     text-decoration: none;
-    color: var(--text-color);
+    color: var(--link-color);
     font-weight: 600;
     border: none;
 
     &:hover {
       text-decoration: underline;
+      color: var(--link-hover);
     }
   }
 }
@@ -483,14 +560,55 @@ hr {
   border: 0;
   height: 1px;
   background: var(--border-color);
-  margin: 4rem auto;
-  width: 100px;
+  margin: 3rem auto;
+  width: 80px;
 }
 
 img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 2.5rem auto;
+  margin: 2rem auto;
   border-radius: 4px;
+}
+
+/* =============================================
+   GRAPH
+   ============================================= */
+#graph-wrapper {
+  background: var(--box-bg);
+  border-radius: $radius;
+  border: 1px solid var(--border-color);
+  height: auto;
+  margin-top: 1rem;
+
+  >svg {
+    max-width: 100%;
+    display: block;
+  }
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .wrapper {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .note-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  .note-date {
+    min-width: auto;
+  }
+
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
 }
