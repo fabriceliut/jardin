@@ -24,11 +24,11 @@
       const storedTheme = localStorage.getItem('theme');
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-      // Default to light if no storage
-      if (storedTheme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-      } else {
+      // Default to dark if no storage
+      if (storedTheme === 'light') {
         document.documentElement.setAttribute('data-theme', 'light');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
       }
     })();
   </script>
