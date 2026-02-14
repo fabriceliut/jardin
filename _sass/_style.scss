@@ -1,47 +1,53 @@
-/* Variables & Theming */
+/* =============================================
+   VARIABLES & THEMING
+   ============================================= */
 :root {
   --bg-color: #ffffff;
   --text-color: #292929;
   --secondary-text: #757575;
   --accent-color: #1a1a1a;
   --border-color: #e6e6e6;
-  --box-bg: #f9f9f9;
+  --box-bg: #f7f7f8;
   --link-color: #1a1a1a;
   --link-hover: #000000;
   --code-bg: rgba(0, 0, 0, 0.05);
   --code-text: #d63384;
   --intro-bg: #f5f7ff;
-  /* Light mode intro bg */
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --card-shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
 [data-theme="dark"] {
-  --bg-color: #121212;
+  --bg-color: #0f0f0f;
   --text-color: #ededed;
-  /* Whiter text for better contrast */
   --secondary-text: #b0b0b0;
   --accent-color: #ffffff;
-  --border-color: #333333;
-  --box-bg: #1e1e1e;
-  --link-color: #64b5f6;
-  /* Light blue for links in dark mode */
-  --link-hover: #9be7ff;
-  --code-bg: rgba(255, 255, 255, 0.1);
+  --border-color: #2a2a2a;
+  --box-bg: #1a1a1a;
+  --link-color: #90caf9;
+  --link-hover: #bbdefb;
+  --code-bg: rgba(255, 255, 255, 0.08);
   --code-text: #ff79c6;
-  --intro-bg: #1e1e1e;
-  /* Dark mode intro bg - same as box-bg */
+  --intro-bg: #1a1a1a;
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --card-shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.3);
 }
-
 
 $font-family-serif: 'Merriweather', Georgia, Cambria, "Times New Roman", Times, serif;
 $font-family-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-$border-radius: 4px;
+$font-family-mono: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+$radius: 12px;
+$radius-sm: 8px;
 
+/* =============================================
+   BASE
+   ============================================= */
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: $font-family-serif;
   margin: 0;
-  line-height: 1.6;
+  line-height: 1.7;
   font-size: 1.125rem;
   transition: background-color 0.3s ease, color 0.3s ease;
   -webkit-font-smoothing: antialiased;
@@ -53,11 +59,12 @@ body {
   padding: 2rem 1.5rem;
 }
 
-/* Header & Nav */
-header,
+/* =============================================
+   NAVIGATION
+   ============================================= */
 nav {
-  margin-bottom: 4rem;
-  padding: 1.5rem 0;
+  margin-bottom: 3rem;
+  padding: 1rem 0;
   font-family: $font-family-sans;
 }
 
@@ -66,37 +73,40 @@ nav {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  /* Ensure it spans full width */
-}
-
-.intro-box {
-  padding: 3em 1em;
-  background: var(--intro-bg);
-  border-radius: 4px;
-  border: 1px solid var(--border-color);
-  /* Add border for better definition in dark mode */
 }
 
 .nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   color: var(--accent-color);
   text-decoration: none;
-  letter-spacing: -0.03em;
   border: none;
   line-height: 1;
 
   &:hover {
     text-decoration: none;
-    color: var(--accent-color);
     opacity: 0.8;
   }
 }
 
-/* Theme Toggle Button */
+.nav-logo-img {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  margin: 0;
+  /* override img default margin */
+  display: inline-block;
+}
+
+/* =============================================
+   THEME TOGGLE
+   ============================================= */
 .theme-toggle {
-  background: none;
-  border: none;
+  background: var(--box-bg);
+  border: 1px solid var(--border-color);
   cursor: pointer;
   color: var(--text-color);
   padding: 0.5rem;
@@ -104,10 +114,14 @@ nav {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  transition: background-color 0.2s;
+  width: 40px;
+  height: 40px;
+  transition: background-color 0.2s, transform 0.2s;
+  flex-shrink: 0;
 
   &:hover {
-    background-color: var(--box-bg);
+    background-color: var(--border-color);
+    transform: scale(1.1);
   }
 
   svg {
@@ -115,17 +129,18 @@ nav {
   }
 }
 
-/* Logic to show correct icon */
+/* Show correct icon based on theme */
 [data-theme="light"] .sun-icon {
-  display: block;
+  display: block !important;
 }
 
 [data-theme="dark"] .moon-icon {
-  display: block;
+  display: block !important;
 }
 
-
-/* Typography */
+/* =============================================
+   TYPOGRAPHY
+   ============================================= */
 h1,
 h2,
 h3,
@@ -142,17 +157,18 @@ h6 {
 }
 
 h1 {
-  font-size: 2.75rem;
+  font-size: 2.5rem;
   margin-top: 0;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.75rem;
+  margin-top: 3rem;
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.35rem;
 }
 
 p {
@@ -165,6 +181,7 @@ a {
   text-decoration: underline;
   text-decoration-color: rgba(125, 125, 125, 0.3);
   text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
   transition: all 0.2s ease;
 
   &:hover {
@@ -173,12 +190,198 @@ a {
   }
 }
 
-/* Code */
+/* =============================================
+   INTRO BOX
+   ============================================= */
+.intro-box {
+  padding: 2rem 1.5rem;
+  background: var(--intro-bg);
+  border-radius: $radius;
+  border: 1px solid var(--border-color);
+  line-height: 1.8;
+}
+
+/* =============================================
+   SECTION LABEL
+   ============================================= */
+.section-label {
+  font-family: $font-family-sans;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--secondary-text);
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+/* =============================================
+   TIMELINE / LATEST NOTES
+   ============================================= */
+.notes-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.note-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: var(--box-bg);
+  border: 1px solid var(--border-color);
+  border-radius: $radius;
+  padding: 1.25rem 1.5rem;
+  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1),
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+  cursor: pointer;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--card-shadow-hover);
+    border-color: var(--link-color);
+  }
+
+  &:active {
+    transform: translateY(-1px);
+  }
+}
+
+.note-date {
+  font-family: $font-family-mono;
+  font-size: 0.78rem;
+  color: var(--secondary-text);
+  white-space: nowrap;
+  min-width: 90px;
+  font-weight: 500;
+}
+
+.note-title {
+  flex: 1;
+
+  a {
+    font-family: $font-family-sans;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text-color);
+    text-decoration: none;
+    border: none;
+    display: block;
+    transition: color 0.2s;
+  }
+
+  .note-card:hover & a {
+    color: var(--link-color);
+  }
+}
+
+/* =============================================
+   HIGHLIGHT BOX (Intention)
+   ============================================= */
+.highlight-box {
+  background: var(--intro-bg);
+  padding: 2rem;
+  border-radius: $radius;
+  border-left: 4px solid var(--link-color);
+  margin: 2rem 0;
+
+  h3 {
+    margin-top: 0;
+    font-size: 1.1rem;
+  }
+
+  p {
+    margin-bottom: 0;
+    font-size: 1.05rem;
+  }
+}
+
+/* =============================================
+   FEATURE GRID (Axes de travail)
+   ============================================= */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.feature-card {
+  background: var(--box-bg);
+  border: 1px solid var(--border-color);
+  border-radius: $radius;
+  padding: 1.5rem;
+  text-align: center;
+  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1),
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--card-shadow-hover);
+    border-color: var(--link-color);
+  }
+
+  a {
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--accent-color);
+    text-decoration: none;
+    border: none;
+    display: block;
+  }
+}
+
+/* =============================================
+   TAG CLOUD (Explorations)
+   ============================================= */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.5rem 0;
+}
+
+.tag {
+  background: var(--box-bg);
+  border: 1px solid var(--border-color);
+  padding: 0.4rem 1rem;
+  border-radius: 50px;
+  font-family: $font-family-sans;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--secondary-text);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  display: inline-block;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    border: none;
+  }
+
+  &:hover {
+    background: var(--accent-color);
+    color: var(--bg-color);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+
+    a {
+      color: var(--bg-color);
+    }
+  }
+}
+
+/* =============================================
+   CODE
+   ============================================= */
 code {
   background-color: var(--code-bg);
   padding: 0.2em 0.4em;
-  border-radius: 2px;
-  font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+  border-radius: 4px;
+  font-family: $font-family-mono;
   font-size: 0.85em;
   color: var(--code-text);
 }
@@ -186,7 +389,7 @@ code {
 pre {
   background-color: var(--box-bg);
   padding: 1.5rem;
-  border-radius: $border-radius;
+  border-radius: $radius-sm;
   overflow-x: auto;
   font-size: 0.9rem;
   margin: 2rem 0;
@@ -198,17 +401,19 @@ pre {
   }
 }
 
-/* Helper Class for Backlinks/Boxes */
+/* =============================================
+   BACKLINKS
+   ============================================= */
 .backlink-box {
   background: var(--box-bg);
   padding: 1.25rem;
-  border-radius: $border-radius;
+  border-radius: $radius-sm;
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 1px solid var(--border-color);
 
   h3 {
-    font-size: 1rem;
+    font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--secondary-text);
@@ -235,7 +440,9 @@ pre {
   }
 }
 
-/* Footer */
+/* =============================================
+   FOOTER
+   ============================================= */
 footer {
   margin-top: 6rem;
   padding-top: 2rem;
@@ -258,6 +465,9 @@ footer {
   }
 }
 
+/* =============================================
+   MISC
+   ============================================= */
 hr {
   border: 0;
   height: 1px;
@@ -271,5 +481,5 @@ img {
   height: auto;
   display: block;
   margin: 2.5rem auto;
-  border-radius: $border-radius;
+  border-radius: 4px;
 }
