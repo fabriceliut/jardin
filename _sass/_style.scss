@@ -1,16 +1,5 @@
 :root {
-  /* Default Dark Mode */
-  --bg-color: #1a1a1a;
-  --text-color: #e0e0e0;
-  --primary-color: #ffffff;
-  --secondary-color: #a0a0a0;
-  --border-color: #333333;
-  --box-bg: #252525;
-  --link-color: #ffffff;
-}
-
-[data-theme="light"] {
-  /* Light Mode */
+  /* Default Light Mode */
   --bg-color: #ffffff;
   --text-color: #292929;
   --primary-color: #1a1a1a;
@@ -18,16 +7,28 @@
   --border-color: #e6e6e6;
   --box-bg: #f9f9f9;
   --link-color: #1a1a1a;
+  --accent-color: #786CFF;
+  /* New Accent */
+}
+
+[data-theme="dark"] {
+  /* Dark Mode */
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --primary-color: #ffffff;
+  --secondary-color: #a0a0a0;
+  --border-color: #333333;
+  --box-bg: #252525;
+  --link-color: #ffffff;
+  --accent-color: #9288ff;
+  /* Lighter purple for dark mode */
 }
 
 $color-primary: var(--primary-color);
 $color-secondary: var(--secondary-color);
-$color-accent: var(--primary-color);
-/* Minimalist accent */
+$color-accent: var(--accent-color);
 $color-text: var(--text-color);
-/* Approx rgba(0,0,0,0.84) */
 $color-subtext: var(--secondary-color);
-/* Approx rgba(0,0,0,0.54) */
 $color-border: var(--border-color);
 $color-background: var(--bg-color);
 $color-box-background: var(--box-bg);
@@ -144,8 +145,8 @@ a {
   transition: all 0.2s ease;
 
   &:hover {
-    color: var(--primary-color);
-    text-decoration-color: var(--primary-color);
+    color: var(--accent-color);
+    text-decoration-color: var(--accent-color);
     background: transparent;
   }
 }
@@ -200,8 +201,9 @@ pre {
 hr {
   border: 0;
   height: 1px;
-  background: var(--primary-color);
-  opacity: 0.1;
+  height: 1px;
+  background: var(--border-color);
+  opacity: 1;
   margin: 4rem auto;
   width: 100px;
   /* Small divider style */
@@ -327,7 +329,25 @@ footer {
   }
 }
 
-[data-theme="light"] {
+.sun-icon {
+  display: none;
+  /* In light mode (default), show Moon to switch to Dark? Or show Sun to represent Light? Standard is: Show the *action* (Moon) or *current* (Sun)?
+    Usually: 
+    - Light Mode -> Show Moon (to go Dark)
+    - Dark Mode -> Show Sun (to go Light)
+    
+    My CSS variables say: :root is Light Mode.
+    So by default in :root, we should see Moon.
+    */
+  display: none;
+}
+
+.moon-icon {
+  display: block;
+}
+}
+
+[data-theme="dark"] {
   #theme-toggle {
     .sun-icon {
       display: block;
