@@ -29,8 +29,9 @@ $radius-sm: 8px;
    BASE
    ============================================= */
 body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
+  background-color: #0f0f0f;
+  /* Hardcoded dark bg */
+  color: #e8e8e8;
   font-family: $font-family-serif;
   margin: 0;
   line-height: 1.7;
@@ -133,19 +134,19 @@ li {
 }
 
 a {
-  color: var(--link-color);
-  text-decoration: underline;
-  text-decoration-color: rgba(120, 108, 255, 0.4);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-  transition: color 0.2s ease, text-decoration-color 0.2s ease;
-  background: none;
-  -webkit-text-decoration-skip: ink;
+  color: #9d94ff;
+  /* Violet clear */
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  transition: background-size 0.3s ease, color 0.3s ease;
+  padding-bottom: 2px;
 
   &:hover {
-    color: var(--link-hover);
-    text-decoration-color: var(--link-hover);
-    background: none;
+    color: #c2bcff;
+    background-size: 100% 1px;
   }
 }
 
@@ -217,46 +218,49 @@ blockquote {
 
 .note-card {
   display: flex;
-  align-items: center;
-  gap: 1rem;
-  background: var(--box-bg);
-  border: 1px solid var(--border-color);
-  border-radius: $radius;
-  padding: 1rem 1.25rem;
+  flex-direction: column;
+  /* Stack date and title */
+  align-items: flex-start;
+  gap: 0.5rem;
+  background: #1e1e1e;
+  /* Slightly lighter than bg */
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 1.5rem;
   text-decoration: none !important;
   color: var(--text-color);
-  transition: transform 0.2s ease,
-    box-shadow 0.2s ease,
-    border-color 0.2s ease;
-  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: var(--card-shadow-hover);
-    border-color: var(--accent-color);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 15px rgba(120, 108, 255, 0.15);
+    /* Purple glow */
+    border-color: #786CFF;
+    background: #252525;
+
+    .note-title {
+      color: #786CFF;
+    }
   }
 }
 
 .note-date {
   font-family: $font-family-mono;
-  font-size: 0.78rem;
-  color: var(--secondary-text);
-  white-space: nowrap;
-  min-width: 85px;
-  font-weight: 500;
+  font-size: 0.75rem;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.2rem;
 }
 
 .note-title {
-  flex: 1;
   font-family: $font-family-sans;
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: var(--heading-color);
-  line-height: 1.3;
-
-  .note-card:hover & {
-    color: var(--accent-color);
-  }
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #fff;
+  line-height: 1.4;
+  transition: color 0.2s ease;
 }
 
 /* =============================================
