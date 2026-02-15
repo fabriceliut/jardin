@@ -11,7 +11,18 @@
 
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+  <link rel="preload" href="{{ site.baseurl }}/styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ site.baseurl }}/styles.css"></noscript>
+  <script>
+    // Progressive enhancement: lazy-load images for better perf
+    (function(){
+      try{
+        window.addEventListener('DOMContentLoaded', function(){
+          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
+        });
+      }catch(e){}
+    })();
+  </script>
 
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
