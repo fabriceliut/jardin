@@ -3,11 +3,10 @@ layout: default
 ---
 
 <article>
-  <div class="article-header">
+  <div>
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-      {% if page.type != 'pages' %}
-        Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
   </div>
@@ -15,25 +14,26 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
-      <div class="article-footer">
-        <p class="closing-message">Thank you for reading. Feel free to reach out on <a href="https://liut.me">liut.me</a></p>
-      </div>
+      <p>Merci de votre lecture, vous pouvez me contacter sur liut.me</p>
     </content>
 
-    <side>
-      <h3>Related Notes</h3>
+    <side style="font-size: 0.9em">
+      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       {% if page.backlinks.size > 0 %}
-      <div class="backlinks-list">
+      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       {% for backlink in page.backlinks %}
         <div class="backlink-box">
-          <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a>
-          <p class="backlink-excerpt">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</p>
+        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
         </div>
       {% endfor %}
       </div>
       {% else %}
-      <div class="no-backlinks">
-        <p>No related notes yet.</p>
+
+      <div style="font-size: 0.9em">
+        <p>
+          Il n'y a pas de notes en lien avec cette note.
+        </p>
       </div>
       {% endif %}
     </side>
@@ -42,62 +42,6 @@ layout: default
 
 <hr>
 
-<div class="graph-section">
-  <h2>Explore the Garden</h2>
-  <p class="graph-description">View all notes connected in the knowledge graph below:</p>
-  {% include notes_graph.html %}
-</div>
+<p>Voici toutes les notes du jardin à visualiser en Graph.</p>
 
-<style>
-  .article-header {
-    margin-bottom: 2.5em;
-    padding-bottom: 2em;
-    border-bottom: 1px solid var(--color-border);
-  }
-
-  .article-header h1 {
-    margin-top: 0;
-  }
-
-  .article-footer {
-    margin-top: 3em;
-    padding-top: 2em;
-    border-top: 1px solid var(--color-border);
-    font-size: 0.95em;
-    color: var(--color-subtext);
-  }
-
-  .backlinks-list {
-    display: flex;
-    flex-direction: column;
-    gap: 0.8em;
-  }
-
-  .backlink-excerpt {
-    margin: 0.3em 0 0;
-    font-size: 0.85em;
-    color: var(--color-subtext);
-    line-height: 1.5;
-  }
-
-  .no-backlinks {
-    padding: 1em;
-    background: var(--color-box-background);
-    border-radius: 8px;
-    text-align: center;
-    color: var(--color-subtext);
-    font-size: 0.9em;
-  }
-
-  .graph-section {
-    margin-top: 3em;
-    padding-top: 2em;
-    border-top: 1px solid var(--color-border);
-  }
-
-  .graph-description {
-    color: var(--color-subtext);
-    font-size: 0.95em;
-    margin-bottom: 1.5em;
-  }
-</style>
+{% include notes_graph.html %}
