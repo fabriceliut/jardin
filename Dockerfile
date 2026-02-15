@@ -7,11 +7,15 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   build-essential \
   git \
   nodejs \
-  yarn \
+  npm \
+  curl \
   && rm -rf /var/lib/apt/lists/*
 
 COPY Gemfile* ./
 RUN gem install bundler && bundle install || true
+
+# Install yarn via npm (deb package not always available in slim images)
+RUN npm install -g yarn || true
 
 COPY . ./
 
