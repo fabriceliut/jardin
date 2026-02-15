@@ -18,11 +18,13 @@ html { box-sizing: border-box; font-family: $font-family; -webkit-font-smoothing
   --color-box-background: #{$color-box-background};
   --color-border: #{$color-border};
   --color-accent: #{$color-accent};
+  --nav-height: 64px;
 }
 
 /* Base layout */
 body {
   margin: 0;
+  padding-top: calc(var(--nav-height) + 0.5rem);
   color: $color-text;
   background: $color-page-background;
   line-height: 1.7;
@@ -30,12 +32,28 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+
+/* Layout wrapper */
 .wrapper { max-width: 85ch; margin: 0 auto; padding: 3vh 4vw; }
 main { padding: 0; }
 
-/* Navigation */
-nav { display:flex; align-items:center; justify-content:space-between; gap:1rem; padding: 0.6rem 4vw; }
+/* Top fixed navigation */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--nav-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,0.98);
+  border-bottom: 1px solid var(--color-border);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+}
 nav a { color: $color-accent; text-decoration: none; font-weight: 600; padding: 0.25rem 0.5rem; border-radius: 4px; }
+nav .nav-inner { display:flex; align-items:center; gap:1rem; justify-content:center; }
 nav .site-links a { margin-left: 0.6rem; }
 
 @media (max-width:700px) {
