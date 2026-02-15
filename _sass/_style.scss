@@ -13,6 +13,13 @@ $font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, 
 html { box-sizing: border-box; font-family: $font-family; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 *, *:before, *:after { box-sizing: inherit; }
 
+:root {
+  --color-page-background: #{$color-page-background};
+  --color-box-background: #{$color-box-background};
+  --color-border: #{$color-border};
+  --color-accent: #{$color-accent};
+}
+
 /* Base layout */
 body {
   margin: 0;
