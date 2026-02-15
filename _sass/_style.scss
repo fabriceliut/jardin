@@ -52,8 +52,8 @@ figure { margin: 0 0 1.25em; }
 figcaption { color: $color-subtext; font-size: 0.95rem; margin-top: 0.5em; }
 
 /* Code and pre */
-code { background: #f5f5f5; padding: 0.12em 0.32em; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace; font-size: 0.95em; }
-pre { background: #f6f7f9; border-radius: 8px; padding: 1em; overflow:auto; margin: 1em 0; }
+code { background: $color-box-background; padding: 0.12em 0.32em; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace; font-size: 0.95em; }
+pre { background: $color-box-background; border-radius: 8px; padding: 1em; overflow:auto; margin: 1em 0; }
 
 /* Blockquote */
 blockquote { padding: 1.2em; margin: 0 0 1.2em; font-size: 0.98em; background: $color-box-background; border-left: 4px solid $color-accent; color: $color-primary; border-radius: 6px; }
