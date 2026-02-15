@@ -15,7 +15,7 @@ permalink: /
 <div class="notes-grid">
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 10 %}
-    <a href="{{ site.baseurl }}{{ note.url }}" class="note-card" style="text-decoration:none;">
+    <a href="{{ site.baseurl }}{{ note.url }}" class="note-card">
       <span class="note-date">{{ note.last_modified_at | date: "%d %b %Y" }}</span>
       <span class="note-title">{{ note.title }}</span>
     </a>
