@@ -3,43 +3,45 @@ layout: default
 ---
 
 <article>
-  <header class="note-header">
+  <div>
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-      {% if page.type != 'pages' %}
-      {{ page.last_modified_at | date: "%d %b %Y" }}
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
-  </header>
-
-  <div class="note-content">
-    {{ content }}
-    <hr />
-    <p style="font-style: italic; color: var(--secondary-text);">Merci de votre lecture. <a href="https://liut.me">Me
-        contacter</a>.</p>
   </div>
 
-  <aside class="note-sidebar">
-    <h3 class="sidebar-title">Rétro-liens</h3>
-    {% if page.backlinks.size > 0 %}
-    <div class="backlink-grid">
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+      <p>Merci de votre lecture, vous pouvez me contacter sur liut.me</p>
+    </content>
+
+    <side style="font-size: 0.9em">
+      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+      {% if page.backlinks.size > 0 %}
+      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       {% for backlink in page.backlinks %}
-      <div class="backlink-box">
-        <a class="internal-link"
-          href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{
-          backlink.title }}</a>
-        <div class="backlink-excerpt">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
-      </div>
+        <div class="backlink-box">
+        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
+        </div>
       {% endfor %}
-    </div>
-    {% else %}
-    <div class="no-backlinks">
-      <p>Aucune note ne fait référence à celle-ci pour le moment.</p>
-    </div>
-    {% endif %}
-  </aside>
+      </div>
+      {% else %}
+
+      <div style="font-size: 0.9em">
+        <p>
+          Il n'y a pas de notes en lien avec cette note.
+        </p>
+      </div>
+      {% endif %}
+    </side>
+  </div>
 </article>
 
-<div id="graph-wrapper">
-  {% include notes_graph.html %}
-</div>
+<hr>
+
+<p>Voici toutes les notes du jardin à visualiser en Graph.</p>
+
+{% include notes_graph.html %}
