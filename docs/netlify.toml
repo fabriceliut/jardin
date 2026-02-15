@@ -1,5 +1,3 @@
 [build]
-  # We ship a prebuilt site in `docs/` and want Netlify to publish it directly.
-  # This avoids requiring Netlify to run the Jekyll build and keeps the repo
-  # behavior deterministic.
-  publish = "docs"
+  command = "jekyll build --trace"
+  publish = "_site"
