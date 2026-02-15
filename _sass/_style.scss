@@ -82,6 +82,26 @@ h2 { font-size: clamp(1.25rem, 1.05rem + 1.5vw, 1.6rem); margin: 1em 0 0.35em; f
 h3 { font-size: clamp(1.05rem, 0.95rem + 1vw, 1.25rem); margin: 0.9em 0 0.3em; font-weight:600; }
 h4,h5,h6 { margin:0.9em 0 0.25em; }
 
+/* Note header and updated meta */
+.note-header { display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-bottom: 0.6em; }
+.note-header h1 { margin: 0; }
+
+.note-updated {
+  font-size: 0.95rem;
+  color: $color-subtext;
+  background: rgba(0,0,0,0.02);
+  padding: 0.28rem 0.5rem;
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0,0.04);
+  box-shadow: 0 1px 0 rgba(15,20,25,0.03);
+  white-space: nowrap;
+}
+
+@media (max-width:700px) {
+  .note-header { flex-direction: column; align-items: flex-start; }
+  .note-updated { margin-top: 0.5rem; }
+}
+
 ul, ol { margin: 0 0 1.15em 1.25em; padding: 0; }
 
 /* Images, figures */
