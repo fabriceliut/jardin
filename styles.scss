@@ -1,3 +1,82 @@
+// --- Modern note update date (discreet, elegant)
+.note-updated-wrapper, .note-updated-wrapper-mobile {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 2em;
+}
+.note-updated {
+	font-size: 0.95em;
+	color: #b0b4be;
+	font-style: italic;
+	background: none;
+	padding: 0.2em 0.6em;
+	border-radius: 6px;
+	letter-spacing: 0.01em;
+}
+@media (max-width: 600px) {
+	.note-updated-wrapper {
+		display: none;
+	}
+	.note-updated-wrapper-mobile {
+		display: flex;
+		justify-content: center;
+		margin: 2em 0 0 0;
+	}
+}
+@media (min-width: 601px) {
+	.note-updated-wrapper-mobile {
+		display: none;
+	}
+}
+
+// --- Recent notes grid (homepage)
+.recent-notes-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+	gap: 1.2em;
+	margin: 2em 0 2.5em 0;
+}
+.recent-note-card {
+	background: #f8fafd;
+	border-radius: 12px;
+	box-shadow: 0 2px 8px 0 rgba(30,40,90,0.06);
+	padding: 1.2em 1em 1em 1em;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	transition: box-shadow 0.18s;
+	border: 1px solid #e6eaf3;
+}
+.recent-note-card:hover {
+	box-shadow: 0 4px 16px 0 rgba(30,40,90,0.10);
+	border-color: #d0d6e6;
+}
+.recent-note-date {
+	font-size: 0.92em;
+	color: #a0a4b0;
+	margin-bottom: 0.3em;
+	letter-spacing: 0.01em;
+}
+.recent-note-title {
+	font-size: 1.08em;
+	font-weight: 600;
+	color: #2a2d3a;
+	text-decoration: none;
+	margin-bottom: 0.1em;
+	transition: color 0.15s;
+}
+.recent-note-title:hover {
+	color: #4a6cf7;
+}
+@media (max-width: 600px) {
+	.recent-notes-grid {
+		grid-template-columns: 1fr;
+		gap: 1em;
+	}
+	.recent-note-card {
+		padding: 1em 0.7em 0.9em 0.7em;
+	}
+}
 ---
 ---
 

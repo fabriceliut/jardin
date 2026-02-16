@@ -13,14 +13,15 @@ permalink: /
 
 
 <strong>Dernières notes à jour</strong>
-<ul>
+<div class="recent-notes-grid">
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit:10 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
+    <div class="recent-note-card">
+      <div class="recent-note-date">{{ note.last_modified_at | date: "%d %b %Y" }}</div>
+      <a class="recent-note-title" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+    </div>
   {% endfor %}
-</ul>
+</div>
 
 ## axes de travail et de recherche
 avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
