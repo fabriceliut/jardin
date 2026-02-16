@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7891431cf61a688",
+        "id": "88447368173a30ce",
         "type": "tabs",
         "children": [
           {
-            "id": "b75afeeab7158058",
+            "id": "a501dcc47093a0fb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -174,9 +174,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b75afeeab7158058",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/régénératif.md",
     "_notes/La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?.md",
+    "_notes/jardin_notes.zip",
+    "_notes/Archive.zip",
     "assets/une vie libérée.png",
     "assets/détendre les tensions.png",
     "assets/facteurs de contraction.jpeg",
@@ -219,8 +222,6 @@
     "_notes/animals",
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
     "assets/Alterner entre pensée systémique et linéaire..png",
-    "assets/miniavatar.jpeg",
-    "assets/jazzyfrenchy.mp3",
-    "_layouts/note.html.rtf"
+    "assets/miniavatar.jpeg"
   ]
 }
