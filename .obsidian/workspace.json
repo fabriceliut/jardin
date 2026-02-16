@@ -11,10 +11,14 @@
             "id": "a501dcc47093a0fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_pages/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pourquoi général",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,8 +179,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d97a1e12e84d83f0",
+  "active": "a501dcc47093a0fb",
   "lastOpenFiles": [
+    "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
+    "_pages/index.md",
+    "_pages/graph.md",
     "_notes/régénératif.md",
     "_notes/La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?.md",
     "_notes/jardin_notes.zip",
@@ -204,9 +212,6 @@
     "_notes/pensée analogique.md",
     "_notes/pensée systémique.md",
     "_notes/modélisation systémique.md",
-    "_notes/livre du Comptoir.md",
-    "_notes/liens bidirectionnels.md",
-    "_notes/le Comptoir.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",

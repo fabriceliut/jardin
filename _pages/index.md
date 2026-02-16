@@ -31,7 +31,7 @@ Avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève 
 
 Je porte une casquette proche d'un "[[chief of staff]]" : j'accompagne les directions générales d'entreprises avec une posture de généraliste.
 
-- [[pourquoi travailler avec un généraliste plutôt qu'un spécialiste?]]
+- [[pourquoi travailler avec un généraliste plutôt qu’un spécialiste?]]
 - [[pour quoi travailler ensemble]]
 - [[Mon approche sensible avec les directions d'entreprise]]
 
