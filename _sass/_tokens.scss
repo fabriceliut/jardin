@@ -1,0 +1,103 @@
+// ============================================================
+// Design Tokens & Theme System
+// ============================================================
+
+// --- Design Tokens ---
+$font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$font-heading: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$font-mono: ui-monospace, 'SFMono-Regular', 'Menlo', 'Monaco', 'Roboto Mono', monospace;
+
+$border-radius: 8px;
+$border-radius-lg: 14px;
+$transition-fast: 0.15s ease;
+$transition-normal: 0.25s ease;
+
+// --- Light theme tokens ---
+$color-primary: hsl(220, 18%, 12%);
+$color-text: hsl(220, 14%, 18%);
+$color-subtext: hsl(220, 8%, 42%);
+$color-border: hsl(220, 14%, 88%);
+$color-box-background: hsl(220, 20%, 97%);
+$color-page-background: hsl(40, 20%, 99%);
+$color-accent: #6C63FF;
+$color-accent-hover: #554ddb;
+$color-accent-subtle: rgba(108, 99, 255, 0.08);
+$color-surface: #ffffff;
+
+// --- Box sizing & resets ---
+html {
+  box-sizing: border-box;
+  font-family: $font-body;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+*, *:before, *:after { box-sizing: inherit; }
+
+// --- CSS Custom Properties (enables dark mode) ---
+:root {
+  --color-primary: #{$color-primary};
+  --color-text: #{$color-text};
+  --color-subtext: #{$color-subtext};
+  --color-border: #{$color-border};
+  --color-box-background: #{$color-box-background};
+  --color-page-background: #{$color-page-background};
+  --color-accent: #{$color-accent};
+  --color-accent-hover: #{$color-accent-hover};
+  --color-accent-subtle: #{$color-accent-subtle};
+  --color-surface: #{$color-surface};
+  --nav-height: 64px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.06), 0 2px 4px rgba(0,0,0,0.04);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.08), 0 4px 8px rgba(0,0,0,0.04);
+}
+
+// Dark mode tokens (shared mixin to avoid duplication)
+// Applied via OS preference OR manual toggle
+@mixin dark-tokens {
+  --color-primary: hsl(220, 16%, 92%);
+  --color-text: hsl(220, 12%, 82%);
+  --color-subtext: hsl(220, 8%, 56%);
+  --color-border: hsl(220, 12%, 22%);
+  --color-box-background: hsl(220, 14%, 14%);
+  --color-page-background: hsl(220, 16%, 9%);
+  --color-accent: #8b83ff;
+  --color-accent-hover: #a59eff;
+  --color-accent-subtle: rgba(139, 131, 255, 0.1);
+  --color-surface: hsl(220, 14%, 12%);
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.3);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-tokens;
+  }
+}
+
+// Manual override
+:root[data-theme="dark"] {
+  @include dark-tokens;
+}
+
+// --- Base body ---
+body {
+  margin: 0;
+  padding-top: calc(var(--nav-height) + 0.5rem);
+  color: var(--color-text);
+  background: var(--color-page-background);
+  line-height: 1.75;
+  font-size: clamp(1.06rem, 1rem + 0.5vw, 1.18rem);
+  font-weight: 400;
+  letter-spacing: -0.006em;
+  -webkit-text-size-adjust: 100%;
+}
+
+// --- Layout wrapper ---
+.wrapper {
+  max-width: 72ch;
+  margin: 0 auto;
+  padding: 3vh 5vw;
+}
+main { padding: 0; }

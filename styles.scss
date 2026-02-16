@@ -1,6 +1,14 @@
 ---
 ---
 
-@use "../_sass/style" as *;
-@use "../_sass/code" as *;
-@use "../_sass/normalize" as *;
+@import "tokens";
+@import "nav";
+@import "typography";
+@import "content";
+@import "homepage";
+@import "toc";
+@import "footer";
+@import "search";
+@import "utilities";
+@import "code";
+@import "normalize";

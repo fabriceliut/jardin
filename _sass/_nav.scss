@@ -1,0 +1,114 @@
+// ============================================================
+// NAVIGATION
+// ============================================================
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--nav-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  z-index: 1000;
+}
+
+@supports (backdrop-filter: blur(12px)) {
+  nav {
+    background: rgba(255,255,255,0.85);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) nav {
+      background: rgba(14,17,23,0.85);
+    }
+  }
+  :root[data-theme="dark"] nav {
+    background: rgba(14,17,23,0.85);
+  }
+  :root[data-theme="light"] nav {
+    background: rgba(255,255,255,0.85);
+  }
+}
+
+.nav-inner {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.site-brand a {
+  color: var(--color-primary);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.08rem;
+  letter-spacing: -0.02em;
+  padding: 0.25rem 0;
+  transition: opacity $transition-fast;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.site-brand a:hover { opacity: 0.7; }
+.site-brand a strong { font-weight: 800; }
+
+.site-logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.nav-links a {
+  color: var(--color-subtext);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.94rem;
+  padding: 0.35rem 0.65rem;
+  border-radius: 8px;
+  transition: color $transition-fast, background $transition-fast;
+}
+.nav-links a:hover {
+  color: var(--color-primary);
+  background: var(--color-accent-subtle);
+}
+
+.site-links a {
+  background: var(--color-accent);
+  color: #fff;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: transform $transition-fast, box-shadow $transition-fast;
+  box-shadow: var(--shadow-sm);
+}
+.site-links a:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@media (max-width: 700px) {
+  nav { padding: 0 3vw; }
+  .nav-inner { gap: 0.8rem; }
+}

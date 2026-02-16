@@ -14,13 +14,16 @@ permalink: /
 <div class="section-label">Dernières notes à jour</div>
 <div class="recent-notes-grid">
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit:10 %}
-    <div class="recent-note-card">
+  {% for note in recent_notes limit:30 %}
+    <div class="recent-note-card{% if forloop.index > 10 %} hidden-note{% endif %}">
       <div class="recent-note-date">{{ note.last_modified_at | date: "%d %b %Y" }}</div>
       <a class="recent-note-title" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </div>
   {% endfor %}
 </div>
+{% if recent_notes.size > 10 %}
+<button class="voir-plus-btn" id="voir-plus" onclick="document.querySelectorAll('.hidden-note').forEach(function(el){el.classList.remove('hidden-note')});this.remove()">Voir plus →</button>
+{% endif %}
 
 ## Axes de travail et de recherche
 
