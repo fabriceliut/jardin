@@ -1,5 +1,7 @@
 [build]
-  # We ship a prebuilt site in `docs/` and want Netlify to publish it directly.
-  # This avoids requiring Netlify to run the Jekyll build and keeps the repo
-  # behavior deterministic.
-  publish = "docs"
+  # Netlify builds the Jekyll site automatically on every push.
+  command = "jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.3.0"
