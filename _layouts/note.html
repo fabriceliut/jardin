@@ -2,56 +2,82 @@
 layout: default
 ---
 
+{% assign words = content | number_of_words %}
+{% assign minutes = words | divided_by: 200 %}
+{% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
+
 <article>
-  <header class="note-header">
+  <header>
     <h1>{{ page.title }}</h1>
     {% if page.type != 'pages' %}
-    <div class="note-updated-wrapper">
+    <div class="note-meta">
+      {% assign m = page.last_modified_at | date: "%-m" | plus: 0 %}
+      {% case m %}{% when 1 %}{% assign mois = "janvier" %}{% when 2 %}{% assign mois = "février" %}{% when 3 %}{% assign mois = "mars" %}{% when 4 %}{% assign mois = "avril" %}{% when 5 %}{% assign mois = "mai" %}{% when 6 %}{% assign mois = "juin" %}{% when 7 %}{% assign mois = "juillet" %}{% when 8 %}{% assign mois = "août" %}{% when 9 %}{% assign mois = "septembre" %}{% when 10 %}{% assign mois = "octobre" %}{% when 11 %}{% assign mois = "novembre" %}{% when 12 %}{% assign mois = "décembre" %}{% endcase %}
       <time class="note-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-        Dernière mise à jour : {{ page.last_modified_at | date: "%B %-d, %Y" }}
+        Mis à jour le {{ page.last_modified_at | date: "%-d" }} {{ mois }} {{ page.last_modified_at | date: "%Y" }}
       </time>
+      <span class="reading-time">{{ minutes }} min de lecture</span>
     </div>
     {% endif %}
   </header>
 
   <div id="notes-entry-container">
-    <content>
+    <div class="note-content">
+      <div id="toc-container"></div>
       {{ content }}
-      <p>Merci de votre lecture, vous pouvez me contacter sur liut.me</p>
-    </content>
+      <p class="note-cta">Merci de votre lecture — vous pouvez me contacter sur <a href="https://liut.me">liut.me</a></p>
+    </div>
 
-    <side style="font-size: 0.9em">
-        <footer class="note-footer">
-          <div class="note-updated-wrapper-mobile">
-            <time class="note-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-              Dernière mise à jour : {{ page.last_modified_at | date: "%B %-d, %Y" }}
-            </time>
-          </div>
-        </footer>
-      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+    <aside class="note-sidebar">
+      <h3 class="sidebar-title">Notes en lien</h3>
       {% if page.backlinks.size > 0 %}
-      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+      <div>
       {% for backlink in page.backlinks %}
         <div class="backlink-box">
-        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
-        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
+          <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a>
+          <div class="backlink-excerpt">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
         </div>
       {% endfor %}
       </div>
       {% else %}
-
-      <div style="font-size: 0.9em">
-        <p>
-          Il n'y a pas de notes en lien avec cette note.
-        </p>
-      </div>
+      <p class="backlink-empty">
+        Aucune note ne fait référence à celle-ci pour le moment.
+      </p>
       {% endif %}
-    </side>
+    </aside>
   </div>
 </article>
 
-<hr>
-
-<p>Voici toutes les notes du jardin à visualiser en Graph.</p>
-
-{% include notes_graph.html %}
+<script>
+// Auto-generate TOC for notes with 3+ headings
+(function() {
+  var content = document.querySelector('.note-content');
+  var tocContainer = document.getElementById('toc-container');
+  if (!content || !tocContainer) return;
+  
+  var headings = content.querySelectorAll('h2, h3');
+  if (headings.length < 3) return;
+  
+  var details = document.createElement('details');
+  details.className = 'toc';
+  var summary = document.createElement('summary');
+  summary.className = 'toc-title';
+  summary.textContent = 'Sommaire';
+  details.appendChild(summary);
+  var ul = document.createElement('ul');
+  
+  headings.forEach(function(h, i) {
+    if (!h.id) h.id = 'heading-' + i;
+    var li = document.createElement('li');
+    if (h.tagName === 'H3') li.className = 'toc-h3';
+    var a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = h.textContent;
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+  
+  details.appendChild(ul);
+  tocContainer.appendChild(details);
+})();
+</script>

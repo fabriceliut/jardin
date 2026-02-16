@@ -7,12 +7,11 @@ permalink: /
 
 # Hello ! 👋
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Bienvenue dans mon [[jardin numérique]]. Ici, je partage mes idées, mes méthodes et mes découvertes pour [[Prendre soin de soi]], [[Prendre soin du collectif]] et [[Prendre soin du monde]]. Ce jardin, c’est un espace ouvert où vous pouvez piocher des ressources concrètes, explorer des pistes nouvelles et trouver de l’inspiration pour avancer dans vos propres projets. Laissez-vous guider par votre curiosité, il y a sûrement un sujet qui résonnera avec vos envies ou vos questions du moment. 👇
-</p>
+<div class="intro-card">
+  Bienvenue dans mon [[jardin numérique]]. Ici, je partage mes idées, mes méthodes et mes découvertes pour [[Prendre soin de soi]], [[Prendre soin du collectif]] et [[Prendre soin du monde]]. Ce jardin, c'est un espace ouvert où vous pouvez piocher des ressources concrètes, explorer des pistes nouvelles et trouver de l'inspiration pour avancer dans vos propres projets. Laissez-vous guider par votre curiosité, il y a sûrement un sujet qui résonnera avec vos envies ou vos questions du moment. 👇
+</div>
 
-
-<strong>Dernières notes à jour</strong>
+<div class="section-label">Dernières notes à jour</div>
 <div class="recent-notes-grid">
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit:10 %}
@@ -23,34 +22,28 @@ permalink: /
   {% endfor %}
 </div>
 
-## axes de travail et de recherche
-avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
+## Axes de travail et de recherche
 
-je porte une casquette proche d'un "[[chief of staff]]" : j'accompagne les directions générales d'entreprises avec une posture de généraliste.
+Avant tout, voici [[mon intention du moment]] qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.
 
-- [[pourquoi travailler avec un généraliste plutôt qu’un spécialiste?]]
+Je porte une casquette proche d'un "[[chief of staff]]" : j'accompagne les directions générales d'entreprises avec une posture de généraliste.
+
+- [[pourquoi travailler avec un généraliste plutôt qu'un spécialiste?]]
 - [[pour quoi travailler ensemble]]
 - [[Mon approche sensible avec les directions d'entreprise]]
 
-pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au coeur de mes explorations :
+Pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au cœur de mes explorations :
 - [[régénératif]]
 - [[bio-inspiration]]
-- [[complexité]] - [[système complexe]]
+- [[complexité]] — [[système complexe]]
 - [[présentation générale du design systémique]]
 - [[simplexité]]
 - [[metagame]]
 
-Je l’avoue, j’ai toujours eu ce réflexe de tout observer, de décortiquer le moindre détail pour essayer de comprendre comment ça marche — la vie, les relations, les organisations. C’est une démarche un peu “meta”, parfois très personnelle, mais qui nourrit tout ce que je fais. Même si je sais qu’on ne peut jamais tout saisir, j’y trouve un vrai plaisir, et souvent, des idées ou des éclairages qui viennent enrichir mes accompagnements et mes projets.
+Je l'avoue, j'ai toujours eu ce réflexe de tout observer, de décortiquer le moindre détail pour essayer de comprendre comment ça marche — la vie, les relations, les organisations. C'est une démarche un peu "meta", parfois très personnelle, mais qui nourrit tout ce que je fais. Même si je sais qu'on ne peut jamais tout saisir, j'y trouve un vrai plaisir, et souvent, des idées ou des éclairages qui viennent enrichir mes accompagnements et mes projets.
 
 Pour explorer avec moi ces univers, par ici pour tenter de [[décoder la vie]].
 
 ---
 
-*en vous balandant entre ces premières pages vous pourrez en découvrir d'autres qui ne sont pas accessible via cet index...
-Au fil de l'[[évolutions des notes]] vous pourrez rebondir de notes en notes, à la manière d'un Wikipedia mais sur des sujets de recherche personnels et très souvent, en mutations! Je vous souhaite une belle exploration ! ⛵*
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+*En vous baladant entre ces premières pages, vous pourrez en découvrir d'autres qui ne sont pas accessibles via cet index... Au fil de l'[[évolutions des notes]] vous pourrez rebondir de notes en notes, à la manière d'un Wikipédia mais sur des sujets de recherche personnels et très souvent, en mutations ! Je vous souhaite une belle exploration ! ⛵*

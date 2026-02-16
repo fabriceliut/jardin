@@ -1,13 +1,59 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   {% include head.html %}
   <body>
+    <a class="skip-link" href="#main">Aller au contenu</a>
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
       <main id="main">{{ content }}</main>
-      <footer>{% include footer.html %}</footer>
+      {% include footer.html %}
     </div>
 
-    {% include link-previews.html wrapperQuerySelector="content" %}
+    {% include link-previews.html wrapperQuerySelector=".note-content" %}
+
+    <script>
+    // Theme toggle: cycles auto → dark → light → auto
+    (function() {
+      var root = document.documentElement;
+      var btn = document.getElementById('theme-toggle');
+      var icon = document.getElementById('theme-icon');
+      if (!btn || !icon) return;
+
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark' || saved === 'light') {
+        root.setAttribute('data-theme', saved);
+      }
+      updateIcon();
+
+      btn.addEventListener('click', function() {
+        var current = root.getAttribute('data-theme');
+        if (!current) {
+          // Was auto (OS) → force dark
+          root.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+        } else if (current === 'dark') {
+          root.setAttribute('data-theme', 'light');
+          localStorage.setItem('theme', 'light');
+        } else {
+          // Was light → back to auto
+          root.removeAttribute('data-theme');
+          localStorage.removeItem('theme');
+        }
+        updateIcon();
+      });
+
+      function updateIcon() {
+        var theme = root.getAttribute('data-theme');
+        if (theme === 'dark') {
+          icon.textContent = '☀️';
+        } else if (theme === 'light') {
+          icon.textContent = '🌙';
+        } else {
+          // Auto — show based on OS
+          icon.textContent = window.matchMedia('(prefers-color-scheme: dark)').matches ? '☀️' : '🌙';
+        }
+      }
+    })();
+    </script>
   </body>
 </html>
