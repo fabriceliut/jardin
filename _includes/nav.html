@@ -1,3 +1,20 @@
-<div>
-    <a class="internal-link" href="{{ site.baseurl }}/"><b>{{ site.title }}</b></a>
+<div class="nav-inner wrapper" role="navigation" aria-label="Navigation principale">
+    <div class="site-brand">
+        <a href="{{ site.baseurl }}/" aria-label="Accueil">
+            <img class="site-logo" src="{{ site.baseurl }}/assets/miniavatar.jpeg" alt="" width="32" height="32">
+            <strong>{{ site.title }}</strong>
+        </a>
+    </div>
+    <div class="nav-right">
+        <div class="nav-links">
+            <a href="/search" aria-label="Rechercher">🔍</a>
+            <a href="/graph">Graph</a>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Changer le thème" title="Changer le thème">
+            <span class="theme-toggle-icon" id="theme-icon">🌙</span>
+        </button>
+        <div class="site-links">
+            <a href="/about">À propos</a>
+        </div>
+    </div>
 </div>

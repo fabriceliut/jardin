@@ -1,6 +1,14 @@
 ---
 ---
 
-@import "../_sass/normalize";
-@import "../_sass/code";
-@import "../_sass/style";
+@import "tokens";
+@import "nav";
+@import "typography";
+@import "content";
+@import "homepage";
+@import "toc";
+@import "footer";
+@import "search";
+@import "utilities";
+@import "code";
+@import "normalize";

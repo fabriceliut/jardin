@@ -1,1 +1,11 @@
-Je vous laisse plus d'information sur la page <a class="internal-link" href="/about">About</a> pour donner du contexte sur ce jardin.
+<footer class="site-footer">
+	<nav class="footer-nav" aria-label="Navigation de pied de page">
+		<a href="/">Accueil</a>
+		<a href="/search">Rechercher</a>
+		<a href="/about">À propos</a>
+		<a href="/graph">Graph</a>
+		<a href="{{ site.baseurl }}/feed.xml" aria-label="Flux RSS">RSS</a>
+	</nav>
+	<p>Ce <a href="/about">jardin numérique</a> est un espace vivant, en constante évolution.</p>
+	<p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
+</footer>

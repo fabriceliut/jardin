@@ -11,6 +11,21 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
 
+    # First pass: convert Obsidian-style image embeds ![[image.ext]] to <img> tags
+    # This must happen BEFORE wikilink processing to avoid ![[image]] being
+    # treated as an invalid link
+    image_extensions = %w[png jpg jpeg gif svg webp bmp]
+    all_docs.each do |current_note|
+      current_note.content = current_note.content.gsub(
+        /!\[\[([^\]]+\.(?:#{image_extensions.join('|')}))\]\]/i
+      ) do |_match|
+        image_filename = Regexp.last_match(1).strip
+        # URL-encode the filename for the src attribute
+        encoded_filename = ERB::Util.url_encode(image_filename)
+        "<img src=\"#{site.baseurl}/assets/#{encoded_filename}\" alt=\"#{image_filename}\" loading=\"lazy\" />"
+      end
+    end
+
     # Convert all Wiki/Roam-style double-bracket link syntax to plain HTML
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|

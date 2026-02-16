@@ -1,25 +1,25 @@
 <style>
   .links line {
-    stroke: #ccc;
+    stroke: var(--color-border);
     opacity: 0.5;
   }
 
   .nodes circle {
     cursor: pointer;
-    fill: #8b88e6;
+    fill: var(--color-accent);
     transition: all 0.15s ease-out;
   }
 
   .text text {
     cursor: pointer;
-    fill: #333;
-    text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
+    fill: var(--color-text);
+    font-family: 'Plus Jakarta Sans', sans-serif;
   }
 
   .nodes [active],
   .text [active] {
     cursor: pointer;
-    fill: black;
+    fill: var(--color-primary);
   }
 
   .inactive {
@@ -28,9 +28,11 @@
   }
 
   #graph-wrapper {
-    background: #fcfcfc;
-    border-radius: 4px;
+    background: var(--color-box-background);
+    border-radius: 14px;
+    border: 1px solid var(--color-border);
     height: auto;
+    overflow: hidden;
   }
   
   #graph-wrapper > svg {

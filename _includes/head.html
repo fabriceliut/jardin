@@ -1,5 +1,6 @@
 <head>
   <meta charset="UTF-8">
+  <script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})()</script>
 
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
@@ -9,9 +10,26 @@
 
   <meta property="og:site_name" content="{{ site.title }}">
 
-  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
 
+  <!-- Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+
+  <script>
+    // Progressive enhancement: lazy-load images for better perf
+    (function(){
+      try{
+        window.addEventListener('DOMContentLoaded', function(){
+          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
+        });
+      }catch(e){}
+    })();
+  </script>
 
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
@@ -36,7 +54,42 @@
 
   {% if page.image %}
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/avatar_24.jpg">
   {% endif %}
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+  {% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  {% else %}<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/avatar_24.jpg">{% endif %}
+
+  <!-- JSON-LD Structured Data -->
+  {% if page.title and page.layout == "note" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.title | jsonify }},
+    "url": "{{ site.url }}{{ page.url }}",
+    "author": {
+      "@type": "Person",
+      "name": "Fabrice Liut",
+      "url": "{{ site.url }}/about"
+    },
+    {% if page.last_modified_at %}"dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",{% endif %}
+    "publisher": {
+      "@type": "Person",
+      "name": "Fabrice Liut"
+    },
+    "description": {{ page.excerpt | default: site.title | strip_html | strip_newlines | truncate: 160 | jsonify }}
+  }
+  </script>
+  {% endif %}
+
+  <!-- RSS Feed -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
 
   <title>
     {% if page.id == "home" %}
