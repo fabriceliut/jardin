@@ -1,20 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
   <meta charset="UTF-8">
+  <script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})()</script>
 
-  <link rel="canonical" href="/" />
+  <link rel="canonical" href="https://jardin.liut.me/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Le jardin de Fabrice Liut">
+  <meta name="description" content="Jardin Liut.">
 
-  <meta property="og:site_name" content="Le jardin de Fabrice Liut">
+  <meta property="og:site_name" content="Jardin Liut.">
 
-  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
 
-  <link rel="preload" href="/styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="/styles.css"></noscript>
+  <!-- Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/styles.css">
+
   <script>
     // Progressive enhancement: lazy-load images for better perf
     (function(){
@@ -27,7 +34,7 @@
   </script>
 
   
-  <meta property="og:description" content="Le jardin de Fabrice Liut"/>
+  <meta property="og:description" content="Jardin Liut."/>
   
 
   
@@ -37,98 +44,238 @@
 
   
 
-  <meta property="og:url" content="/" />
+  <meta property="og:url" content="https://jardin.liut.me/" />
 
   
+  <meta property="og:image" content="https://jardin.liut.me/assets/avatar_24.jpg">
+  
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Jardin numérique de Fabrice Liut">
+  <meta name="twitter:description" content="Jardin Liut.">
+  <meta name="twitter:image" content="https://jardin.liut.me/assets/avatar_24.jpg">
+
+  <!-- JSON-LD Structured Data -->
+  
+
+  <!-- RSS Feed -->
+  <link rel="alternate" type="application/atom+xml" title="Jardin Liut." href="/feed.xml">
 
   <title>
     
-      Le jardin de Fabrice Liut
+      Jardin Liut.
     
   </title>
 </head>
 
   <body>
-    <nav><div class="nav-inner wrapper" role="navigation" aria-label="Main navigation">
+    <a class="skip-link" href="#main">Aller au contenu</a>
+    <nav><div class="nav-inner wrapper" role="navigation" aria-label="Navigation principale">
     <div class="site-brand">
-        <a class="brand-link" href="/" aria-label="Home"><strong>Le jardin de Fabrice Liut</strong></a>
+        <a href="/" aria-label="Accueil">
+            <img class="site-logo" src="/assets/miniavatar.jpeg" alt="" width="32" height="32">
+            <strong>Jardin Liut.</strong>
+        </a>
     </div>
-    <div class="site-links">
-        <a class="about-link" href="/about">About</a>
+    <div class="nav-right">
+        <div class="nav-links">
+            <a href="/search" aria-label="Rechercher">🔍</a>
+            <a href="/graph">Graph</a>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Changer le thème" title="Changer le thème">
+            <span class="theme-toggle-icon" id="theme-icon">🌙</span>
+        </button>
+        <div class="site-links">
+            <a href="/about">À propos</a>
+        </div>
     </div>
 </div>
 </nav>
     <div class="wrapper">
-      <main id="main"><content>
+      <main id="main"><div class="page-content">
   <h1 id="hello--">Hello ! 👋</h1>
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Bienvenue dans mon <a class="internal-link" href="/jardin-num%C3%A9rique">jardin numérique</a>. Ici, je partage mes idées, mes méthodes et mes découvertes pour <a class="internal-link" href="/prendre-soin-de-soi">Prendre soin de soi</a>, <a class="internal-link" href="/prendre-soin-du-collectif">Prendre soin du collectif</a> et <a class="internal-link" href="/prendre-soin-du-monde">Prendre soin du monde</a>. Ce jardin, c’est un espace ouvert où vous pouvez piocher des ressources concrètes, explorer des pistes nouvelles et trouver de l’inspiration pour avancer dans vos propres projets. Laissez-vous guider par votre curiosité, il y a sûrement un sujet qui résonnera avec vos envies ou vos questions du moment. 👇
-</p>
+<div class="intro-card">
+  Bienvenue dans mon <a class="internal-link" href="/jardin-num%C3%A9rique">jardin numérique</a>. Ici, je partage mes idées, mes méthodes et mes découvertes pour <a class="internal-link" href="/prendre-soin-de-soi">Prendre soin de soi</a>, <a class="internal-link" href="/prendre-soin-du-collectif">Prendre soin du collectif</a> et <a class="internal-link" href="/prendre-soin-du-monde">Prendre soin du monde</a>. Ce jardin, c'est un espace ouvert où vous pouvez piocher des ressources concrètes, explorer des pistes nouvelles et trouver de l'inspiration pour avancer dans vos propres projets. Laissez-vous guider par votre curiosité, il y a sûrement un sujet qui résonnera avec vos envies ou vos questions du moment. 👇
+</div>
 
-<p><strong>Dernières notes à jour</strong></p>
+<div class="section-label">Dernières notes à jour</div>
+<div class="recent-notes-grid">
+  
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">03 Feb 2026</div>
+      <a class="recent-note-title" href="/la-danse-des-masques-comment-reconqu%C3%A9rir-sa-spontan%C3%A9it%C3%A9-sans-se-briser" target="_blank">La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">07 Jan 2026</div>
+      <a class="recent-note-title" href="/champignons-magiques-pr%C3%A9sence-et-le%C3%A7ons" target="_blank">Champignons magiques, présence et leçons</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">09 Dec 2025</div>
+      <a class="recent-note-title" href="/puissance" target="_blank">puissance</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">09 Dec 2025</div>
+      <a class="recent-note-title" href="/puissance-une-%C3%A9nergie-int%C3%A9rieure-%C3%A0-lib%C3%A9rer" target="_blank">Puissance, une énergie intérieure à libérer</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">09 Dec 2025</div>
+      <a class="recent-note-title" href="/l-humilit%C3%A9-le-socle-de-la-puissance" target="_blank">L'Humilité, Le Socle de la Puissance</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/coop%C3%A9ration" target="_blank">coopération</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/confiance" target="_blank">confiance</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/complexit%C3%A9" target="_blank">complexité</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/l-art-de-l-%C3%A9quilibre-entre-contr%C3%B4le-et-l%C3%A2cher-prise" target="_blank">L'art de l'équilibre, entre contrôle et lâcher-Prise</a>
+    </div>
+  
+    <div class="recent-note-card">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/jardin-num%C3%A9rique" target="_blank">jardin numérique</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/extimit%C3%A9" target="_blank">extimité</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/designs" target="_blank">designs</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/design-syst%C3%A9mique" target="_blank">design systémique</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/design-r%C3%A9g%C3%A9n%C3%A9ratif" target="_blank">Design régénératif</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/conscience" target="_blank">conscience</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/biomim%C3%A9tisme" target="_blank">biomimétisme</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/bio-inspiration" target="_blank">bio-inspiration</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/approche-du-comptoir" target="_blank">approche du comptoir</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">02 Oct 2025</div>
+      <a class="recent-note-title" href="/2-courants-yin-et-yang" target="_blank">2 courants Yin et Yang</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">05 Sep 2025</div>
+      <a class="recent-note-title" href="/re-tisser-des-relations-authentiques-r%C3%A9flexions-et-invitations" target="_blank">(Re)tisser des relations authentiques, réflexions et invitations</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">23 Jun 2025</div>
+      <a class="recent-note-title" href="/l-art-d%C3%A9licat-de-transmettre-la-sagesse-entre-inspiration-et-appropriation" target="_blank">L’art délicat de transmettre la sagesse, entre inspiration et appropriation</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">23 Jun 2025</div>
+      <a class="recent-note-title" href="/l-art-de-la-synchronicit%C3%A9-entre-intuition-et-r%C3%A9flexion" target="_blank">L’art de la synchronicité, entre intuition et réflexion</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/travailler-avec-moi-comme-avec-un-ami" target="_blank">travailler avec moi comme avec un ami</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/pourquoi-opter-pour-un-accompagnement-en-temps-partag%C3%A9-peut-assurer-le-d%C3%A9veloppement-de-votre-entreprise" target="_blank">Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/le-comptoir" target="_blank">le Comptoir</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/choisir-avec-qui-et-comment-travailler-en-tant-qu-ind%C3%A9pendant" target="_blank">Choisir avec qui et comment travailler en tant qu'indépendant</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/chief-of-staff-la-solution-pour-d%C3%A9passer-la-charge-de-travail-et-garder-le-cap" target="_blank">Chief of Staff - La solution pour dépasser la charge de travail et garder le cap</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/archipel-kyosei" target="_blank">Archipel Kyosei</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/%C3%A9volutions-des-notes" target="_blank">évolutions des notes</a>
+    </div>
+  
+    <div class="recent-note-card hidden-note">
+      <div class="recent-note-date">17 Jun 2025</div>
+      <a class="recent-note-title" href="/r%C3%A9g%C3%A9n%C3%A9ratif" target="_blank">régénératif</a>
+    </div>
+  
+</div>
+
+<p><button class="voir-plus-btn" id="voir-plus" onclick="document.querySelectorAll('.hidden-note').forEach(function(el){el.classList.remove('hidden-note')});this.remove()">Voir plus →</button></p>
+
+<h2 id="axes-de-travail-et-de-recherche">Axes de travail et de recherche</h2>
+
+<p>Avant tout, voici <a class="internal-link" href="/mon-intention-du-moment">mon intention du moment</a> qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.</p>
+
+<p>Je porte une casquette proche d’un “<a class="internal-link" href="/chief-of-staff">chief of staff</a>” : j’accompagne les directions générales d’entreprises avec une posture de généraliste.</p>
+
 <ul>
-  
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/%C3%AAtre-son-propre-commercial">être son propre commercial</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/%C3%A9volutions-des-notes">évolutions des notes</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/%C3%A9mergence-de-structure-logique-utilisable">émergence de structure logique utilisable</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/%C3%A9ducation-de-demain">éducation de demain</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/%C3%A9criture-atomique">écriture atomique</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/%C3%A9cologie">écologie</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/%C3%A7a-veut-dire-quoi-impact-pour-toi">Ça veut dire quoi impact pour toi</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/woodstock-99-pour-parler-d-effondrement">woodstock 99 pour parler d'effondrement</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/voyager-dans-le-temps">voyage dans le temps</a>
-    </li>
-  
-    <li>
-      2026-02-15 — <a class="internal-link" href="/vision-du-moment-pr%C3%A9sent">vision du moment présent</a>
-    </li>
-  
-</ul>
-
-<h2 id="axes-de-travail-et-de-recherche">axes de travail et de recherche</h2>
-<p>avant tout, voici <a class="internal-link" href="/mon-intention-du-moment">mon intention du moment</a> qui précise pourquoi je me lève le matin, ça donne du contexte pour tout ce que je partage ensuite.</p>
-
-<p>je porte une casquette proche d’un “<a class="internal-link" href="/chief-of-staff">chief of staff</a>” : j’accompagne les directions générales d’entreprises avec une posture de généraliste.</p>
-
-<ul>
-  <li><a class="internal-link" href="/pourquoi-travailler-avec-un-g%C3%A9n%C3%A9raliste-plut%C3%B4t-qu-un-sp%C3%A9cialiste">pourquoi travailler avec un généraliste plutôt qu’un spécialiste?</a></li>
+  <li><span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  pourquoi travailler avec un généraliste plutôt qu’un spécialiste?  <span class="invalid-link-brackets">]]</span></span></li>
   <li><a class="internal-link" href="/pour-quoi-travailler-ensemble">pour quoi travailler ensemble</a></li>
   <li><a class="internal-link" href="/mon-approche-sensible-avec-les-directions-d-entreprise">Mon approche sensible avec les directions d’entreprise</a></li>
 </ul>
 
-<p>pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au coeur de mes explorations :</p>
+<p>Pour compléter les orientations principales précédentes, voilà quelques sujets qui sont au cœur de mes explorations :</p>
 <ul>
   <li><a class="internal-link" href="/r%C3%A9g%C3%A9n%C3%A9ratif">régénératif</a></li>
   <li><a class="internal-link" href="/bio-inspiration">bio-inspiration</a></li>
   <li>
-<a class="internal-link" href="/complexit%C3%A9">complexité</a> - <a class="internal-link" href="/syst%C3%A8me-complexe">système complexe</a>
+<a class="internal-link" href="/complexit%C3%A9">complexité</a> — <a class="internal-link" href="/syst%C3%A8me-complexe">système complexe</a>
 </li>
   <li><a class="internal-link" href="/pr%C3%A9sentation-g%C3%A9n%C3%A9rale-du-design-syst%C3%A9mique">présentation générale du design systémique</a></li>
   <li><a class="internal-link" href="/simplexit%C3%A9">simplexité</a></li>
@@ -141,78 +288,35 @@
 
 <hr>
 
-<p><em>en vous balandant entre ces premières pages vous pourrez en découvrir d’autres qui ne sont pas accessible via cet index…
-Au fil de l’<a class="internal-link" href="/%C3%A9volutions-des-notes">évolutions des notes</a> vous pourrez rebondir de notes en notes, à la manière d’un Wikipedia mais sur des sujets de recherche personnels et très souvent, en mutations! Je vous souhaite une belle exploration ! ⛵</em></p>
+<p><em>En vous baladant entre ces premières pages, vous pourrez en découvrir d’autres qui ne sont pas accessibles via cet index… Au fil de l’<a class="internal-link" href="/%C3%A9volutions-des-notes">évolutions des notes</a> vous pourrez rebondir de notes en notes, à la manière d’un Wikipédia mais sur des sujets de recherche personnels et très souvent, en mutations ! Je vous souhaite une belle exploration ! ⛵</em></p>
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
-
-
-</content>
+</div>
 </main>
-      <footer><footer class="site-footer">
-	<p>Je vous laisse plus d'information sur la page <a class="internal-link" href="/about">About</a> pour donner du contexte sur ce jardin.</p>
-	<p style="margin-top:.6rem;font-size:.95rem;color:#666">© 2026 Le jardin de Fabrice Liut</p>
+      <footer class="site-footer">
+	<nav class="footer-nav" aria-label="Navigation de pied de page">
+		<a href="/">Accueil</a>
+		<a href="/search">Rechercher</a>
+		<a href="/about">À propos</a>
+		<a href="/graph">Graph</a>
+		<a href="/feed.xml" aria-label="Flux RSS">RSS</a>
+	</nav>
+	<p>Ce <a href="/about">jardin numérique</a> est un espace vivant, en constante évolution.</p>
+	<p>© 2026 Jardin Liut.</p>
 </footer>
-</footer>
+
     </div>
 
-    <!-- That file is not particularly elegant. This will need a refactor at some point. -->
-<style>
-  content a.internal-link {
-    border-color: #8b88e6;
-    background-color: #efefff;
-  }
-
-  #tooltip-wrapper {
-    background: var(--color-box-background);
-    padding: 1em;
-    border: 1px solid var(--color-border);
-    border-radius: 4px;
-    overflow: hidden;
-    position: absolute;
-    width: 400px;
-    height: 250px;
-    font-size: 0.8em;
-    box-shadow: 0 5px 10px rgba(0,0,0,0.06);
-    opacity: 0;
-    transition: opacity 100ms;
-  }
-
-  #tooltip-wrapper:after {
-		content: "";
-		position: absolute;
-		z-index: 1;
-		bottom: 0;
-		left: 0;
-		pointer-events: none;
-		background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%);
-		width: 100%;
-		height: 75px;
-  }
-</style>
-
-<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
-  <div id='tooltip-content'>
-  </div>
+    <div class="tooltip-wrapper" id="tooltip-wrapper">
+  <div id="tooltip-content"></div>
 </div>
 
-<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
-</iframe>
-
 <script>
-  var opacityTimeout;
-  var contentTimeout;
+(function() {
+  var opacityTimeout, contentTimeout;
   var transitionDurationMs = 100;
-
-  var iframe = document.getElementById('link-preview-iframe')
-  var tooltipWrapper = document.getElementById('tooltip-wrapper')
-  var tooltipContent = document.getElementById('tooltip-content')
-
-  var linkHistories = {};
+  var tooltipWrapper = document.getElementById('tooltip-wrapper');
+  var tooltipContent = document.getElementById('tooltip-content');
+  var cache = {};
 
   function hideTooltip() {
     opacityTimeout = setTimeout(function() {
@@ -221,85 +325,120 @@ Au fil de l’<a class="internal-link" href="/%C3%A9volutions-des-notes">évolut
         tooltipContent.innerHTML = '';
         tooltipWrapper.style.display = 'none';
       }, transitionDurationMs + 1);
-    }, transitionDurationMs)
+    }, transitionDurationMs);
   }
 
   function showTooltip(event) {
     var elem = event.target;
-    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
-    var top = window.pageYOffset || document.documentElement.scrollTop
+    var rects = elem.getClientRects();
+    var elemProps = rects[rects.length - 1];
+    var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 
-    if (event.target.host === window.location.host) {
-      if (!linkHistories[event.target.href]) {
-        iframe.src = event.target.href
-        iframe.onload = function() {
-          tooltipContentHtml = ''
-          tooltipContentHtml += '<div style="font-weight: bold;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
-          tooltipContentHtml += iframe.contentWindow.document.querySelector('content').innerHTML
+    if (elem.host !== window.location.host) return;
 
-          tooltipContent.innerHTML = tooltipContentHtml
-          linkHistories[event.target.href] = tooltipContentHtml
+    function renderTooltip(html) {
+      tooltipContent.innerHTML = html;
+      tooltipWrapper.style.display = 'block';
+      setTimeout(function() { tooltipWrapper.style.opacity = 1; }, 1);
 
-                tooltipWrapper.style.display = 'block';
-          setTimeout(function() {
-            tooltipWrapper.style.opacity = 1;
-          }, 1)
-        } 
+      tooltipWrapper.style.left = (elemProps.left - (tooltipWrapper.offsetWidth / 2) + (elemProps.width / 2)) + 'px';
+      if ((window.innerHeight - elemProps.top) < tooltipWrapper.offsetHeight) {
+        tooltipWrapper.style.top = (elemProps.top + scrollTop - tooltipWrapper.offsetHeight - 10) + 'px';
       } else {
-        tooltipContent.innerHTML = linkHistories[event.target.href]
-        tooltipWrapper.style.display = 'block';
-        setTimeout(function() {
-          tooltipWrapper.style.opacity = 1;
-        }, 1)
+        tooltipWrapper.style.top = (elemProps.top + scrollTop + 35) + 'px';
       }
-
-
-      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
-      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
-          tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
-      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
-          tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
-      }
-
-      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-          tooltipWrapper.style.left = "10px";
-      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-          tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+      if ((elemProps.left + elemProps.width / 2) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = '10px';
+      } else if ((document.body.clientWidth - elemProps.left - elemProps.width / 2) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = (document.body.clientWidth - tooltipWrapper.offsetWidth - 20) + 'px';
       }
     }
+
+    if (cache[elem.href]) {
+      renderTooltip(cache[elem.href]);
+      return;
+    }
+
+    fetch(elem.href)
+      .then(function(r) { return r.text(); })
+      .then(function(html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, 'text/html');
+        var h1 = doc.querySelector('h1');
+        var content = doc.querySelector('.note-content');
+        if (!h1 || !content) return;
+        var preview = '<div class="tooltip-title">' + h1.textContent + '</div>' + content.innerHTML;
+        cache[elem.href] = preview;
+        renderTooltip(preview);
+      })
+      .catch(function() {});
   }
 
-  function setupListeners(linkElement) {
-    linkElement.addEventListener('mouseleave', function(_event) {
-      hideTooltip();
-    });
-
-    tooltipWrapper.addEventListener('mouseleave', function(_event) {
-      hideTooltip();
-    });
-
-    linkElement.addEventListener('touchend', function(_event) {
-      hideTooltip();
-    });
-
-    tooltipWrapper.addEventListener('touchend', function(_event) {
-      hideTooltip();
-    });
-
-    linkElement.addEventListener('mouseenter', function(event) {
+  function setupListeners(link) {
+    link.addEventListener('mouseleave', hideTooltip);
+    link.addEventListener('touchend', hideTooltip);
+    link.addEventListener('mouseenter', function(e) {
       clearTimeout(opacityTimeout);
       clearTimeout(contentTimeout);
-      showTooltip(event);
-    });
-
-    tooltipWrapper.addEventListener('mouseenter', function(event) {
-      clearTimeout(opacityTimeout);
-      clearTimeout(contentTimeout);
+      showTooltip(e);
     });
   }
 
-  document.querySelectorAll('content a').forEach(setupListeners);
+  tooltipWrapper.addEventListener('mouseleave', hideTooltip);
+  tooltipWrapper.addEventListener('touchend', hideTooltip);
+  tooltipWrapper.addEventListener('mouseenter', function() {
+    clearTimeout(opacityTimeout);
+    clearTimeout(contentTimeout);
+  });
+
+  document.querySelectorAll('.note-content a').forEach(setupListeners);
+})();
 </script>
 
+
+    <script>
+    // Theme toggle: cycles auto → dark → light → auto
+    (function() {
+      var root = document.documentElement;
+      var btn = document.getElementById('theme-toggle');
+      var icon = document.getElementById('theme-icon');
+      if (!btn || !icon) return;
+
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark' || saved === 'light') {
+        root.setAttribute('data-theme', saved);
+      }
+      updateIcon();
+
+      btn.addEventListener('click', function() {
+        var current = root.getAttribute('data-theme');
+        if (!current) {
+          // Was auto (OS) → force dark
+          root.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+        } else if (current === 'dark') {
+          root.setAttribute('data-theme', 'light');
+          localStorage.setItem('theme', 'light');
+        } else {
+          // Was light → back to auto
+          root.removeAttribute('data-theme');
+          localStorage.removeItem('theme');
+        }
+        updateIcon();
+      });
+
+      function updateIcon() {
+        var theme = root.getAttribute('data-theme');
+        if (theme === 'dark') {
+          icon.textContent = '☀️';
+        } else if (theme === 'light') {
+          icon.textContent = '🌙';
+        } else {
+          // Auto — show based on OS
+          icon.textContent = window.matchMedia('(prefers-color-scheme: dark)').matches ? '☀️' : '🌙';
+        }
+      }
+    })();
+    </script>
   </body>
 </html>
