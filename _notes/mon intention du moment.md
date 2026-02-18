@@ -24,11 +24,10 @@ J’interviens directement sur le terrain, avec vous et vos équipes, ou à trav
 ### **Combien ça coûte ?**
 
 - Outils numériques : de 0 à 200€ en achat direct.
+- 
 - Accompagnement sur-mesure :
-
-- Premier échange et diagnostic offert, puis tarif réduit pour la première intervention (30 à 50% en moins).
-- Ensuite, selon la taille et la complexité du projet, c’est entre 500 et 2000€ / jour.
-
+	- Premier échange et diagnostic offert, puis tarif réduit pour la première intervention (30 à 50% en moins).
+	- Ensuite, selon la taille et la complexité du projet, c’est entre 500 et 2000€ / jour.
 - Possibilité d’abonnement (coaching régulier, facilitation, Q/R, création d’outils sur-mesure).
 - Parfois, je m’implique à long terme dans des projets qui me tiennent à cœur, en échange de parts.
 
@@ -39,14 +38,10 @@ J’interviens directement sur le terrain, avec vous et vos équipes, ou à trav
 
 Parce que je crois qu’on peut travailler sérieusement sans se prendre au sérieux, et qu’on peut viser à la fois la performance et le plaisir au travail. Ma mission, c’est d’aider les organisations à avancer plus vite, plus simplement, et avec plus de sens.
 
-  
-
 ### **Mes missions principales**
 
 - Guider les dirigeants (PME, ETI, institutions)
 - Soutenir l’organisation et la dynamique des équipes
-
-  
 
 ### **Mes objectifs**
 

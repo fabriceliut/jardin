@@ -5,7 +5,7 @@ tags:
   - philosophie
   - systémique
 ---
-**Pourquoi travailler avec un généraliste plutôt qu’un spécialiste ?**
+## Pourquoi travailler avec un généraliste plutôt qu’un spécialiste ?
 
 
 **Vos enjeux sont complexes ? Un généraliste vous aide à voir l’ensemble du système, à poser les bonnes questions et à orienter vers les bons spécialistes, au bon moment.**
@@ -37,6 +37,3 @@ Un spécialiste est indispensable pour résoudre un problème technique précis.
   
 
 **Ma conviction : même équipes, meilleure organisation = plus de résultats et plus de plaisir au travail.**
-
-
-Vous voulez en parler ? [Contactez-moi sur liut.me ↗](https://liut.me)

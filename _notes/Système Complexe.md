@@ -4,7 +4,7 @@ tags:
   - Afairepousser
   - systémique
 ---
-**Comprendre la complexité pour mieux piloter votre entreprise.**
+## Comprendre la complexité pour mieux piloter votre entreprise.
 
 Votre entreprise n'est pas une machine. C'est un système vivant, avec des interactions, des boucles de feedback et des émergences imprévisibles.
 

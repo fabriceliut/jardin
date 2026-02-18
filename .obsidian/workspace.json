@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_notes/community design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "community design"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pourquoi général",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,10 +178,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a501dcc47093a0fb",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
-    "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
+    "_notes/le marketing de demain et d’aujourd’hui c’est la communauté.md",
+    "_notes/community design.md",
+    "_notes/alterner entre pensée systémique et linéaire.md",
+    "assets/Alterner entre pensée systémique et linéaire..png",
+    "_pages/about.md",
+    "_notes/Conception design.md",
+    "_notes/antifragile.md",
     "_pages/index.md",
+    "_notes/évolutions des notes.md",
+    "_notes/metagame.md",
+    "_notes/simplexité.md",
+    "_notes/système complexe.md",
+    "_notes/complexité.md",
+    "_notes/bio-inspiration.md",
+    "_notes/Mon approche sensible avec les directions d'entreprise.md",
+    "_notes/pour quoi travailler ensemble.md",
+    "_notes/pourquoi travailler avec un généraliste plutôt qu’un spécialiste?.md",
+    "_notes/mon intention du moment.md",
+    "_notes/chief of staff.md",
     "_pages/graph.md",
     "_notes/régénératif.md",
     "_notes/La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?.md",
@@ -196,22 +212,6 @@
     "_notes/puissance.md",
     "_notes/Puissance, une énergie intérieure à libérer.md",
     "_notes/du système projet aux assemblages projets.md",
-    "_notes/Design Sprint.md",
-    "_notes/coopération.md",
-    "_notes/des assemblages à la symbiose projets.md",
-    "_notes/confiance.md",
-    "_notes/Conception design.md",
-    "_notes/comprendre ce qu'est un projet.md",
-    "_notes/complexité.md",
-    "_notes/guidebook business as non usual.md",
-    "_notes/Choisir avec qui et comment travailler en tant qu'indépendant.md",
-    "_notes/C'est quoi lâcher prise.md",
-    "_notes/Automatisation.md",
-    "_notes/pourquoi une approche & un design régénératif est nécessaire.md",
-    "_notes/personne morale.md",
-    "_notes/pensée analogique.md",
-    "_notes/pensée systémique.md",
-    "_notes/modélisation systémique.md",
     "assets/echelle-creativite.png",
     "assets/plante_racine.png",
     "Untitled.canvas",
@@ -226,7 +226,6 @@
     "404.html",
     "_notes/animals",
     "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png",
-    "assets/Alterner entre pensée systémique et linéaire..png",
     "assets/miniavatar.jpeg"
   ]
 }

@@ -23,9 +23,5 @@ Ce que je présente ici sont quelques principes du « [[community design]] » 
 À tout moment vous pouvez construire les fondations de votre communauté future et en apprendre les principes pour la faire vivre de l’interne. 
   
 ### Aller plus loin sur le sujet
-
-[Community design - Liut](https://liut.me/community-design)
-
 - [Community design 101 guidebook notion](https://liutnotes.notion.site/play-101-community-design-a62bf942d2f94b6dbf59fabc4924025b?pvs=4) 
-- Template notion (en création)
 - [Rosie, un référente community design et building](https://twitter.com/rosiesherry)

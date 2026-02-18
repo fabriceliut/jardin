@@ -1,6 +1,11 @@
 ---
 title: Conception design
+tags:
+  - offre
 ---
+> Ici nous sommes dans le passé. Mais avec l'IA je me retrouve à nouveau à produire et à créer des interfaces et des apps... x15 plus vite, ce qui est très utile dans un contexte de prototypage rapide pour tester et faire évoluer.
+
+
 # **Accompagnement dans l'évolution des process Design et conception.**
 
 _(Agile Design Process, UX, UI dynamic design systems)_

@@ -2,6 +2,7 @@
 title: alterner entre pensée systémique et linéaire
 tags:
   - article
+image: "[[Alterner entre pensée systémique et linéaire..png]]"
 ---
 2 des modes de pensée que notre cerveau peut activer aux besoins.
 
@@ -17,5 +18,4 @@ Voir aussi [[pensée linéaire, pensée design et pensée systémique pour se co
 
 ---
 
-
-![[Alterner entre pensée systémique et linéaire..png]]
+![]({{page.image}})

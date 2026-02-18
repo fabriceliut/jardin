@@ -4,9 +4,10 @@ tags:
   - Afairepousser
   - terminologie
 ---
-### concept important : la simplexité. Il s'agit d'un mouvement de conscience qui consiste à passer de la complexité à la simplicité. 
+## concept important : la simplexité. Il s'agit d'un mouvement de conscience qui consiste à passer de la complexité à la simplicité. 
 
 En d'autres termes, il est nécessaire de comprendre la [[complexité]] pour pouvoir agir de manière simple et efficace. Cela peut sembler évident, mais il est important de ne pas tomber dans la simplification excessive qui pourrait nous faire passer à côté de l'essentiel. 
+
 **En éliminant le superflu, nous pouvons créer un système plus fonctionnel et plus engageant, tout en utilisant moins de ressources.**
 
 En tant que dirigeants, il est crucial de trouver un équilibre entre la complexité et la simplicité consciente. 

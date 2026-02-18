@@ -5,6 +5,9 @@ tags:
 ---
 Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[jardin numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
 
+## en date du 18/02/26
+J'ai retravaillé le design et les fonctionnalités du jardin numérique. Désormais il est possible d'utiliser un moteur de recherche en plus de la navigation par liens internes. J'ai aussi ajouter des notes et nettoyé certaines. Belle exploration beaucoup plus agréable pour tout le monde !
+
 ## en date du 17/06/25
 Je viens de mettre à jour les pages principales qui sont en lien sur l'accueil pour assurer une cohérence de positionnement et de discours avec ce que je peux dire son mon site pro principal, liut.me et mon Linkedin - tout n'était plus à jour, j'étais encore trop complexe alors que je cherche désormais à être efficace, plus direct et pragmatique.
 
