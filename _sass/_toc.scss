@@ -55,6 +55,8 @@
     font-weight: 500;
     transition: color $transition-fast;
     &:hover { color: var(--color-accent); }
+    // No native browser tooltip on TOC links
+    &[href^="#"] { pointer-events: auto; }
   }
   ul ul {
     padding-left: 1.2em;
