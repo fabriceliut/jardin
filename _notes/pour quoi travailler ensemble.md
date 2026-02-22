@@ -7,11 +7,11 @@ tags:
 ---
 Qu’est-ce que je peux vraiment vous apporter ? Pourquoi choisir de travailler ensemble ? Je vous le dis simplement, comme si on se rencontrait pour la première fois.
 
-Je suis passionné par l’exploration et l’amélioration du travail d’équipe. Depuis plus de 15 ans, j’accompagne des dirigeants et leurs équipes dans des environnements très variés : PME, grands groupes, associations, institutions… Mon moteur, c’est de rendre les organisations plus efficaces ET plus humaines.
+Je suis passionné par l’exploration et l’amélioration du travail d’équipe. Depuis plus de 15 ans, j’accompagne des dirigeants et leurs équipes dans des environnements très variés : PME, grands groupes, associations, institutions… Mon moteur, c’est de **rendre les organisations plus efficaces ET plus humaines**.
 
 **Mon approche est simple** : observer, comprendre ce qui bloque, et proposer des solutions concrètes. Pas de théorie abstraite, pas de chantiers inutiles. Ce qui m’intéresse, c’est de débloquer ce qui freine vos équipes, de révéler les talents cachés, et de vous aider à avancer avec plus de clarté et de sérénité.
 
-Travailler avec moi, c’est accéder à un regard extérieur, curieux et bienveillant, qui va droit au but. Je ne suis pas un expert enfermé dans une case : je m’appuie sur un réseau solide de spécialistes que j’active quand il le faut, pour répondre précisément à vos besoins, rien de plus, rien de moins.
+**Travailler avec moi, c’est accéder à un regard extérieur, curieux et bienveillant, qui va droit au but**. Je ne suis pas un expert enfermé dans une case : je m’appuie sur un réseau solide de spécialistes que j’active quand il le faut, pour répondre précisément à vos besoins, rien de plus, rien de moins.
 
 Parfois vous ne savez pas exactement ce qui bloque : je suis là pour poser les bonnes questions et faire émerger les vraies priorités. Parfois vous savez ce qu’il faut faire : je vous aide à passer à l’action, simplement et efficacement.
 

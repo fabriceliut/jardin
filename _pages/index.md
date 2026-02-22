@@ -4,7 +4,6 @@ title: Jardin numérique de Fabrice Liut
 id: home
 permalink: /
 ---
-
 # Hello ! 👋
 
 <div class="intro-card">

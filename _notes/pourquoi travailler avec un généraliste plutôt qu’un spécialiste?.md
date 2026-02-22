@@ -5,11 +5,7 @@ tags:
   - philosophie
   - systémique
 ---
-## Pourquoi travailler avec un généraliste plutôt qu’un spécialiste ?
-
-
 **Vos enjeux sont complexes ? Un généraliste vous aide à voir l’ensemble du système, à poser les bonnes questions et à orienter vers les bons spécialistes, au bon moment.**
-
 
 **Les atouts du généraliste**
 
@@ -19,13 +15,9 @@ tags:
 - Vous accompagner tout au long du projet, pour garantir cohérence et efficacité
 - Savoir mobiliser les bons experts quand c’est nécessaire, sans multiplier les intervenants
 
-  
-
 **Complémentarité avec les spécialistes**
 
 Un spécialiste est indispensable pour résoudre un problème technique précis. Mais sans vision d’ensemble, on risque de perdre du temps et de l’énergie sur des solutions partielles. Le généraliste, lui, orchestre l’ensemble : il s’assure que chaque intervention s’inscrit dans une stratégie globale, au service de vos vrais objectifs.
-
-  
 
 **Quand faire appel à un généraliste ?**
 
@@ -33,7 +25,5 @@ Un spécialiste est indispensable pour résoudre un problème technique précis.
 - Quand les équipes perdent du temps en coordination ou en reporting
 - Quand il faut pivoter ou réussir un projet critique sans perturber l’existant
 - Quand vous voulez des résultats concrets, sans multiplier les chantiers
-
-  
 
 **Ma conviction : même équipes, meilleure organisation = plus de résultats et plus de plaisir au travail.**
