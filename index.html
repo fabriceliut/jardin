@@ -391,7 +391,13 @@
     clearTimeout(contentTimeout);
   });
 
-  document.querySelectorAll('.note-content a').forEach(setupListeners);
+  document.querySelectorAll('.note-content a').forEach(function(link) {
+    // Skip same-page anchor links (e.g. TOC links)
+    if (link.getAttribute('href') && link.getAttribute('href').charAt(0) === '#') return;
+    // Skip links inside the TOC
+    if (link.closest('.toc')) return;
+    setupListeners(link);
+  });
 })();
 </script>
 
