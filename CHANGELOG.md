@@ -3,6 +3,10 @@
 All notable changes made for the redesign are recorded here.
 
 ## [Unreleased]
+- Fixed TOC (Sommaire): links are now simple anchor links with smooth scroll, no tooltip on hover.
+  - `link-previews.html`: skip links inside `.toc` to prevent tooltip popup.
+  - `note.html`: TOC links use `scrollIntoView({ behavior: 'smooth' })` for smooth navigation.
+  - `_typography.scss`: added `scroll-margin-top` on headings so they don't stick to viewport top.
 - Reworked primary stylesheet (`_sass/_style.scss`) to a minimal, readable, accessible design:
   - System fonts, improved typographic scale, responsive `clamp()` sizes, `max-width: 85ch` wrapper.
   - Improved paragraph rhythm, headings spacing, lists, tables, blockquotes, code and pre styling.

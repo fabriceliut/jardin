@@ -12,12 +12,13 @@ layout: null
     <name>{{ site.title | xml_escape }}</name>
   </author>
   {% assign sorted_notes = site.notes | sort: "last_modified_at" | reverse %}
-  {% for note in sorted_notes limit:20 %}
+  {% for note in sorted_notes %}
+  {% assign note_date = note.last_modified_at | default: note.date | default: site.time %}
   <entry>
     <title type="html">{{ note.title | xml_escape }}</title>
     <link href="{{ site.url }}{{ site.baseurl }}{{ note.url }}" rel="alternate" type="text/html" title="{{ note.title | xml_escape }}" />
     <id>{{ site.url }}{{ site.baseurl }}{{ note.url }}</id>
-    <updated>{{ note.last_modified_at | date_to_xmlschema }}</updated>
+    <updated>{{ note_date | date_to_xmlschema }}</updated>
     <content type="html">{{ note.content | strip | xml_escape | truncatewords: 100 }}</content>
   </entry>
   {% endfor %}

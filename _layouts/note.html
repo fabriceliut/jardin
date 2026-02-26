@@ -71,8 +71,16 @@ layout: default
     var li = document.createElement('li');
     if (h.tagName === 'H3') li.className = 'toc-h3';
     var a = document.createElement('a');
-    a.href = '#' + h.id;
+    a.setAttribute('href', '#' + h.id);
     a.textContent = h.textContent;
+    a.addEventListener('click', function(e) {
+      e.preventDefault();
+      var target = document.getElementById(h.id);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        history.replaceState(null, '', '#' + h.id);
+      }
+    });
     li.appendChild(a);
     ul.appendChild(li);
   });
