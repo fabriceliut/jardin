@@ -1,87 +1,125 @@
 // ============================================================
-// OFFRES — Commercial offers page
+// OFFRES — Inspired by liut.me design language
 // ============================================================
+
+// --- Extra radius token (liut.me uses 2rem rounded) ---
+$border-radius-xl: 1.5rem;
 
 // --- Hero ---
 .offre-hero {
   text-align: center;
-  margin-bottom: 1em;
+  padding: 2.5em 1em 2em;
+  position: relative;
+  overflow: hidden;
+
+  // Subtle accent glow blob (like liut.me hero)
+  &::before {
+    content: "";
+    position: absolute;
+    top: -30%;
+    right: -15%;
+    width: 500px;
+    height: 500px;
+    background: var(--color-accent);
+    border-radius: 50%;
+    filter: blur(120px);
+    opacity: 0.05;
+    pointer-events: none;
+  }
 
   h1 {
-    font-size: 1.8em;
+    font-family: $font-heading;
+    font-size: clamp(1.6em, 4vw, 2.2em);
     font-weight: 800;
-    line-height: 1.3;
-    margin-bottom: 0.6em;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.8em;
+    color: var(--color-text);
+    text-wrap: balance;
   }
 
   .offre-hero-sub {
     font-size: 1.1em;
     color: var(--color-subtext);
     line-height: 1.7;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.3em;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .offre-hero-hook {
-    font-size: 1.15em;
+    font-size: 1.1em;
     line-height: 1.6;
     color: var(--color-text);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
-// --- Blockquote / Citation ---
+// --- Section labels (liut.me style: /// Méthode) ---
+.page-content h2 {
+  // Keep default styling from typography
+}
+
+// --- Blockquote / Citation (accent left border, like liut.me style) ---
 .offre-quote {
+  position: relative;
+  padding: 1.5em 1.8em;
+  margin: 2em 0;
   background: var(--color-box-background);
-  border-left: 4px solid $color-accent;
-  border-radius: 0 $border-radius $border-radius 0;
-  padding: 1.2em 1.5em;
-  margin: 1.5em 0;
+  border: 1px solid var(--color-border);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 $border-radius-xl $border-radius-xl 0;
 
   p {
     font-style: italic;
-    line-height: 1.7;
+    line-height: 1.8;
     margin: 0;
     color: var(--color-text);
+    font-size: 0.95em;
   }
 
   cite {
     display: block;
-    margin-top: 0.8em;
-    font-size: 0.88em;
+    margin-top: 1em;
+    font-size: 0.82em;
     font-style: normal;
-    color: var(--color-subtext);
     font-weight: 600;
+    color: var(--color-subtext);
+    letter-spacing: -0.01em;
   }
 }
 
 // --- Comparison Table (Avant / Après) ---
 .offre-comparison {
-  margin: 1.5em 0;
+  margin: 2em 0;
   overflow-x: auto;
+  border-radius: $border-radius-xl;
+  border: 1px solid var(--color-border);
+  overflow: hidden;
 
   table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.92em;
+    font-size: 0.9em;
   }
 
   thead th {
-    background: $color-accent;
+    background: var(--color-accent);
     color: #fff;
-    padding: 0.8em 1em;
+    padding: 1em 1.2em;
     text-align: left;
     font-weight: 700;
-    font-size: 0.95em;
-
-    &:first-child {
-      border-radius: $border-radius 0 0 0;
-    }
-    &:last-child {
-      border-radius: 0 $border-radius 0 0;
-    }
+    font-size: 0.9em;
+    font-family: $font-heading;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
   }
 
   tbody td {
-    padding: 0.7em 1em;
+    padding: 0.9em 1.2em;
     border-bottom: 1px solid var(--color-border);
     vertical-align: top;
     line-height: 1.6;
@@ -91,9 +129,14 @@
     background: var(--color-box-background);
   }
 
-  // "Avant" column slightly dimmed
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  // "Avant" column dimmed
   tbody td:first-child {
     color: var(--color-subtext);
+    font-size: 0.9em;
   }
 
   // "Après" column highlighted
@@ -103,174 +146,299 @@
   }
 }
 
-// --- Phases ---
+// --- Phases (card-based, liut.me card style) ---
 .offre-phases {
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
-  margin: 1.5em 0;
+  gap: 1.2em;
+  margin: 2em 0;
 }
 
 .offre-phase {
   background: var(--color-surface, var(--color-box-background));
   border: 1px solid var(--color-border);
-  border-radius: $border-radius-lg;
-  padding: 1.5em;
-  transition: box-shadow $transition-normal;
+  border-radius: $border-radius-xl;
+  padding: 2em 1.8em 1.5em;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.02), transparent);
+    pointer-events: none;
+  }
 
   &:hover {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    border-color: var(--color-accent);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.06);
   }
 
   .phase-header {
     display: flex;
     align-items: center;
-    gap: 0.6em;
-    margin-bottom: 0.8em;
+    gap: 0.8em;
+    margin-bottom: 1.2em;
 
     .phase-icon {
-      font-size: 1.5em;
+      font-size: 1.6em;
       flex-shrink: 0;
     }
 
     h3 {
       margin: 0;
-      font-size: 1.1em;
+      font-family: $font-heading;
+      font-size: 1.15em;
       font-weight: 700;
+      letter-spacing: -0.01em;
     }
   }
 
   ul {
-    margin: 0 0 1em 0;
-    padding-left: 1.4em;
+    margin: 0 0 1.2em 0;
+    padding-left: 0;
+    list-style: none;
 
     li {
-      margin-bottom: 0.3em;
-      line-height: 1.6;
-      font-size: 0.93em;
+      position: relative;
+      padding-left: 1.5em;
+      margin-bottom: 0.5em;
+      line-height: 1.7;
+      font-size: 0.92em;
+      color: var(--color-subtext);
+
+      &::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0.6em;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: var(--color-border);
+      }
+
+      strong {
+        color: var(--color-text);
+      }
     }
   }
 
   .phase-livrable {
-    font-size: 0.88em;
-    padding-top: 0.8em;
+    font-size: 0.85em;
+    padding-top: 1em;
     border-top: 1px solid var(--color-border);
     color: var(--color-subtext);
+    font-weight: 500;
   }
 }
 
-// --- IA Grid (callout cards) ---
+// --- IA Grid (callout cards, liut.me resource cards style) ---
 .offre-ia-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 1em;
-  margin: 1.5em 0;
+  margin: 2em 0;
 }
 
 .offre-ia-card {
   display: flex;
   align-items: flex-start;
-  gap: 0.8em;
-  background: var(--color-box-background);
+  gap: 1em;
+  background: var(--color-surface, var(--color-box-background));
   border: 1px solid var(--color-border);
-  border-radius: $border-radius-lg;
-  padding: 1.2em;
-  font-size: 0.93em;
+  border-radius: $border-radius-xl;
+  padding: 1.5em;
+  font-size: 0.92em;
   line-height: 1.7;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.02), transparent);
+    pointer-events: none;
+  }
+
+  &:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-2px);
+  }
 
   .ia-icon {
     font-size: 1.5em;
     flex-shrink: 0;
-    margin-top: 0.1em;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.75rem;
+    border: 1px solid var(--color-border);
+    background: var(--color-box-background);
+  }
+
+  div {
+    color: var(--color-subtext);
+
+    strong {
+      display: block;
+      color: var(--color-text);
+      font-family: $font-heading;
+      font-weight: 700;
+      margin-bottom: 0.2em;
+      font-size: 1em;
+    }
   }
 }
 
 // --- Pour qui ---
 .offre-pour-qui {
-  background: var(--color-box-background);
-  border-radius: $border-radius-lg;
-  padding: 1.5em 1.5em 1.5em 1.5em;
+  background: var(--color-surface, var(--color-box-background));
+  border-radius: $border-radius-xl;
+  padding: 2em;
   border: 1px solid var(--color-border);
 
   ul {
     margin: 0;
-    padding-left: 1.4em;
+    padding: 0;
+    list-style: none;
 
     li {
-      margin-bottom: 0.5em;
-      line-height: 1.7;
+      position: relative;
+      padding-left: 1.5em;
+      margin-bottom: 0.7em;
+      line-height: 1.8;
       font-size: 0.95em;
+      color: var(--color-subtext);
+
+      &::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0.7em;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: var(--color-accent);
+      }
+
+      strong {
+        color: var(--color-text);
+        font-weight: 600;
+      }
     }
   }
 }
 
-// --- References ---
+// --- References (liut.me card style with icon) ---
 .offre-refs {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 1em;
-  margin: 1.5em 0;
+  margin: 2em 0;
 }
 
 .offre-ref-card {
   display: flex;
   align-items: flex-start;
-  gap: 0.8em;
+  gap: 1em;
   background: var(--color-surface, var(--color-box-background));
   border: 1px solid var(--color-border);
-  border-radius: $border-radius-lg;
-  padding: 1.2em;
-  font-size: 0.9em;
+  border-radius: $border-radius-xl;
+  padding: 1.5em;
+  font-size: 0.88em;
   line-height: 1.7;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+
+  &:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-2px);
+  }
 
   .ref-icon {
     font-size: 1.4em;
     flex-shrink: 0;
-    margin-top: 0.1em;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.75rem;
+    border: 1px solid var(--color-border);
+    background: var(--color-box-background);
+  }
+
+  div {
+    color: var(--color-subtext);
+
+    strong {
+      color: var(--color-text);
+      display: block;
+      font-family: $font-heading;
+      font-weight: 700;
+      margin-bottom: 0.3em;
+      font-size: 1em;
+    }
   }
 }
 
 // --- Pricing Table ---
 .offre-pricing {
-  margin: 1.5em 0;
+  margin: 2em 0;
+  border-radius: $border-radius-xl;
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+
+  // Wrapper for horizontal scroll on mobile
   overflow-x: auto;
 
   table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.88em;
+    font-size: 0.85em;
   }
 
   thead th {
-    background: $color-accent;
+    background: var(--color-accent);
     color: #fff;
-    padding: 0.8em 0.8em;
+    padding: 1em 1em;
     text-align: center;
     font-weight: 700;
     font-size: 0.95em;
+    font-family: $font-heading;
+    letter-spacing: 0.02em;
 
     &:first-child {
       text-align: left;
-      border-radius: $border-radius 0 0 0;
-    }
-    &:last-child {
-      border-radius: 0 $border-radius 0 0;
     }
   }
 
   tbody td {
-    padding: 0.7em 0.8em;
+    padding: 0.85em 1em;
     border-bottom: 1px solid var(--color-border);
     vertical-align: top;
-    line-height: 1.5;
+    line-height: 1.6;
     text-align: center;
+    font-size: 0.92em;
 
     &:first-child {
       text-align: left;
-      font-weight: 500;
+      font-weight: 600;
       background: var(--color-box-background);
-      min-width: 140px;
+      min-width: 130px;
+      color: var(--color-text);
     }
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
   }
 
   tbody tr:nth-child(even) td:not(:first-child) {
@@ -278,62 +446,108 @@
   }
 
   .pricing-row td {
-    background: var(--color-accent-subtle, rgba(108, 99, 255, 0.06)) !important;
-    font-weight: 600;
+    background: var(--color-accent-subtle) !important;
+    font-weight: 700;
     color: var(--color-text);
+    font-family: $font-heading;
   }
 
   .pricing-note {
     text-align: center;
-    font-size: 0.85em;
+    font-size: 0.82em;
     color: var(--color-subtext);
-    margin-top: 1em;
+    margin: 0;
+    padding: 1em;
+    border-top: 1px solid var(--color-border);
     font-style: italic;
+    background: var(--color-box-background);
   }
 }
 
-// --- CTA Final ---
+// --- CTA Final (liut.me CTA style with glow) ---
 .offre-cta-final {
   text-align: center;
-  padding: 2.5em 2em;
-  background: var(--color-accent-subtle, rgba(108, 99, 255, 0.06));
-  border-radius: $border-radius-lg;
-  margin: 1em 0 2em;
+  padding: 3em 2em;
+  background: var(--color-surface, var(--color-box-background));
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius-xl;
+  margin: 2em 0 2em;
+  position: relative;
+  overflow: hidden;
+
+  // Subtle gradient overlay
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, var(--color-accent-subtle), transparent);
+    pointer-events: none;
+  }
 
   h3 {
-    font-size: 1.3em;
+    font-family: $font-heading;
+    font-size: 1.4em;
+    font-weight: 700;
     margin-bottom: 0.6em;
+    position: relative;
+    letter-spacing: -0.01em;
   }
 
   p {
-    max-width: 540px;
+    max-width: 520px;
     margin: 0 auto 1.5em;
     color: var(--color-subtext);
-    line-height: 1.7;
+    line-height: 1.8;
     font-size: 0.95em;
+    position: relative;
   }
 
   .offre-cta-alt {
-    font-size: 0.85em;
-    margin-top: 1em;
+    font-size: 0.82em;
+    margin-top: 1.2em;
     margin-bottom: 0;
+    color: var(--color-subtext);
+
+    a {
+      color: var(--color-accent);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+
+      &:hover {
+        color: var(--color-accent-hover);
+      }
+    }
   }
 }
 
+// --- CTA Button (liut.me glow button) ---
 .offre-cta-button {
-  display: inline-block;
-  padding: 0.75em 2em;
-  background: $color-accent;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  padding: 0.85em 2.2em;
+  background: var(--color-accent);
   color: #fff !important;
-  border-radius: $border-radius;
+  border-radius: 100px; // Pill shape like liut.me
+  font-family: $font-heading;
   font-weight: 700;
-  font-size: 1em;
+  font-size: 0.95em;
   text-decoration: none;
-  transition: background $transition-fast;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 20px -5px rgba(108, 99, 255, 0.4);
+  position: relative;
+  transform: translateY(0);
 
   &:hover {
-    background: $color-accent-hover;
+    background: var(--color-accent-hover);
     text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 0 30px -5px rgba(108, 99, 255, 0.5);
+  }
+
+  &:active {
+    transform: scale(0.97);
   }
 }
 
@@ -343,6 +557,10 @@
     font-size: 1.4em;
   }
 
+  .offre-hero::before {
+    display: none;
+  }
+
   .offre-ia-grid,
   .offre-refs {
     grid-template-columns: 1fr;
@@ -350,10 +568,14 @@
 
   .offre-comparison table,
   .offre-pricing table {
-    font-size: 0.82em;
+    font-size: 0.78em;
   }
 
   .offre-cta-final {
-    padding: 1.5em 1em;
+    padding: 2em 1.2em;
+  }
+
+  .offre-phase {
+    padding: 1.5em 1.2em;
   }
 }
