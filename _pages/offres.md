@@ -282,8 +282,8 @@ J'utilise l'IA pour 80 % de mon temps de construction — ce que je propose à m
 
 <div class="offre-cta-final">
   <h3>📞 Réservez un appel de cadrage gratuit de 15 minutes</h3>
-  <p>On fait le point sur votre situation, vos outils actuels et vos priorités.<br>
-  Si ça matche, je vous envoie une proposition sur mesure sous 48h.</p>
+  <p>On fait le point sur votre situation, vos outils actuels et vos priorités.</p>
+  <p>Si ça matche, je vous envoie une proposition sur mesure sous 48h.</p>
   <a href="https://cal.com/fabrice-liut/45-min-meeting" class="offre-cta-button" target="_blank">Prendre rendez-vous →</a>
-  <p class="offre-cta-alt">Vous préférez d'abord échanger par écrit ? Écrivez-moi à <a href="mailto:fabrice@liut.me">fabrice@liut.me</a></p>
+  <p class="offre-cta-alt">Vous préférez d'abord échanger par écrit ?<br>Écrivez-moi à <a href="mailto:fabrice@liut.me">fabrice@liut.me</a></p>
 </div>

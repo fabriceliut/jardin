@@ -15,6 +15,7 @@ nav {
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   z-index: 1000;
+  flex-wrap: wrap;
 }
 
 @supports (backdrop-filter: blur(12px)) {
@@ -108,7 +109,111 @@ nav {
   gap: 0.5rem;
 }
 
+// ============================================================
+// HAMBURGER BUTTON (hidden on desktop)
+// ============================================================
+.nav-hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: 36px;
+  height: 36px;
+  padding: 6px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background $transition-fast;
+
+  span {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: var(--color-text);
+    border-radius: 2px;
+    transition: transform 0.25s ease, opacity 0.2s ease;
+  }
+
+  &:hover {
+    background: var(--color-accent-subtle);
+  }
+}
+
+// Animate to X when open
+nav.nav-open .nav-hamburger {
+  span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+  span:nth-child(2) {
+    opacity: 0;
+  }
+  span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+}
+
+// ============================================================
+// MOBILE DROPDOWN (hidden on desktop)
+// ============================================================
+.nav-dropdown {
+  display: none;
+}
+
+// ============================================================
+// MOBILE STYLES
+// ============================================================
 @media (max-width: 700px) {
-  nav { padding: 0 3vw; }
+  nav {
+    padding: 0 3vw;
+    height: auto;
+    min-height: var(--nav-height);
+  }
   .nav-inner { gap: 0.8rem; }
+
+  // Hide desktop-only items
+  .nav-links a[href="/graph"],
+  .site-links {
+    display: none;
+  }
+
+  // Show hamburger
+  .nav-hamburger {
+    display: flex;
+  }
+
+  // Mobile dropdown
+  .nav-dropdown {
+    display: none;
+    width: 100%;
+    border-top: 1px solid var(--color-border);
+    padding: 0.5rem 0 0.75rem;
+
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    a {
+      display: block;
+      padding: 0.6rem 0.75rem;
+      color: var(--color-text);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95rem;
+      border-radius: 8px;
+      transition: background $transition-fast, color $transition-fast;
+
+      &:hover {
+        background: var(--color-accent-subtle);
+        color: var(--color-accent);
+      }
+    }
+  }
+
+  nav.nav-open .nav-dropdown {
+    display: block;
+  }
 }
