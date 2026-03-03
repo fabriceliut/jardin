@@ -87,8 +87,19 @@
             <span class="theme-toggle-icon" id="theme-icon">🌙</span>
         </button>
         <div class="site-links">
+            <a href="/offres">Offres</a>
             <a href="/about">À propos</a>
         </div>
+        <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu" aria-expanded="false">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
+</div>
+<div class="nav-dropdown" id="nav-dropdown">
+    <div class="wrapper">
+        <a href="/graph">Graph</a>
+        <a href="/offres">Offres</a>
+        <a href="/about">À propos</a>
     </div>
 </div>
 </nav>
@@ -180,6 +191,7 @@
 	<nav class="footer-nav" aria-label="Navigation de pied de page">
 		<a href="/">Accueil</a>
 		<a href="/search">Rechercher</a>
+		<a href="/offres">Offres</a>
 		<a href="/about">À propos</a>
 		<a href="/graph">Graph</a>
 		<a href="/feed.xml" aria-label="Flux RSS">RSS</a>
@@ -327,6 +339,29 @@
           // Auto — show based on OS
           icon.textContent = window.matchMedia('(prefers-color-scheme: dark)').matches ? '☀️' : '🌙';
         }
+      }
+    })();
+
+    // Mobile hamburger menu toggle
+    (function() {
+      var hamburger = document.getElementById('nav-hamburger');
+      var navEl = document.querySelector('nav');
+      if (!hamburger || !navEl) return;
+
+      hamburger.addEventListener('click', function() {
+        var isOpen = navEl.classList.toggle('nav-open');
+        hamburger.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      });
+
+      // Close menu when clicking a link inside the dropdown
+      var dropdown = document.getElementById('nav-dropdown');
+      if (dropdown) {
+        dropdown.querySelectorAll('a').forEach(function(link) {
+          link.addEventListener('click', function() {
+            navEl.classList.remove('nav-open');
+            hamburger.setAttribute('aria-expanded', 'false');
+          });
+        });
       }
     })();
     </script>
