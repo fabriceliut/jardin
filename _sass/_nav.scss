@@ -145,7 +145,6 @@
   transition: background 0.35s ease;
 }
 
-.site-nav.nav-open ~ .nav-overlay,
 .site-nav.nav-open .nav-overlay {
   background: rgba(0, 0, 0, 0.3);
   pointer-events: auto;
@@ -195,7 +194,7 @@
 }
 
 // Visible state
-.site-nav.nav-open ~ .nav-panel {
+.site-nav.nav-open .nav-panel {
   opacity: 1;
   transform: translateY(0);
   pointer-events: auto;
@@ -240,7 +239,7 @@
 }
 
 // Stagger animation for links
-.site-nav.nav-open ~ .nav-panel .nav-panel-inner a {
+.site-nav.nav-open .nav-panel .nav-panel-inner a {
   animation: navSlideIn 0.3s cubic-bezier(0.4, 0, 0.2, 1) both;
 
   @for $i from 1 through 6 {
