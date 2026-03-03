@@ -43,7 +43,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-03-03T14:08:16+00:00">
+  <meta property="article:published_time" content="2026-03-03T14:19:15+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -72,7 +72,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-03-03T14:07:44+00:00",
+    "dateModified": "2026-03-03T14:18:39+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -96,33 +96,42 @@
     <a class="skip-link" href="#main">Aller au contenu</a>
     <nav class="site-nav"><div class="nav-inner wrapper" role="navigation" aria-label="Navigation principale">
     <div class="site-brand">
-        <a href="/" aria-label="Accueil">
-            <img class="site-logo" src="/assets/miniavatar.jpeg" alt="" width="32" height="32">
-            <strong>Jardin Liut.</strong>
-        </a>
+        <a href="/">Jardin Liut.</a>
     </div>
     <div class="nav-right">
-        <div class="nav-links">
-            <a href="/search" aria-label="Rechercher">🔍</a>
-            <a href="/graph">Graph</a>
-        </div>
         <button class="theme-toggle" id="theme-toggle" aria-label="Changer le thème" title="Changer le thème">
-            <span class="theme-toggle-icon" id="theme-icon">🌙</span>
+            <span class="theme-toggle-icon" id="theme-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+            </span>
         </button>
-        <div class="site-links">
-            <a href="/offres">Offres</a>
-            <a href="/about">À propos</a>
-        </div>
         <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu" aria-expanded="false">
             <span></span><span></span><span></span>
         </button>
     </div>
 </div>
-<div class="nav-dropdown" id="nav-dropdown">
-    <div class="wrapper">
-        <a href="/graph">Graph</a>
-        <a href="/offres">Offres</a>
-        <a href="/about">À propos</a>
+<div class="nav-overlay" id="nav-overlay"></div>
+<div class="nav-panel" id="nav-panel">
+    <div class="nav-panel-inner">
+        <a href="/search">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            Rechercher
+        </a>
+        <a href="/offres">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+            Offres
+        </a>
+        <a href="/about">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            À propos
+        </a>
+        <a href="/graph">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="12" r="3"/><line x1="8.59" y1="7.41" x2="15.42" y2="10.59"/><line x1="8.59" y1="16.59" x2="15.42" y2="13.41"/></svg>
+            Graph
+        </a>
+        <a href="/feed.xml">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+            RSS
+        </a>
     </div>
 </div>
 </nav>
@@ -138,7 +147,7 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-03-03T14:07:44+00:00">
+      <time class="note-updated" datetime="2026-03-03T14:18:39+00:00">
         Mis à jour le 3 mars 2026
       </time>
       <span class="reading-time">1 min de lecture</span>
@@ -361,6 +370,9 @@
       var icon = document.getElementById('theme-icon');
       if (!btn || !icon) return;
 
+      var moonSVG = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+      var sunSVG = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>';
+
       var saved = localStorage.getItem('theme');
       if (saved === 'dark' || saved === 'light') {
         root.setAttribute('data-theme', saved);
@@ -370,14 +382,12 @@
       btn.addEventListener('click', function() {
         var current = root.getAttribute('data-theme');
         if (!current) {
-          // Was auto (OS) → force dark
           root.setAttribute('data-theme', 'dark');
           localStorage.setItem('theme', 'dark');
         } else if (current === 'dark') {
           root.setAttribute('data-theme', 'light');
           localStorage.setItem('theme', 'light');
         } else {
-          // Was light → back to auto
           root.removeAttribute('data-theme');
           localStorage.removeItem('theme');
         }
@@ -387,37 +397,51 @@
       function updateIcon() {
         var theme = root.getAttribute('data-theme');
         if (theme === 'dark') {
-          icon.textContent = '☀️';
+          icon.innerHTML = sunSVG;
         } else if (theme === 'light') {
-          icon.textContent = '🌙';
+          icon.innerHTML = moonSVG;
         } else {
-          // Auto — show based on OS
-          icon.textContent = window.matchMedia('(prefers-color-scheme: dark)').matches ? '☀️' : '🌙';
+          icon.innerHTML = window.matchMedia('(prefers-color-scheme: dark)').matches ? sunSVG : moonSVG;
         }
       }
     })();
 
-    // Mobile hamburger menu toggle
+    // Hamburger menu toggle (panel + overlay)
     (function() {
       var hamburger = document.getElementById('nav-hamburger');
       var navEl = document.querySelector('.site-nav');
+      var overlay = document.getElementById('nav-overlay');
+      var panel = document.getElementById('nav-panel');
       if (!hamburger || !navEl) return;
 
-      hamburger.addEventListener('click', function() {
+      function toggleMenu() {
         var isOpen = navEl.classList.toggle('nav-open');
         hamburger.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-      });
+      }
 
-      // Close menu when clicking a link inside the dropdown
-      var dropdown = document.getElementById('nav-dropdown');
-      if (dropdown) {
-        dropdown.querySelectorAll('a').forEach(function(link) {
-          link.addEventListener('click', function() {
-            navEl.classList.remove('nav-open');
-            hamburger.setAttribute('aria-expanded', 'false');
-          });
+      function closeMenu() {
+        navEl.classList.remove('nav-open');
+        hamburger.setAttribute('aria-expanded', 'false');
+      }
+
+      hamburger.addEventListener('click', toggleMenu);
+
+      // Close on overlay click
+      if (overlay) overlay.addEventListener('click', closeMenu);
+
+      // Close on link click
+      if (panel) {
+        panel.querySelectorAll('a').forEach(function(link) {
+          link.addEventListener('click', closeMenu);
         });
       }
+
+      // Close on Escape key
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && navEl.classList.contains('nav-open')) {
+          closeMenu();
+        }
+      });
     })();
     </script>
   </body>
