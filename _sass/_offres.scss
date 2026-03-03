@@ -1,0 +1,133 @@
+// ============================================================
+// OFFRES — Commercial offers page
+// ============================================================
+
+.offres-intro {
+  padding: 1.5em 1.5em;
+  background: var(--color-box-background);
+  border-radius: $border-radius-lg;
+  border: 1px solid var(--color-border);
+  margin-bottom: 2.5em;
+  font-size: 1.05em;
+  line-height: 1.8;
+  color: var(--color-text);
+}
+
+.offres-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5em;
+  margin-bottom: 3em;
+}
+
+.offre-card {
+  background: var(--color-surface, var(--color-box-background));
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius-lg;
+  padding: 2em 1.5em 1.5em;
+  transition: box-shadow $transition-normal, transform $transition-normal;
+  display: flex;
+  flex-direction: column;
+
+  &:hover {
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+}
+
+.offre-icon {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.offre-card h2 {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin: 0 0 0.6em 0;
+  color: var(--color-text);
+}
+
+.offre-description {
+  font-size: 0.95em;
+  line-height: 1.7;
+  color: var(--color-subtext);
+  margin-bottom: 1em;
+  flex-grow: 1;
+}
+
+.offre-details {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.2em 0;
+
+  li {
+    position: relative;
+    padding-left: 1.4em;
+    margin-bottom: 0.4em;
+    font-size: 0.9em;
+    line-height: 1.6;
+    color: var(--color-text);
+
+    &::before {
+      content: "✓";
+      position: absolute;
+      left: 0;
+      color: $color-accent;
+      font-weight: 700;
+    }
+  }
+}
+
+.offre-format {
+  font-size: 0.82em;
+  font-weight: 600;
+  color: var(--color-subtext);
+  padding-top: 0.8em;
+  border-top: 1px solid var(--color-border);
+  margin-top: auto;
+}
+
+// --- CTA Section ---
+.offres-cta {
+  text-align: center;
+  padding: 2.5em 2em;
+  background: var(--color-accent-subtle, rgba(108, 99, 255, 0.06));
+  border-radius: $border-radius-lg;
+  margin: 2em 0 3em;
+
+  h2 {
+    font-size: 1.3em;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    max-width: 540px;
+    margin: 0 auto 1.5em;
+    color: var(--color-subtext);
+    line-height: 1.7;
+  }
+}
+
+.offre-cta-button {
+  display: inline-block;
+  padding: 0.75em 2em;
+  background: $color-accent;
+  color: #fff !important;
+  border-radius: $border-radius;
+  font-weight: 700;
+  font-size: 1em;
+  text-decoration: none;
+  transition: background $transition-fast;
+
+  &:hover {
+    background: $color-accent-hover;
+    text-decoration: none;
+  }
+}
+
+// --- Responsive ---
+@media (max-width: 640px) {
+  .offres-grid {
+    grid-template-columns: 1fr;
+  }
+}
