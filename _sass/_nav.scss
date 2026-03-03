@@ -168,10 +168,12 @@
 
   // Hidden state
   opacity: 0;
+  visibility: hidden;
   transform: translateY(-8px);
   pointer-events: none;
   transition: opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1),
-              transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+              transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+              visibility 0s 0.25s;
 }
 
 @supports (backdrop-filter: blur(14px)) {
@@ -196,8 +198,12 @@
 // Visible state
 .site-nav.nav-open .nav-panel {
   opacity: 1;
+  visibility: visible;
   transform: translateY(0);
   pointer-events: auto;
+  transition: opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+              transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+              visibility 0s 0s;
 }
 
 .nav-panel-inner {
