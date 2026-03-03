@@ -71,7 +71,7 @@
 
   <body>
     <a class="skip-link" href="#main">Aller au contenu</a>
-    <nav><div class="nav-inner wrapper" role="navigation" aria-label="Navigation principale">
+    <nav class="site-nav"><div class="nav-inner wrapper" role="navigation" aria-label="Navigation principale">
     <div class="site-brand">
         <a href="/" aria-label="Accueil">
             <img class="site-logo" src="/assets/miniavatar.jpeg" alt="" width="32" height="32">
@@ -586,7 +586,7 @@
     // Mobile hamburger menu toggle
     (function() {
       var hamburger = document.getElementById('nav-hamburger');
-      var navEl = document.querySelector('nav');
+      var navEl = document.querySelector('.site-nav');
       if (!hamburger || !navEl) return;
 
       hamburger.addEventListener('click', function() {
