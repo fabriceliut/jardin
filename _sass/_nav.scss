@@ -1,7 +1,7 @@
 // ============================================================
 // NAVIGATION
 // ============================================================
-nav {
+.site-nav {
   position: fixed;
   top: 0;
   left: 0;
@@ -19,18 +19,18 @@ nav {
 }
 
 @supports (backdrop-filter: blur(12px)) {
-  nav {
+  .site-nav {
     background: rgba(255,255,255,0.85);
   }
   @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) nav {
+    :root:not([data-theme="light"]) .site-nav {
       background: rgba(14,17,23,0.85);
     }
   }
-  :root[data-theme="dark"] nav {
+  :root[data-theme="dark"] .site-nav {
     background: rgba(14,17,23,0.85);
   }
-  :root[data-theme="light"] nav {
+  :root[data-theme="light"] .site-nav {
     background: rgba(255,255,255,0.85);
   }
 }
@@ -142,7 +142,7 @@ nav {
 }
 
 // Animate to X when open
-nav.nav-open .nav-hamburger {
+.site-nav.nav-open .nav-hamburger {
   span:nth-child(1) {
     transform: translateY(7px) rotate(45deg);
   }
@@ -165,7 +165,7 @@ nav.nav-open .nav-hamburger {
 // MOBILE STYLES
 // ============================================================
 @media (max-width: 700px) {
-  nav {
+  .site-nav {
     padding: 0 3vw;
     height: auto;
     min-height: var(--nav-height);
@@ -213,7 +213,7 @@ nav.nav-open .nav-hamburger {
     }
   }
 
-  nav.nav-open .nav-dropdown {
+  .site-nav.nav-open .nav-dropdown {
     display: block;
   }
 }

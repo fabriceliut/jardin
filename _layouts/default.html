@@ -3,7 +3,7 @@
   {% include head.html %}
   <body>
     <a class="skip-link" href="#main">Aller au contenu</a>
-    <nav>{% include nav.html %}</nav>
+    <nav class="site-nav">{% include nav.html %}</nav>
     <div class="wrapper">
       <main id="main">{{ content }}</main>
       {% include footer.html %}
@@ -58,7 +58,7 @@
     // Mobile hamburger menu toggle
     (function() {
       var hamburger = document.getElementById('nav-hamburger');
-      var navEl = document.querySelector('nav');
+      var navEl = document.querySelector('.site-nav');
       if (!hamburger || !navEl) return;
 
       hamburger.addEventListener('click', function() {
