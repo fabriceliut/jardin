@@ -92,3 +92,45 @@
     padding: 1em 1em 0.9em;
   }
 }
+
+// --- Offre CTA Banner on Homepage ---
+.home-offre-banner {
+  background: var(--color-accent-subtle, rgba(108, 99, 255, 0.06));
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius-lg;
+  padding: 2em 1.5em;
+  margin: 1em 0;
+  text-align: center;
+
+  h2 {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 0 0 0.6em 0;
+    line-height: 1.4;
+  }
+
+  p {
+    max-width: 560px;
+    margin: 0 auto 1.2em;
+    color: var(--color-subtext);
+    line-height: 1.7;
+    font-size: 0.95em;
+  }
+}
+
+.home-offre-btn {
+  display: inline-block;
+  padding: 0.7em 1.8em;
+  background: $color-accent;
+  color: #fff !important;
+  border-radius: $border-radius;
+  font-weight: 700;
+  font-size: 0.95em;
+  text-decoration: none;
+  transition: background $transition-fast;
+
+  &:hover {
+    background: $color-accent-hover;
+    text-decoration: none;
+  }
+}

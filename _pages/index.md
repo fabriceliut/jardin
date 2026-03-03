@@ -48,4 +48,14 @@ Pour explorer avec moi ces univers, par ici pour tenter de [[décoder la vie]].
 
 ---
 
+<div class="home-offre-banner">
+  <div class="home-offre-content">
+    <h2>🚀 Vous gérez plusieurs projets et vous perdez du temps entre les outils ?</h2>
+    <p>Je construis avec vous un système centralisé sur Notion, augmenté par l'IA, pour piloter tous vos projets depuis un seul espace.</p>
+    <a href="/offres" class="home-offre-btn">Découvrir l'offre Intégrateur IA →</a>
+  </div>
+</div>
+
+---
+
 *En vous baladant entre ces premières pages, vous pourrez en découvrir d'autres qui ne sont pas accessibles via cet index... Au fil de l'[[évolutions des notes]] vous pourrez rebondir de notes en notes, à la manière d'un Wikipédia mais sur des sujets de recherche personnels et très souvent, en mutations ! Je vous souhaite une belle exploration ! ⛵*
