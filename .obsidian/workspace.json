@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dddd28ddcf1e3ddc",
+        "id": "204a98c1e7f302e1",
         "type": "tabs",
         "children": [
           {
-            "id": "8bba8ebc09936120",
+            "id": "964f87dc4351e4c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/La Fin du Conflit Intérieur, Regarder \"Ce Qui Est\".md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "La Fin du Conflit Intérieur, Regarder \"Ce Qui Est\""
+              "title": "New tab"
             }
           }
         ]
@@ -180,6 +176,7 @@
   },
   "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_notes/Le fardeau du chef-d'œuvre, de la paralysie à l'action pure.md",
     "_notes/La Fin du Conflit Intérieur, Regarder \"Ce Qui Est\".md",
     "_notes/Le Paradoxe du \"Méta\", Comment Incarner la Profondeur au Quotidien.md",
     "_notes/L'Illusion du Sauveur, De l'Épuisement d'Être Intéressant à l'Alignement.md",
@@ -206,7 +203,6 @@
     "_notes/simplexité.md",
     "_notes/système complexe.md",
     "_notes/complexité.md",
-    "_notes/bio-inspiration.md",
     "_notes/jardin_notes.zip",
     "_notes/Archive.zip",
     "assets/une vie libérée.png",
