@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86ea7a92ed243400",
+        "id": "23bb2a79beb01224",
         "type": "tabs",
         "children": [
           {
-            "id": "22b8ae14d4129481",
+            "id": "34f64f2d4f2cd534",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Le fardeau du chef-d'œuvre, de la paralysie à l'action pure.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Le fardeau du chef-d'œuvre, de la paralysie à l'action pure"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "22b8ae14d4129481",
+  "active": "34f64f2d4f2cd534",
   "lastOpenFiles": [
-    "_notes/La Fin du Conflit Intérieur, Regarder \"Ce Qui Est\".md",
+    "_notes/Traité de la Joie Souveraine.md",
+    "screenshots/about.png",
+    "screenshots/home.png",
     "_notes/Le fardeau du chef-d'œuvre, de la paralysie à l'action pure.md",
+    "_notes/La Fin du Conflit Intérieur, Regarder \"Ce Qui Est\".md",
     "_notes/Guide book apprendre à vendre.md",
     "_notes/guidebook business as non usual.md",
     "assets/eau-mur-coule Large.jpeg",
@@ -207,7 +206,6 @@
     "_notes/évolutions des notes.md",
     "_notes/metagame.md",
     "_notes/simplexité.md",
-    "_notes/système complexe.md",
     "_notes/jardin_notes.zip",
     "_notes/Archive.zip",
     "assets/une vie libérée.png",
@@ -219,13 +217,11 @@
     "assets/avatar_24.jpg",
     "www.loom.com/share",
     "www.loom.com",
-    "assets/todolundi.png",
     "_layouts/note.html.sb-4449fd15-3VhQ17",
     "_layouts/note.html",
     "_includes/footer.html",
     "_config.yml",
     "404.html",
-    "_notes/animals",
-    "assets/Et si demain vous choisissiez de vous replacer par des produits autonomes….png"
+    "_notes/animals"
   ]
 }
