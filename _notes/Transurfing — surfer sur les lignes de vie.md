@@ -31,7 +31,7 @@ Le monde extérieur reflète notre état intérieur — mais **avec un décalage
 
 C'est une invitation à la patience et à la confiance dans le processus. [[retrouver la confiance en l’intuition]], c'est aussi accepter ce délai sans revenir à l'ancien état.
 
-Cela fait écho à [[Journal d'une autre réalité]] — et à la question profonde : [[et si tout ça c'était juste un rêve]] ?
+Cela fait écho à [[Journal d'une autre réalité]] — et à la question profonde : [[et si tout ça c'était juste un rêve]] ?
 
 ## La vague de fortune — ne pas quitter le flux
 
@@ -41,10 +41,10 @@ On ne parle pas d'optimisme naïf mais d'une pratique active de présence — un
 
 ## Liens avec d'autres explorations
 
-- [[Puissance, une énergie intérieure à libérer]] — le Transurfing comme voie de libération de cette énergie
-- [[Les 4 accords Toltèques]] — une autre grille de lecture spirituelle appliquée au quotidien
+- [[Puissance, une énergie intérieure à libérer]] — le Transurfing comme voie de libération de cette énergie
+- [[Les 4 accords Toltèques]] — une autre grille de lecture spirituelle appliquée au quotidien
 - [[2 courants Yin et Yang]] — la dualité action / lâcher-prise au cœur du Transurfing
-- [[et si on était déjà au paradis?]] — si la réalité est un choix, peut-être qu'on y est déjà
+- [[et si on était déjà au paradis?]] — si la réalité est un choix, peut-être qu'on y est déjà
 
 ---
 
