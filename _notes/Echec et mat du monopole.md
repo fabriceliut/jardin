@@ -1,5 +1,5 @@
 ---
-title: Echec et mat du monopole
+title: Échec et mat du monopole
 ---
 Nous sommes dans un monde qui va toujours plus vite. Un tel rythme que même ceux qui analysent la société commencent à avoir un mal fou à suivre ce qu'il se passe ; sauf certainement ceux qui ont beaucoup de cerveaux et de ressources pour l'analyser et interpréter la [[complexité]] quasiment en continu : les monopoles économiques.
 
@@ -7,7 +7,7 @@ Eux, ils jouent tout simplement aux échecs et très certainement avec beaucoup 
 
 Les livres des années 70 prévenant d'un effondrement arrivent maintenant pour les « petites gens », mais les gros, eux, ont déjà toutes les informations dans leurs bases de données depuis bien longtemps. [[Aldous Huxley]], pour ne citer que lui, était un visionnaire. Il était UN et d'autres encore nourrissent de leurs écrits l'intelligence des grandes entreprises, que ce soit celle des meilleurs cerveaux de la planète ou l'artificielle pour laquelle tous les budgets sont pleinement destinés.
 
-Certaines personnes, dont je fais partie intégrante, prônent l'urgence. Une urgence sociale, environnementale, psychologique. Trop de burn-out, plus de sens, aucun respect de la nature ; l'Homme est un loup pour l'Homme, le loup et la planète tout entière.
+Certaines personnes, dont je fais partie intégrante, prônent l'urgence. Une urgence sociale, environnementale, psychologique. Trop de burn-out, plus de sens, aucun respect de la nature ; l'Homme est un loup pour l'homme, le loup et la planète tout entière.
 
 Alors l'urgence entraîne des réactions : de nouveaux livres, une transformation des entreprises, l'explosion de la bulle des entrepreneurs. La recherche low-tech, les tiers-lieux et toujours plus de cerveaux « indépendants » qui développent des « solutions collectives » pour sauver la planète et améliorer les conditions de nos organisations et de notre monde...
 
@@ -29,7 +29,7 @@ Mais n'oublions pas qu'un jour sur la planète existaient de multiples zones de 
 
 Alors si l'on peut sauver notre monde, le premier pas serait peut-être d'être conscient de ce gros échiquier économique sur lequel nous sommes des pions. Peut-être qu'avec plus de conscience collective, nous pourrions choisir de tout simplement quitter ce jeu et de recommencer une partie autrement. Une partie où tout le monde joue vraiment, où chacun peut définir ses règles et ses conditions. Peut-être que nous pourrions vivre dans un monde où il y aurait des milliers de parties différentes avec tout autant de règles différentes et qu'on pourrait facilement changer de jeu suivant nos besoins et nos envies. **Un monde beaucoup plus libre car à chaque seconde nous pourrions écrire de nouvelles règles.**
 
-[[Archipels en Symbiose]] — Pour construire ce monde, il ne faudrait plus vendre notre temps à ceux qui tiennent au monopole. **Pour construire ce monde, il faudrait se réapproprier l'écriture de notre culture et libérer la possibilité d'autant de sociétés qu'on pourrait imaginer puis matérialiser.**
+[[Archipels en Symbiose]] — Pour construire ce monde, il ne faudrait plus vendre notre temps à ceux qui tiennent le monopole. **Pour construire ce monde, il faudrait se réapproprier l'écriture de notre culture et libérer la possibilité d'autant de sociétés qu'on pourrait imaginer puis matérialiser.**
 
 La vraie liberté serait peut-être alors de **pouvoir** écrire sa réalité au lieu de suivre celle de ceux qui ont perdu le goût de vivre en dehors de leur monopole.
 

@@ -11,7 +11,7 @@ Pour arrêter de faire plusieurs fois les mêmes tâches. Pour libérer le temps
 
 ## 💰 Les bénéfices d'une automatisation & optimisation de nos processus de travail ?
 
--   Enfin centrer les actions sur les priorités, sur les tâches utiles à la performance.
+-   Enfin, centrer les actions sur les priorités, sur les tâches utiles à la performance.
 -   Basculer d'un système de répétition aliénant à un système dynamique & créatif.
 -   Catalyser l'énergie quotidienne sur "ce qui compte et qui porte du sens".
 
@@ -33,10 +33,10 @@ _Ex : Utilisation de "Airtable" pour constituer rapidement et facilement des bas
 1.  Commencer par une analyse des processus et usages actuels
 2.  Sélectionner ensemble les outils et technologies adaptés
 3.  Former les équipes pour créer les nouvelles habitudes
-4.  Ne pas basculer de manière bruteale sur de nouveaux systèmes. Construire petit à petit l'alternative en partant des habitudes actuelles.
+4.  Ne pas basculer de manière brutale sur de nouveaux systèmes. Construire petit à petit l'alternative en partant des habitudes actuelles.
 5.  Utiliser le temps libéré pour des activités "vivifiantes" : énergie, créativité, recherche, exploration.
 
-**Ne plus répéter encore et encore les mêmes tâches nécessaires à la création de valeur et ne plus gaspiller l'énergie et le temps inutilement.** Automatiser et optimiser grâce aux technologies, logiciels et habitudes adaptés, pas à pas, en partant de l'actuel. Utiliser 3 h de focus et en énergie par jour est plus efficient et productif qu'une journée de 8 h mal optimisée et forcée.
+**Ne plus répéter encore et encore les mêmes tâches nécessaires à la création de valeur et ne plus gaspiller l'énergie et le temps inutilement.** Automatiser et optimiser grâce aux technologies, logiciels et habitudes adaptés, pas à pas, en partant de l'actuel. Utiliser 3 h de focus et d'énergie par jour est plus efficient et productif qu'une journée de 8 h mal optimisée et forcée.
 
 # [👉 Mettre en place l'automatisation dans votre structure.](http://www.liut.me/contact "Link: http://www.liut.me/contact")
 
@@ -48,7 +48,7 @@ _Ex : Utilisation de "Airtable" pour constituer rapidement et facilement des bas
 
 -   Permet de se connecter soit en audio, soit en vidéo, soit (et surtout) par téléphone non surtaxé
 -   Permet d'enregistrer dans le cloud les temps de travail en ligne
--   Permet de programmer des temps en avance mais aussi de définir des "Rooms" spécifiques
+-   Permet de programmer des temps à l'avance mais aussi de définir des "Rooms" spécifiques
 -   Permet de créer des "sous-rooms" durant un temps de travail et ainsi de former des "groupes de travail" en ligne
 
 **Pour les discussions asynchrones, utiliser** [**SLACK**](https://slack.com/ "Link: https://slack.com")**.**
@@ -81,7 +81,7 @@ _Ex : Utilisation de "Airtable" pour constituer rapidement et facilement des bas
 
 ---
 ## Ref clients
-- Sofffa
+- SOFFFA
 - Archipel Kyosei
 - Archipels en symbiose
 - EDF R

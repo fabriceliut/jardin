@@ -6,25 +6,25 @@ tags:
 ---
 Dans notre précédente réflexion sur la [[puissance]], nous avons défini celle-ci non pas comme une domination, mais comme une énergie intérieure, un potentiel vital qui ne demande qu'à s'exprimer. Nous avons vu que la [[Force]] est souvent l'acte de contraindre, tandis que la _Puissance_ est l'état d'être.
 
-Mais une question demeure : si cette puissance est en nous, pourquoi est-il si difficile de la libérer ? Pourquoi nos tentatives de "passer en force" aboutissent-elles souvent à l'épuisement plutôt qu'à la réalisation ?
+Mais une question demeure : si cette puissance est en nous, pourquoi est-il si difficile de la libérer ? Pourquoi nos tentatives de « passer en force » aboutissent-elles souvent à l'épuisement plutôt qu'à la réalisation ?
 
 La réponse réside dans un concept souvent mal compris, voire méprisé dans nos sociétés compétitives : **l'humilité**.
 
 ## Le Malentendu de la Faiblesse
 
-Culturellement, nous associons l'[[humilité]] à la soumission, à la petitesse, ou à l'effacement de soi. Nous imaginons l'humble comme celui qui baisse la tête et rase les murs. C'est une erreur fondamentale.
+Culturellement, nous associons l'[[humilité]] à la soumission, à la petitesse ou à l'effacement de soi. Nous imaginons l'humble comme celui qui baisse la tête et rase les murs. C'est une erreur fondamentale.
 
 L'humilité n'est pas le contraire de la puissance ; elle en est le canal.
 
-L'étymologie nous offre ici une clé précieuse. Le mot humilité vient du latin _humus_, la terre. Être humble, ce n'est pas être "bas", c'est être "proche de la terre". C'est être **ancré**.
+L'étymologie nous offre ici une clé précieuse. Le mot humilité vient du latin _humus_, la terre. Être humble, ce n'est pas être « bas », c'est être « proche de la terre ». C'est être **ancré**.
 
 Imaginez un athlète ou un artiste martial. Pour délivrer une puissance maximale, il ne peut pas être rigide ou flotter au-dessus du sol. Il doit fléchir les genoux, abaisser son centre de gravité, faire corps avec le sol. C'est cet ancrage (ce contact avec l'humus) qui permet à la force de traverser le corps et de devenir puissance effective.
 
-## L'Égo : Le Bouchon de la Puissance
+## L'ego : Le Bouchon de la Puissance
 
-Ce qui bloque la puissance, c'est la rigidité de l'égo. L'égo veut paraître grand, il veut avoir raison, il veut être "au-dessus". En cherchant à s'élever artificiellement, il se coupe de sa base.
+Ce qui bloque la puissance, c'est la rigidité de l'ego. L'ego veut paraître grand, il veut avoir raison, il veut être « au-dessus ». En cherchant à s'élever artificiellement, il se coupe de sa base.
 
-- **La Force de l'Égo** est cassante. Elle dépense une énergie folle à maintenir une image, à construire des forteresses et des armures.
+- **La Force de l'ego** est cassante. Elle dépense une énergie folle à maintenir une image, à construire des forteresses et des armures.
     
 - **La Force de l'Humilité** est fluide. Elle accepte la réalité telle qu'elle est. Elle ne gaspille aucune énergie dans le déni ou la justification.
     
@@ -37,7 +37,7 @@ L'humilité est une force active, une compétence de haute précision qui permet
 
 ### 1. La Lucidité (La fin de la friction)
 
-L'humilité est le courage de voir les choses (et soi-même) avec une honnêteté brutale. Elle dissout les illusions. En reconnaissant "je ne sais pas" ou "je suis limité ici", on arrête de se battre contre la réalité. Cette acceptation supprime la friction interne. Soudain, l'énergie qui servait à protéger le mensonge de notre infaillibilité est disponible pour l'action.
+L'humilité est le courage de voir les choses (et soi-même) avec une honnêteté brutale. Elle dissout les illusions. En reconnaissant « je ne sais pas » ou « je suis limité ici », on arrête de se battre contre la réalité. Cette acceptation supprime la friction interne. Soudain, l'énergie qui servait à protéger le mensonge de notre infaillibilité est disponible pour l'action.
 
 ### 2. La Plasticité (L'adaptation)
 
@@ -51,7 +51,7 @@ La véritable puissance est relationnelle. Personne ne réussit seul. L'orgueil 
 
 Pour libérer cette énergie intérieure dont nous parlions précédemment, il faut paradoxalement accepter de descendre.
 
-Il faut cultiver ce que l'on pourrait appeler une **"Humilité Guerrière"**. Non pas celle qui s'excuse d'exister, mais celle qui est tellement sûre de sa valeur intrinsèque qu'elle n'a plus besoin de la prouver à chaque instant.
+Il faut cultiver ce que l'on pourrait appeler une **« Humilité Guerrière »**. Non pas celle qui s'excuse d'exister, mais celle qui est tellement sûre de sa valeur intrinsèque qu'elle n'a plus besoin de la prouver à chaque instant.
 
 C'est là que la puissance se libère : quand on arrête d'essayer d'être fort pour les autres, pour enfin être puissant pour soi-même et pour le monde. L'humilité est le silence du moi qui permet le chant de l'action.
 

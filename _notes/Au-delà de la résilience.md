@@ -18,7 +18,7 @@ Parler de résilience de cette manière nous éloigne (peut-être) de ce qu'est 
 -   Le principe de [[synchronie]] : "parvenir à être simultanément dans la réaction aux crises passées et dans la construction du futur".
 -   Le mouvement [[régénératif]] : quand un organisme se dégrade, ce n'est jamais isolément ; il vient enrichir par ce qu'il "perd" un autre organisme par le principe de "symbiose". Ce qui est vivant est par définition régénératif, en évolution constante. Ce qui n'est pas le cas d'organismes observés isolés, exactement comme lorsqu'on regarde notre humanité qui est, elle, plutôt dégénérative...
 
-_Si l'on veut développer la résilience, faire survivre une activité, un business, la renforcer... J'invite ici à penser au-delà de la résilience et d'ouvrir la porte à d'autres principes inspirés du vivant._
+_Si l'on veut développer la résilience, faire survivre une activité, un business, les renforcer... J'invite ici à penser au-delà de la résilience et à ouvrir la porte à d'autres principes inspirés du vivant._
 
 ### Mais concrètement, comment mettre ça en place dans nos organisations ?
 

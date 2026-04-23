@@ -11,11 +11,11 @@ Dans notre monde en constante évolution technologique, l'[[intelligence artific
 
 ## Le processus d'écriture traditionnel
 
-L'écriture, à sa base, est un processus en plusieurs étapes. On commence par réfléchir à un axe d'écriture et aux idées que l'on souhaite intégrer. Ensuite, on segmente notre propos en différentes parties, suivant une progression logique pour assurer la cohérence et l'intérêt du texte. Puis, on entre dans le vif du sujet : écrire mot après mot, phrase après phrase, paragraphe après paragraphe, tout en relisant et en ajustant au fur et à mesure. Certains préfèrent écrire à la volée, en partant d'une introduction et en développant jusqu'à la conclusion.
+L'écriture, à sa base, est un processus en plusieurs étapes. On commence par réfléchir à un axe d'écriture et aux idées que l'on souhaite intégrer. Ensuite, on segmente notre propos en différentes parties, selon une progression logique pour assurer la cohérence et l'intérêt du texte. Puis, on entre dans le vif du sujet : écrire mot après mot, phrase après phrase, paragraphe après paragraphe, tout en relisant et en ajustant au fur et à mesure. Certains préfèrent écrire à la volée, en partant d'une introduction et en développant jusqu'à la conclusion.
 
 ## La création musicale avant et après l'ère numérique
 
-Avant l'ère numérique, la création musicale nécessitait des instruments physiques. On composait en enregistrant chaque partie, en structurant et en mélangeant le tout pour créer un morceau. Avec l'avènement des logiciels de musique assistée par ordinateur (MAO), ce processus a évolué. On peut désormais partir de phrases musicales, voire de paragraphes entiers grâce à des samples. Les presets d'instruments permettent de ne pas partir de zéro, offrant une banque sonore prête à l'emploi pour créer des compositions.
+Avant l'ère numérique, la création musicale nécessitait des instruments physiques. On composait en enregistrant chaque partie, en structurant et en mélangeant le tout pour créer un morceau. Avec l'avènement des logiciels de musique assistée par ordinateur (MAO), ce processus a évolué. On peut désormais partir de phrases musicales, voire de paragraphes entiers grâce à des "samples". Les "presets" d'instruments permettent de ne pas partir de zéro, offrant une banque sonore prête à l'emploi pour créer des compositions.
 
 ## L'écriture avec intelligence artificielle
 
@@ -23,7 +23,7 @@ L'écriture avec l'IA suit un schéma similaire. On pense d'abord à la structur
 
 ## La dépendance technologique : un atout ou un handicap ?
 
-Cette analogie entre l'écriture et la création musicale soulève une question cruciale : notre dépendance à ces technologies est-elle bénéfique ou nous handicape-t-elle ? Si l'on nous retirait les presets musicaux, serions-nous capables de créer un morceau en partant de zéro ? De même, sans l'IA, pourrions-nous encore écrire de manière fluide et cohérente ? Ces technologies augmentent nos capacités, mais nous devons aussi nous interroger sur l'importance de revenir aux bases, de fabriquer un instrument de musique ou de former des mots et des phrases par nous-mêmes.
+Cette analogie entre l'écriture et la création musicale soulève une question cruciale : notre dépendance à ces technologies est-elle bénéfique ou nous handicape-t-elle ? Si l'on nous retirait les "presets" musicaux, serions-nous capables de créer un morceau en partant de zéro ? De même, sans l'IA, pourrions-nous encore écrire de manière fluide et cohérente ? Ces technologies augmentent nos capacités, mais nous devons aussi nous interroger sur l'importance de revenir aux bases, de fabriquer un instrument de musique ou de former des mots et des phrases par nous-mêmes.
 
 ## Conclusion : une réflexion ouverte
 

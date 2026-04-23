@@ -7,7 +7,7 @@ tags:
 ---
 *Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]], j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
 
-*Au-delà d'une démarche commerciale, apprendre à vendre en archipel représente surtout une lecture de comment tisser des liens de confiance nécessaires pour entrer en coopération.*
+*Au-delà d'une démarche commerciale, apprendre à vendre en archipel représente surtout une lecture sur la manière de tisser des liens de confiance nécessaires pour entrer en coopération.*
 
 
 # Inspirations d'experts
@@ -15,11 +15,11 @@ tags:
 
 Nécessité de trouver une niche et potentiellement commencer par regarder autour de nous pour améliorer les conditions des organisations **proches géographiquement.**
 
-Plutôt que vendre une transformation globale, adresser spécifiquement toutes les premières problématiques "point de contact" tout en apportant une conscience systémique pour orienter au mieux les actions en pas à pas.
+Plutôt que vendre une transformation globale, adresser spécifiquement toutes les premières problématiques « point de contact » tout en apportant une conscience systémique pour orienter au mieux les actions pas à pas.
 
-En effet, je ne suis pas certain que beaucoup de profils soient prêts à déclencher une démarche de [[Métamorphose]]
+En effet, je ne suis pas certain que beaucoup de profils soient prêts à déclencher une démarche de [[Métamorphose]].
  
-*À l'échelle individuelle, on fonctionne aussi en pas à pas, par petits ajustements, et le point de départ peut être l'activité physique, l'alimentation, les relations, les habitudes, etc. Mais rarement on se lève un matin et on décide d'investir sur une transformation complète de notre "Moi".*
+*À l'échelle individuelle, on fonctionne aussi pas à pas, par petits ajustements, et le point de départ peut être l'activité physique, l'alimentation, les relations, les habitudes, etc. Mais rarement on se lève un matin et on décide d'investir sur une transformation complète de notre « Moi ».*
 
 # Connaître sincèrement son interlocuteur
 
@@ -31,7 +31,7 @@ Quel est son propos de fond ?
 Quelle est sa forme de langage, son vocabulaire, son modèle mental ?
 
 Quel est son contexte pro ? Son historique pro ? 
-- Se renseigner en partant de toutes les informations accessibles en public sur lui et son entreprise.
+- Se renseigner en partant de toutes les informations accessibles publiquement sur lui et son entreprise.
 Quel est son contexte perso ? Son historique perso ?
 
 Qu'est-ce qui le rassure, permet de tisser la confiance avec lui ?
@@ -48,7 +48,7 @@ Quelle est sa temporalité ? La temporalité de son organisation ?
 **Est-ce qu'on peut se connecter avec une personne proche de lui, de confiance pour lui ?**
 - Cette personne peut nous partager le contact direct.
 - Cette personne peut faire le lien et une introduction rassurante.
-- Le nom de cette personne peut servir en support lors de la première accroche.
-- Il y a des stratégies de réseau sur LinkedIn utilisables pour créer ce cadre de confiance en numérique.
+- Le nom de cette personne peut servir de support lors de la première accroche.
+- Il y a des stratégies de réseau sur LinkedIn utilisables pour créer ce cadre de confiance numérique.
 
 # Suite en écriture...

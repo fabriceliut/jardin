@@ -5,7 +5,7 @@ tags:
 ---
 _Votre entreprise est en plein essor, les opportunités affluent, mais voilà, les journées semblent de plus en plus courtes et les responsabilités vous submergent. Vous jonglez entre la stratégie à long terme, les urgences opérationnelles et la gestion quotidienne des équipes. C’est ici que le Chief of Staff entre en jeu._
 
-_Cette fonction, bien qu’encore peu connue chez les PME, peut être l’arme secrète des entrepreneurs pour maintenir leur vision tout en gérant efficacement leur croissance._
+_Cette fonction, bien qu’encore peu connue dans les PME, peut être l’arme secrète des entrepreneurs pour maintenir leur vision tout en gérant efficacement leur croissance._
 
 > _Mais qu'est-ce qu'un Chief of Staff exactement, et comment savoir si c’est la bonne solution pour vous ?_
 
@@ -25,7 +25,7 @@ Au-delà de son rôle de [[sparring partner]], le Chief of Staff est aussi un ge
 
 
 
-### Pourquoi Faire Appel à un Chief of Staff ?
+### Pourquoi faire appel à un Chief of Staff ?
 
 Si vous avez le sentiment que vos journées ne suffisent plus à tout gérer, et que vos responsabilités vous empêchent de penser à l'avenir de votre entreprise, c'est peut-être le moment de considérer cette fonction. **Un Chief of Staff apporte une vraie bouffée d'oxygène : il est là pour absorber les détails, organiser les priorités, et surtout, vous permettre de garder une vue d'ensemble.**
 

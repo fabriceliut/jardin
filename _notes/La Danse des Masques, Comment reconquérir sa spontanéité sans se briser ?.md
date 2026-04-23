@@ -39,7 +39,7 @@ La prison est d'abord somatique. Avant même d'avoir une pensée conformiste, no
 
 À chaque fois que vous vous censurez, posez-vous cette question simple : _« Qu'est-ce que j'ai peur de perdre ici ? »_ Est-ce mon emploi ? L'estime de mon collègue ? Ou est-ce une peur plus ancienne, celle de l'enfant qui a peur d'être grondé ?
 
-- **L'action :** Distinguez le danger réel (insulter son patron) du danger fantasmé (rire un peu trop fort). 90% de nos barreaux sont faits de peurs obsolètes. Nommer la peur, c'est souvent la faire disparaître.
+- **L'action :** Distinguez le danger réel (insulter son patron) du danger fantasmé (rire un peu trop fort). 90 % de nos barreaux sont faits de peurs obsolètes. Nommer la peur, c'est souvent la faire disparaître.
     
 
 ### 3. Créer des "clairières" (L'approche Arendtienne)

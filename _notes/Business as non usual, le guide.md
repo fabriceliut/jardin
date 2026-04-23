@@ -38,7 +38,7 @@ Ce système qui se veut optimisé en est très, mais alors très loin. Faire tra
 
 ### L’illusion du progrès.
 
-La croissance par le progrès. **Croître ça veut dire grossir, grossir ça veut dire ajouter de la complexité dans son système et le rendre solide et donc de moins en moins résilient ([1](https://hbr.org/2019/08/the-gap-between-large-and-small-companies-is-growing-why))**. Dans ce genre de situation, si ça crache, ça crache sec. Trop risqué ? Heureusement il y a le progrès technologique, le support du numérique qui va gérer à notre place ce gros machin qu’on ne peut même plus comprendre.
+La croissance par le progrès. **Croître, ça veut dire grossir, grossir ça veut dire ajouter de la complexité dans son système et le rendre solide et donc de moins en moins résilient ([1](https://hbr.org/2019/08/the-gap-between-large-and-small-companies-is-growing-why))**. Dans ce genre de situation, si ça crashe, ça crashe sec. Trop risqué ? Heureusement il y a le progrès technologique, le support du numérique qui va gérer à notre place ce gros machin qu’on ne peut même plus comprendre.
 
 Le souci ? On ne peut pas non plus comprendre l’intelligence de la machine, alors on suit aveuglément des courbes sur des tableaux de bord. Devinez quoi ? Malgré cette vénérable intelligence artificielle, ça ne fonctionne pas non plus(**[1](https://hbr.org/2019/08/what-people-hate-about-being-managed-by-algorithms-according-to-a-study-of-uber-drivers)**). Alors on doit développer du toujours plus complexe pour gérer du toujours plus complexe et... en route on oublie que les collaborateurs tout comme bébé ne sont toujours pas optimisables et exploitables à souhait comme la machine le conseille dans l’intérêt de l’entreprise.
 
@@ -64,7 +64,7 @@ La mise en coopération de notre système implique déjà de nous considérer co
 
 ### Apprendre de la nature plutôt que faire de la R&D.
 
-En parlant de ce qui est vivant, nous voilà face au plus gros trésor que nous ayons à disposition depuis...toujours. **Au lieu de raser des forêts pour en faire de l’énergie pauvre, observons-les pour en tirer la sagesse et les apprentissages**. Vous voulez optimiser des flux économiques, développer votre business modèle ? Observez et comprenez le fonctionnement souterrain d’une forêt primaire et des échanges entre les champignons et les arbres. Vous voulez optimiser le fonctionnement interne de votre organisation ? Le végétal et les insectes savent faire au mieux depuis des millions d’années. **Peut-être que si la biodiversité redevenait notre « bibliothèque » nous aurions, en bonus, plutôt envie de l’enrichir que de l’appauvrir([1](https://usbeketrica.com/article/tous-les-indicateurs-sont-au-rouge-pour-la-biodiversite)).**
+En parlant de ce qui est vivant, nous voilà face au plus gros trésor que nous ayons à disposition depuis...toujours. **Au lieu de raser des forêts pour en faire de l’énergie pauvre, observons-les pour en tirer la sagesse et les apprentissages**. Vous voulez optimiser des flux économiques, développer votre business modèle ? Observez et comprenez le fonctionnement souterrain d’une forêt primaire et des échanges entre les champignons et les arbres. Vous voulez optimiser le fonctionnement interne de votre organisation ? Le végétal et les insectes savent faire au mieux depuis des millions d’années. **Peut-être que si la biodiversité redevenait notre « bibliothèque », nous aurions, en bonus, plutôt envie de l’enrichir que de l’appauvrir([1](https://usbeketrica.com/article/tous-les-indicateurs-sont-au-rouge-pour-la-biodiversite)).**
 
 ### Développer la performance par les échecs en commun.
 
@@ -94,7 +94,7 @@ Apprendre, évoluer, gagner en efficience, en conscience et en sagesse est une a
 
 > Vous pouvez continuer le business as usual ou vous laisser prendre par un courant plein de vie qui émerge.
 
-**Rassurez vous, vous ne serez pas seul, nous serons au moins 2 et je crois bien plus encore...** Ce choix très « simple » vous revient et c’est le premier pas vers le renouveau, la métamorphose... le papillon semble quand même plus beau, libre et « riche » que la chenille non ?
+**Rassurez-vous, vous ne serez pas seul, nous serons au moins 2 et je crois bien plus encore...** Ce choix très « simple » vous revient et c’est le premier pas vers le renouveau, la métamorphose... le papillon semble quand même plus beau, libre et « riche » que la chenille, non ?
 
 —
 

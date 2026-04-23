@@ -26,7 +26,7 @@ Principalement, l'intérêt est de tisser des liens de complémentarité pour po
 
 > Le collectif recherche les collaborations agréables et performantes.
 
-C'est aussi un groupe convivial : chacun son indépendance, chacun son rythme, des repas partagés, des apéros. Les collectifs, c'est à la cool mais ça bosse bien. 
+C'est aussi un groupe convivial : chacun son indépendance, chacun son rythme, des repas partagés, des apéros. Les collectifs, c'est "à la cool" mais ça bosse bien. 
 
 ### Quelques exemples de collectifs
 [Collectif BAM](https://www.collectifbam.fr) - Design sur Paris
@@ -79,7 +79,7 @@ Des questions vous viennent peut-être alors : **comment votre indépendance est
 
 Quand vous rejoignez une entreprise, en général, vous rejoignez une culture, un ADN bien défini, une marque, des processus et des habitudes, etc. Très souvent, vous rejoignez aussi une hiérarchie, sauf si vous entrez dans une entreprise dite "libérée" qui expérimente des modèles autres, proches de ceux des collectifs et communautés. 
 
-Bref, les entreprises deviennent des collectifs ou des communautés comme des communautés deviennent des entreprises... À vous de faire vos expériences et vos découvertes dans cette complexité !
+Bref, les entreprises deviennent des collectifs ou des communautés comme les communautés deviennent des entreprises... À vous de faire vos expériences et vos découvertes dans cette complexité !
 
 ### Quelques exemples d'entreprises ouvertes
 [Kossmoss](https://kosmoss.fr)
@@ -117,7 +117,7 @@ Dans tous les cas, vous mêlez votre monde à celui des autres et ça crée une 
 
 ## Comment faire votre choix en 12 questions ?
 Encore une fois, tout dépend de vous, de ce que vous cherchez, de ce que vous ressentez. 
-L'entreprise, c'est plus simple. L'archipel plus complexe. Le collectif c'est plus à la cool et la communauté on se sent plus appartenir à une "tribu".
+L'entreprise, c'est plus simple. L'archipel plus complexe. Le collectif c'est plus "à la cool" et la communauté on se sent plus appartenir à une "tribu".
 
 **Voici quelques dimensions à observer plus en détail pour guider votre choix.** 👇
 

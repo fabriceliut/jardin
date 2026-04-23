@@ -7,7 +7,7 @@ tags:
 
 Cette année a commencé d'une manière particulière : une prise de champignons magiques à la maison, en petit groupe.
 
-Ce genre d'expérience est difficile à capturer en mots — les insights s'évaporent souvent aussi vite qu'ils apparaissent. Mais cette fois, j'ai réussi à en retenir quelques-uns. Je les partage ici comme un point de référence pour moi-même, et peut-être pour d'autres.
+Ce genre d'expérience est difficile à capturer en mots — les "insights" s'évaporent souvent aussi vite qu'ils apparaissent. Mais cette fois, j'ai réussi à en retenir quelques-uns. Je les partage ici comme un point de référence pour moi-même, et peut-être pour d'autres.
 
 ---
 
@@ -47,7 +47,7 @@ Les autres sont responsables d'eux-mêmes. S'ils ont besoin de quelque chose de 
 
 Si j'apporte ou si je prends la place sans que ce soit une réponse à une demande, ce que je fais n'est pas "juste" — ça n'apporte ni à l'autre, ni à moi.
 
-La conclusion s'impose : me taire plus, prendre plus de temps en tant qu'observateur et en écoute. Être présent pour profiter du spectacle, et ne devenir acteur que s'il y a un appel.
+La conclusion s'impose : me taire plus, prendre plus de temps en tant qu'observateur et être davantage à l'écoute. Être présent pour profiter du spectacle, et ne devenir acteur que s'il y a un appel.
 
 ---
 

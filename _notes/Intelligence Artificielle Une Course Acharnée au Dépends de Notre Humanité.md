@@ -3,15 +3,15 @@ title: Intelligence Artificielle Une Course Acharnée aux Dépens de Notre Human
 tags:
   - article
 ---
-J'utilise l'[[intelligence artificielle]] quotidiennement et sous diverses formes. Cependant, je fais partie de ceux qui disent "Attention ⚠️".  
+J'utilise l'[[intelligence artificielle]] quotidiennement et sous diverses formes. Cependant, je fais partie de ceux qui disent « Attention ⚠️ ».  
   
-Je voudrais aborder le sujet sous l'angle de la suffisance : notre manière d'approcher l'IA est toujours orientée vers le "plus", le "vite" et le "fort". Plus d'investissements, plus de bénéfices, et donc une pression constante pour développer cette technologie, souvent en lien avec la robotique.  
+Je voudrais aborder le sujet sous l'angle de la suffisance : notre manière d'approcher l'IA est toujours orientée vers le « plus », le « vite » et le « fort ». Plus d'investissements, plus de bénéfices, et donc une pression constante pour développer cette technologie, souvent en lien avec la robotique.  
   
-Mais avons-nous réellement besoin de tout cela ? Je ne parle même pas d'écologie ou de sobriété ici, mais d'un besoin fondamental pour vivre et être heureux : devons-nous vraiment développer cette technologie si rapidement et intensément quand 80% des humains ne peuvent pas suivre le rythme ?  
+Mais avons-nous réellement besoin de tout cela ? Je ne parle même pas d'écologie ou de sobriété ici, mais d'un besoin fondamental pour vivre et être heureux : devons-nous vraiment développer cette technologie si rapidement et si intensément quand 80 % des humains ne peuvent pas suivre le rythme ?  
   
 La rupture numérique devient une rupture culturelle. Et dans le même temps, ceux qui sont à fond dans l'IA 🤖 se créent une autre forme de rupture : la rupture biologique.  
   
-Dans quelle direction va le bateau de l'intelligence artificielle ? Considérons-nous vraiment la terre sur laquelle nous allons amarrer ? Est-ce vraiment l'eldorado tant attendu, voire le paradis ?  
+Dans quelle direction va le bateau de l'intelligence artificielle ? Considérons-nous vraiment la terre sur laquelle nous allons amarrer ? Est-ce vraiment l'Eldorado tant attendu, voire le paradis ?  
   
 Nous sommes en train de structurer un méta-réseau électrique ⚡️ et neuronal à l'échelle de notre planète : cette nouvelle forme de vie est déjà là, elle grandit avec nous. **Est-ce notre nouvelle cathédrale pour notre nouvelle religion ? Est-ce notre moyen de nous rapprocher de Dieu, consciemment ou pas ?**  
   

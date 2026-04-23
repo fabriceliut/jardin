@@ -75,7 +75,7 @@ Vous étouffez parce que vous vivez aussi dans le passé avec eux. Vous anticipe
 
 Pour vivre, réellement vivre ici, vous devez mourir au passé à chaque instant.
 
-Quand votre mère ou votre père parle, écoutez-les comme si c'était la première fois qu'ils parlaient. Peut-être verrez-vous alors non pas des "parents toxiques" ou fatiguants, mais des êtres humains en souffrance, conditionnés, piégés.
+Quand votre mère ou votre père parle, écoutez-les comme si c'était la première fois qu'ils parlaient. Peut-être verrez-vous alors non pas des "parents toxiques" ou fatigants, mais des êtres humains en souffrance, conditionnés, piégés.
 
 **Et à ce moment-là, au lieu de l'irritation, vous ressentirez peut-être une immense compassion**. Non pas de la pitié, mais la compréhension viscérale que vous et eux faites partie du même mouvement de la vie.
 

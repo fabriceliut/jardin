@@ -9,7 +9,7 @@ Par exemple, certains cherchent à avoir de l'impact par des actions massives de
 
 **Alors la question se porte rapidement sur le "pour quoi" et aussi le "pour qui".** Et là aussi la réponse sera très subjective, et je pense que c'est tout l'intérêt d'ouvrir ce genre d'exploration.
 
-En effet, on peut s'opposer en parlant des "pour quoi et pour qui" en question, car chacun va prioriser d'une manière différente par rapport à son propre prisme de perception. **Alors la proposition serait de remonter d'un cran et de parler de "l'impact en soi" — qu'est-ce que c'est, qu'est-ce que ça veut dire, comment en définir la qualité voire même la quantité ?**
+En effet, on peut s'opposer en parlant des "pour quoi et pour qui" en question, car chacun va prioriser d'une manière différente par rapport à son propre prisme de perception. **Alors la proposition serait de remonter d'un cran et de parler de "l'impact en soi" — qu'est-ce que c'est, qu'est-ce que ça veut dire, comment en définir la qualité, voire même la quantité ?**
 
 > Un **impact** (du latin _impactum_ [supin](https://fr.wikipedia.org/wiki/Supin "Supin") de _impigere_ « frapper contre ; jeter contre ; heurter »[1](https://fr.wikipedia.org/wiki/Impact#cite_note-tresFr-1)) est une collision entre deux corps.
 

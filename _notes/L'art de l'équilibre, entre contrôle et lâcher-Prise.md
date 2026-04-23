@@ -16,18 +16,18 @@ Certains, séduits par la profondeur de ces expériences de lâcher-prise, vont 
 
 # L'équilibriste intérieur
 
-La véritable sagesse ne résiderait-elle pas ailleurs ? Ce n'est pas un penchant radical qui vaut mieux qu'un autre, c'est les deux, les deux en même temps. Cette révélation, née d'une expérience profonde en psychanalyse, pointe vers une voie plus subtile : celle de l'équilibriste.
+La véritable sagesse ne résiderait-elle pas ailleurs ? Ce n'est pas un penchant radical qui vaut mieux qu'un autre, ce sont les deux, les deux en même temps. Cette révélation, née d'une expérience profonde en psychanalyse, pointe vers une voie plus subtile : celle de l'équilibriste.
 
 Le défi n'est pas de choisir entre contrôle et lâcher-prise, mais d'apprendre à tenir sur ce fil d'équilibriste au milieu. Cela demande de développer une présence consciente qui nous permet de doser, moment après moment, ce qui est nécessaire de chaque côté.
 
 # L'art de la juste mesure
 
-Le plus difficile n'est finalement pas de lâcher prise - nos sociétés regorgent de techniques pour cela. Le véritable défi consiste à revenir à notre quotidien en gardant en nous la détente du lâcher-prise tout en réintégrant "ce qui suffit" de contrôle, de maîtrise, de rationnel.
+Le plus difficile n'est finalement pas de lâcher prise — nos sociétés regorgent de techniques pour cela. Le véritable défi consiste à revenir à notre quotidien en gardant en nous la détente du lâcher-prise tout en réintégrant "ce qui suffit" de contrôle, de maîtrise, de rationnel.
 
 Cette intégration demande une finesse particulière :
-- Reconnaître quand le contrôle devient rigidité stérile
-- Identifier quand le lâcher-prise devient fuite ou négligence
-- Cultiver cette sensation, cet alignement qui permet de naviguer avec souplesse entre les deux
+- Reconnaître quand le contrôle devient rigidité stérile.
+- Identifier quand le lâcher-prise devient fuite ou négligence.
+- Cultiver cette sensation, cet alignement qui permet de naviguer avec souplesse entre les deux.
 
 # Une existence nourrie par les deux bords
 

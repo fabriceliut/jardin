@@ -9,17 +9,17 @@ On croit que la chance tombe du ciel. Qu'elle est aléatoire, injuste, capricieu
 
 Safi Bahcall, physicien à Stanford, a modélisé ce qu'il appelle les **"transitions de phase dans les réseaux humains"**. Son constat : quand tu es immobile, ta probabilité de vivre un événement heureux est limitée à ta **surface existante** — les gens que tu connais déjà, les endroits où tu vas déjà, les idées auxquelles tu as déjà été exposé. Ta fenêtre d'opportunité est fixe.
 
-Mais quand tu bouges — nouvelles conversations, nouvelles villes, nouveaux projets — ton **taux de collision** avec de nouveaux nœuds du réseau augmente de façon **non-linéaire**. Double ton mouvement et ta probabilité de rencontre sérendipiteuse ne double pas. _Elle quadruple._ Parce que chaque nouvelle personne te connecte à **tout son réseau**, pas seulement à elle.
+Mais quand tu bouges — nouvelles conversations, nouvelles villes, nouveaux projets — ton **taux de collision** avec de nouveaux nœuds du réseau augmente de façon **non linéaire**. Double ton mouvement et ta probabilité de rencontre sérendipiteuse ne double pas. _Elle quadruple._ Parce que chaque nouvelle personne te connecte à **tout son réseau**, pas seulement à elle.
 
 C'est un effet de levier invisible. Et il est massif.
 
 ## Les gens "chanceux" ne sont pas plus intelligents
 
-Richard Wiseman a mené une étude sur 10 ans à l'Université de Hertfordshire, en suivant des personnes qui se décrivaient comme "chanceuses" ou "malchanceuses". Le facteur différenciant n°1 n'était ni le QI, ni l'éducation, ni l'argent familial.
+Richard Wiseman a mené une étude sur 10 ans à l'Université de Hertfordshire, en suivant des personnes qui se décrivaient comme "chanceuses" ou "malchanceuses". Le facteur différenciant n° 1 n'était ni le QI, ni l'éducation, ni l'argent familial.
 
 C'était **l'ouverture à l'expérience**.
 
-Les gens chanceux parlaient plus aux inconnus, variaient davantage leurs routines et acceptaient les invitations à un rythme presque deux fois supérieur. Les "malchanceux" ? Mêmes trajets. Mêmes restaurants. Mêmes 5 personnes. Leurs réseaux étaient des **boucles fermées** — aucun nouvel input, aucune nouvelle collision.
+Les gens chanceux parlaient plus aux inconnus, variaient davantage leurs routines et acceptaient les invitations à un rythme presque deux fois supérieur. Les "malchanceux" ? Mêmes trajets. Mêmes restaurants. Mêmes cinq personnes. Leurs réseaux étaient des **boucles fermées** — aucun nouvel input, aucune nouvelle collision.
 
 ## La chance est une fonction du mouvement
 
@@ -47,8 +47,8 @@ _Source : Aakash Gupta, s'appuyant sur les travaux de Safi Bahcall (Loonshots) e
 
 ## Connexions
 
-- [la pensée en réseaux comme base de créativité dans vos équipes](https://www.notion.so/la-pens-e-en-r-seaux-comme-base-de-cr-ativit-dans-vos-quipes-39a77d5705c9469cb82236ab73b2a79b?pvs=21) — la créativité dans les équipes suit la même logique : plus de collisions entre nœuds = plus d'idées émergentes
-- [Changer de vie commence par changer d'identité](https://www.notion.so/Changer-de-vie-commence-par-changer-d-identit-b6953a9314444e5dbb482a167baa2057?pvs=21) — Adler disait _"Trust only movement"_ ; les boucles identitaires fermées sont l'équivalent psychologique des réseaux clos
-- [présentation community design 101](https://www.notion.so/pre-sentation-community-design-101-3081422a98128122990ed4e5757e2c1a?pvs=21) — les "espaces de contact" (BA) et l'_engineering de sérendipité_ dans les communautés sont l'application collective de ce principe
-- [play 101 - community design](https://www.notion.so/play-101-community-design-a62bf942d2f94b6dbf59fabc4924025b?pvs=21) — le playbook qui pose les fondations pratiques pour créer les conditions de collision dans un réseau
-- [Notion de limites et tester ses limites](https://www.notion.so/Notion-de-limites-et-tester-ses-limites-2c53392b3bad4b9e9ffa3edbd8775cda?pvs=21) — le cerveau surestime le risque pour nous garder immobiles, exactement comme les "malchanceux" de Wiseman
+- [La pensée en réseaux comme base de créativité dans vos équipes](https://www.notion.so/la-pens-e-en-r-seaux-comme-base-de-cr-ativit-dans-vos-quipes-39a77d5705c9469cb82236ab73b2a79b?pvs=21) — la créativité dans les équipes suit la même logique : plus de collisions entre nœuds = plus d'idées émergentes.
+- [Changer de vie commence par changer d'identité](https://www.notion.so/Changer-de-vie-commence-par-changer-d-identit-b6953a9314444e5dbb482a167baa2057?pvs=21) — Adler disait _"Trust only movement"_ ; les boucles identitaires fermées sont l'équivalent psychologique des réseaux clos.
+- [Présentation community design 101](https://www.notion.so/pre-sentation-community-design-101-3081422a98128122990ed4e5757e2c1a?pvs=21) — les "espaces de contact" (BA) et l'_engineering de sérendipité_ dans les communautés sont l'application collective de ce principe.
+- [Play 101 - community design](https://www.notion.so/play-101-community-design-a62bf942d2f94b6dbf59fabc4924025b?pvs=21) — le playbook qui pose les fondations pratiques pour créer les conditions de collision dans un réseau.
+- [Notion de limites et tester ses limites](https://www.notion.so/Notion-de-limites-et-tester-ses-limites-2c53392b3bad4b9e9ffa3edbd8775cda?pvs=21) — le cerveau surestime le risque pour nous garder immobiles, exactement comme les "malchanceux" de Wiseman.

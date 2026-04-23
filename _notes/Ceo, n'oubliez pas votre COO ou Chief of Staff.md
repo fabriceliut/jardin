@@ -15,9 +15,9 @@ tags:
 
 5. **Amélioration de l'efficacité organisationnelle** : En travaillant en étroite collaboration, le COS et le COO peuvent identifier les domaines d'amélioration au sein de l'entreprise, que ce soit au niveau des processus, de la structure organisationnelle ou de la gestion des ressources. Ils peuvent travailler ensemble pour mettre en place des initiatives d'amélioration et des stratégies visant à renforcer l'efficacité globale de l'entreprise.  
 
-**Et si l’entreprise joue agile, elle a tout intérêt à avoir un COO ou un COS externe et à temps partagé qui pourra apporter un point de vue, des ressources et des compétences diversifiées pour venir enrichir encore plus l’organisation.**  
+**Et si l’entreprise joue l'agilité, elle a tout intérêt à avoir un COO ou un COS externe et à temps partagé qui pourra apporter un point de vue, des ressources et des compétences diversifiées pour venir enrichir encore plus l’organisation.**  
 
-Jouer avec le couple COO COS me semble très adapté pour sortir les CEO de l’isolement et leur permettre de tenir vraiment la vision et la conduite des stratégies - même pour des PME et plus petites structures.  
+Jouer avec le couple COO-COS me semble très adapté pour sortir les CEO de l’isolement et leur permettre de tenir vraiment la vision et la conduite des stratégies - même pour des PME et plus petites structures.  
 
 Suivant la taille, il y aura plus ou moins besoin d’un temps plein. Si vous voulez en savoir plus sur le [[chief of staff]] qui permet de profiter d'un COS sans un recrutement full-time direct et pour des moments clés.
 

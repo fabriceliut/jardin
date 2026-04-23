@@ -9,7 +9,7 @@ J’ai eu envie de poser ici mes réflexions sur la façon dont naissent et se c
 
 Ce qui m’a marqué ces derniers temps, c’est ma tendance à vouloir aller trop vite. Quand je rencontre quelqu’un et que je ressens une synergie, j’ai souvent le réflexe de penser à ce qu’on pourrait faire ensemble, au projet à lancer, à la collaboration. Mais à force de sauter les étapes, je me rends compte que je passe parfois à côté de l’essentiel : la découverte de l’autre, la construction d’une vraie confiance, le plaisir simple d’échanger sans objectif immédiat.
 
-Dans mon activité professionnelle, j’ai remarqué que je pouvais transformer la rencontre en transaction. Je qualifie, je propose, je négocie… mais qu’en est-il de la relation elle-même ? Prendre le temps de m’écouter, de sentir la vibe, de partager quelques moments avant d’imaginer quoi que ce soit, c’est ce qui fait toute la différence pour moi. C’est là que je bâtis des liens solides, où chacun se sent libre d’être soi-même.
+Dans mon activité professionnelle, j’ai remarqué que je pouvais transformer la rencontre en transaction. Je qualifie, je propose, je négocie… mais qu’en est-il de la relation elle-même ? Prendre le temps de m’écouter, de sentir la "vibe", de partager quelques moments avant d’imaginer quoi que ce soit, c’est ce qui fait toute la différence pour moi. C’est là que je bâtis des liens solides, où chacun se sent libre d’être soi-même.
 
 C’est pareil dans ma vie personnelle. Je ne deviens pas ami ou partenaire en un claquement de doigts. Il faut des moments partagés, des discussions ouvertes, parfois même des silences, pour que la relation s’ancre et prenne une place réelle.
 
