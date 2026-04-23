@@ -1,7 +1,7 @@
 ---
 title: débloquer un impact positif en tant que designer
 ---
-il faut prendre en compte est accepter de travailler en situation de complexité.
+il faut prendre en compte et accepter de travailler en situation de complexité.
 pour adresser la complexité, il faut développer la [[pensée systémique]].
 pour mettre en place une approche de la complexité, "les [[designs]]" sont des outils et méthodes adaptés.
 ces designs se mettent en place dans les équipes d'une organisation et grâce à l'intervention externe d'un designer facilitateur qui porte ces méthodes et outils à impact régénératif : le [[design systémique]] & [[design régénératif]].
@@ -15,3 +15,6 @@ pour moi, cette recherche d'impact fait partie des axes pour définir [[qu'est-c
 voir aussi > [[le designer improvisateur]] pour la posture à tenir.
 
 #Afairepousser 
+
+---
+*points de vue modifiés au fil du temps*

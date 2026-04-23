@@ -50,17 +50,17 @@ tags:
     
       
     Durée d’une séance : 1h30  
-      
-    **Chaque séance se structure de la manière suivante, avec parfois quelques ajustements en fonction du temps, du contexte environnant, de l’envie, des demandes en amonts, des intervenants musiciens s’il y en a.**  
-    
 
-- Marche
-- Présentation en cercle – Meditation et ouverture de la session
-- Échauffement du corps – Yoga Asana
-- Danser avec soi (Amour de soi et Acceptance)
-- Danser avec l’autre (S’adonner à la rencontre et Acceptance)
-- Danser et co-créer un espace vital sécurisé et bouillonnant
-- Danser avec la Vie
+        **Chaque séance se structure de la manière suivante, avec parfois quelques ajustements en fonction du temps, du contexte environnant, de l’envie, des demandes en amont, des intervenants musiciens s’il y en a.**  
+
+
+    - Marche
+    - Présentation en cercle – Méditation et ouverture de la session
+    - Échauffement du corps – Yoga Asana
+    - Danser avec soi (Amour de soi et Acceptance)
+    - Danser avec l’autre (S’adonner à la rencontre et Acceptance)
+    - Danser et co-créer un espace vital sécurisé et bouillonnant
+    - Danser avec la Vie
 
 - ---
     

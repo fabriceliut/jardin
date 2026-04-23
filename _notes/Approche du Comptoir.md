@@ -37,7 +37,7 @@ Tout est système & tout est lié. Nous le savons maintenant, il est nécessaire
 
 Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la [[complexité]] et d’appliquer un traitement [[design régénératif]].
 
-Concrètement, cette approche repose sur 3 premiers jours socles de [[design systémique]], mêlant experts du Comptoir et parties prenants des organisations.
+Concrètement, cette approche repose sur 3 premiers jours socles de [[design systémique]], mêlant experts du Comptoir et parties prenantes des organisations.
 
 > Découvrir l'approche [[Design Systémique sur 3 jours]]
 > Découvrir l'approche [[Design circulaire sur 1 jour]]
@@ -54,7 +54,7 @@ Concrètement, cette approche repose sur 3 premiers jours socles de [[design sys
 
 5. [[facilitation]] DES COOPÉRATIONS POUR LIBÉRER L’INTELLIGENCE COLLECTIVE ET APPRÉHENDER LA COMPLEXITÉ.
 
-6. SUIVI EN CONTINUE DURANT TOUTES LES ÉTAPES DE LA TRANSFORMATION. LE COMPTOIR RESTE PARTIE INTÉGRANTE DU PROJET, VIA UNE RELATION TRANSVERSALE, AUTHENTIQUE ET NATURELLE.
+6. SUIVI EN CONTINU DURANT TOUTES LES ÉTAPES DE LA TRANSFORMATION. LE COMPTOIR RESTE PARTIE INTÉGRANTE DU PROJET, VIA UNE RELATION TRANSVERSALE, AUTHENTIQUE ET NATURELLE.
 
 7. LORSQUE LA TRANSFORMATION EST SUFFISAMMENT AVANCÉE, L’ORGANISATION DEVIENT AUTONOME ET INTÉGRÉE DANS LE MACRO-ÉCOSYSTÈME DU COMPTOIR. ELLE DEVIENT, À SON TOUR, LE SOUTIEN D’AUTRES INITIATIVES EN COURS DE MUTATION. 
 

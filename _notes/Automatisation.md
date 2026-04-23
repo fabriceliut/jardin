@@ -3,11 +3,11 @@ title: Automatisation
 ---
 # Pourquoi Automatiser et améliorer la gestion projets et du temps ?
 
-Pour arrêter de faire plusieurs fois les même tâches. Pour libérer le temps nécessaire à l'expression de la créativité & au regain d'énergie. C'est surtout un élément nécessaire de la transition numérique actuelle.
+Pour arrêter de faire plusieurs fois les mêmes tâches. Pour libérer le temps nécessaire à l'expression de la créativité & au regain d'énergie. C'est surtout un élément nécessaire de la transition numérique actuelle.
 
-Egalement, pour proposer des solutions à la charge cognitive trop lourde dans les process actuels. Ainsi, mettre en place des automatisations et optimisations grâce aux logiciels, outils et techniques adaptés.
+Également, pour proposer des solutions à la charge cognitive trop lourde dans les process actuels. Ainsi, mettre en place des automatisations et optimisations grâce aux logiciels, outils et techniques adaptés.
 
-**Le stress et l'erreur émergent d'une mauvaise gestion des priorités et des répétitions de tâches inutiles à répéter**. L'évolution numérique est allé très vite, mais pas nos usages en rapport. Il est temps de mettre nos structures à jour.
+**Le stress et l'erreur émergent d'une mauvaise gestion des priorités et des répétitions de tâches inutiles à répéter**. L'évolution numérique est allée très vite, mais pas nos usages en rapport. Il est temps de mettre nos structures à jour.
 
 ## 💰 Les Bénéfices d'une automatisation & optimisation de nos processus de travail ?
 
@@ -22,8 +22,8 @@ _Ex : Utilisation de "Notion" pour une gestion de projet dynamique et collaborat
   
 ## Le gain ?
 
--   Ne plus refaire et refaire encore les même choses. Ne plus traiter en doublons les même sujets. Permettre, suite à la mise en place et une formation adaptée, un processus de travail centré et optimisé sur la création réelle de valeur.
--   Augmenter les période de "flow", c'est à dire les sections productives ou l'énergie est catalysée sur un sujet prioritaire.
+-   Ne plus refaire et refaire encore les mêmes choses. Ne plus traiter en doublons les mêmes sujets. Permettre, suite à la mise en place et une formation adaptée, un processus de travail centré et optimisé sur la création réelle de valeur.
+-   Augmenter les périodes de "flow", c'est à dire les sections productives ou l'énergie est catalysée sur un sujet prioritaire.
 
 _Ex : Utilisation de "Airtable" pour constituer rapidement et facilement des bases de données collaboratives. Documenter par des automatisations pour partager en commun et améliorer les tâches de toute l'équipe._
 
@@ -34,9 +34,9 @@ _Ex : Utilisation de "Airtable" pour constituer rapidement et facilement des bas
 2.  Sélectionner ensemble les outils et technologies adaptés
 3.  Former les équipes pour créer les nouvelles habitudes
 4.  Ne pas basculer de manière brutale sur de nouveaux systèmes. Construire petit à petit l'alternative en partant des habitudes actuelles.
-5.  Utiliser le temps libérer pour des activités "vivifiantes" : énergie, créativité, recherche, exploration.
+5.  Utiliser le temps libéré pour des activités "vivifiantes" : énergie, créativité, recherche, exploration.
 
-**Ne plus répéter encore et encore les même tâches nécessaires à la création de valeur et ne plus gaspiller l'énergie et le temps inutilement.** Automatiser et optimiser grâce aux technologies, logiciels et habitudes adaptés, pas à pas, en partant de l'actuel. Utiliser 3h focus et en énergie par jour est plus efficient et productif qu'une journée de 8h mal optimisée et forcée.
+**Ne plus répéter encore et encore les mêmes tâches nécessaires à la création de valeur et ne plus gaspiller l'énergie et le temps inutilement.** Automatiser et optimiser grâce aux technologies, logiciels et habitudes adaptés, pas à pas, en partant de l'actuel. Utiliser 3h focus et en énergie par jour est plus efficient et productif qu'une journée de 8h mal optimisée et forcée.
 
 # [👉 Mettre en place l'automatisation dans votre structure.](http://www.liut.me/contact "Link: http://www.liut.me/contact")
 

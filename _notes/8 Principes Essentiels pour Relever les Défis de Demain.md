@@ -21,7 +21,7 @@ Mais pour qu’ils soient activés il faut également lâcher prise sur son égo
   
 Et si c’est difficile, **accepter de demander de l’aide**.  
   
-**Dans l’autre sens ça donne** : demander de l’aide pour s’entre-aider à lâcher nos égos et à nous faire confiance.  
+**Dans l’autre sens ça donne** : demander de l’aide pour s’entraider à lâcher nos égos et à nous faire confiance.  
 Se mettre en écoute et en ouverture, humblement et plein de curiosité.  
   
 Activer les coopérations, partager ce qu’on a en totale transparence et passer à l’action avec la conscience qu’il va falloir essayer, rater, rebondir, pivoter.. en toute agilité.  

@@ -13,7 +13,7 @@ Cette œuvre commune va aussi demander d’être ensemble et de réactiver ce qu
   
 **Call to action** : mon moyen à moi de m’activer c’est de soutenir le développement de ceux qui font grandir une entreprise. J’ai besoin de connecter, échanger et coopérer avec les dirigeants qui sont dans la même aventure et qui veulent imaginer et faire émerger de nouveaux modèles d’organisations et économiques.  
   
-Avec de nouvelles organisations c’est de nouveaux possible pour faire ensemble.  
+Avec de nouvelles organisations c’est de nouveaux possibles pour faire ensemble.  
 **Les « contraintes » régénératives sont créatives et la complexité est un défi intellectuel et sensible passionnant**.  
   
 Avec impatience de « jouer ensemble » plutôt que de voir la situation comme un problème bloquant et critique.  

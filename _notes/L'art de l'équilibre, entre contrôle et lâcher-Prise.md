@@ -1,5 +1,5 @@
 ---
-title: L'art de l'équilibre, entre contrôle et lâcher-Prise
+title: L'art de l'équilibre, entre contrôle et lâcher-prise
 tags:
   - article
 ---

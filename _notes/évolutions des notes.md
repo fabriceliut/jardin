@@ -6,27 +6,27 @@ tags:
 Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[jardin numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
 
 ## en date du 18/02/26
-J'ai retravaillé le design et les fonctionnalités du jardin numérique. Désormais il est possible d'utiliser un moteur de recherche en plus de la navigation par liens internes. J'ai aussi ajouter des notes et nettoyé certaines. Belle exploration beaucoup plus agréable pour tout le monde !
+J'ai retravaillé le design et les fonctionnalités du jardin numérique. Désormais il est possible d'utiliser un moteur de recherche en plus de la navigation par liens internes. J'ai aussi ajouté des notes et nettoyé certaines. Belle exploration beaucoup plus agréable pour tout le monde !
 
 ## en date du 17/06/25
-Je viens de mettre à jour les pages principales qui sont en lien sur l'accueil pour assurer une cohérence de positionnement et de discours avec ce que je peux dire son mon site pro principal, liut.me et mon Linkedin - tout n'était plus à jour, j'étais encore trop complexe alors que je cherche désormais à être efficace, plus direct et pragmatique.
+Je viens de mettre à jour les pages principales qui sont en lien sur l'accueil pour assurer une cohérence de positionnement et de discours avec ce que je peux dire sur mon site pro principal, liut.me et mon LinkedIn - tout n'était plus à jour, j'étais encore trop complexe alors que je cherche désormais à être efficace, plus direct et pragmatique.
 
 ## en date du 01/06/24
 Simplement un coup de clean dans les pages pour m'assurer que je suis toujours aligné avec mes propos des notes plus anciennes. je me rend compte qu'on change tellement vite que des affirmations passées sont souvent à réviser. la prochaine étape sera de vraiment réviser les notes ressources en profondeur et de les compléter pour avancer petit à petit vers un jardin numérique qui ressemble à un ouvrage interactif.
 
 ## en date du 20/03/24
-je remet des liens et de la structure logique entre les notes pour faciliter la navigation, les rebond et les explorations.
+je remets des liens et de la structure logique entre les notes pour faciliter la navigation, les rebonds et les explorations.
 mise à jour aussi de quelques contenus pour être plus aligné avec ce que je pense et ce que je propose et l'état de mes recherches actuelles.
 
 
 ---
 ## en date du 28/07/2021
-Je n'ai pas fais évolué le contenu du jardin car j'alimente plus Roam pour tenir un journal de board et mon bac de ressources et de veille ainsi que Notion pour les fiches projets et Workflowy pour la gestion projet.
-je pense que je reviendrais à sortir du contenu sur ce jardin quand justement je recommencerais à vouloir sortir du contenu, pour le moment je suis dans une phase de nettoyage et de restructuration interne avant de recommencer à produire pour l'extérieur.
+Je n'ai pas fait évoluer le contenu du jardin car j'alimente plus Roam pour tenir un journal de bord et mon bac de ressources et de veille ainsi que Notion pour les fiches projets et Workflowy pour la gestion projet.
+je pense que je reviendrai à sortir du contenu sur ce jardin quand justement je recommencerai à vouloir sortir du contenu, pour le moment je suis dans une phase de nettoyage et de restructuration interne avant de recommencer à produire pour l'extérieur.
 Je continue cependant 1 fois par mois à sortir une lettre numérique, mais le reste des créations est en attente.
 
 ## en date du 28/07/2021
-Je suis en train de continuer de [[créer un système de connaissance coopératif]] en passant par la révision des applications que j'utilise et de leurs usages. Je mettrais prochainement en ligne un article qui présente ce système. (mes notes sont pour le moment dans Obsidian)
+Je suis en train de continuer de [[créer un système de connaissance coopératif]] en passant par la révision des applications que j'utilise et de leurs usages. Je mettrai prochainement en ligne un article qui présente ce système. (mes notes sont pour le moment dans Obsidian)
 
 ## en date du 17/01/2021
 pas grand chose n'a évolué pour le moment, je n'ai pas beaucoup trouvé le temps de créer de contenu. je passe cela dit aujourd'hui pour mettre un petit coup de liens entre les notes pour continuer à structurer le graph et ainsi fluidifier la navigation entre les contenus.
@@ -35,4 +35,4 @@ pas grand chose n'a évolué pour le moment, je n'ai pas beaucoup trouvé le tem
 gros coup de bascule de contenus entre ici et le jardin notion de manière à mieux répartir. ici ça reste des articles plus libres, larges, inspirants et exploratoires. sur le notion, des objets plus particulièrement utilisables, comme des guidebook, des framework, des articles de fond sur un sujet bien précis, etc...
 
 ## en date du 02/10/22
-actualisation de l'index principal pour refléter un peu mieux la structure de ce que je fais et de ce que j'explore pour faciliter l'entrée dans le jardin. j'ai toujours des contenus publiques ici et sur notion, ce qui disperse mais je n'ai pas encore trouver la bonne logique d'organisation, c'est en cours, ranger mon cerveau numérique...
+actualisation de l'index principal pour refléter un peu mieux la structure de ce que je fais et de ce que j'explore pour faciliter l'entrée dans le jardin. j'ai toujours des contenus publics ici et sur Notion, ce qui disperse mais je n'ai pas encore trouvé la bonne logique d'organisation, c'est en cours, ranger mon cerveau numérique...

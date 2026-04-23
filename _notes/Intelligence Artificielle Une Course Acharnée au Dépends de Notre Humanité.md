@@ -1,5 +1,5 @@
 ---
-title: Intelligence Artificielle Une Course Acharnée au Dépends de Notre Humanité
+title: Intelligence Artificielle Une Course Acharnée aux Dépens de Notre Humanité
 tags:
   - article
 ---

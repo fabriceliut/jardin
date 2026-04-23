@@ -18,7 +18,7 @@ Passer du temps avec les leaders de votre entreprise.
 - Même s'ils sont dans des départements différents.
 - Ils ont accès à l'information à laquelle vous ne pouvez pas accéder directement
 
-Être engagés dans les projets internes.
+Être engagé dans les projets internes.
 Prendre part aux dynamiques en cours pour apporter vos ressources et l'expérience de votre compréhension de l'entreprise.
 
 Fort de tout ce travail préparatoire, vous serez en bonne position de leader des changements de votre entreprise.

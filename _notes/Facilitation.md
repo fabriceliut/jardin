@@ -27,19 +27,19 @@ _**Comment ?** Tout simplement en partant dès le départ dans la bonne directio
    
 ### Les gains ?
 
--   Le Design sprint permet de détecter des opportunités et des failles critiques en une semaine, au lieu de reconstructions projet au bout de plusieurs mois très couteuses...
+-   Le Design sprint permet de détecter des opportunités et des failles critiques en une semaine, au lieu de reconstructions projet au bout de plusieurs mois très coûteuses...
 
   
 ### Les décisions importantes ?
 
--   Elles sont conduites avec le support d'un groupe expert, complémentaire et diversifié, suivant une vision collective et considérant toutes les dimensions de l'organisation (économique, stratégique, point due vue client, point de vue collaborateur...)
+-   Elles sont conduites avec le support d'un groupe expert, complémentaire et diversifié, suivant une vision collective et considérant toutes les dimensions de l'organisation (économique, stratégique, point de vue client, point de vue collaborateur...)
 
  
 ### 🔖 Les livrables ?
 
 -   Un prototype fonctionnel & des retours tests utilisateurs interprétés et synthétisés
 -   Une base / planning précise au lieu d'un cahier des charges et de specs hypothétiques... Le Design sprint permet de basculer d'une problématique abstraite à une opportunité de solution concrète en seulement 5 jours
--   Les recommandations nécessaire pour lancer les cycles de développement agile des solutions
+-   Les recommandations nécessaires pour lancer les cycles de développement agile des solutions
 
   
 
@@ -59,7 +59,7 @@ Il est temps d'arrêter "les collaborations" par mail et en silos. La facilitati
 
 ## Quelques références/personnages inspirants ?
 
--   Jake knapp, le créateur de chez Google qui a écrit le livre SPRINT.
+-   Jake Knapp, le créateur de chez Google qui a écrit le livre SPRINT.
 -   Piochez [sur Twitter](https://twitter.com/SlaapMe/following "Link: https://twitter.com/SlaapMe/following") / [sur Medium](https://medium.com/@slaapme/following "Link: https://medium.com/@slaapme/following")
 -   [Les 4 cercles de la pensée Design](https://medium.com/com-plexus/il-manque-un-cercle-au-design-thinking-il-se-trouve-dans-likigai-2af33597477b "Link: https://medium.com/com-plexus/il-manque-un-cercle-au-design-thinking-il-se-trouve-dans-likigai-2af33597477b"), pour construire un projet en partant des bonnes bases.
 -   [Un guide simple](https://medium.com/a-road-to-design/comment-cr%C3%A9er-un-service-ou-un-produit-%C3%A0-moindre-co%C3%BBt-en-4-%C3%A9tapes-d5b46c2faa9d "Link: https://medium.com/a-road-to-design/comment-cr%C3%A9er-un-service-ou-un-produit-%C3%A0-moindre-co%C3%BBt-en-4-%C3%A9tapes-d5b46c2faa9d") pour créer un service/produit en 4 étapes.
@@ -78,13 +78,13 @@ Il est temps d'arrêter "les collaborations" par mail et en silos. La facilitati
 
 # Bonus : Remote Design Sprint.
 
-Il est totalement possible d'animer des ateliers et Design Sprint à distance avec le supports des outils numériques du moment mais surtout, des bonnes pratiques facilitateur online :
+Il est totalement possible d’animer des ateliers et Design Sprint à distance avec le support des outils numériques du moment mais surtout, des bonnes pratiques facilitateur online :
 
--   **ZOOM** pour la visio mais aussi gérer les temps de paroles, créer des sous groupes de travail etc...
--   **MIRO** pour tenir un tableau coopératif, avec les même outils (post-it, votes, dessins, symboles, etc...) qu'en physique
--   **NOTION** pour les discussions asyncrones, la préparation, la mise en texte et en récit des ressources et documents
+-   **ZOOM** pour la visio mais aussi gérer les temps de parole, créer des sous-groupes de travail etc...
+-   **MIRO** pour tenir un tableau coopératif, avec les mêmes outils (post-it, votes, dessins, symboles, etc...) qu’en physique
+-   **NOTION** pour les discussions asynchrones, la préparation, la mise en texte et en récit des ressources et documents
 -   **ROAMRESEARCH** pour documenter les sessions et capitaliser sur la connaissance et les apprentissages
--   _Bien entendu, ceci est ma sélection optimale, mais il est possible de s'adapter à vos outils._
+-   _Bien entendu, ceci est ma sélection optimale, mais il est possible de s’adapter à vos outils._
 
 **Si vous avez besoin de réunir en virtuel des groupes de 5 à 35 personnes, n'hésitez pas à** [**me contacter.**](https://www.liut.me/contact "Link: https://www.liut.me/contact")
 

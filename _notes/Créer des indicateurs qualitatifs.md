@@ -3,7 +3,7 @@ title: Créer des indicateurs qualitatifs
 ---
 Dans un environnement complexe **les indicateurs quantitatifs** sont trop limités pour comprendre la réalité des choses et prendre de bonnes décisions. Pourtant, c'est ce qui permet actuellement de piloter la plupart des organisations et des institutions...
 
-> Je donnerais des exemples de ces indicateurs prochainement (kpi, okr, indices de croissance, etc...)
+> Je donnerai des exemples de ces indicateurs prochainement (kpi, okr, indices de croissance, etc...)
 
 Il est alors possible de créer des indicateurs qualitatifs qui vont suite à croisement et analyse pouvoir nous donner des informations très précises sur quoi prioriser, quoi faire, comment réagir... Et donc une aide à la décision de qualité elle aussi. 
 

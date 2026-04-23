@@ -6,11 +6,11 @@ tags:
 en tant que [[bras droit]] des dirigeants, j'ai un focus à accompagner ceux qui veulent faire de leurs entreprises des organisations régénératives.
 
 mais qu'est-ce que ça veut dire que de devenir une entreprise régénérative? (cf [[régénératif]])
-si vous vous posez la questions, je vous invite à découvrir [l'initiative de la convention des entreprises pour le climat](https://cec-impact.org/). ils ont pris la mission de sensibiliser aux limites planétaires les dirigeants et de leur faire réaliser tout un parcours jusqu'à l'écriture d'une [première feuille de route](https://cec-fdr.softr.app/) vers l'entreprise régénérative.
+si vous vous posez la question, je vous invite à découvrir [l'initiative de la convention des entreprises pour le climat](https://cec-impact.org/). ils ont pris la mission de sensibiliser aux limites planétaires les dirigeants et de leur faire réaliser tout un parcours jusqu'à l'écriture d'une [première feuille de route](https://cec-fdr.softr.app/) vers l'entreprise régénérative.
 
-si vous avez déjà cette feuille de route et surtout l'intention sincère et la motivation de basculer en entreprise régénérative, alors vous savez la complexité d'adresser cet enjeux majeur seul.
+si vous avez déjà cette feuille de route et surtout l'intention sincère et la motivation de basculer en entreprise régénérative, alors vous savez la complexité d'adresser cet enjeu majeur seul.
 
-c'est pour répondre à ce besoin des dirigeants "régénératifs & engagés" que nous avons structuré toute une équipe qu'on aime visualiser comme une "squad d'intervention" - ultra efficace, pragmatique **et qui a pour focus d'accompagner la mise en opérationnel de cette feuille de route jusqu'à atteindre un état stable d'entreprise régénérative**.
+c'est pour répondre à ce besoin des dirigeants "régénératifs & engagés" que nous avons structuré toute une équipe qu'on aime visualiser comme une "squad d'intervention" - ultra efficace, pragmatique **et qui a pour focus d'accompagner la mise en œuvre opérationnelle de cette feuille de route jusqu'à atteindre un état stable d'entreprise régénérative**.
 
 Les dirigeants d'entreprises qui ne changeront pas leur modèle d'organisation font face à un problème grave : s'ils ne s'adaptent pas aux besoins du monde qui se profile, leurs entreprises risquent de dégénérer et de disparaître.
 

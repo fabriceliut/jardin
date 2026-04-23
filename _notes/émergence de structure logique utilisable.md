@@ -9,7 +9,7 @@ tags:
 
 Les concepts qui s’opposent viennent se nourrir et c'est également ce qu'on cherche en reliant l'information.
 
-**C’est par la diversité des schémas de liens possible qu’on peut faire émerger des concepts nouveaux, de la connaissance riche.**
+**C’est par la diversité des schémas de liens possibles qu’on peut faire émerger des concepts nouveaux, de la connaissance riche.**
 
 C’est ensuite par la mise en test de briques de connaissance qu’on peut la raffiner, la préciser. Ainsi, on passe des idées 💡chaotiques à des concepts complexes, puis aux théories desquelles vont découler des modèles, méthodes et outils (services, produits, offres...). **De ces outils il est possible de façonner le réel autrement**
 
@@ -27,7 +27,7 @@ Logique, complexe mais difficilement lisible et partageable
 ### Mise en narratif .
 Lien avec la [[Pensée Dire]]
 
-### Mise en language. 
+### Mise en langage. 
 ### Simplexifier.
 ### Mise en forme. 
 
@@ -55,7 +55,7 @@ Lien avec la [[Pensée Faire]]
 
 Une démarche de [[Recherche-Action]] en commun en aller/retour.
 
-### Documentations, données enrichies & traces ou livres de bords. 
+### Documentations, données enrichies & traces ou livres de bord. 
 Les sources, les pensées
 
 ### Le système de Feedback.

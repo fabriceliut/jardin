@@ -7,7 +7,7 @@ Quelque chose qui est abstrait est isolé ou détaché d'une chose et de son typ
 
 Pour penser dans l'abstraction il y a besoin de développer des objets de la pensée de plus en plus abstraits mais qui sont pour le penseur des ancrages suffisants pour continuer de monter en abstraction.
 
-Pour penser de plus en plus abstrait avec d'autres il faut y aller ensemble, marche après marche, pour ne perdre personne en chemin. Il faut partager le cheminement "logique" des objets auquels s'accrocher pour passer au niveau suivant, et ainsi de suite. 
+Pour penser de plus en plus abstrait avec d'autres il faut y aller ensemble, marche après marche, pour ne perdre personne en chemin. Il faut partager le cheminement "logique" des objets auxquels s'accrocher pour passer au niveau suivant, et ainsi de suite. 
 
 La [[pensée complexe]] est un état de pensée qui repose sur des accroches elles-mêmes déjà abstraites. Pour penser complexe il faut avoir développé un monde abstrait qui est devenu cohérent et donc une base sur laquelle se reposer pour continuer. 
 

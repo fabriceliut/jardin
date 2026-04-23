@@ -11,7 +11,7 @@ La même énergie la même vibration.
 
 Mais je n’arrive pas encore à les rassembler parce qu’ils sont chacun dans leur aventure propre / et c’est peut-être très bien ainsi.
 
-Mais au fond de moi j’ai le sentiment que s’ils faisaient alliance tous, ce serait pour une aventure encore plus belle et passionnante que ce que chacun vie dans son coin.
+Mais au fond de moi j’ai le sentiment que s’ils faisaient alliance tous, ce serait pour une aventure encore plus belle et passionnante que ce que chacun vit dans son coin.
 
 Mais eux peut-être qu’ils ne se sentent pas dans leur coin, déjà bien entourés.
 

@@ -8,6 +8,6 @@ Def [Wiki](https://en.wikipedia.org/wiki/Anthropocene)
 ### Commentaire
 Cette définition fonctionne si l'on considère l'Homme comme séparé du reste du vivant. Cependant, si l'on prend le vivant et la vie comme un tout Unique alors l'humanité n'est qu'un évènement dans un mouvement plus complexe d'évolution.
 
-Est-ce que nous avons alors une quelquonc responsabilité ou un contrôle sur le mouvement ?
+Est-ce que nous avons alors une quelconque responsabilité ou un contrôle sur le mouvement ?
 
 #Afairepousser 

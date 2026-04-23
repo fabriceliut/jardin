@@ -35,7 +35,7 @@ La bio-inspiration, c'est observer comment la nature résout des problèmes comp
 
 **Inspiration :** Les organismes vivants s'adaptent en temps réel à leur environnement.
 
-**Application :** Processus d'amélioration continue, feedback loops, ajustements rapides selon le marché.
+**Application :** Processus d'amélioration continue, boucles de rétroaction (feedback loops), ajustements rapides selon le marché.
 
 **Résultat :** Entreprise plus agile, meilleure réactivité, avantage concurrentiel.
 
@@ -49,7 +49,7 @@ La bio-inspiration, c'est observer comment la nature résout des problèmes comp
 
 ## La différence avec le [[biomimétisme]]
 
-- **Biomimétisme** → Copier directement une solution naturelle (ex: velcro inspiré des bardanes)
+- **Biomimétisme** → Copier directement une solution naturelle (ex: Velcro inspiré des bardanes)
 - **Bio-inspiration** → Adapter les principes naturels à nos contextes (ex: s'inspirer de la stigmergie des fourmis pour optimiser les flux logistiques)
 
 En entreprise, on utilise plus souvent la bio-inspiration car nos défis sont différents de ceux de la nature, mais les principes restent valables.

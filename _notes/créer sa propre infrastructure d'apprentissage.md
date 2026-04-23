@@ -11,7 +11,7 @@ tags:
 
 ### cibles
 - beaucoup de chercheurs et scientifiques "brassent" une quantité d'information et de documents monumentale sans forcément le faire dans un "système" adapté.
-- pour tout ceux qui organisent leurs infos dans un Google Drive par exemple et qui se sentent limité par la structure "en dossier"
+- pour tous ceux qui organisent leurs infos dans un Google Drive par exemple et qui se sentent limités par la structure "en dossier"
 - pour tous ceux qui capturent beaucoup d'informations et de sources mais qui n'arrivent pas vraiment à en faire de la ressource pour apprendre efficacement
 - en lien avec [[apprendre à apprendre]] - meta processus d'apprentissage à bien cerner pour construire une infrastructure adaptée
 

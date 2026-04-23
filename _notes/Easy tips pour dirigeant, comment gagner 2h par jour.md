@@ -4,7 +4,7 @@ tags:
   - tips
   - projectmanagement
 ---
-j’ai bien dis +2h par jour et ce n’est pas une accroche à clique. Et c’est vraiment simple.  
+j’ai bien dit +2h par jour et ce n’est pas une accroche à clic. Et c’est vraiment simple.  
   
 - améliorer l’usage des mails  
 - améliorer l’usage des messageries instantanées

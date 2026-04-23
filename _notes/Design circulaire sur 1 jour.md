@@ -5,7 +5,7 @@ tags:
   - designs
 ---
 
-*L’approche circulaire se met en place grâce à une première journée construite spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à tous les parties prenants de prendre conscience des réelles opportunité d’un re-design circulaire.*
+*L’approche circulaire se met en place grâce à une première journée construite spécifiquement pour poser concrètement, en collaboratif, le système d’une organisation et ainsi permettre à toutes les parties prenantes de prendre conscience des réelles opportunités d’un re-design circulaire.*
 
 > Les systèmes économiques des organisations se transforment : ils basculent du linéaire au circulaire, faisant ainsi émerger de nouveaux « cycles » économiques et donc, de nouvelles opportunités business.Tim Brown, IDEO
 
@@ -13,7 +13,7 @@ tags:
 
 Dans un système de production linéaire, que ce soit de produits ou de services, cette linéarité biaise notre compréhension même du fonctionnement du système : quid des externalités (négatives comme positives), des coûts cachés et surtout, des gains cachés… Quid également des impacts sur l’extérieur & sur l’environnement ?
 
-**En pensant la production & la création en linéaire, les organisations se limitent à un modèle trop simple qui n’a plus rien de réaliste :** *même au temps d’Henry Ford, la chaîne de production n’avant rien de réellement linéaire… Consommation d’énergie des usines, déchets de production, détachement complet par rapport au produit après vente…* Penser linéaire, c’est autant de risques de créer des problèmes sur le moyen et long terme que d’opportunités ratées !
+**En pensant la production & la création en linéaire, les organisations se limitent à un modèle trop simple qui n’a plus rien de réaliste :** *même au temps d’Henry Ford, la chaîne de production n’avait rien de réellement linéaire… Consommation d’énergie des usines, déchets de production, détachement complet par rapport au produit après vente…* Penser linéaire, c’est autant de risques de créer des problèmes sur le moyen et long terme que d’opportunités ratées !
 
 ### **Intégrer la circularité pour débloquer les opportunités.**
 
@@ -33,7 +33,7 @@ Le [[design circulaire]] permet d’ouvrir un nouveau champ des possibles pour u
 
 ### **Les avantages business.**
 
-- Mettre à plat le système de l’organisation, se décentrer et prendre du recule en intégrant des points de vues externes (facilitateur, designer, business expert, expert en économie circulaire, etc…)
+- Mettre à plat le système de l’organisation, se décentrer et prendre du recul en intégrant des points de vue externes (facilitateur, designer, business expert, expert en économie circulaire, etc…)
 - Sortir de la linéarité et prendre conscience de la circularité de toutes les chaînes de l’organisation
 - Intégrer la circularité au coeur de l’organisation et développer des projets reposant sur les opportunités nouvelles
 - Développer l’activité économique en dehors de l’illusion d’une croissance linéaire et basculer sur un développement économique dit « sur l’horizontal », par les boucles circulaires.
