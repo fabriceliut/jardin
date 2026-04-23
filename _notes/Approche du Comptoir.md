@@ -20,15 +20,15 @@ Le déclenchement de toute [[Mutation Culturelle]] vient de l’évolution néce
 
 ## Mêler les intelligences.
 
-Reposant sur les inspirations, les connaissances et les interrelations, les différentes intelligences mettent en oeuvre et connectent ces « ressources ». **Combinées, les intelligences permettent de concrétiser et d’agir pour demain**. Lorsque les intelligences traitent des problématiques, celles-ci deviennent des opportunités pour agir. Basculer dans la dimension de l’action n’est pas anodin : c’est une « mise au monde » des idées, c’est une concrétisation des concepts intangibles. **C’est en portant une action que nous mettons en mouvement un projet, que nous apportons un changement concret dans notre système et sur notre réalité.**
+Reposant sur les inspirations, les connaissances et les interrelations, les différentes intelligences mettent en œuvre et connectent ces « ressources ». **Combinées, les intelligences permettent de concrétiser et d’agir pour demain**. Lorsque les intelligences traitent des problématiques, celles-ci deviennent des opportunités pour agir. Basculer dans la dimension de l’action n’est pas anodin : c’est une « mise au monde » des idées, c’est une concrétisation des concepts intangibles. **C’est en portant une action que nous mettons en mouvement un projet, que nous apportons un changement concret dans notre système et sur notre réalité.**
 
 ## Développer une attitude de confiance.
 
-Pour agir en collectif, il faut une attitude de confiance. Les attitudes représentent les caractéristiques des actions elles-même. Elles doivent être cohérentes avec les valeurs et principes afin de porter une vision et un idéal. **Sans cette cohérence, pas de confiance possible et donc pas de coopération à moyen et long terme**, marquant alors la bonne dynamique d’un projet. L’attitude est le fil d’ariane d’une initiative et la direction de l’histoire à écrire en commun.
+Pour agir en collectif, il faut une attitude de confiance. Les attitudes représentent les caractéristiques des actions elles-mêmes. Elles doivent être cohérentes avec les valeurs et principes afin de porter une vision et un idéal. **Sans cette cohérence, pas de confiance possible et donc pas de coopération à moyen et long terme**, marquant alors la bonne dynamique d’un projet. L’attitude est le fil d’Ariane d’une initiative et la direction de l'histoire à écrire en commun.
 
 ## Écrire les idéaux.
 
-Ce sont les histoires, les projections intellectuelles et émotionnelles, les rêves et l’imaginaire qui créent une attraction vers ces réalités immatérielles elles-même. Sans ces réalités « fantasmes » ou « mirages » il n’y a pas de mouvement de vie possible. En effet, les idéaux alimentent l’intelligence émotionnelle qui donne de la consistance et de l’intérêt au rationnel. C’est la vision qui relie le collectif. C’est cette même vision qui inspire et permet d’avancer ensemble par la coopération.
+Ce sont les histoires, les projections intellectuelles et émotionnelles, les rêves et l’imaginaire qui créent une attraction vers ces réalités immatérielles elles-mêmes. Sans ces réalités « fantasmes » ou « mirages », il n’y a pas de mouvement de vie possible. En effet, les idéaux alimentent l’intelligence émotionnelle qui donne de la consistance et de l’intérêt au rationnel. C’est la vision qui relie le collectif. C’est cette même vision qui inspire et permet d’avancer ensemble par la coopération.
 
 ---
 
@@ -37,14 +37,14 @@ Tout est système & tout est lié. Nous le savons maintenant, il est nécessaire
 
 Suivant cette logique, le Comptoir est porté par un système riche & agile, permettant d’appréhender la [[complexité]] et d’appliquer un traitement [[design régénératif]].
 
-Concrètement, cette approche repose sur 3 premiers jours socles de [[design systémique]], mêlant experts du Comptoir et parties prenantes des organisations.
+Concrètement, cette approche repose sur trois premiers jours socles de [[design systémique]], mêlant experts du Comptoir et parties prenantes des organisations.
 
 > Découvrir l'approche [[Design Systémique sur 3 jours]]
 > Découvrir l'approche [[Design circulaire sur 1 jour]]
 
 # Le pas à pas du Comptoir pour construire en commun et concrétiser.
 
-1. UNE PREMIÈRE RENCONTRE CONVIVIALE AVEC 3 EXPERTS AU COMPTOIR.
+1. UNE PREMIÈRE RENCONTRE CONVIVIALE AVEC TROIS EXPERTS AU COMPTOIR.
 
 2. PRISE DE CONSCIENCE DES PROBLÉMATIQUES ET DES CAUSES.
 

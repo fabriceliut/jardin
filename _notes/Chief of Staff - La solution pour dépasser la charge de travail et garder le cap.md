@@ -37,9 +37,9 @@ Plus encore, le CoS joue un rôle essentiel dans la communication avec les parti
 
 ### Commencez par tester la fonction en temps partagé
 
-Si l'idée d'embaucher un Chief of Staff à plein temps semble prématurée pour votre organisation, pourquoi ne pas commencer par un test en temps partagé ? Cela vous permettrait de découvrir les avantages immédiats de cette fonction sans engagement long terme. Cette approche flexible vous donnera non seulement l’occasion d'évaluer les bénéfices concrets pour votre entreprise, mais aussi de définir le profil idéal pour une future embauche à temps plein.
+Si l'idée d'embaucher un Chief of Staff à plein temps semble prématurée pour votre organisation, pourquoi ne pas commencer par un test en temps partagé ? Cela vous permettrait de découvrir les avantages immédiats de cette fonction sans engagement à long terme. Cette approche flexible vous donnera non seulement l’occasion d'évaluer les bénéfices concrets pour votre entreprise, mais aussi de définir le profil idéal pour une future embauche à temps plein.
 
-Ainsi, vous pouvez progressivement construire cette nouvelle dynamique dans votre équipe de direction, avec la sécurité d’un accompagnement sur-mesure dès le début.
+Ainsi, vous pouvez progressivement construire cette nouvelle dynamique dans votre équipe de direction, avec la sécurité d’un accompagnement sur mesure dès le début.
 
 
 > _Le Chief of Staff est plus qu'un soutien logistique : il devient votre bras droit stratégique, le garant de la continuité entre vos idées et leur réalisation. Alors, prêt à franchir le pas et à tester cette nouvelle approche de la délégation de direction ?_

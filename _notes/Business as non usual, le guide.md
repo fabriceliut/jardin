@@ -6,7 +6,7 @@ tags:
 ---
 ![]({{page.image}})
 
-*Je vous propose par cet article de basculer de modèle, vers ce qui semblerait inverse à notre système capitaliste « as usual »... enfin l’inverse... peut-être moins que vous pouvez l’imaginer et peut-être bien plus «performant»...*
+*Je vous propose par cet article de basculer de modèle, vers ce qui semblerait l'inverse de notre système capitaliste « as usual »... enfin l’inverse... peut-être moins que vous pouvez l’imaginer et peut-être bien plus « performant »...*
 
 > Si ce nouveau modèle de business était plus efficient ? Et s’il était plus performant, plus rentable ? Et s’il permettait de gagner plus, avec moins d’effort ?
 
@@ -14,9 +14,9 @@ Là, je sens que ça commence à vous intéresser.
 
 *Mais avant toute démonstration vous avez besoin de savoir qui parle pour me faire confiance.*
 
-Je suis Fabrice Liut, un Designer qui fait de la recherche et analyse les [[Système Complexe]]. Je me base sur une diversité d’études croisées dont je vous donnerais les sources avec grand plaisir sur votre demande de compléments.
+Je suis Fabrice Liut, un designer qui fait de la recherche et analyse les [[Système Complexe]]. Je me base sur une diversité d’études croisées dont je vous donnerais les sources avec grand plaisir sur votre demande de compléments.
 
-*Je pense en groupe les nouveaux modèles économiques depuis plusieurs années et oui, je ne suis pas multimillionnaire mais vous allez voir, ce n’est pas nécessaire pour faire preuve du concept que je vais vous présenter.*
+*Je pense en groupe les nouveaux modèles économiques depuis plusieurs années et oui, je ne suis pas multimillionnaire, mais vous allez voir, ce n’est pas nécessaire pour faire preuve du concept que je vais vous présenter.*
 
 > C’est bon, nous pouvons y aller.
 
@@ -30,17 +30,17 @@ Si nous sommes à peine déconfinés & dans la peur persistante d’une pandémi
 
 Dans ce système, les humains sont des ressources allouées à des tâches. On analyse leur performance et on optimise leur rendement.
 
-Petit souci : les humains ne sont pas que des « choses » qu’on optimise, il y a une grande part qui ne peut se rationaliser. **Demandez aux parents, comment ça se passe avec un bébé**. Et bien ces parents, qui sont des travailleurs, sont tout aussi instables, fragiles et sensibles que leur enfant. On peut les considérer comme des ressources aliénables encore un peu, mais ça ne va pas durer sur le long terme.
+Petit souci : les humains ne sont pas que des « choses » qu’on optimise, il y a une grande part qui ne peut être rationalisée. **Demandez aux parents, comment ça se passe avec un bébé**. Eh bien ces parents, qui sont des travailleurs, sont tout aussi instables, fragiles et sensibles que leur enfant. On peut les considérer comme des ressources aliénables encore un peu, mais ça ne va pas durer sur le long terme.
 
 ### La quête de l’optimisation ultime est un échec.
 
-Ce système qui se veut optimisé en est très, mais alors très loin. Faire travailler des humains 7h par jour à heures fixes est inefficient (**[1](https://www.theguardian.com/money/2019/apr/15/longer-working-hours-do-not-mean-higher-profits-say-economists)**). Gérer des urgences sur des urgences pour en oublier les priorités réelles est un contre-sens dans lequel la plupart des entreprises baignent. Mêler ce business à une politique de carrière et de concurrence en interne aussi. Tout ça a fonctionné mais devinez quoi ? **Les humains changent, les besoins changent, la culture change. Tout ça ne fonctionne plus.**
+Ce système qui se veut optimisé en est très, mais alors très loin. Faire travailler des humains 7 h par jour à heures fixes est inefficient (**[1](https://www.theguardian.com/money/2019/apr/15/longer-working-hours-do-not-mean-higher-profits-say-economists)**). Gérer des urgences sur des urgences pour en oublier les priorités réelles est un contre-sens dans lequel la plupart des entreprises baignent. Mêler ce business à une politique de carrière et de concurrence en interne aussi. Tout ça a fonctionné, mais devinez quoi ? **Les humains changent, les besoins changent, la culture change. Tout ça ne fonctionne plus.**
 
 ### L’illusion du progrès.
 
 La croissance par le progrès. **Croître ça veut dire grossir, grossir ça veut dire ajouter de la complexité dans son système et le rendre solide et donc de moins en moins résilient ([1](https://hbr.org/2019/08/the-gap-between-large-and-small-companies-is-growing-why))**. Dans ce genre de situation, si ça crache, ça crache sec. Trop risqué ? Heureusement il y a le progrès technologique, le support du numérique qui va gérer à notre place ce gros machin qu’on ne peut même plus comprendre.
 
-Le souci ? On ne peut pas non plus comprendre l’intelligence de la machine, alors on suit aveuglément des courbes sur des Dashboard. Devinez quoi ? Malgré cette vénérable intelligence artificielle, ça ne fonctionne pas non plus(**[1](https://hbr.org/2019/08/what-people-hate-about-being-managed-by-algorithms-according-to-a-study-of-uber-drivers)**). Alors on doit développer du toujours plus complexe pour gérer du toujours plus complexe et... en route on oublie que les collaborateurs tout comme bébé ne sont toujours pas optimisables et exploitables à souhait comme la machine le conseille dans l’intérêt de l’entreprise.
+Le souci ? On ne peut pas non plus comprendre l’intelligence de la machine, alors on suit aveuglément des courbes sur des tableaux de bord. Devinez quoi ? Malgré cette vénérable intelligence artificielle, ça ne fonctionne pas non plus(**[1](https://hbr.org/2019/08/what-people-hate-about-being-managed-by-algorithms-according-to-a-study-of-uber-drivers)**). Alors on doit développer du toujours plus complexe pour gérer du toujours plus complexe et... en route on oublie que les collaborateurs tout comme bébé ne sont toujours pas optimisables et exploitables à souhait comme la machine le conseille dans l’intérêt de l’entreprise.
 
 ### Une quête de pouvoir & de richesse sans fin heureuse.
 
@@ -54,17 +54,17 @@ Non je ne vous parlerai pas d’un monde sans argent, pas cette fois. Ni d’une
 
 ### Le chemin vers la résilience.
 
-Pas de plan sur la comète. Pas de roadmap sur 5 ou 10 ans. Ce qui doit se renforcer ce n’est pas de fausses certitudes mais une capacité de réagir vite, d’être agile, résilient et j’irais même jusqu’à « antifragile ». **Pour ce faire, c’est une nécessité de coopération à instaurer plutôt qu’un renforcement de la concurrence.**
+Pas de plan sur la comète. Pas de feuille de route sur 5 ou 10 ans. Ce qui doit se renforcer ce n'est pas de fausses certitudes, mais une capacité de réagir vite, d’être agile, résilient et j’irais même jusqu’à « antifragile ». **Pour ce faire, c’est une nécessité de coopération à instaurer plutôt qu’un renforcement de la concurrence.**
 
 Alors oui ça commence fort, ce changement de paradigme entraîne de gros mouvements systémiques sur toutes les dimensions de notre réalité, rien que ça. **Mais si je vous assure que ça va permettre d’être plus efficient et de gagner plus de sous ([1](https://www.ideou.com/blogs/inspiration/growing-a-resilient-business-outside-of-silicon-valley)), vous continuez à lire ?**
 
 ### Le ROI de l’intelligence collective.
 
-La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les langages... **c’est là où de nombreuses postures comme la facilitation prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle intelligence collective et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant mais l’avantage c’est que la confiance on la porte sur nous-mêmes.**
+La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les langages... **c’est là où de nombreuses postures comme la facilitation prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle intelligence collective et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant, mais l’avantage c’est que la confiance on la porte sur nous-mêmes.**
 
 ### Apprendre de la nature plutôt que faire de la R&D.
 
-En parlant de ce qui est vivant, nous voilà face au plus gros trésor que nous ayons à disposition depuis...toujours. **Au lieu de raser des forêts pour en faire de l’énergie pauvre, observons-la pour en tirer la sagesse et les apprentissages**. Vous voulez optimiser des flux économiques, développer votre business modèle ? Observez et comprenez le fonctionnement souterrain d’une forêt primaire et des échanges entre les champignons et les arbres. Vous voulez optimiser le fonctionnement interne de votre organisation ? Le végétal et les insectes savent faire au mieux depuis des millions d’années. **Peut-être que si la biodiversité redevenait notre « bibliothèque » nous aurions, en bonus, plutôt envie de l’enrichir que de l’appauvrir([1](https://usbeketrica.com/article/tous-les-indicateurs-sont-au-rouge-pour-la-biodiversite)).**
+En parlant de ce qui est vivant, nous voilà face au plus gros trésor que nous ayons à disposition depuis...toujours. **Au lieu de raser des forêts pour en faire de l’énergie pauvre, observons-les pour en tirer la sagesse et les apprentissages**. Vous voulez optimiser des flux économiques, développer votre business modèle ? Observez et comprenez le fonctionnement souterrain d’une forêt primaire et des échanges entre les champignons et les arbres. Vous voulez optimiser le fonctionnement interne de votre organisation ? Le végétal et les insectes savent faire au mieux depuis des millions d’années. **Peut-être que si la biodiversité redevenait notre « bibliothèque » nous aurions, en bonus, plutôt envie de l’enrichir que de l’appauvrir([1](https://usbeketrica.com/article/tous-les-indicateurs-sont-au-rouge-pour-la-biodiversite)).**
 
 ### Développer la performance par les échecs en commun.
 
@@ -72,7 +72,7 @@ Apprendre, évoluer, gagner en efficience, en conscience et en sagesse est une a
 
 ### La sécurité dans l’incertitude.
 
-**Le business as non usual** c’est accepter de vivre « as non usual » et donc, dans le confort de l’incertitude, du non prévisible et sans chercher une normalité rassurante mais solidifiante. Est vivant ce qui est en mouvement. Ce qui ne bouge plus est calcifié et devient inerte.
+**Le business as non usual** c’est accepter de vivre « as non usual » et donc, dans le confort de l’incertitude, du non-prévisible et sans chercher une normalité rassurante mais solidifiante. Est vivant ce qui est en mouvement. Ce qui ne bouge plus est calcifié et devient inerte.
 
 À nous de choisir si nous voulons être un système fluide, qui coule, tranquille et vibrant de vie comme de l’eau de source OU de la pierre bien dure et sans structure comme étaient composés nos châteaux forts ou nos buildings actuels.
 
@@ -102,6 +102,6 @@ Apprendre, évoluer, gagner en efficience, en conscience et en sagesse est une a
 
 **👉 Contactez-moi directement.**
 
-*Tout ce travail évolue dans le contexte de notre éco-système, [[Archipel Kyosei]]*
+*Tout ce travail évolue dans le contexte de notre écosystème, [[Archipel Kyosei]]*
 
 [[guidebook]] en CC.

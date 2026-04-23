@@ -1,9 +1,9 @@
 ---
-title: Ceo, n'oubliez pas votre COS ou Chief of Staff
+title: CEO, n'oubliez pas votre COO ou Chief of Staff
 tags:
   - tips
 ---
-**Quels sont les avantages pour un CEO de travailler avec un chef operating officer et un chef of staff (COO et COS) ?**  
+**Quels sont les avantages pour un CEO de travailler avec un Chief Operating Officer et un Chief of Staff (COO et COS) ?**  
 
 1. **Alignement stratégique renforcé** : Le COS et le COO peuvent collaborer pour s'assurer que les opérations de l'entreprise sont alignées sur les objectifs stratégiques. Le COS aide à communiquer la vision stratégique du CEO (Chief Executive Officer) et à la traduire en actions concrètes, tandis que le COO met en œuvre cette vision au niveau opérationnel. Cette collaboration permet de maintenir une cohérence entre les objectifs stratégiques et les activités quotidiennes de l'entreprise.  
 
@@ -19,6 +19,6 @@ tags:
 
 Jouer avec le couple COO COS me semble très adapté pour sortir les CEO de l’isolement et leur permettre de tenir vraiment la vision et la conduite des stratégies - même pour des PME et plus petites structures.  
 
-Suivant la taille il y aura plus ou moins besoin d’un temps plein. Si vous voulez en savoir plus sur le [[chief of staff]] qui permet de profiter d'un COS sans un recrutement full time direct et pour des moments clés.
+Suivant la taille, il y aura plus ou moins besoin d’un temps plein. Si vous voulez en savoir plus sur le [[chief of staff]] qui permet de profiter d'un COS sans un recrutement full-time direct et pour des moments clés.
 
 Pour [[Prendre soin du collectif]]

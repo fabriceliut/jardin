@@ -47,7 +47,7 @@ Les autres sont responsables d'eux-mêmes. S'ils ont besoin de quelque chose de 
 
 Si j'apporte ou si je prends la place sans que ce soit une réponse à une demande, ce que je fais n'est pas "juste" — ça n'apporte ni à l'autre, ni à moi.
 
-La conclusion s'impose : me taire plus, prendre plus de temps en observateur et en écoute. Être présent pour profiter du spectacle, et basculer acteur uniquement s'il y a un appel.
+La conclusion s'impose : me taire plus, prendre plus de temps en tant qu'observateur et en écoute. Être présent pour profiter du spectacle, et ne devenir acteur que s'il y a un appel.
 
 ---
 

@@ -5,7 +5,7 @@ tags:
   - guidebook
   - Afairepousser
 ---
-*Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]] j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
+*Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]], j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
 
 *Au-delà d'une démarche commerciale, apprendre à vendre en archipel représente surtout une lecture de comment tisser des liens de confiance nécessaires pour entrer en coopération.*
 
@@ -19,19 +19,19 @@ Plutôt que vendre une transformation globale, adresser spécifiquement toutes l
 
 En effet, je ne suis pas certain que beaucoup de profils soient prêts à déclencher une démarche de [[Métamorphose]]
  
-*À l'échelle individuelle, on fonctionne aussi en pas à pas, par petits ajustements et le point de départ peut être l'activité physique, l'alimentation, les relations, les habitudes, etc. Mais rarement on se lève un matin et on décide d'investir sur une transformation complète de notre "Moi".*
+*À l'échelle individuelle, on fonctionne aussi en pas à pas, par petits ajustements, et le point de départ peut être l'activité physique, l'alimentation, les relations, les habitudes, etc. Mais rarement on se lève un matin et on décide d'investir sur une transformation complète de notre "Moi".*
 
 # Connaître sincèrement son interlocuteur
 
 Comment est-ce qu'on l'a découvert ? 
-- Article ? Podcast ? Évènement ?
+- Article ? Podcast ? Événement ?
 	
 Quel est son propos de fond ?
 
 Quelle est sa forme de langage, son vocabulaire, son modèle mental ?
 
 Quel est son contexte pro ? Son historique pro ? 
-- Se renseigner en partant de toutes les informations accessibles en public sur lui et son entreprise
+- Se renseigner en partant de toutes les informations accessibles en public sur lui et son entreprise.
 Quel est son contexte perso ? Son historique perso ?
 
 Qu'est-ce qui le rassure, permet de tisser la confiance avec lui ?
@@ -42,13 +42,13 @@ Quelle est sa temporalité ? La temporalité de son organisation ?
 - Lien avec [[Temporalités des transformations]]
 	
 **Quel est le meilleur environnement pour le contacter ?**
-- LinkedIn message ? Mail ? Téléphone direct ? Déplacement physique ? Évènement ?
+- Message LinkedIn ? Mail ? Téléphone direct ? Déplacement physique ? Événement ?
 
 
 **Est-ce qu'on peut se connecter avec une personne proche de lui, de confiance pour lui ?**
-- Cette personne peut nous partager le contact direct
-- Cette personne peut faire le lien et une introduction rassurante
-- Le nom de cette personne peut servir en support lors de la première accroche
-- Il y a des stratégies de réseau sur LinkedIn utilisables pour créer ce cadre de confiance en numérique
+- Cette personne peut nous partager le contact direct.
+- Cette personne peut faire le lien et une introduction rassurante.
+- Le nom de cette personne peut servir en support lors de la première accroche.
+- Il y a des stratégies de réseau sur LinkedIn utilisables pour créer ce cadre de confiance en numérique.
 
 # Suite en écriture...

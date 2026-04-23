@@ -26,7 +26,7 @@ Un marqueur typique de fragilité :
 - trop peu de marges,
 - dépendances invisibles,
 - décisions irréversibles,
-- rigidité des règles et des process.
+- rigidité des règles et des processus.
 
 À l’inverse, l’antifragilité s’appuie sur :
 
