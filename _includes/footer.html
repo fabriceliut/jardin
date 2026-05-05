@@ -1,10 +1,10 @@
 <footer class="site-footer">
 	<nav class="footer-nav" aria-label="Navigation de pied de page">
-		<a href="/">Accueil</a>
-		<a href="/search">Rechercher</a>
-		<a href="/offres">Offres</a>
-		<a href="/about">À propos</a>
-		<a href="/graph">Graph</a>
+		<a href="/" {% if page.id == 'home' %}aria-current="page"{% endif %}>Accueil</a>
+		<a href="/search" {% if page.url contains '/search' %}aria-current="page"{% endif %}>Rechercher</a>
+		<a href="/offres" {% if page.url contains '/offres' %}aria-current="page"{% endif %}>Offres</a>
+		<a href="/about" {% if page.url contains '/about' %}aria-current="page"{% endif %}>À propos</a>
+		<a href="/graph" {% if page.url contains '/graph' %}aria-current="page"{% endif %}>Graph</a>
 		<a href="{{ site.baseurl }}/feed.xml" aria-label="Flux RSS">RSS</a>
 	</nav>
 	<p>Ce <a href="/about">jardin numérique</a> est un espace vivant, en constante évolution.</p>

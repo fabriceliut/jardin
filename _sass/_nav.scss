@@ -50,7 +50,7 @@
   font-weight: 800;
   font-size: 1.05rem;
   letter-spacing: -0.03em;
-  transition: opacity 0.2s ease;
+  transition: opacity $transition-fast;
 
   &:hover {
     opacity: 0.6;
@@ -76,7 +76,7 @@
   border-radius: 10px;
   cursor: pointer;
   color: var(--color-subtext);
-  transition: color 0.2s ease, background 0.2s ease;
+  transition: color $transition-fast, background $transition-fast;
 
   &:hover {
     color: var(--color-text);
@@ -102,7 +102,7 @@
   border: none;
   cursor: pointer;
   border-radius: 10px;
-  transition: background 0.2s ease;
+  transition: background $transition-fast;
 
   span {
     display: block;
@@ -222,12 +222,18 @@
   font-weight: 400;
   font-size: 0.92rem;
   border-radius: 10px;
-  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
+  transition: background $transition-fast, color $transition-fast, transform $transition-fast;
 
   svg {
     flex-shrink: 0;
     color: var(--color-subtext);
-    transition: color 0.2s ease;
+    transition: color $transition-fast;
+  }
+
+  &[aria-current="page"] {
+    background: var(--color-accent-subtle);
+    color: var(--color-accent);
+    svg { color: var(--color-accent); }
   }
 
   &:hover {

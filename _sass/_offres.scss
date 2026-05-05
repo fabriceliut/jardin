@@ -2,9 +2,6 @@
 // OFFRES — Inspired by liut.me design language
 // Final polish: spacing, contrast, performance, accessibility
 // ============================================================
-
-$border-radius-xl: 1.5rem;
-
 // --- Reduced motion: disable all transforms & transitions ---
 @media (prefers-reduced-motion: reduce) {
   .offre-phase,
