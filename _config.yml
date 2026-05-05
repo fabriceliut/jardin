@@ -1,7 +1,11 @@
 title:               Jardin Liut.
 url:                 https://jardin.liut.me
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json']
+exclude:
+  - _includes/notes_graph.json
+  - _notes/all_files.txt
+  - _notes/modified_files.txt
+  - _notes/remaining.txt
 # You may need to change the base URL depending on your deploy configuration.
 baseurl:             ''
 
