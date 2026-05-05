@@ -3,24 +3,34 @@
 // ============================================================
 #notes-entry-container {
   display: grid;
-  gap: 2.5em;
+  gap: 1.5em;
   grid-template-areas: "content" "side";
+}
+@media (min-width: 640px) {
+  #notes-entry-container {
+    gap: 2em;
+  }
 }
 @media (min-width: 900px) {
   #notes-entry-container {
     grid-template-columns: 3fr 1fr;
     grid-template-areas: "content side";
-    gap: 3em;
+    gap: 2.5em;
   }
 }
 
 .note-content {
   grid-area: content;
   min-width: 0;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
 }
 .note-sidebar {
   grid-area: side;
   font-size: 0.9em;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 // --- Backlinks ---
@@ -69,10 +79,18 @@
   color: var(--color-subtext);
 }
 
+// --- ensure backlinks don't overflow on mobile ---
+.backlink-box a {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
 // --- Link previews / tooltips ---
 .note-content a.internal-link {
   border-color: var(--color-accent);
   background-color: var(--color-accent-subtle);
+  overflow-wrap: break-word;
+  word-break: break-all;
 }
 
 #tooltip-wrapper {
@@ -82,7 +100,8 @@
   border-radius: 12px;
   overflow: hidden;
   position: absolute;
-  width: 400px;
+  width: min(400px, calc(100vw - 2rem));
+  max-width: 400px;
   height: 250px;
   font-size: 0.8em;
   box-shadow: var(--shadow-lg);

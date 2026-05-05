@@ -98,6 +98,11 @@ body {
 .wrapper {
   max-width: 72ch;
   margin: 0 auto;
-  padding: 3vh 5vw;
+  padding: 2vh 4vw;
+}
+@media (min-width: 640px) {
+  .wrapper {
+    padding: 3vh 5vw;
+  }
 }
 main { padding: 0; }
