@@ -23,6 +23,7 @@
 .note-content {
   grid-area: content;
   min-width: 0;
+  max-width: 72ch;
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-word;
