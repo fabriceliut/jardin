@@ -47,7 +47,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-05-05T21:06:43+00:00">
+  <meta property="article:published_time" content="2026-05-05T21:14:45+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +76,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-05-05T21:05:54+00:00",
+    "dateModified": "2026-05-05T21:14:00+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -115,21 +115,21 @@
 </div>
 </nav>
     <div class="nav-overlay" id="nav-overlay"></div>
-    <div class="nav-panel" id="nav-panel">
+    <div class="nav-panel" id="nav-panel" role="dialog" aria-label="Navigation" aria-modal="false">
         <div class="nav-panel-inner">
-            <a href="/search">
+            <a href="/search" >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
                 Rechercher
             </a>
-            <a href="/offres">
+            <a href="/offres" >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
                 Offres
             </a>
-            <a href="/about">
+            <a href="/about" >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
                 À propos
             </a>
-            <a href="/graph">
+            <a href="/graph" >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="12" r="3"/><line x1="8.59" y1="7.41" x2="15.42" y2="10.59"/><line x1="8.59" y1="16.59" x2="15.42" y2="13.41"/></svg>
                 Graph
             </a>
@@ -151,7 +151,7 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-05-05T21:05:54+00:00">
+      <time class="note-updated" datetime="2026-05-05T21:14:00+00:00">
         Mis à jour le 5 mai 2026
       </time>
       <span class="reading-time">4 min de lecture</span>
@@ -302,11 +302,11 @@
 </main>
       <footer class="site-footer">
 	<nav class="footer-nav" aria-label="Navigation de pied de page">
-		<a href="/">Accueil</a>
-		<a href="/search">Rechercher</a>
-		<a href="/offres">Offres</a>
-		<a href="/about">À propos</a>
-		<a href="/graph">Graph</a>
+		<a href="/" >Accueil</a>
+		<a href="/search" >Rechercher</a>
+		<a href="/offres" >Offres</a>
+		<a href="/about" >À propos</a>
+		<a href="/graph" >Graph</a>
 		<a href="/feed.xml" aria-label="Flux RSS">RSS</a>
 	</nav>
 	<p>Ce <a href="/about">jardin numérique</a> est un espace vivant, en constante évolution.</p>
@@ -471,6 +471,7 @@
       function closeMenu() {
         navEl.classList.remove('nav-open');
         hamburger.setAttribute('aria-expanded', 'false');
+        hamburger.focus();
       }
 
       hamburger.addEventListener('click', toggleMenu);
