@@ -132,20 +132,27 @@
 .note-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4em;
-  margin: 0.75em 0 1.25em;
+  align-items: center;
+  gap: 0.45em;
+  margin: 1.25em 0 0;
+  padding-bottom: 1.75em;
+  border-bottom: 1px solid var(--color-border);
 }
 .tag-badge {
-  display: inline-block;
-  padding: 0.2em 0.7em;
-  background: var(--color-accent-subtle);
-  border: 1px solid var(--color-accent);
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28em 0.75em;
+  background: transparent;
+  border: 1px solid var(--color-border);
   border-radius: 2em;
-  font-size: 0.8em;
-  color: var(--color-accent);
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-subtext);
   text-decoration: none;
-  line-height: 1.5;
-  transition: background $transition-fast, color $transition-fast;
+  line-height: 1.4;
+  transition: background $transition-fast, color $transition-fast, border-color $transition-fast;
 }
 .tag-badge:hover {
   background: var(--color-accent);
@@ -154,15 +161,18 @@
 }
 .tag-badge-large {
   @extend .tag-badge;
-  font-size: 1em;
-  padding: 0.25em 0.9em;
+  font-size: 0.82em;
+  padding: 0.3em 0.9em;
 }
 .tags-page .tag-section {
   margin-bottom: 2.5em;
 }
 .tags-page .tag-section-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
   margin-bottom: 0.75em;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 .tags-page .tag-notes-list {
   list-style: none;
@@ -171,6 +181,16 @@
   display: flex;
   flex-direction: column;
   gap: 0.35em;
+}
+.tag-count {
+  font-size: 0.72em;
+  font-weight: 400;
+  color: var(--color-subtext);
+  background: var(--color-box-background);
+  border: 1px solid var(--color-border);
+  border-radius: 2em;
+  padding: 0.1em 0.55em;
+  line-height: 1.4;
 }
 
 // --- Transclusion (Obsidian-style ![[note]]) ---

@@ -17,7 +17,10 @@ permalink: /tags
 
 {% for tag in all_tags %}
 <section class="tag-section" id="{{ tag | slugify }}">
-  <h2 class="tag-section-title"><span class="tag-badge-large">{{ tag }}</span></h2>
+  <h2 class="tag-section-title">
+    <span class="tag-badge-large">{{ tag }}</span>
+    <span class="tag-count">{{ tagged_notes.size }}</span>
+  </h2>
   <ul class="tag-notes-list">
   {% assign tagged_notes = site.notes | where_exp: "note", "note.tags contains tag" | sort: "title" %}
   {% for note in tagged_notes %}
