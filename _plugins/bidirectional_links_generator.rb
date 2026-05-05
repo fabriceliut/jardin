@@ -26,6 +26,42 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       end
     end
 
+    # Pass 1b: Obsidian-style note transclusions ![[note-name]] (non-image)
+    # Must run AFTER image embeds so only note references remain
+    all_docs.each do |current_note|
+      current_note.content = current_note.content.gsub(
+        /!\[\[([^\]]+?)(?:#[^\]]*)?\]\]/i
+      ) do |match|
+        embed_title = Regexp.last_match(1).strip
+        embedded_note = all_notes.find do |n|
+          note_basename = File.basename(n.basename, File.extname(n.basename))
+          note_basename.casecmp?(embed_title) ||
+            (n.data['title'] && n.data['title'].casecmp?(embed_title)) ||
+            ((n.data['aliases'] || []).any? { |a| a.casecmp?(embed_title) })
+        end
+        if embedded_note
+          embed_url = "#{site.baseurl}#{embedded_note.url}#{link_extension}"
+          embed_title_display = embedded_note.data['title'] || embed_title
+          embed_excerpt = embedded_note.content
+            .gsub(/!\[\[[^\]]+\]\]/, '')
+            .gsub(/\[\[[^\]|]+\|([^\]]+)\]\]/, '\1')
+            .gsub(/\[\[([^\]]+)\]\]/, '\1')
+            .gsub(/<[^>]+>/, '')
+            .gsub(/\A---.*?---/m, '')
+            .strip
+            .slice(0, 300)
+          <<~HTML.chomp
+            <blockquote class="transclusion">
+              <p class="transclusion-content">#{embed_excerpt}…</p>
+              <footer><a class="internal-link" href="#{embed_url}">↗ #{embed_title_display}</a></footer>
+            </blockquote>
+          HTML
+        else
+          match
+        end
+      end
+    end
+
     # Convert all Wiki/Roam-style double-bracket link syntax to plain HTML
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
@@ -72,6 +108,21 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           /\[\[(#{note_title_regexp_pattern})\]\]/i,
           anchor_tag
         )
+
+        # Replace double-bracketed links using any front-matter alias
+        # aliases: ["cat notes", "feline notes"]
+        (note_potentially_linked_to.data['aliases'] || []).each do |alias_name|
+          next if alias_name.nil? || alias_name.strip.empty?
+          alias_pattern = Regexp.escape(alias_name.strip)
+          current_note.content.gsub!(
+            /\[\[#{alias_pattern}\|(.+?)(?=\])\]\]/i,
+            anchor_tag
+          )
+          current_note.content.gsub!(
+            /\[\[(#{alias_pattern})\]\]/i,
+            anchor_tag
+          )
+        end
       end
 
       # At this point, all remaining double-bracket-wrapped words are

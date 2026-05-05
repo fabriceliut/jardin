@@ -4,7 +4,10 @@ title: About
 permalink: /about
 image: assets/avatar_24.jpg
 ---
-<img src="/assets/avatar_24.jpg" alt="Photo de Fabrice Liut" width="600" height="600" style="max-width:100%;height:auto;">
+<picture>
+  <source srcset="/assets/avatar_24.webp" type="image/webp">
+  <img src="/assets/avatar_24.jpg" alt="Photo de Fabrice Liut" width="600" height="600" style="max-width:100%;height:auto;">
+</picture>
 
 Salut, moi c’est Fabrice Liut.
 

@@ -19,6 +19,13 @@ layout: default
       <span class="reading-time">{{ minutes }} min de lecture</span>
     </div>
     {% endif %}
+    {% if page.tags.size > 0 %}
+    <div class="note-tags">
+      {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tags#{{ tag | slugify }}" class="tag-badge">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
   </header>
 
   <div id="notes-entry-container">
