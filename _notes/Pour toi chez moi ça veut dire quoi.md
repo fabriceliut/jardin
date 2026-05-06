@@ -1,7 +1,7 @@
 ---
 title: Pour toi chez moi ça veut dire quoi
 tags:
-  - Meta-analyse
+ - Meta-analyse
 ---
 Une question que je trouvais belle et sensible, alors, j'ai demandé aux autres. Inspirant pour comprendre comment [[Prendre soin de soi]].
 
@@ -39,6 +39,6 @@ Cela représente mes fondations, le point de départ de mon évolution future.
 
 Chez moi c'est alors partout ou presque, ou rien ne m'empêche d'être...vivante, un petit maillon de cette terre-nature...
 
-Où peut-être que finalement non , je ne vais pas te le dire, mais je veux bien te le murmurer...
+Où peut-être que finalement non, je ne vais pas te le dire, mais je veux bien te le murmurer...
 
 pour [[décoder la vie]].

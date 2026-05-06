@@ -1,9 +1,9 @@
 ---
 title: tout dans la vie est langage et conversation
 tags:
-  - language
-  - Afairepousser
-  - article
+ - language
+ - Afairepousser
+ - article
 ---
 Peut-être que l'étude de la [[linguistique]] nous permettrait de comprendre l'art, les échecs, l'entreprenariat, la danse, etc... Sans pour autant tout expérimenter en profondeur.
 
@@ -12,8 +12,8 @@ Alors les enchainements de pas et de mouvements deviennent des mots, les straté
 Avec la compagnie de l'adversaire ou du partenaire, par cette pratique d'une conversation dans la même "langue", on apprend cette langue, on augmente son vocabulaire, on améliore sa grammaire...
 Si l'on devient maître d'un discipline après de longues années ce serait alors comme le poète qui maîtrise les mots. Ecrire une danse, parler une sculpture...
 
-Je suis fasciné d'imaginer que chaque domaine d'expression, chaque activité est un langage et que si j'étudie la [[logique]] linguistique je pourrais par [[pensée analogique]] interpréter les enchainements du tango, lire le code derrière une musique que je ne "comprend" pas encore... 
-**Sans pour autant pratiquer pendant de longues années pour m'impreigner d'un sujet en particulier**. 
+Je suis fasciné d'imaginer que chaque domaine d'expression, chaque activité est un langage et que si j'étudie la [[logique]] linguistique je pourrais par [[pensée analogique]] interpréter les enchainements du tango, lire le code derrière une musique que je ne "comprend" pas encore...
+**Sans pour autant pratiquer pendant de longues années pour m'impreigner d'un sujet en particulier**.
 
 > Parce que derrière chaque "faire" il y a la même source d'assemblage qui se manifeste simplement sous différentes formes...
 

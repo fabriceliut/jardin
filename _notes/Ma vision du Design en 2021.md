@@ -1,8 +1,8 @@
 ---
 title: Ma vision du Design en 2021
 tags:
-  - designs
-  - guidebook
+ - designs
+ - guidebook
 ---
 Je me dis actuellement acteur du [[design systémique]] et du [[design régénératif]]. Mais qu'est-ce que veulent dire ces termes associés ensemble pour une vision complète du Design ?
 
@@ -51,7 +51,7 @@ La couche esthétique du Design intervient selon moi de la même manière : on n
 
 > Parce que ce qui est bien organisé est beau, et ce qui est beau est agréable à expérimenter.
 
-Exemple de la cuisine gastronomique : même minimaliste, si elle est raffinée elle va aller chercher dans la complexité et la profondeur des saveurs, dans des "assemblages" originaux et surprenants. 
+Exemple de la cuisine gastronomique : même minimaliste, si elle est raffinée elle va aller chercher dans la complexité et la profondeur des saveurs, dans des "assemblages" originaux et surprenants.
 Goûtez un bon vin : souvent on associe sa complexité à sa qualité. Ce qui est fin, pointu est une autre manière d'exprimer la complexité avec des mots.
 
 Mais Impossible de toucher au but avec des mots, la complexité ne se comprend pas, encore une fois, elle s'appréhende, elle s'expérimente, elle se vit.
@@ -74,7 +74,7 @@ Dans sa dimension écologique, chaque acte de design en revient à **un acte de 
 > -> [[Prendre soin de soi]]
 > -> [[Prendre soin du collectif]]
 > -> [[Prendre soin du monde]]
- 
+
 Dans sa dimension économique, chaque acte de design cherche à développer de nouveaux modèles complexes et systémiques, **permettant ainsi de favoriser la vitalité des organisations tout en en effaçant les aspects dégénératifs.**
 
 Le designer reste au service de l'économie mais plus exclusivement : **il participe à replacer le business au service des humains et de la Vie.**

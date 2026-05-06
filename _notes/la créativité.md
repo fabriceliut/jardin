@@ -1,8 +1,8 @@
 ---
 title: la créativité
 tags:
-  - terminologie
-  - Afairepousser
+ - terminologie
+ - Afairepousser
 ---
 L'émergence de nouveautés qui sont en balance entre très originales ou très adaptés - c'est ce que permet le processus de créativité.
 

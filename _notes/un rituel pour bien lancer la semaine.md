@@ -1,9 +1,9 @@
 ---
 title: un rituel pour bien lancer la semaine
 tags:
-  - tips
-  - guidebook
-  - numérique
+ - tips
+ - guidebook
+ - numérique
 image: /assets/todolundi.png
 ---
 *voici un modèle que j'utilise tous les lundis sur 3h environ pour bien lancer ma semaine, tout poser à plat, planifier et être au clair sur les priorités, les urgences et ainsi la tête au calme et la charge mentale au plus bas.*
@@ -18,7 +18,7 @@ image: /assets/todolundi.png
 - **révision générale** des fiches "projets", de "pipe réseau et commercial", de la liste d'éléments que j'ai produit et qui sont à "composter" (c'est à dire rendre utile pour d'autres projets), la liste des "idées" que j'ai gardé de côté (qui vont devenir soit des projets, des contenus ou que je vais supprimer) et enfin de ma "inbox" de veille (c'est à dire toutes les découvertes, liens, ressources que j'ai capturé pour traiter plus tard)
 - **penser un peu la logistique de semaine** (vêtements, recettes et repas, réservations divers pour que toutes les activités se passent bien)
 - **réviser les devis et facturation en cours**, produire les relances si nécessaire
-- et pour finir, que je fais **seulement le premier lundi de chaque mois** : réviser ma vision, mes stratégies, mes objectifs du moment, la planification du mois pour les grands évènements ou déplacements un peu lourds, une mesure et évaluation financière et m'assurer que j'ai bien des temps pour prendre soin de mois
+- et pour finir, que je fais **seulement le premier lundi de chaque mois** : réviser ma vision, mes stratégies, mes objectifs du moment, la planification du mois pour les grands événements ou déplacements un peu lourds, une mesure et évaluation financière et m'assurer que j'ai bien des temps pour prendre soin de mois
 
 ![]({{page.image}})
 

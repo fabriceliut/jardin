@@ -13,10 +13,10 @@ Parler de résilience de cette manière nous éloigne (peut-être) de ce qu'est 
 
 **Alors permettons-nous d'aller au-delà, pour ne trahir aucun concept, au-delà de la survie et au-delà du retour à la normale. Qu'est-ce qu'on observe chez le reste du vivant ?**
 
--   **Une capacité à s'adapter**, à réagir par rapport à des chocs, d'en tirer des apprentissages pour réagir avec plus d'agilité aux chocs futurs. Avec [le concept d'adaptation](https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/stop-resilience-adaptation-christian-clot/), on ne cherche rien à retrouver comme état, on cherche juste à développer une capacité d'agilité, de rebond, de mouvement et de dynamique dans tous types de conditions ou presque.
--   **L'[[antifragile]]** : "au-delà de la résilience et de la robustesse. Le résilient résiste aux chocs et reste le même ; l'antifragile s'améliore". L'idée est ici de s'améliorer, d'évoluer, de se transformer... Tout le temps ou presque.
--   Le principe de [[synchronie]] : "parvenir à être simultanément dans la réaction aux crises passées et dans la construction du futur".
--   Le mouvement [[régénératif]] : quand un organisme se dégrade, ce n'est jamais isolément ; il vient enrichir par ce qu'il "perd" un autre organisme par le principe de "symbiose". Ce qui est vivant est par définition régénératif, en évolution constante. Ce qui n'est pas le cas d'organismes observés isolés, exactement comme lorsqu'on regarde notre humanité qui est, elle, plutôt dégénérative...
+- **Une capacité à s'adapter**, à réagir par rapport à des chocs, d'en tirer des apprentissages pour réagir avec plus d'agilité aux chocs futurs. Avec [le concept d'adaptation](https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/stop-resilience-adaptation-christian-clot/), on ne cherche rien à retrouver comme état, on cherche juste à développer une capacité d'agilité, de rebond, de mouvement et de dynamique dans tous types de conditions ou presque.
+- **L'[[antifragile]]** : "au-delà de la résilience et de la robustesse. Le résilient résiste aux chocs et reste le même ; l'antifragile s'améliore". L'idée est ici de s'améliorer, d'évoluer, de se transformer... Tout le temps ou presque.
+- Le principe de [[synchronie]] : "parvenir à être simultanément dans la réaction aux crises passées et dans la construction du futur".
+- Le mouvement [[régénératif]] : quand un organisme se dégrade, ce n'est jamais isolément ; il vient enrichir par ce qu'il "perd" un autre organisme par le principe de "symbiose". Ce qui est vivant est par définition régénératif, en évolution constante. Ce qui n'est pas le cas d'organismes observés isolés, exactement comme lorsqu'on regarde notre humanité qui est, elle, plutôt dégénérative...
 
 _Si l'on veut développer la résilience, faire survivre une activité, un business, les renforcer... J'invite ici à penser au-delà de la résilience et à ouvrir la porte à d'autres principes inspirés du vivant._
 

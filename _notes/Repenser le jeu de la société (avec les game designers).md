@@ -1,9 +1,9 @@
 ---
 title: Repenser le jeu de la société (avec les game designers)
 tags:
-  - article
-  - philosophie
-  - Meta-analyse
+ - article
+ - philosophie
+ - Meta-analyse
 ---
 Quand on parle de « jeu », on pense souvent à une parenthèse. Un espace à côté du sérieux. Un sas d’évasion entre deux obligations.
 

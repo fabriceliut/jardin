@@ -1,7 +1,7 @@
 ---
 title: intellect
 tags:
-  - terminologie
+ - terminologie
 ---
 Piste d'étude pour [[décoder la vie]]
 
@@ -12,4 +12,4 @@ Lien avec la [[connaissance]] & la [[pensée]]
 
 ---
 
-#Afairepousser 
+#Afairepousser

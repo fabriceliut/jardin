@@ -1,6 +1,6 @@
 ---
 title: entropie
 tags:
-  - terminologie
+ - terminologie
 ---
 [Lien wiki](https://fr.wikipedia.org/wiki/Entropie) en attendant mon propre traitement.

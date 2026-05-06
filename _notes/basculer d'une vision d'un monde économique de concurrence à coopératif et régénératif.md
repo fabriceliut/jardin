@@ -5,7 +5,7 @@ Le modèle actuel est de concurrence, établi comme étant « normal » et sans 
 
 > (Détailler d’où vient ce modèle, détailler le concept de worldview qui peut être différent à l’actuel parce que ça change tout le temps, cf interview dans le mooc regenerative design)
 
-#Afairepousser 
+#Afairepousser
 
 Et s’il était possible de mettre en place un modèle en [[coopération]] et [[régénératif]]? A quoi ça ressemblerait?
 

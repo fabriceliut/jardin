@@ -1,8 +1,8 @@
 ---
 title: une organisation est comme un corps humain
 tags:
-  - bio-inspiration
-  - régénératif
+ - bio-inspiration
+ - régénératif
 ---
 Comment avoir une meilleure conscience de nos organisations si nous n’avons pas déjà une bonne conscience de notre propre corps? Inspirons nous de nous-même pour trouver des solutions pour nos entreprises.
 
@@ -14,7 +14,7 @@ Comment se comporte notre corps lorsque nous avons une maladie ? Prenons par exe
 
 ### Quand une organisation est mal en point
 
-Comment se comporte la direction d’une organisation lorsque l’organisation va mal? En générale, dans notre culture actuelle, elle demande de redoubler d’effort, pour toutes les parties de l’organisation : si l’on veut retrouver de la croissance, il faut travailler plus, faire rentrer plus de leads. Malheureusement, si les collaborateurs sont épuisés, ou ne trouve plus de sens à toujours rechercher une croissance infinie, alors il y a de forts risques de burnout et d’effondrement de tout le système à agir ainsi. C’est une vision cours terme là où l’organisation à besoin de voir plus loin… **C’est comme prendre ses cachets ( démarches de bien-être au travail par exemple) alors qu’on continue de boire de l'alcool tous les jours…**
+Comment se comporte la direction d’une organisation lorsque l’organisation va mal? En générale, dans notre culture actuelle, elle demande de redoubler d’effort, pour toutes les parties de l’organisation : si l’on veut retrouver de la croissance, il faut travailler plus, faire rentrer plus de leads. Malheureusement, si les collaborateurs sont épuisés, ou ne trouve plus de sens à toujours rechercher une croissance infinie, alors il y a de forts risques de burnout et d’effondrement de tout le système à agir ainsi. C’est une vision cours terme là où l’organisation à besoin de voir plus loin… **C’est comme prendre ses cachets (démarches de bien-être au travail par exemple) alors qu’on continue de boire de l'alcool tous les jours…**
 
 ### Comment être naturopathe de son organisation?
 

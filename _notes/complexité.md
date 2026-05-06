@@ -1,8 +1,8 @@
 ---
 title: complexité
 tags:
-  - terminologie
-  - Afairepousser
+ - terminologie
+ - Afairepousser
 ---
 Concept qui articule l'étude des [[système complexe]] et proche de la [[pensée systémique]] par la [[pensée complexe]].
 

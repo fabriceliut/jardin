@@ -1,8 +1,8 @@
 ---
 title: neurosciences
 tags:
-  - terminologie
-  - Afairepousser
+ - terminologie
+ - Afairepousser
 ---
 En lien avec les concepts de mémoire, de plasticité cérébrale, de développement cognitif ainsi que les différents méchanismes de l'attention.
 

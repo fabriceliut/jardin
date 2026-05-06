@@ -1,7 +1,7 @@
 ---
 title: joies actives
 tags:
-  - philosophie
+ - philosophie
 ---
 Ce sont les joies qui sont alignées avec notre nature profonde.
 Elles sont générées par des activités, des personnes, des pensées qui ne nous consomment pas d'énergie, c'est comme un flow qui se déroule naturellement.

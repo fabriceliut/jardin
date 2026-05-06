@@ -1,9 +1,9 @@
 ---
 title: moins parler pour mieux coopérer
 tags:
-  - Afairepousser
-  - coopération
-  - bio-inspiration
+ - Afairepousser
+ - coopération
+ - bio-inspiration
 ---
 Je ne vois pas pourquoi nous serions l’espèce la plus évoluée. Nous sommes certes en « bout de chaîne » de mutations mais nous ne sommes pas les seuls sur cette terre il y a beaucoup d’humilité à avoir face au reste du vivant.
 
@@ -45,9 +45,9 @@ Est-ce que le langage parlé n’est pas primaire ? Est-ce que des enseignements
 
 ### Comment s’inspirer du vivant pour améliorer nos modes de communication ?
 
--   Utiliser plus le corps que la bouche
--   Parler par le faire et les actes
-- ...
+- Utiliser plus le corps que la bouche
+- Parler par le faire et les actes
+-...
 
 ### Comment coopérer & faire ensemble en toute fluidité ?
 ...

@@ -1,9 +1,9 @@
 ---
 title: rédiger une vision d'entreprise claire et partagée
 tags:
-  - futur
-  - transformation
-  - guidebook
+ - futur
+ - transformation
+ - guidebook
 ---
 Série de contenus spécialement pour partager ce que j’ai appris en travaillant avec des dirigeants de plus utile pour d’autres.
 
@@ -13,13 +13,13 @@ Si ce n’est pas un « oui » franc et sincère en réponse à cette question
 
 Trop souvent j’entends des dirigeants *« sisi, tout le monde connaît la vision, je la répète bien assez à tous les points annuels »*, que ce soit petite ou grande d’entreprise. 
 
-Le problème d’une vision qui n’est pas synthétisée avec la discipline de l’écriture c’est qu’elle sera toujours interprétée et sans référentiel commun elle sera détournée et transformée, effet téléphone arabe.   
+Le problème d’une vision qui n’est pas synthétisée avec la discipline de l’écriture c’est qu’elle sera toujours interprétée et sans référentiel commun elle sera détournée et transformée, effet téléphone arabe. 
 
 Elle va aussi perdre de sa puissance, de sa vibration. Ce sera juste une histoire de fond dont on ne parle pas souvent, bien cachée derrière les indicateurs de mesure et les urgences réactives du quotidien. 
 
 Sauf que ce que je vois à chaque fois sans vision clairement posée, c’est des collaborateurs qui sont bien en dessous de l’engagement de la direction et une direction frustrée qui va tenter de renforcer cet engagement par pleins de moyens différents sans pour autant en revenir à l’essentiel : **poser la vision clairement, en une phrase, à l’écrit.** 
 
-Il ne faut jamais réduire la puissance des mots et du récit. Une vision bien posée est aussi puissante qu’un mantra et elle va demander un travail complexe pour qu’elle émerge mais un travail essentiel.  
+Il ne faut jamais réduire la puissance des mots et du récit. Une vision bien posée est aussi puissante qu’un mantra et elle va demander un travail complexe pour qu’elle émerge mais un travail essentiel. 
 
 Ce travail de génération de vision et d’écriture je l’ai mené plusieurs fois et ça va nécessité un bon contexte de travail et surtout les bonnes personnes. 
 
@@ -44,9 +44,9 @@ Cela dit, faire de l’argent n’est qu’un moyen, quelle est la vision réell
 
 - La sécurité des collaborateurs?
 - La prospérité ?
-- La capacité de se développer, de gagner en puissance et en potentiel financier? 
+- La capacité de se développer, de gagner en puissance et en potentiel financier?
 
-J’ai déjà eu des dirigeants qui partaient d’une entreprise purement commerciale pour approfondir sur une organisation capable de sécuriser ses collaborateurs et de leur assurer une prospérité long terme.  
+J’ai déjà eu des dirigeants qui partaient d’une entreprise purement commerciale pour approfondir sur une organisation capable de sécuriser ses collaborateurs et de leur assurer une prospérité long terme. 
 
 C’est ce qu’on trouve souvent dans des entreprises familiales par exemple. C’est une inspiration possible. 
 

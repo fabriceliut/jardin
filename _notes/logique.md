@@ -1,7 +1,7 @@
 ---
 title: logique
 tags:
-  - terminologie
+ - terminologie
 ---
 ## point sur la logique occidentiale
 

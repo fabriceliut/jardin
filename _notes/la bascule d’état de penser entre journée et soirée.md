@@ -1,8 +1,8 @@
 ---
 title: la bascule d’état de penser entre journée et soirée
 tags:
-  - atome
-  - Meta-analyse
+ - atome
+ - Meta-analyse
 ---
 >c'est une analyse pour "[[pratiquer la meta conversation]]" : notre alternance de mode de fonctionnement cognitif.
 

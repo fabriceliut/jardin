@@ -1,8 +1,8 @@
 ---
 title: mon intention du moment
 tags:
-  - philosophie
-  - projet
+ - philosophie
+ - projet
 ---
 Je fais gagner vos équipes en efficacité et en joie.
 

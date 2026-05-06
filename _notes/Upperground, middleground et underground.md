@@ -1,9 +1,9 @@
 ---
 title: Upperground, middleground et underground
 tags:
-  - société
-  - art
-  - systémique
+ - société
+ - art
+ - systémique
 ---
 Ce sont 3 concepts qui permette d'avoir une lecture plus claire de la #société.
 Ils fonctionnent en analogie avec la Forêt :

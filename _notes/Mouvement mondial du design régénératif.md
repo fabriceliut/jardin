@@ -1,8 +1,8 @@
 ---
 title: Mouvement mondial du design régénératif
 tags:
-  - régénératif
-  - article
+ - régénératif
+ - article
 ---
 L'humanité est confrontée à de nombreuses menaces mondiales résultant de l'ampleur, du rythme et de l'intensité des changements de nos systèmes culturels, technologiques, politiques et économiques. Ce qui nous manque, c'est la capacité d'appréhender et de guider ce processus évolutif extrêmement complexe à l'échelle de la société.
 
@@ -13,13 +13,13 @@ C'est ce qu'on appelle une démarche de [[design systémique]] & [[design régé
 Et en ce qui me concerne ? Je donnerais toute l'énergie nécessaire pour dynamiser ce mouvement [[régénératif]] en France et en Europe, notamment avec l'[[Archipel Kyosei]].
 
  👉 [Soutenir le mouvement](https://www.buymeacoffee.com/liut)
- 
+
 ### Ce que soutenir ce mouvement vous apporte directement.
 - Accès en lecture à notre plateforme de veille & de recherche. Ainsi, vous profitez de toutes les avancés des recherches en temps réel & disposez en tant que membre de tous les outils, méthodes, ressources et documentations que nous regroupons et créons.
 - Accès à une newsletter une fois par mois qui regroupe notre veille, ressources & outils. Vous n'avez pour ainsi dire plus besoin de prendre du temps de votre côté, nous vous partageons tout de notre travail de plus de 2h par jour de veille, regroupement, analyse, trie et croisement de ressources et connaissances.
 - Vous faites partie intégrante de ce mouvement qui oeuvre à installer le Design Régénératif dans la culture design de tous les acteurs, organisations & territoires.
 - Accès à une plateforme d'échange entre tous les membres participants à ce mouvement !
-- Accès à tous les évènements gratuitement, que ce soit online ou en physique.
+- Accès à tous les événements gratuitement, que ce soit online ou en physique.
 Une première rencontre ensemble pour intégrer ta démarche personnelle dans ce mouvement coopératif !
 
 ## 👉 [Soutenir le mouvement](https://www.buymeacoffee.com/liut)

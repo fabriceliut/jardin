@@ -7,7 +7,7 @@ Est-ce que tu n’aurais pas envie d’explorer ce rêve avec la personne qui te
 
 Pourquoi est-ce qu’on ne considère pas la vie de la même manière: après tout ça commence et ça s’arrête comme un rêve et c’est tout autant inexplicable.
 
-Ça permettrait d’arrêter de tourner en rond parfois dans des aventures qui ne nous vont pas: pourquoi s’enfermer quand la vie est un rêve si large et beau à explorer: il est temps d'explorer et de profiter à fond de l'aventure surtout si on a la chance de pouvoir la partager avec d'autres rêveurs éveillés. 
+Ça permettrait d’arrêter de tourner en rond parfois dans des aventures qui ne nous vont pas: pourquoi s’enfermer quand la vie est un rêve si large et beau à explorer: il est temps d'explorer et de profiter à fond de l'aventure surtout si on a la chance de pouvoir la partager avec d'autres rêveurs éveillés.
 
 Tu ferais quoi toi dans un rêve lucide?
 

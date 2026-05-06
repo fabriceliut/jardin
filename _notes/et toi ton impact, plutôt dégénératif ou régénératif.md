@@ -1,7 +1,7 @@
 ---
 title: et toi ton impact, plutôt dégénératif ou régénératif
 tags:
-  - régénératif
+ - régénératif
 ---
 j'ai ouvert cette réflexion récemment à propos de l’impact des hommes sur la nature et le vivant :
 - depuis très longtemps ça n’a jamais été une priorité sociétale
@@ -10,7 +10,7 @@ j'ai ouvert cette réflexion récemment à propos de l’impact des hommes sur l
 
 l’étape suivante serait que la conscience et priorité écologique rentre dans les habitudes et la culture..mmm.. affaire à suivre !
 
-> tout le monde s’en fout > dangereux > évident - est-ce qu'on serait sur cette progression?  
+> tout le monde s’en fout > dangereux > évident - est-ce qu'on serait sur cette progression?
 
 personnellement le passage à l’évidence reste un saut énorme en terme de conscience > c'est une bascule dans une nouvelle approche du monde et du quotidien beaucoup plus humble mais complexe aussi.
 

@@ -1,8 +1,8 @@
 ---
 title: Vous savez qu’il faut que votre entreprise évolue mais vous ne savez pas comment pousser ça seul
 tags:
-  - transformation
-  - guidebook
+ - transformation
+ - guidebook
 ---
 > comment est-ce possible, malgré toutes les informations dont on dispose aujourd'hui, qu'on continue de faire tourner l'entreprise et nos activités de la même manière sans chercher à transformer notre manière de faire face aux enjeux écologiques?”
 
@@ -19,7 +19,7 @@ il y a assez de cas exemples désormais pour vous assurer que ça peut se faire,
 **Nous pouvons le faire ensemble, entre acteurs internes et externes** pour répondre à cette intention qu'on a en commun de faire vite évoluer les modèles des organisations pour plus de sobriété, d'intelligence de production, de durabilité, d'impact positif...
 
 j'invite au premier lien et surtout ne restez jamais figés! s'il y a des choses à changer et même si c'est complexe... il y a des solutions à trouver ou inventer ensemble et avec les autres qui partagent notre intention commune de changement, par exemple avec ceux de [[Archipel Kyosei]].
-  
+
 **c'est ma raison d'être personnelle**: j'ai besoin de vous pour travailler à changer le système dans lequel vous évoluez au quotidien.
 
 alors, [on s'appelle](calendly.com/liut) et on voit comment faire évoluer les choses?

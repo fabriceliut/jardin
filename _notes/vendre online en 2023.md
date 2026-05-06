@@ -1,9 +1,9 @@
 ---
 title: vendre online en 2023
 tags:
-  - business
-  - psychologie
-  - communitydesign
+ - business
+ - psychologie
+ - communitydesign
 ---
 Comment vendre en passant par les internets? J’ai il y a quelques mois découvert une philosophie qui me semble coller à merveille à notre époque et qui permet de sortir des clichés de vente et du marketing. Et en plus, ça vend!
 

@@ -1,8 +1,8 @@
 ---
 title: Les 4 accords Toltèques
 tags:
-  - spiritualité
-  - philosophie
+ - spiritualité
+ - philosophie
 ---
 - Que votre parole soit impeccable.
 - N'en faites jamais une affaire personnelle.

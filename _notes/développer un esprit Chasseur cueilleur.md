@@ -22,10 +22,10 @@ Travailler plus pour gagner plus de blé. Stocker ce blé pour investir dans la 
 ## Renouer avec le chasseur cueilleur dès aujourd'hui
 
 Certains tentent cela dit de s’extraire de leur héritage de « culture » pour renouer avec un mode de vie et donc de penser plus ancien, juste avant que tout bascule.
- 
-Et je ne parle pas ici de s’extraire radicalement et violemment d’un système donné pour retourner à la forêt. Je parle d’initier les premiers pas par le changement intérieur - transformer le mode de pensée avant le mode de vie.  
 
-Se rendre compte à quel point nous pouvons être des cultivateurs et se questionner sur comment ce serait d’être plutôt chasseur cueilleur, nomade.  
+Et je ne parle pas ici de s’extraire radicalement et violemment d’un système donné pour retourner à la forêt. Je parle d’initier les premiers pas par le changement intérieur - transformer le mode de pensée avant le mode de vie.
+
+Se rendre compte à quel point nous pouvons être des cultivateurs et se questionner sur comment ce serait d’être plutôt chasseur cueilleur, nomade.
 
 ### Ce qui me vient de mes explorations actuelles :
 

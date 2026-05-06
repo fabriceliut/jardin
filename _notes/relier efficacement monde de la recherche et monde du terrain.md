@@ -1,9 +1,9 @@
 ---
 title: relier efficacement monde de la recherche et monde du terrain
 tags:
-  - régénératif
-  - transformation
-  - Afairepousser
+ - régénératif
+ - transformation
+ - Afairepousser
 ---
 ### contexte
 Suite à discussion avec Olaf, un ami de [[Archipel Kyosei]]

@@ -1,8 +1,8 @@
 ---
 title: la vie en tribus nomades
 tags:
-  - fiction
-  - rêve
+ - fiction
+ - rêve
 ---
 Je vous partage un rêve d’un mode de vie que je ne connais pas mais qui m’inspire beaucoup.
 
@@ -12,7 +12,7 @@ J’ai toujours eu ce sentiment en moi qui me fait sentir que notre mode de vie 
 
 J’ai toujours eu l’appel de la communauté: faire partie d’un groupe qui partage le quotidien et qui explore la vie ensemble.
 
-Que ce soit de la famille, des amis, des proches mais aussi mêlé à d’autre que je ne connais pas encore et qui vont venir pendant un temps apporter leur regard sur le monde et leur diversité.  
+Que ce soit de la famille, des amis, des proches mais aussi mêlé à d’autre que je ne connais pas encore et qui vont venir pendant un temps apporter leur regard sur le monde et leur diversité.
 
 Depuis que je suis papa ce sentiment c’est renforcé: je vois bien les limites du modèle de la famille atomique et des services autour comme la crèche et l’école pour tenter d’équilibrer la balance. Mais ça reste pour moi "un gros bricolage" et toujours plutôt dégénératif en l’état.
 
@@ -22,9 +22,9 @@ Et aussi, je vois les enfants sages et heureux en déplacement, que ce soit à v
 
 J’ai le sentiment qu’un mode de vie en tribu nomade serait beaucoup plus résilient voir [[régénératif]]. Mais je ne sais pas encore comment dans un monde qui est bien différent de nos ancêtres.
 
-- la notion de propriété est partout et les règles sont lourdes.  
-- Il y a l’impossibilité de s’installer temporairement où l’on veut et la lourdeur de faire l’école « à la maison ».  
-- pas si simple aussi de monter une tribu avec une 30ène d’individus qui n’ont plus les codes de comment vivre ensemble sur le moyen et long terme, de comment s’accorder sur les déplacements et les envies de lieux de vie.  
+- la notion de propriété est partout et les règles sont lourdes.
+- Il y a l’impossibilité de s’installer temporairement où l’on veut et la lourdeur de faire l’école « à la maison ».
+- pas si simple aussi de monter une tribu avec une 30ène d’individus qui n’ont plus les codes de comment vivre ensemble sur le moyen et long terme, de comment s’accorder sur les déplacements et les envies de lieux de vie.
 
 Tout cela posé, j’ai quand même le sentiment que tendre vers ce mode de vie serait beaucoup plus sain qu’un autre.
 
@@ -36,6 +36,6 @@ Mais avant même d’essayer quoi que ce soit il faut y croire. Croire en un aut
 
 Je dois encore explorer, chercher, découvrir. Mais je sens la tension dans ce sens: la tribu nomade.
 
-Plusieurs espaces de vies sur les territoires, des déplacements lents sur plusieurs mois et des sessions plus ou moins longues dans les lieux aussi. Et quand on sent que ça fait du bien de bouger le faire et savoir le faire bien ensemble.  
+Plusieurs espaces de vies sur les territoires, des déplacements lents sur plusieurs mois et des sessions plus ou moins longues dans les lieux aussi. Et quand on sent que ça fait du bien de bouger le faire et savoir le faire bien ensemble.
 
 Rejoindre une tribu en mouvement. Prendre la direction des aspirations du groupe. Redécouvrir le quotidien autrement que ce qu’on connaît déjà.

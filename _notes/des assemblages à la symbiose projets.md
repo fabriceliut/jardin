@@ -6,7 +6,7 @@ Réside ici toute la complexité de l'approche - la symbiose peut exister entre 
 > c'est toute la magie de la symbiose - la tomate ne se force en rien quand elle est en interaction avec le basilic, et le basilic non plus.
 
 Ce qui est en action est documenté pour venir inspirer de nouveaux projets
-Tous les projets s'articulent en assemblage global - 
+Tous les projets s'articulent en assemblage global -
 lien avec [[la toile de la Vie]].
 
 #Afairepousser 

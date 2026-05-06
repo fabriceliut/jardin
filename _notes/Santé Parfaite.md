@@ -1,9 +1,9 @@
 ---
 title: Santé Parfaite
 tags:
-  - régénératif
-  - spiritualité
-  - santé
+ - régénératif
+ - spiritualité
+ - santé
 ---
 Le concept de santé parfaite vient de Deepak Chopra & de [son ouvrage](https://fr.wikipedia.org/wiki/Deepak_Chopra) portant le même nom.
 
@@ -19,6 +19,6 @@ Je développerais ici prochainement tout ce que j'ai appris pour se rapprocher d
 - [[Mouvement Naturel]] & [[Yoga]]
 - Alimentation Ayurvédique
 - Méditation
-- ...
+-...
 
 Je préciserais bien aussi : plus souvent facile à dire que à faire d'être sur la voie de la santé parfaite. Pour [[Prendre soin de soi]].

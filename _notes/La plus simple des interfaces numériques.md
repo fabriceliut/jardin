@@ -1,9 +1,9 @@
 ---
 title: La plus simple des interfaces numériques
 tags:
-  - knowledgemanagement
-  - numérique
-  - Afairepousser
+ - knowledgemanagement
+ - numérique
+ - Afairepousser
 ---
 Depuis maintenant plus de 10 ans, je me passionne à suivre l’évolution de nos outils numériques, en tant qu’accompagnant à la gestion de projet, gestion de la connaissance, mais aussi en tant qu'UX Designer.
 

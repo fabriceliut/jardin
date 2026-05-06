@@ -1,8 +1,8 @@
 ---
 title: Design Sprint
 tags:
-  - designs
+ - designs
 ---
 Voir la page [[facilitation]] pour plus de détails.
 
-#Afairepousser 
+#Afairepousser

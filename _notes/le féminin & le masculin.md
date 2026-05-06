@@ -1,36 +1,36 @@
 ---
 title: le féminin & le masculin
 tags:
-  - spiritualité
-  - Meta-analyse
+ - spiritualité
+ - Meta-analyse
 ---
 je propose de présenter le féminin comme l'énergie Yin et le masculin comme l'énergie Yang. les principes de ces 2 énergies sont exactement les même que présentés dans les théories orientales qui utilisent les principes yin/yang.
 
-pour bien comprendre les différences et complémentarités directes de ces énergies, je propose ce tableau : 
+pour bien comprendre les différences et complémentarités directes de ces énergies, je propose ce tableau :
 
-| Caractéristique                  | Énergie Yin féminine | Énergie Yang masculine |
+| Caractéristique | Énergie Yin féminine | Énergie Yang masculine |
 |---------------------------------|----------------------|------------------------|
-| Source d'énergie                 | Intérieure           | Extérieure             |
-| Nature introspective            | Oui                  | Non                    |
-| Force de résistance              | Acceptation          | Action                 |
-| Mouvement                         | Fluide                | Direct                 |
-| Qualités principales             | Douceur, sensibilité | Force, détermination   |
-| Expression émotionnelle           | Expressive           | Contrôlée              |
-| Communication                    | Verbale, non-verbale  | Verbale                |
-| Représentation                   | Lune                 | Soleil                 |
-| Relation avec l'environnement    | Nurturance            | Domination             |
-| Inspiration artistique            | Créativité intuitive | Créativité rationnelle |
-| Cycles et rythmes                 | Cyclique              | Linéaire               |
-| Équilibre                         | Interne               | Externe                |
-| Préférence de travail             | Collaboration        | Compétition            |
-| Approche de résolution des problèmes | Holistique           | Analytique             |
-| Polarité                          | Négative              | Positive               |
+| Source d'énergie | Intérieure | Extérieure |
+| Nature introspective | Oui | Non |
+| Force de résistance | Acceptation | Action |
+| Mouvement | Fluide | Direct |
+| Qualités principales | Douceur, sensibilité | Force, détermination |
+| Expression émotionnelle | Expressive | Contrôlée |
+| Communication | Verbale, non-verbale | Verbale |
+| Représentation | Lune | Soleil |
+| Relation avec l'environnement | Nurturance | Domination |
+| Inspiration artistique | Créativité intuitive | Créativité rationnelle |
+| Cycles et rythmes | Cyclique | Linéaire |
+| Équilibre | Interne | Externe |
+| Préférence de travail | Collaboration | Compétition |
+| Approche de résolution des problèmes | Holistique | Analytique |
+| Polarité | Négative | Positive |
 
 ^d9olkw
 
 ce sont des généralisations et chaque individu peut présenter des variations dans les caractéristiques de son énergie Yin ou Yang : ce n'est jamais 100% d'un côté ou de l'autre mais toujours un mélange subtil et en mouvement constant.
 
-au niveau sociétal, nous avons comme priorité de favoriser  [[une société sous le lead de l'énergie du féminin]] pour contre balancer le trop de masculin depuis trop d'années.
+au niveau sociétal, nous avons comme priorité de favoriser [[une société sous le lead de l'énergie du féminin]] pour contre balancer le trop de masculin depuis trop d'années.
 
 ### aussi, les associations qu'on peut faire par rapport aux symboles des éléments :
 

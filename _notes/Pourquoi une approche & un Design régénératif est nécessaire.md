@@ -2,8 +2,8 @@
 title: Pourquoi une approche & un Design régénératif est nécessaire
 image: /assets/coopererregenerer.jpeg
 tags:
-  - régénératif
-  - article
+ - régénératif
+ - article
 ---
 ![]({{page.image}})
 

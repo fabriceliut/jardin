@@ -1,7 +1,7 @@
 ---
 title: Règles de calcul de mes tarifs
 tags:
-  - chiefofstaff
+ - chiefofstaff
 ---
 j'ai à coeur d'être le plus transparent, explicite et surtout le plus juste dans les tarifs que je pratique alors **voici les détails de mes pricings**.
 

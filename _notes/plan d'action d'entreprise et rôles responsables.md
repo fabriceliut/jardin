@@ -1,8 +1,8 @@
 ---
 title: plan d'action d'entreprise et rôles responsables
 tags:
-  - Afairepousser
-  - guidebook
+ - Afairepousser
+ - guidebook
 ---
 Suite de cette série pour partager ce que j’ai appris de plus important avec les dirigeants que j’ai accompagné qui peut enrichir les autres. 
 
@@ -50,7 +50,7 @@ En somme, tout le nécessaire et didactique pour que l’humain qui va porter le
 
 Aussi, si un collaborateur clé ou historique quitte l’entreprise, l’entreprise perd un porteur de rôle et plus le rôle lui-même!
 
-Pour que ce fonctionnement en rôles fonctionne il faut aussi s’assurer de mettre en place une culture de la documentation pour que l’historique du rôle et ses ressources soient mises à jour en continue.  
+Pour que ce fonctionnement en rôles fonctionne il faut aussi s’assurer de mettre en place une culture de la documentation pour que l’historique du rôle et ses ressources soient mises à jour en continue. 
 
 Je développe dans un autre article sur le [[management de la connaissance]] comme ressource essentielle au bon fonctionnement d'une organisation. 
 
@@ -65,7 +65,7 @@ Possible aussi pour un humains de dynamiser plusieurs rôles… mais je rentrera
 
 ### Et les responsabilités?
 
-Je n’ai pas le choix que de développer cette dimension du rôle parce que c’est le cœur et c’est souvent ce qui est floue dans l’organisation : les humains ne savent pas exactement de quoi ils sont pleinement responsables. Ils savent sur quoi ils doivent travailler, projet et tâches mais pas exactement si c’est à eux ou quelqu’un d’autre de s’assurer que ça avance bien, de réviser, relancer etc.. 
+Je n’ai pas le choix que de développer cette dimension du rôle parce que c’est le cœur et c’est souvent ce qui est floue dans l’organisation : les humains ne savent pas exactement de quoi ils sont pleinement responsables. Ils savent sur quoi ils doivent travailler, projet et tâches mais pas exactement si c’est à eux ou quelqu’un d’autre de s’assurer que ça avance bien, de réviser, relancer etc..
 
 On associe traditionnellement la responsabilité de suivi et de tenu des deadlines et des budgets aux managers mais alors de quoi le collaborateur à la production est responsable? 
 
@@ -99,7 +99,7 @@ Il est conscient que s’il n’est pas assez actif dans son rôle, il bloque un
 - Spécifier les redevabilités en échange d’une bonne tenu des responsabilités (économique bien entendu mais autres aussi)
 - Spécifier une estimation de la charge de travail du rôle par semaine suivant ses responsabilités 
 - S’il y a des politiques d’entreprise qui s’appliquent au rôle les spécifier 
- 
+
 
 J’ai crée un Canvas « fiche de rôle » pour vous aider dans la bonne écriture et la bonne conduite de l’atelier.
 

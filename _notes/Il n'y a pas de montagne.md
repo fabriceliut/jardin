@@ -17,7 +17,7 @@ Alors pas de sommet, plus d'objectif et donc plus de chemin pour aller vers... M
 J'aime à penser que nous ne sommes pas limités à cette vision verticale de l'ascension, de la croissance, de l'évolution vers un point ultime, plus haut, plus fort, plus sage, plus fou. Il existe aussi une « pensée horizontale », celle de la curiosité, de l'exploration, de la découverte pour le simple fait de découvrir et au rythme qui est propre à chacun.
 
 Depuis très longtemps, les hommes sont inspirés par des mythes très différents mais assez similaires en profondeur : il y a quelque chose d'immense, de vertigineux, de fascinant et de puissant à découvrir plus haut, plus loin ou plus en profondeur. Il faut alors partir, grimper ou plonger dans ses abysses intérieurs pour découvrir le trésor caché, l'ultime secret, l'âme ou Dieu.
-Pourtant, depuis longtemps aussi, ce n'est pas forcément le sage ou l'intellectuel qui est au plus proche du sommet : c'est le simple, l'ignorant, le fou. 
+Pourtant, depuis longtemps aussi, ce n'est pas forcément le sage ou l'intellectuel qui est au plus proche du sommet : c'est le simple, l'ignorant, le fou.
 Ce n'est pas la raison ou la pensée qui aide à avancer sur le chemin, mais l'ouverture du cœur, l'expression de l'intuition et du ressenti. Mais ça, c'est celui qui pense et qui parle qui le dit, et au moment même où j'écris ces mots, c'est comme si j'essayais de tracer un nouveau chemin vers la révélation ultime de « comment vivre »... Je crée une montagne, je cherche à donner du sens à ce que je fais pour lui donner de la valeur. Alors, je m'en rends compte et j'arrête.
 
 ## Il n'y a pas de montagne.

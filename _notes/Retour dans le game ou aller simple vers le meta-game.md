@@ -1,8 +1,8 @@
 ---
 title: Retour dans le game ou aller simple vers le meta-game
 tags:
-  - Meta-analyse
-  - Afairepousser
+ - Meta-analyse
+ - Afairepousser
 ---
 **Ce que j'appelle ici "game" c'est notre jeu de société** : des semaines d'activités divers pour faire rentrer de l'argent nécessaire à "vivre", prendre soin de notre famille & amis, nous divertir, etc...
 
@@ -18,7 +18,7 @@ Même s'il n'y a rien à comprendre en définitif, c'est toujours très enrichis
 
 _...En attendant_
 
--   Est-ce que le Game devient le Meta-game en 2021 ?
--   Qu'est-ce que la coopération, en profondeur ?
--   C'est quoi le vivant ? Différence entre "vie" & "nature".
--   ...
+- Est-ce que le Game devient le Meta-game en 2021 ?
+- Qu'est-ce que la coopération, en profondeur ?
+- C'est quoi le vivant ? Différence entre "vie" & "nature".
+-...

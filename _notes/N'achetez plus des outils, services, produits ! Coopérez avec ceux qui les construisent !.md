@@ -1,7 +1,7 @@
 ---
 title: N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !
 tags:
-  - outils
+ - outils
 ---
 
 L'humain évolue dans un monde de la technique comme solution à tout depuis bien longtemps. L'ère industrielle n'a pas aidé à calmer ça, elle l'a développée et rendue culturellement normalisée.
@@ -84,7 +84,7 @@ Ce sera utile, innovant, disruptif même très certainement. **Par dessus tout,
 
 Sur le schéma que je vous partage dans cet article, il y a deux "étages" de plus. Alors pour les curieux, je vous partage rapidement la "logique" derrière :
 
-- Pour créer des modèles, que ce soit mathématique ou même psychologique, il faut [[Les Théories]] . Par exemple, un modèle d'apprentissage comme Steiner : il y a derrière toute une recherche théorique, sur le plan psychologique, biologique, philosophique.
+- Pour créer des modèles, que ce soit mathématique ou même psychologique, il faut [[Les Théories]]. Par exemple, un modèle d'apprentissage comme Steiner : il y a derrière toute une recherche théorique, sur le plan psychologique, biologique, philosophique.
 - **Souvent ceux qui "théorisent" terrorisent ceux qui sont plus concrets :** Des thèses de 500 pages font toujours peur ! Souvent, les théories restent complexes ; elles sont alors vulgarisées par ceux qui savent le faire et traduites en modèles, méthodes et même outils...
 
 **Problème :** si les vulgarisateurs prennent trop de raccourcis, ils perdent le "fil logique" : alors, l'outil, la méthode ou le modèle ne repose sur rien ! Il ne fonctionne que parce qu'on lui fait confiance. Ce n'est plus sur une base de théorie logique mais sur une base de [[Storytelling]]. **Prenons l'exemple de notre système capitaliste :** il ne repose sur aucune théorie logique. Nos vérités scientifiques ? Elles éclatent en ce moment car on découvre que les bases ne reposent que sur des hypothèses : en gros, des histoires :)
@@ -101,7 +101,7 @@ Sur le schéma que je vous partage dans cet article, il y a deux "étages" de pl
 
 **Pour finir, pourquoi sur le schéma cette case "ciel/soi"...** C'est un peu perché certes, mais pour utiliser son cerveau, sa logique, il faut bien de la matière. La logique permet de structurer, de rationaliser, mais structurer quoi ? **D'ou vient la matière première de notre cerveau ?**
 
-**Pour certain, elle vient de notre [[Inconscient]] . Regardez du côté du psychanalyste Jung par exemple. La matière première, qui crée les idées, ce serait les inspirations.** Les [[Inspirations]] viennent de l'imaginaire et donc, de l'inconscient. [[la créativité]], c'est connecter de manière logique des idées comme elles n'ont jamais été connectées avant. Pour se faire, avec le cerveau "logique" il faut de la matière première neuve. Il faut donc laisser la place à [[l'émergence]] de [[l'imaginaire]], qui va créer de l'inspiration et POF, des idées nouvelles ! Avec ça, l'humain peut créer de nouvelles théories... Et ainsi de suite.
+**Pour certain, elle vient de notre [[Inconscient]]. Regardez du côté du psychanalyste Jung par exemple. La matière première, qui crée les idées, ce serait les inspirations.** Les [[Inspirations]] viennent de l'imaginaire et donc, de l'inconscient. [[la créativité]], c'est connecter de manière logique des idées comme elles n'ont jamais été connectées avant. Pour se faire, avec le cerveau "logique" il faut de la matière première neuve. Il faut donc laisser la place à [[l'émergence]] de [[l'imaginaire]], qui va créer de l'inspiration et POF, des idées nouvelles ! Avec ça, l'humain peut créer de nouvelles théories... Et ainsi de suite.
 
 **Comment libérer [[l'imaginaire]] ?** En lui laissant de la place, en arrêtant de réfléchir tout le temps et de rationaliser tout le temps. Les "eurêka !" surviennent souvent sous la douche : une nouvelle matière pénètre la logique du scientifique pendant qu'il se frotte le dos : c'est exactement l'élément qui lui manquait pour terminer sa théorie !
 

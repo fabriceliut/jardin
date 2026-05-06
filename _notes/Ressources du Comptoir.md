@@ -1,7 +1,7 @@
 ---
 title: Ressources du Comptoir
 tags:
-  - projet
+ - projet
 ---
 ## **Toutes nos ressources sont en commun et propriétés de tous suivant la logique de l’open-source et de la création ouverte.**
 
@@ -58,7 +58,7 @@ Régulièrement, une lettre de Fabrice, notre expert explorations et ressources,
 
 Toutes les ressources théoriques & scientifiques.
 
-- [Les Pad](https://hackmd.io/profile) des évènements, ateliers et recherches de Fabrice Liut.
+- [Les Pad](https://hackmd.io/profile) des événements, ateliers et recherches de Fabrice Liut.
 
 ## Curiosités & Explorations.
 

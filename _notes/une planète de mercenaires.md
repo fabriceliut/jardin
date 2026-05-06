@@ -1,7 +1,7 @@
 ---
 title: une planète de mercenaires
 tags:
-  - société
+ - société
 ---
 # Une planète de mercenaires
 
@@ -33,8 +33,8 @@ Au final, il y a nécessairement besoin d'acteurs, d'entreprises, qui produisent
 
 Mais qu'est-ce qui peut bien porter une valeur suffisante pour qu'un humain échange de l'argent pour l'acquérir ? Qu'est-ce qui peut bien valoir la peine de "faire la guerre" ?
 
--   Un produit qui répond à un besoin fondamental : nourriture, logement, chaleur, eau, sécurité ou protection contre agression (survie), respiration, mobilité, sexualité, sommeil, traitement des déchets.
--   Un produit ou service qui répond à un besoin de sécurité plus poussé voir de l'ordre du confort physique ou psychologique : stabilité, prévisibilité, comble les peurs, les angoisses...
+- Un produit qui répond à un besoin fondamental : nourriture, logement, chaleur, eau, sécurité ou protection contre agression (survie), respiration, mobilité, sexualité, sommeil, traitement des déchets.
+- Un produit ou service qui répond à un besoin de sécurité plus poussé voir de l'ordre du confort physique ou psychologique : stabilité, prévisibilité, comble les peurs, les angoisses...
 
 Tout les autres niveaux de la pyramide des besoins ne sont pas de l'ordre d'une initiative de production concrète : Besoin d'appartenance & d'amour, de confiance, de reconnaissance, de respect, d'appréciation des autres, besoin d'accomplissement de soi.
 
@@ -112,7 +112,7 @@ Dans laquelle il n'y a que des producteurs locaux, des fournisseurs locaux tous 
 
 **L'initiative de production est alors collective** : il faut produire ce dont une communauté locale a besoin. Pour se faire, il faut connaître les qualités et quantités à produire, répartir des rôles de contributions et collaborer pour que l'initiative atteigne son équilibre :
 
--   suffisamment de nourriture, logement, chaleur, eau, sécurité ou protection contre agression (survie), respiration, mobilité, sexualité, sommeil, traitement des déchets pour tous.
--   suffisamment de confort physique ou psychologique : stabilité, prévisibilité, comble les peurs, les angoisses...
+- suffisamment de nourriture, logement, chaleur, eau, sécurité ou protection contre agression (survie), respiration, mobilité, sexualité, sommeil, traitement des déchets pour tous.
+- suffisamment de confort physique ou psychologique : stabilité, prévisibilité, comble les peurs, les angoisses...
 
 Ainsi, en développant la production suivant une initiative collective, chaque membre peut alors combler ses besoins d'appartenance & d'amour, de confiance, de reconnaissance, de respect, d'appréciation des autres, d'accomplissement de soi. - Car chacun dans le collectif local en questions porte un rôle de collaborateur et contributeur.

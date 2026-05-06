@@ -1,7 +1,7 @@
 ---
 title: diverger & converger mais en qualité
 tags:
-  - designs
+ - designs
 ---
 dans l'approche du [[Design thinking]] on parle de 2 grandes phases de créativité : la divergence et la convergence.
 simplement, la première phase permet de générer une quantité de questions, d'inspirations, d'idées ou de concepts et la phase de convergence va tenter un filtrage pour ne conserver que l'essentiel et le plus adapté à la problématique, au besoin ou au challenge adressé.

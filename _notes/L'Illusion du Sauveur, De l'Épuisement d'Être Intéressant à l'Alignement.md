@@ -1,7 +1,7 @@
 ---
 title: L'Illusion du Sauveur, De l'Épuisement d'Être Intéressant à l'Alignement
 tags:
-  - article
+ - article
 ---
 Il y a cette pensée qui revient, lancinante : l'impression de ne pas être particulièrement intéressant. Ni intellectuellement stimulant, ni doté de cette « énergie » magnétique qui attire les autres. Je croise des connaissances, elles ne s'arrêtent pas forcément, et le verdict intérieur tombe : mon aura est vide.
 

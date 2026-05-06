@@ -1,7 +1,7 @@
 ---
 title: coopération
 tags:
-  - terminologie
+ - terminologie
 ---
 *"Une coopération réussie repose sur un résultat produit en commun. Encore mieux un résultat gagnant-gagnant. Encore mieux : un résultat gagnant pour moi, gagnant pour l'autre et gagnant pour ceux que l'on a impacté."* - Définition de Christophe Dumais.
 
@@ -17,7 +17,7 @@ Et ça s’applique avec les humains, les organisations, les projets, l’inform
 
 le rôle de l'accompagnant est de faciliter les coopérations, fluidifier les démarches de co-construction, structurer et animer des communautés de pratiques ([[community design]]), initier et faire vivre des écosystèmes d’affaire et de territoires etc…
 
-le [[project management]] est également un levier puissant de coopération. 
+le [[project management]] est également un levier puissant de coopération.
 
 ### constat d'expérience +15 ans
 nous sommes une espèce avant tout sociale et pourtant la coopération n'est toujours pas chose évidente...

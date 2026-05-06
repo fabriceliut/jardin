@@ -1,7 +1,7 @@
 ---
 title: La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?
 tags:
-  - article
+ - article
 ---
 Nous connaissons tous cette sensation. Ce moment précis, en réunion, lors d'un dîner de famille ou dans une administration, où une phrase, un rire ou une émotion monte en nous, prêt à jaillir... et se heurte soudainement à un mur invisible. La gorge se serre, le corps se raidit, et nous rentrons sagement dans le rang. Nous venons de nous heurter aux barreaux de notre "prison sociale".
 
@@ -33,21 +33,21 @@ Alors, comment s'en sortir ? Comment passer de la contraction à l'expansion, in
 La prison est d'abord somatique. Avant même d'avoir une pensée conformiste, nous avons un corps conformiste : épaules rentrées, respiration haute, ventre noué.
 
 - **L'action :** Ne cherchez pas à "penser" librement tout de suite. Commencez par détendre la machine. Dans une situation tendue, observez votre mâchoire, vos mains. Relâchez. Une pensée libre ne peut pas naître dans un corps verrouillé. C'est la base de l'improvisation : la disponibilité musculaire précède l'audace verbale.
-    
+
 
 ### 2. Identifier la menace fantôme (L'approche Jungienne)
 
 À chaque fois que vous vous censurez, posez-vous cette question simple : _« Qu'est-ce que j'ai peur de perdre ici ? »_ Est-ce mon emploi ? L'estime de mon collègue ? Ou est-ce une peur plus ancienne, celle de l'enfant qui a peur d'être grondé ?
 
 - **L'action :** Distinguez le danger réel (insulter son patron) du danger fantasmé (rire un peu trop fort). 90 % de nos barreaux sont faits de peurs obsolètes. Nommer la peur, c'est souvent la faire disparaître.
-    
+
 
 ### 3. Créer des "clairières" (L'approche Arendtienne)
 
 On ne peut pas être spontané partout, tout le temps, dans un monde obsédé par la productivité et la prévisibilité. Il faut donc créer des lieux sanctuarisés. L'improvisation théâtrale en est un. Mais il en faut d'autres.
 
 - **L'action :** Trouvez ou créez vos "espaces de respiration". Un café avec un ami où le jugement est suspendu. Un groupe de travail où l'erreur est valorisée. Ces espaces sont des laboratoires politiques : on y réapprend la confiance, ingrédient indispensable pour que la parole vraie circule sans danger.
-    
+
 
 ### 4. L'infiltration par la joie (L'approche Spinoziste)
 

@@ -1,7 +1,7 @@
 ---
 title: L’art délicat de transmettre la sagesse, entre inspiration et appropriation
 tags:
-  - article
+ - article
 ---
 Il y a quelques jours, je suis tombé sur une newsletter qui explorait “la psychologie des transitions” et “pourquoi elles ressemblent à des mini-morts identitaires”. L’auteure présentait ces concepts comme ses propres découvertes, issues de ses “explorations” personnelles.
 
@@ -15,7 +15,7 @@ Aujourd’hui, dans l’économie de l’attention, il faut se distinguer. On se
 L’inspiration, c’est sain. Mais l’appropriation sans reconnaissance, là est le vrai problème. Quand on expose l’impermanence comme “ma découverte sur les transitions”, on prive le lecteur de la richesse des sources originales. On l’empêche d’aller explorer plus loin, de replacer ces idées dans leur contexte.
 
 
-## **Créer des ponts, pas des murs** 
+## **Créer des ponts, pas des murs**
 
 Il existe une autre voie : devenir passeur plutôt que propriétaire.
 
@@ -27,7 +27,7 @@ Citer ses sources, c’est :
 - Créer de la valeur par la curation et la contextualisation
 
 
-**Exemple concret :**  
+**Exemple concret :**
 Au lieu de dire “J’ai découvert que les transitions ressemblent à des mini-morts”, on pourrait dire : “Jung parlait de mort symbolique nécessaire à la renaissance psychologique. Voici comment j’applique ce concept aux transitions professionnelles d’aujourd’hui.”
 
 

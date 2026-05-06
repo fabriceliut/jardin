@@ -1,13 +1,13 @@
 ---
 title: Design circulaire sur 1 jour
 tags:
-  - offre
-  - designs
+ - offre
+ - designs
 ---
 
 *L’approche circulaire se met en place grâce à une première journée construite spécifiquement pour poser concrètement, en collaboration, le système d’une organisation et ainsi permettre à toutes les parties prenantes de prendre conscience des réelles opportunités d’un redesign circulaire.*
 
-> Les systèmes économiques des organisations se transforment : ils basculent du linéaire au circulaire, faisant ainsi émerger de nouveaux « cycles » économiques et donc de nouvelles opportunités business.  
+> Les systèmes économiques des organisations se transforment : ils basculent du linéaire au circulaire, faisant ainsi émerger de nouveaux « cycles » économiques et donc de nouvelles opportunités business.
 > **Tim Brown, IDEO**
 
 ## **Une double nécessité économique & écologique.**

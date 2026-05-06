@@ -1,7 +1,7 @@
 ---
 title: des notes au livre, comme en musique
 tags:
-  - contentmarketing
+ - contentmarketing
 ---
 Comme pour créer un morceau de musique avec les notes des instruments, l’écriture passe par la création de notes qui vont structurer un contenu plus complexe.
 
@@ -15,7 +15,7 @@ Cette note pourra ensuite s’assembler avec d’autres pour faire émerger des 
 
 Les idées devront être structurées de manière logique et harmonieuse tout comme en musique pour bien sonner et que le tout soit compréhensible. 
 
-Par exemple, cette note existe pour partager le concept que j’ai de ce qu’est une note. Le contenu est centré sur cette idée et pourra ainsi s’assembler avec d’autres pour former des parties d’un ouvrage plus conséquent sur l’écriture par exemple. 
+Par exemple, cette note existe pour partager le concept que j’ai de ce qu’est une note. Le contenu est centré sur cette idée et pourra ainsi s’assembler avec d’autres pour former des parties d’un ouvrage plus conséquent sur l’écriture par exemple.
 
 Si je commençais ici à introduire d’autres idées connexes, d’autres concepts et bien ce ne serait plus une note mais un regroupement de plusieurs notes. 
 

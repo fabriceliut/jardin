@@ -1,7 +1,7 @@
 ---
 title: Transformation d’un espace café en Living Lab
 tags:
-  - cas-étude
+ - cas-étude
 ---
 
 > Cette transformation a donné naissance à l'[[Archipel Kyosei]] dont je fais partie maintenant
@@ -12,7 +12,7 @@ tags:
 
 Le modèle en développement depuis quelques années est celui du « Slow Café » : les visiteurs paient au temps qu’ils restent, et profitent d’un buffet à volonté. Pour compléter les revenus, SOFFFA est aussi ouvert à la privatisation pour les entreprises privées.
 
-En vision court terme, le modèle tient la route, mais demain ? Quand les entreprises ne voudront plus simplement un espace mais également divers accompagnements, que ce soit en terme de programmation d’évènements comme d’expertises, comment est-ce que SOFFFA peut dès aujourd’hui se transformer pour anticiper ces futurs besoins ?
+En vision court terme, le modèle tient la route, mais demain ? Quand les entreprises ne voudront plus simplement un espace mais également divers accompagnements, que ce soit en terme de programmation d’événements comme d’expertises, comment est-ce que SOFFFA peut dès aujourd’hui se transformer pour anticiper ces futurs besoins ?
 
 Quand les entrepreneurs ne voudront plus simplement d’un bel endroit pour travailler chacun dans leur coin et chercheront de réelles opportunités de collaborations et de synergies, comment SOFFFA peut imaginer de nouveaux modèles pour « travailler ensemble » et au-delà, « vivre ensemble » ses projets et voir émerger des projets collectifs ?
 
@@ -32,14 +32,14 @@ Voilà le temps donné par l’équipe interne de SOFFFA à cette « troupe en 
 
 **Point central de l’expérience :** comment faire émerger la dynamique, par les personnalités, pour qu’elle devienne collective ? Comment ne pas « dire quoi et comment faire » et laisser la place à chaque communauté d’écrire à sa manière des règles de jeux au service de tous ?
 
-Chaque communauté peut inviter ses membres à travailler dans son coin. mais elle peut également vouloir « essayer » de mettre en place des règles de vie au quotidien, proposer des évènements ouverts aux extérieurs, des formations, des expérimentations à destination des organisations, etc… Tout est possible !
+Chaque communauté peut inviter ses membres à travailler dans son coin. mais elle peut également vouloir « essayer » de mettre en place des règles de vie au quotidien, proposer des événements ouverts aux extérieurs, des formations, des expérimentations à destination des organisations, etc… Tout est possible !
 
 ### **Expérimentation en cours…**
 
 Comment le Comptoir apporte sa pierre à cet édifice complexe ?
 
 - Invitation à toutes les communautés
-- Des propositions d’évènements pour faciliter la mise en synergie des acteurs
+- Des propositions d’événements pour faciliter la mise en synergie des acteurs
 - Une documentation en continue de ce qu’il se passe, des analyses, interviews et retours terrain concrets
 - Une analyse des évolutions et une restitution aux participants de l’expérience
 - Une podcast pour recueillir la spontanéité de ce qu’il se passe au jour le jour, et le partager à l’extérieur

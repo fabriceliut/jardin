@@ -1,8 +1,8 @@
 ---
 title: message aux leaders de la transition écologique sociétale en cours
 tags:
-  - offre
-  - archipel
+ - offre
+ - archipel
 ---
 cher leader d'entreprise ou de mouvement engagé dans la transition sociétale,
 je vous écris aujourd'hui pour vous dire que je suis "au service" de vos entreprises.

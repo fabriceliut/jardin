@@ -21,4 +21,4 @@ voir faire en sorte que ce soit eux qui finissent par demander que ça accélèr
 - Par exemple - plutôt que de mettre de l’effort à évangéliser le design sprint - systémique - régénératif - chercher ceux qui cherchent ça et leur exposer que je peux les aider avec la formulation du besoin exactement comme elle est dans leur tête
 - Faut partir de la personne, là où elle en est et répondre à ses questions, pas plus profond - le profond vient après avec les autres questions, sur le chemin de la coopération déjà enclenchée
 
-#Afairepousser 
+#Afairepousser

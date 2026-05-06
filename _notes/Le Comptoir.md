@@ -1,7 +1,7 @@
 ---
 title: le Comptoir
 tags:
-  - projet
+ - projet
 ---
 Le Comptoir, c’était le point de départ d’une aventure collective. À l’époque, je voulais rassembler des personnes, des organisations et des territoires pour mieux traverser les transitions et la complexité du monde actuel. L’enjeu : sortir chacun de son coin, croiser les regards et avancer ensemble, de façon concrète.
 
@@ -48,6 +48,5 @@ Intervention des experts en prospective politique, des designers, des agents de 
 
 ### [[institut de la pensée intégrale]]
 Pour faire nouvelle société il faut de nouveaux instituts structurés sur les bases de nouveaux paradigmes permettant de développer une pensée plus large, libre, consciente & systémique.
-
 
 

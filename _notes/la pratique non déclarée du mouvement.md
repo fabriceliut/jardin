@@ -1,7 +1,7 @@
 ---
 title: la pratique non déclarée du mouvement
 tags:
-  - mouvement
+ - mouvement
 ---
 dans la série pour [[Prendre soin de soi]] par le [[Mouvement Naturel]].
 

@@ -1,8 +1,8 @@
 ---
 title: présentation community design 101
 tags:
-  - communitydesign
-  - guidebook
+ - communitydesign
+ - guidebook
 ---
 - [fabrice liut](https://liut.me) - designer & facilitateur - ==systems thinker==
 - ⚛️ quelques cas de communautés
@@ -15,47 +15,47 @@ tags:
 
 - 🎖️ les bases des communautés
 - 🥇 mettre en place les fondations
-  #communitydesign
-- 🥈 faire vivre une communauté 
-  #communitybuilding
-- 🧰 faire les premiers pas 
-  (premières ressources)
+ #communitydesign
+- 🥈 faire vivre une communauté
+ #communitybuilding
+- 🧰 faire les premiers pas
+ (premières ressources)
 - 🤠 avec qui travailler le sujet?
 
 # 🎖️ basics
 ## c'est quoi une communauté?
 - une communauté c'est avant tout ==des relations==
-- couple - amis - famille 
-  anthropologie, ethnologie & sociologie
+- couple - amis - famille
+ anthropologie, ethnologie & sociologie
 - la posture du facilitateur
 	- l'écoute - l'ouverture - la curiosité
 	- créer les connexions - valoriser tout les profils
 - une communauté dépend toujours de ==son contexte==
 - online - offline - hybride
-  local - global
-  
+ local - global
+
 > _the internet eliminates geography_
 
 - le contexte culturel
 - les "espaces" de relations
-  concept de ==soft space== de Kévin Richard
-  
+ concept de ==soft space== de Kévin Richard
+
 > _designing a community certainly includes a part of immersion in the community itself, but first of all it includes the design of the context within which the members gather, move and grow._
-  
+
 ### quelques bases pour assurer de bonnes relations humaines
 - prendre du temps pour les autres
 - ne négligez jamais vos engagements
 - entretenir le lien avec vos rencontres
 - supporter les nouveaux projets de vos amis
 - envoyer un message tous les lundi matin à votre groupe proche
-  créer un système pour garder et entretenir le lien régulièrement et facilement
+ créer un système pour garder et entretenir le lien régulièrement et facilement
 
 ## pourquoi monter une communauté?
 >_not investing in a community designer is expensive - Greg Isenberg_
 
 - profiter de l'intelligence collective et ainsi de l'émergence de nouvelles idées et concepts
-  feedback & évolution continue
-  la plus grande force commerciale & de communication
+ feedback & évolution continue
+ la plus grande force commerciale & de communication
 - l’engagement interne favorise l’engagement externe
 
 >_marketing used to be about advertising. Today marketing is about engaging with the tribe and delivering products & services with stories that spread. - Seth Godin_

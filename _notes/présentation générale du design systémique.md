@@ -1,9 +1,9 @@
 ---
 title: présentation générale du design systémique
 tags:
-  - designs
-  - systémique
-  - guidebook
+ - designs
+ - systémique
+ - guidebook
 ---
 *j'ai eu la chance de produire cette présentation dans l'ouvrage "[passer au design thinking édition 2](https://www.amazon.fr/Passez-design-thinking-%C3%A9dition-construire/dp/2416006789/ref=sr_1_1?keywords=passer+au+design+thinking&qid=1688300722&sr=8-1)" dont je vous propose le contenu ici.*
 
@@ -39,12 +39,12 @@ Le design systémique est adapté à des sujets complexes et pour lesquels les o
 Quelques exemples:
 
 - Automobile: ne plus vendre de véhicules directement mais plutôt développer un service de mobilité qui va nécessiter une co-conception multi partie-prenantes.
-    
+
 - Bâtiment: construire essentiellement avec des matériaux de réemploi et générer un minimum de nouveaux déchets.
-    
+
 - Loisir sportif: faire évoluer un modèle de vente de produits linéaire vers un modèle circulaire avec des propositions de services par abonnements.
 
-  
+
 
 # Atelier Design Systémique - déroulé type
 
@@ -80,7 +80,7 @@ Il est possible de réaliser cet atelier 100% à distance en travaillant dans un
 
 Cet atelier est le premier pas pour prendre conscience du fonctionnement du système à un instant T et aider les dirigeants et autres partie-prenantes à prendre des décisions plus lucides et prioriser pour être tout simplement plus efficients au quotidien.
 
-  
+
 
 # interview
 
@@ -94,7 +94,7 @@ Pour moi, le Design Systémique permet de prendre en compte la profondeur et la 
 
 Alors mon rêve serait de participer à un mouvement "régénératif" qui viendrait transformer notre société pour une nouvelle version plus équilibrée, belle et en lien avec le vivant.
 
-  
+
 
 ## Qu’est-ce qui t’inspire autant dans cette approche ?
 
@@ -122,19 +122,19 @@ Grâce à ce "système" ils disposent maintenant d'un outil visuel et évolutif 
 
 Nous avons eu la belle opportunité d'adresser un besoin à la fois organisationnel, culturel, social et territorial... c'est passionnant et très enrichissant comme cas d'étude!
 
-  
+
 
 ## Quels seraient les conseils que tu donnerais à quelqu’un qui se lance dans un atelier de Design Systémique ?
 
 - Inviter les bonnes personnes pour cerner toutes les dimensions du système à étudier.
-    
+
 - Commencer par bien définir et comprendre le contexte du système avant de travailler sur le système lui-même.
-    
+
 - Ne pas chercher à obtenir une modélisation parfaite du système, de toute manière il va évoluer rapidement.
-    
+
 - S'entraîner à modéliser des systèmes simplement: prendre une feuille A0, des feutres et c'est parti! Votre cerveau fera des liens de plus en plus facilement et va s'ouvrir à plus de complexité.
 
-  
+
 
 ## Un mot pour la fin ?
 

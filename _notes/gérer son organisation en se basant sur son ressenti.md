@@ -1,8 +1,8 @@
 ---
 title: gérer son organisation en se basant sur son ressenti
 tags:
-  - article
-  - projectmanagement
+ - article
+ - projectmanagement
 ---
 Gérer son organisation en se basant sur son ressenti est essentiel pour être en phase avec ses énergies et ses envies.
 

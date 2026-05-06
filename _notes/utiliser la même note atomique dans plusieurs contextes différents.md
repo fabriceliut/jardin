@@ -1,11 +1,11 @@
 ---
 title: utiliser la même note atomique dans plusieurs contextes différents
 tags:
-  - contentmarketing
-  - knowledgemanagement
+ - contentmarketing
+ - knowledgemanagement
 ---
 Expliquer ce qu’est une note peut être utile dans des contextes très différents : un livre sur l’écriture, une conférence sur la documentation projet en équipe, une formation sur l’organisation de la connaissance personnelle etc… 
-  
+
 Si je rédige toutes mes idées et concepts dans des notes simples dédiées il devient possible d’utiliser exactement la même note dans tous ces contextes. 
 
 C'est le principe d'[[écriture atomique]].

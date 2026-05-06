@@ -1,9 +1,9 @@
 ---
 title: Le Point Zéro, Sortir du Biais de l'Espace-Temps pour Penser la Vie
 tags:
-  - article
-  - Meta-analyse
-  - psychologie
+ - article
+ - Meta-analyse
+ - psychologie
 ---
 > _“On ne peut voir vrai que si l'on regarde depuis l'endroit où rien ne bouge, au cœur même de l'instant.”_
 
@@ -30,9 +30,9 @@ Selon lui, la pensée est toujours vieille, car elle appartient au temps. Pour c
 En physique quantique, certains théoriciens suggèrent que le temps est une propriété émergente et non fondamentale.
 
 - **Le concept de l'atemporalité** : Au niveau fondamental de la réalité (l'échelle de Planck), les notions de "avant" et "après" perdent leur sens.
-    
+
 - **L'effondrement de la fonction d'onde** : C'est l'acte d'observation dans le "maintenant" qui définit la réalité.
-    
+
 
 En choisissant le présent comme point de départ, nous nous alignons sur la structure physique de la réalité. Toute pensée qui s'extrait du présent pour se projeter dans la 3D classique quitte le domaine de l'énergie pure pour entrer dans celui de la matière figée.
 

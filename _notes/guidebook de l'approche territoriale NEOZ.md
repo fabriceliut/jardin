@@ -1,7 +1,7 @@
 ---
 title: guidebook de l'approche territoriale NEOZ
 tags:
-  - guidebook
+ - guidebook
 ---
 # Introduction ✅
 ## Qu'est-ce qu'une approche territoriale ?
@@ -52,7 +52,6 @@ Et pour rendre plus concret :
 ---
 
 
-
 # Explorer le territoire
 *environ sur 1 mois*
 Vouloir travailler sur un territoire c'est comme vouloir travailler avec quelqu'un: avant de commencer le projet il faut déjà se rencontrer, se présenter, apprendre à se connaître, se faire confiance et ensuite seulement, écrire les premières lignes du projet commun.
@@ -79,7 +78,7 @@ Il s'agit de bien prendre en compte le contexte géographie & physique du territ
 
 **Connaître l'espace physique ainsi que la manière dont il est utilisé (les usages) permet de déterminer un cadre de contrainte nécessaire à tout projet de développement sur un territoire.**
 
-Ce premier axe permet en partie de répondre à la question : pourquoi choisir ce territoire? 
+Ce premier axe permet en partie de répondre à la question : pourquoi choisir ce territoire?
 *(mais ce n'est pas suffisant, il faut la totalité des 4 axes)*
 > donner 2 exemples
 
@@ -94,7 +93,7 @@ De plus, ces acteurs étant moteurs, les connaître vous permettra plus facileme
 
 Plus tard, vous devrez faire AVEC la plupart de ces acteurs et surtout vous ne devrez pas faire CONTRE... alors autant être conscient de toute la diversité présente sur le territoire dès le départ avec une vision claire de leurs besoins, leurs enjeux, leurs attentes, etc... vous allez devenir vous-même un des acteurs de ce territoire, cette analyse va vous aidez à trouver ==votre point d'entrée sur le territoire== pour vous intégrer de manière la plus fluide possible.
 
-Ce deuxième axe permet en partie de répondre à la question : pourquoi choisir ce territoire? 
+Ce deuxième axe permet en partie de répondre à la question : pourquoi choisir ce territoire?
 *(mais ce n'est pas suffisant, il faut la totalité des 4 axes)*
 > donner 2 exemples
 
@@ -105,7 +104,7 @@ Il est plus aisé pour se projeter et comprendre de visualiser ces réseaux d'ac
 
 **[Découvrez un système d'acteurs exemple](https://go.stemic.app/maps/5c723050-3b73-42d8-bf99-8311e2180792)**
 
-Cette objet visualisation vous permet déjà à vous d'y "voir clair"  et va également vous faciliter la présententation de votre exploration à d'autres acteurs en fluidifiant les échanges autour d'une ressource simple, commune et référence que vous allez pouvoir faire évoluer ensemble au fur et à mesure de vos compréhensions mutuelles.
+Cette objet visualisation vous permet déjà à vous d'y "voir clair" et va également vous faciliter la présententation de votre exploration à d'autres acteurs en fluidifiant les échanges autour d'une ressource simple, commune et référence que vous allez pouvoir faire évoluer ensemble au fur et à mesure de vos compréhensions mutuelles.
 Sans un objet de cet ordre, très souvent, chaque acteur d'un projet est biaisé par son propre point de vue et ça risque de créer des débats qu'on peut facilement éviter.
 
 En visualisant très clairement les types de liens et relations, s'il y a des coopérations en cours ou des oppositions, etc...vous allez ainsi prendre conscience de la dynamique humaine du territoire vous permettant d'anticiper une stratégie pour que votre intégration sur face le plus possible "en douceur".
@@ -117,7 +116,7 @@ En visualisant très clairement les types de liens et relations, s'il y a des co
 Par défaut, chaque territoire a déjà des acteurs institutionnels déclarés comme "responsables politiques" du territoire (sur différentes échelles, com, com-com, département, région...).
 Lors de l'exploration de l'axe 2 (systèmes d'acteurs) vous les avez certainement découvert. Ce 3ème axe va vous inviter à creuser plus spécifiquement leurs enjeux et leurs contraintes. En effet, travailler avec un territoire veut nécessairement dire ==travailler avec les politiques en place== sur le territoire.
 - Quelle est la priorisation politique des enjeux du territoire? Le climat, la biodiversité, l'autonomie et la résilience, les activités économiques, sociales, culturuelles, etc...?
-- Est-ce que vous êtes bien conscient de cette priorisation? 
+- Est-ce que vous êtes bien conscient de cette priorisation?
 - Par qui les enjeux politiques sont-ils portés?
 - Est-ce que votre projet s'inscrit dans les priorités politiques du développement du territoire?
 
@@ -131,7 +130,7 @@ En effet, les acteurs politiques diront que leurs enjeux sont prioritaires tout 
 
 **La démarche de l'approche territoriale prend en compte la complexité des points de vues en présence et permet ainsi d'agir au plus juste des besoins du territoire sans avoir à "choisir son camp".**
 
-Ce troisième axe permet en partie de répondre à la question : pourquoi choisir ce territoire? 
+Ce troisième axe permet en partie de répondre à la question : pourquoi choisir ce territoire?
 *(mais ce n'est pas suffisant, il faut la totalité des 4 axes)*
 > donner 2 exemples
 
@@ -273,7 +272,7 @@ En effet, ils font partie intégrante du territoire et donc, il vont vous propos
 ## Quelle posture adopter ?
 
 ### Écoute
-Exactement à la manière d'un psychologue, d'un thérapeute, d'un coach... Tout commence  par l'écoute et poser des questions : principe de [[dialectique]].
+Exactement à la manière d'un psychologue, d'un thérapeute, d'un coach... Tout commence par l'écoute et poser des questions : principe de [[dialectique]].
 
 Exemple pour guider la conversation :
 
@@ -309,7 +308,7 @@ Construire un [[système de connaissances]]
 Si vous essayez de vous rendre désirable à ce stade: suivant la logique d'approche territoriale, c'est trop tôt, vous êtes seulement en phase exploratoire et diagnostique.
 La phase d'exploration est une phase nécessairement neutre : rien à placer, rien à vendre et celui qui mène l'étude n'a pas d'intérêt autre que l'étude et la compréhension du territoire et de ses besoins réels.
 C'est une posture nécessaire pour rester dans l'écoute, dans l'ouverture et ne pas biaiser ou orienter les constats et les apprentissages.
-De plus, la phase exploratoire est aussi la première occasion de tisser les liens et de se mettre en coopération. 
+De plus, la phase exploratoire est aussi la première occasion de tisser les liens et de se mettre en coopération.
 Il est donc judicieux et primordial d'avancer pas à pas.
 
 >_Je m'intéresse à l'autre, je l'écoute_.
@@ -370,9 +369,6 @@ Voir 👉 [[Initier les coopérations]]
 ---
 
 
-
-
-
 ---
 
 
@@ -381,7 +377,7 @@ Voir 👉 [[Initier les coopérations]]
 # Initier les coopérations
 *environ sur 4 mois*
 
-**A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de l'analyse collective via la phase d'exploration du terrtioire , il est temps de présenter aux différents acteurs vos apprentissages et d'imaginez ensemble, dans l'intérêt du territoire, les synergies possibles. Et si ...?**
+**A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de l'analyse collective via la phase d'exploration du terrtioire, il est temps de présenter aux différents acteurs vos apprentissages et d'imaginez ensemble, dans l'intérêt du territoire, les synergies possibles. Et si...?**
 
 ## Objectifs et éléments
 
@@ -440,7 +436,7 @@ S'ils se manifestent tôt, ils seront alors à intégrer tôt dans la démarche 
 Il y a alors une posture d'ouverture et d'écoute à adopter nécessairement pour intégrer leur point de vue dans votre compréhension systémique du territoire.
 
 ### Identifier le projet à co-construire
-Le projet commun est fait des projets de chacun des types d'acteurs. Rendre concret ce projet demande donc un gros travail de synthèse et d'écriture. Le projet commun est une synergie des projets de chacun. C'est souvent une "raison d'être" commune, une "intention" partagée, une ambition pour le territoire qui vient lier tous les acteurs dans une réelle coopération sincère. 
+Le projet commun est fait des projets de chacun des types d'acteurs. Rendre concret ce projet demande donc un gros travail de synthèse et d'écriture. Le projet commun est une synergie des projets de chacun. C'est souvent une "raison d'être" commune, une "intention" partagée, une ambition pour le territoire qui vient lier tous les acteurs dans une réelle coopération sincère.
 C'est aussi un projet plus "macro" que les projets individuels
 
 > Exemple d'intentions communes
@@ -469,7 +465,7 @@ A ce stade, ce n'est encore que de l'écriture pour soumettre votre lecture du p
 
 ### Actionner les alliés
 *Pour qu'ils nous mettent en contact avec d'autres acteurs* - Les premiers alliés sont le cercle 1 qui va permettre de tisser avec un cercle 2 et ainsi de suite.
-*Pour qu'ils amènent d'autres acteurs à devenir alliés* -  En parlant au cercle 2 avec leur propre langage, vocabulaire, culture et compréhension du projet, il vont faciliter la mise en lien avec des acteurs plus éloignés du projet commun
+*Pour qu'ils amènent d'autres acteurs à devenir alliés* - En parlant au cercle 2 avec leur propre langage, vocabulaire, culture et compréhension du projet, il vont faciliter la mise en lien avec des acteurs plus éloignés du projet commun
 *Pour qu'ils commencent à participer aux travaux avec l'équipe projet* - **c'est le temps d'initier l'envie de rentrer en co-construction d'un projet commun**.
 
 ### Mapping des jeux d'acteurs
@@ -508,7 +504,7 @@ Il est possible qu'il y ait des territoires qui n'ont pas besoin, pour leur sant
 >
 >Une réponse pourrait être de bien présenter la démarche: c'est un cadeau au territoire, on a choisi votre territoire, c'est une chance pour vous (et accessoirement c'est gratuit)
 
-### Être convaincu de la démarche que l'on porte 
+### Être convaincu de la démarche que l'on porte
 Revenir de manière régulière au pourquoi de la démarche en approche territoire, à l'intention initiale qui porte toute la vision du projet.
 
 ``Le GT avait en amont pris du recul par rapport à leur métier chez EDF R : pourquoi travaillent-ils chez EDF R, quelles sont leurs motivations, leurs idéaux, que souhaitent-ils participer à accomplir, etc. ? Ils avaient abouti à une formulation de leur raison d'être : « Construire demain, valorisons ensemble les potentiels de votre territoire »``
@@ -519,7 +515,7 @@ Vous parlez de valoriser ensemble les besoins de NOS territoires: pour s'intégr
 Ne pas attendre la réponse d'un acteur, continuer à prendre d'autres rdv.
 Idée du train en marche : les acteurs doivent comprendre que le train passe quoi qu'il arrive et que c'est à eux de voir s'il veulent monter maintenant, après ce sera trop tard.
 Donc montrer qu'on avance, avec ou sans ceux qui hésitent.
-Le mouvement vient des rebonds :  si ça bloque d'un côté ça peut rebondir d'un autre avec une bonne question, une bonne demande.
+Le mouvement vient des rebonds : si ça bloque d'un côté ça peut rebondir d'un autre avec une bonne question, une bonne demande.
 Viser la relation "Je + / Tu +"
 Ne pas se dévaloriser aux yeux de l'autre ni dévaloriser l'autre.
 
@@ -564,8 +560,8 @@ Dans la Piège par exemple, au premier RDV de co-construction, il a été demand
 ## En synthèse : quels acquis à l'issue de cette phase ?
 
 À l'issue de cette phase, le groupe projet porte une connaissance et une compréhension globale et relativement profonde du territoire, des jeux d'acteurs et de leurs enjeux.
-La diversité des rencontres a permis de faire émerger un projet "macro" de territoire, qui met en synergie les besoins de chacun et qui fédère : l'écoute et l'échange ont instauré une confiance qui facilite la décision d'une partie des hésitants à faire partie du projet. 
-Finalement, c'est même de l'envie qui a été créée, l'envie de participer à un projet commun, qui sort des façons de faire habituelles et qui est porteur de sens pour le collectif. 
+La diversité des rencontres a permis de faire émerger un projet "macro" de territoire, qui met en synergie les besoins de chacun et qui fédère : l'écoute et l'échange ont instauré une confiance qui facilite la décision d'une partie des hésitants à faire partie du projet.
+Finalement, c'est même de l'envie qui a été créée, l'envie de participer à un projet commun, qui sort des façons de faire habituelles et qui est porteur de sens pour le collectif.
 
 > « Quand est-ce que ça commence vraiment ?! »
 
@@ -576,10 +572,6 @@ Finalement, c'est même de l'envie qui a été créée, l'envie de participer à
 ...
 
 ---
-
-
-
-
 
 
 ---
@@ -596,7 +588,7 @@ Pour cet atelier, inviter les différents alliés avec le plus de diversité de 
 Pour les invitations, rappeler le pourquoi et le comment: pour le projet commun d'approche du territoire - pour traiter les enjeux propres de chaque acteur également.
 En facilitant les discussions entre les différents parties prenantes du territoire dans un temps commun de 2:00 max pour commencer.
 
-Pour l'ordre du jour, rappeler les objectifs en sortie: 
+Pour l'ordre du jour, rappeler les objectifs en sortie:
 - les enjeux de tout le monde seront écoutés
 - un plan d'action commun sera déterminé, prenant en compte les besoins de chaque partie
 - l'écriture du projet commun sera partagée et enrichie
@@ -624,7 +616,7 @@ les différentes ressources types:
 - système de communication - en continue tenir informé l'extérieur du groupe projet de ce qu'il se passe, semaines après semaines
 - système de Feedback - pour récolter en continue les retours, avis, apports d'autres acteurs qui ne sont pas encore actifs dans la gouvernance du projet - c'est notamment la cellule d'écoute nécessaire pour inclure les premiers réfractaires ou opposants
 
-Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[la démarche itérative]] , en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs).
+Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[la démarche itérative]], en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs).
 
 ### Structurer un groupe projet aux membres complémentaires
 La complémentarité s'exprime dans les compétences, l'accès à certaines ressources et informations, l'accès à certains pouvoir de décision, etc...
@@ -690,8 +682,8 @@ Pour revenir au présent, le groupe décompose les différentes actions à mettr
 De ces priorisations il est possible de déterminer les prochains petit pas à activer directement en sortie de réunion.
 Ces actions sont ensuite assignées aux différents rôles porteurs qui vont, en prenant le rôle, s'engager à remplir ces actions et à apporter les rétributions associées / partager les feedbacks positifs comme négatifs.
 
-Instaurer les bases de la Co-construction 
-Constituer une #gouvernance 
+Instaurer les bases de la Co-construction
+Constituer une #gouvernance
 
 ---
 ## Quelle posture adopter ?
@@ -743,14 +735,12 @@ Dans la Piège, la gouvernance partagée était très importante pour le présid
 
 > "C'était très important pour lui d'avoir une bonne définition de la gouvernance, ouverte, démocratique et inclusive."
 
-Positionnement des autres acteurs sur le sujet de la gouvernance : 
+Positionnement des autres acteurs sur le sujet de la gouvernance :
 - Les syndicats pourront être supports mais ne seront pas acteurs
 - Les membres présents étaient principalement en attente de "concret", c'est à dire de pouvoir visualiser et travailler ensemble sur une carte pour comprendre combien en taille, ou/et combien en économie crée - besoin de compter et de comprendre le deal envisagé
-    - Est-ce que alors ils seront prêts à prendre des rôle de eux-même ou à comprendre l'intérêt d'une gouvernance projet ? A voir quel [[actionnement]] sera possible...
+ - Est-ce que alors ils seront prêts à prendre des rôle de eux-même ou à comprendre l'intérêt d'une gouvernance projet ? A voir quel [[actionnement]] sera possible...
 
 ---
-
-
 
 
 ---
@@ -823,7 +813,7 @@ Les actions définies en décomposant en étapes le projet long terme sont attri
 	Des bons retours, des avis positifs et encourageants
 - Récolter les apports des autres rôles et engager les étapes suivantes, en temps et en heure par rapport aux premiers pas des autres et aux informations récoltées
 
-C'est [[la démarche itérative]] en action : à chaque petite étape, il y a remise au commun et réajustement si nécessaire. 
+C'est [[la démarche itérative]] en action : à chaque petite étape, il y a remise au commun et réajustement si nécessaire.
 C'est aller moins vite mais plus loin ensemble.
 C'est éviter d'accumuler des erreurs qui vont mener dans le mur.
 C'est garder le cap fixé par l'écriture du projet commun en accord avec les intentions du projet et de chacun.
@@ -872,10 +862,6 @@ Les informations sont donc basées sur d'autres cas d'études et d'autres projet
 - Bresse Vallons
 
 ---
-
-
-
-
 
 
 ---
@@ -932,8 +918,6 @@ Apports de la documentation & [[système de connaissances]]
 ...
 
 
-
-
 ---
 
 
@@ -963,7 +947,6 @@ Les apports du mentorat
 Les apports du #storytelling
 Les apports de la documentation
 Les apports du Design graphique
-
 
 
 ## Quelques points d'attentions sur cette phase
@@ -999,7 +982,7 @@ Biomimétisme et bio-inspiration
 
 ![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/5bJHJ1Nqa)
 L'approche doit être systémique (s'intéressant à un système plutôt qu'à une somme d'individus ou de projets) et prendre en compte les interactions entre les acteurs.
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/c_seFisy4) 
+![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/c_seFisy4)
 L'un des prérequis à la coopération porte sur la prise de conscience que chaque interaction est une source de dilemme. Interagir, c’est accepter de déléguer à un autre une partie des décisions qui vont avoir de l’influence sur son propre destin. Un acteur n’accepte de coopérer que s’il a l’espoir d’une attitude coopérative en retour. Toute interaction génère simultanément trois sentiments d’intensité variable :
 -	une « peur » de la non-coopération de l’autre acteur, de sa trahison
 -	un « attrait » pour la coopération mutuelle qui permettrait d’atteindre les résultats positifs d’une interaction réussie
@@ -1084,17 +1067,17 @@ Comparaison des formes d’intelligence collective : tribale, pyramidale et holo
 https://www.valeureux.org/blog/2016/03/31/comparaison-des-formes-dintelligence-collective-tribale-pyramidale-et-holomidale/
 
 > "Si ce n’est pas collaboratif, il y a un risque que ça ne soit pas intelligent"
-Pierre Lévy nous donne son avis sur ce point : 
-> « La masse n’a pas toujours raison, surtout s’il s’agit d’une masse 
+Pierre Lévy nous donne son avis sur ce point :
+> « La masse n’a pas toujours raison, surtout s’il s’agit d’une masse
 moutonnière et conformiste qui ne remet rien en question. C’est pourquoi
  le projet de l’intelligence collective consiste précisément à valoriser
- toute la diversité des connaissances, des compétences et des idées qui 
-se trouvent dans une collectivité et à organiser cette diversité en un 
-dialogue créatif et productif. La culture de l’intelligence collective 
+ toute la diversité des connaissances, des compétences et des idées qui
+se trouvent dans une collectivité et à organiser cette diversité en un
+dialogue créatif et productif. La culture de l’intelligence collective
 travaille à établir de manière douce et pacifique un « **multilogue** » ouvert, qui est préférable aussi bien au cloisonnement et à l’isolement des intelligences, qu’à l’uniformité bien pensante. »
 Via le croisement de différents modèles de pensée, L’intelligence collective génère de **nouvelles connaissances** et donc de l’**innovation**.
 Lien avec les superorganismes
-Les superorganismes sont importants en [cybernétique](https://fr.wikipedia.org/wiki/Cybern%C3%A9tique) et notamment en biocybernétique. En effet, un superorganisme peut être considéré comme une forme d' #[[intelligence collective]] , un système dans lequel des individus avec une intelligence et des informations limitées sont capables de mettre en commun leurs ressources pour accomplir un objectif au-delà des capacités individuelles.
+Les superorganismes sont importants en [cybernétique](https://fr.wikipedia.org/wiki/Cybern%C3%A9tique) et notamment en biocybernétique. En effet, un superorganisme peut être considéré comme une forme d' #[[intelligence collective]], un système dans lequel des individus avec une intelligence et des informations limitées sont capables de mettre en commun leurs ressources pour accomplir un objectif au-delà des capacités individuelles.
 !((4a64cc05-ac54-4c47-a178-1380c45b56e6))
 Design systémique
 Cette approche est à la rencontre du Design thinking et du domaine de la Complexité
@@ -1179,7 +1162,6 @@ Sociodynamique
 - _1 exemple envoyé par mail_
 
 
-
 ## actionnement
 
 - _3 slides (CR GT décembre)_
@@ -1210,7 +1192,7 @@ Il est possible d'utiliser tout un tas d'application numériques, ici c'est Noti
 Possible de créer des documents partagés
 Possible de créer des feuilles de routes, des tâches, d'assigner des projets, donner des timings
 Système de notification pour aider à la gestion projet
-Il est possible de créer des liens entre les documents, à la manière d'un site internet. 
+Il est possible de créer des liens entre les documents, à la manière d'un site internet.
 Il est également possible d'intégrer des pages dans des pages, permettant de structurer des documents complexes
 Il est possible de créer directement des bases de données dans des documents et donc plus besoin de naviguer entre des docs et des tableurs, tout se retrouve au même endroit dans la même application
 Quelques autres outils adaptés
@@ -1258,4 +1240,4 @@ _Développer du contenu..._
 
 ---
 
-[[guidebook]] - #tonotion -  En cours d'écriture
+[[guidebook]] - #tonotion - En cours d'écriture

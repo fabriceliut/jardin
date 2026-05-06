@@ -1,9 +1,9 @@
 ---
 title: Le Paradoxe du "Méta", Comment Incarner la Profondeur au Quotidien
 tags:
-  - article
-  - psychologie
-  - Meta-analyse
+ - article
+ - psychologie
+ - Meta-analyse
 ---
 Avoir une constitution psychique tournée vers l'intuition et la profondeur (une vision "deep", "méta" ou existentielle des choses) est à la fois un don et un fardeau, particulièrement dans le cadre de la vie de famille.
 
@@ -25,10 +25,10 @@ Ce décalage engendre souvent un sacrifice transactionnel : on fait des efforts 
 L'enjeu n'est pas d'éteindre cette profondeur — elle est vitale — mais d'apprendre à ne pas l'imposer comme un filtre permanent.
 
 1. **Cultiver le jardin secret :** La profondeur métaphysique doit trouver son propre exutoire (art, écriture, thérapie) pour ne pas exploser sous forme de tension au sein du foyer.
-    
+
 2. **Le sas de décompression :** Il faut apprendre à "enlever le scaphandrier" avant de rejoindre l'espace familial. Accepter de redescendre dans le corps, de casser le rythme intellectuel par des actes simples (cuisiner, marcher, toucher la matière).
-    
+
 3. **Offrir le fruit, pas la racine :** Auprès de ses proches, le but est d'offrir le _fruit_ rassurant de cette profondeur (une présence aimante et consciente de la fragilité de l'instant), et non la _racine_ angoissante de l'abîme métaphysique.
-    
+
 
 Le véritable alignement, c'est cette capacité à voyager dans les étoiles par la pensée, tout en sachant redescendre, pleinement incarné, pour planter une fleur dans le jardin. C'est l'union du Ciel et de la Terre.

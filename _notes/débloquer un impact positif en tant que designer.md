@@ -14,7 +14,7 @@ pour moi, cette recherche d'impact fait partie des axes pour définir [[qu'est-c
 
 voir aussi > [[le designer improvisateur]] pour la posture à tenir.
 
-#Afairepousser 
+#Afairepousser
 
 ---
 *points de vue modifiés au fil du temps*

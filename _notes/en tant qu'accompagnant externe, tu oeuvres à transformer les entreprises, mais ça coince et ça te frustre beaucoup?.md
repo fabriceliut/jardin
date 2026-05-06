@@ -1,12 +1,12 @@
 ---
 title: en tant qu'accompagnant externe, tu oeuvres à transformer les entreprises, mais ça coince et ça te frustre beaucoup?
 tags:
-  - transformation
-  - guidebook
+ - transformation
+ - guidebook
 ---
 tu es loin d'être un cas isolé, c'est même l'inverse et très partagé (venant de +100 accompagnants externes avec qui j'ai pu échanger régulièrement depuis +10 ans).
 
-### la raison principale d'une tentative de transformation qui ne continue pas? 
+### la raison principale d'une tentative de transformation qui ne continue pas?
 ce n'est pas la faute de la direction de l'entreprise, ni celle des collaborateurs : c'est de notre responsabilité, celle des écosystèmes d'accompagnants externes.
 c'est très dur pour une entreprise de se transformer par elle-même, tout comme c'est très dur pour un individu d'évoluer seul.
 nous sommes des êtres sociaux et nos organisations sont le reflet de notre humanité à une échelle plus haute : ce sont des systèmes vivants, tout comme nous.

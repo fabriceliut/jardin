@@ -1,7 +1,7 @@
 ---
 title: alterner entre pensée systémique et linéaire
 tags:
-  - article
+ - article
 image: "[[Alterner entre pensée systémique et linéaire..png]]"
 ---
 Deux des modes de pensée que notre cerveau peut activer au besoin.

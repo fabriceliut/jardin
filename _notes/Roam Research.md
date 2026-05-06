@@ -1,7 +1,7 @@
 ---
 title: Roam Research
 tags:
-  - outils
+ - outils
 ---
 ### (et les « tools for thought ») - [Site officiel](https://roamresearch.com/)
 

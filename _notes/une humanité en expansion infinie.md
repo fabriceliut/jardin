@@ -1,7 +1,7 @@
 ---
 title: une humanité en expansion infinie
 tags:
-  - article
+ - article
 ---
 D’une certaines manière notre humanité explore vraiment dans tous les sens dans sa quête de connaissance…
 

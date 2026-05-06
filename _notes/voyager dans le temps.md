@@ -1,7 +1,7 @@
 ---
 title: voyage dans le temps
 tags:
-  - Meta-analyse
+ - Meta-analyse
 ---
 Cette question m’a toujours fasciné et pourtant je ne suis pas encore allé explorer les profondeurs de la physique quantique. 
 Cela dit, sur le chemin de mes explorations j’ai croisé un article partageant un point fort intéressant :
@@ -28,7 +28,7 @@ Dans cette perception, j’ai écris cet article un soir de mes 34ans. Mais en m
 Difficile à expliquer et faire sentir avec des mots hein? J’espère que vous aurez bien voyagé avec moi quand même. Moi ça me fait quelque chose de très particulier que de sentir que c'est possible de remettre en question des fondamentaux que sont l'espace et le temps... c'est remettre en question ma réalité tel que je la connais depuis toujours ou presque...
 
 La question qui suit est encore plus passionnante que la précédente:
->Comment ne plus percevoir la réalité comme un espace physique fait de distances dans lequel je vis des évènements qui s’enchaînent sur une ligne de temps logique, passé, présent et futur? 
+>Comment ne plus percevoir la réalité comme un espace physique fait de distances dans lequel je vis des événements qui s’enchaînent sur une ligne de temps logique, passé, présent et futur? 
 
 
 Dans certaines traditions, il y a cette notion d’instant présent et j'ai [[vision du moment présent]]. Un point dans lequel plonger, à la fois infiniment petit et grand. Un tout et un rien en même temps. Un même temps où le temps n’existe plus… alors dans ce point présent, il n’y a plus moi qui écrit ces mots maintenant à toi qui lira plus tard et plus loin, il y a ma conscience qui perçoit toute l’énergie et ses différents courants, d’un coup, partout, tout le temps… une transcendance de l’espace et du temps, du moi et de la réalité connue jusqu’à…présent...

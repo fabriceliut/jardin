@@ -1,9 +1,9 @@
 ---
 title: stratégies d'entreprise
 tags:
-  - business
-  - Afairepousser
-  - guidebook
+ - business
+ - Afairepousser
+ - guidebook
 ---
 **Des stratégies pour guider le quotidien des métiers** - Suite de cette série pour partager ce que j’ai appris de plus important avec les dirigeants que j’ai accompagné qui peut enrichir les autres.
 Dans un article précédent - [[rédiger une vision d'entreprise claire et partagée]] - Je rappelle la nécessité d’écrire une vision claire et à jour, en premier lieu.
@@ -13,7 +13,7 @@ Seulement en partant de ce pré-requis va être possible la suite du travail né
 **Le travail des stratégies. Pour quoi écrire au propre des stratégies claires?**
 
 - pour créer des guides plus concrets que la vision qui vont mettre en logique et en action cette vision 
-- Pour permettre par la suite de créer des indicateurs pour mesurer la progression vers la vision  
+- Pour permettre par la suite de créer des indicateurs pour mesurer la progression vers la vision 
 
 Comme pour la vision, j’ai souvent travaillé avec des dirigeants pour lesquels les stratégies étaient très claires dans leur tête peut-être mais partagées de manière très floues et superficielles aux collaborateurs. 
 

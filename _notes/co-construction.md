@@ -1,9 +1,9 @@
 ---
 title: co-construction
 tags:
-  - terminologie
-  - offre
-  - designs
+ - terminologie
+ - offre
+ - designs
 ---
 # Qu'est-ce que la co-construction ?
 
@@ -120,5 +120,5 @@ C’est rarement après un seul atelier que le groupe prend son autonomie : pour
 - EDFR
 - French Tech One & Esprit des Sens
 - Université Lyon 2 avec Archipel
-    - Facilitation du co-construction du learning center (projet architectural à 40M€)
+ - Facilitation du co-construction du learning center (projet architectural à 40M€)
 - Vinci Construction

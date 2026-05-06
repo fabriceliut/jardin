@@ -1,7 +1,7 @@
 ---
 title: joies passives
 tags:
-  - philosophie
+ - philosophie
 ---
 Ce sont des joies liées à des désirs et des plaisirs qui ne sont pas profondément en accord avec notre nature profonde.
 Ces joies donnent de l'énergie sur le moment mais vont en prendre ensuite par contre-effet de souffrance due au non-alignement avec nous-mêmes.

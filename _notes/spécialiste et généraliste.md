@@ -1,9 +1,9 @@
 ---
 title: spécialiste et généraliste
 tags:
-  - Afairepousser
-  - transformation
-  - entreprenariat
+ - Afairepousser
+ - transformation
+ - entreprenariat
 ---
 à l'origine, une discussion [sur linkedIN](https://www.linkedin.com/posts/marie-lou-barnaud_gaeznaezraliste-spaezcialiste-km-activity-6936975990766100480-4XMi?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
@@ -21,7 +21,7 @@ chaque humain peut animer 5,10,15 sujets (activités, pratiques etc...) et chacu
 
 les niveaux sont complémentaire :
 - le niveau débutant donne par sa nouveauté de l'énergie
-- le medium rassure sur le fait d'être capable et justement pas débutant 
+- le medium rassure sur le fait d'être capable et justement pas débutant
 - l'expertise permet d'assoir vraiment un positionnement fort et rassure sur la capacité à aller au bout des choses sans tout survoler
 
 par contre, s'il n'y a que le niveau 3 dans la vie d'un humain c'est frustrant - il a l'impression de ne plus voir de neuf, de stagner et c'est enfermant.
@@ -43,7 +43,7 @@ culturellement, il aura plutôt une posture facilitante et humble : en effet, il
 
 commencer en travaillant avec un généraliste, c'est s'assurer d'accéder aux bonnes personnes et seulement quand il y a besoin et qu'on est certain qu'il faut creuser une piste et pas une autre.
 
-si je fais l'analogie avec la médecine, mieux vaut aller voir un généraliste ou naturopathe si vous avez un problème de santé sans exactement savoir ce que c'est et surtout si vous croyez être certain de ce que vous avez... 
+si je fais l'analogie avec la médecine, mieux vaut aller voir un généraliste ou naturopathe si vous avez un problème de santé sans exactement savoir ce que c'est et surtout si vous croyez être certain de ce que vous avez...
 lui saura poser un diagnostic "général", inspiré de toutes ses expériences (niv 1,2, 3) pour ensuite vous renvoyer vers le bon spécialiste - plutôt que d'aller voir sur une hypothèse directement un expert avec qui passer beaucoup de temps mais qui s'avèrera ne pas être la bonne personne car le problème était mal identifié.
 
 > en médecine, c'est obligatoire d'avoir une ordonnance d'un généraliste pour aller chez certains spécialistes...

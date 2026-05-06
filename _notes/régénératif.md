@@ -1,8 +1,8 @@
 ---
 title: régénératif
 tags:
-  - terminologie
-  - index
+ - terminologie
+ - index
 ---
 Si vous lisez cette page, c’est que quelque chose vous appelle : l’idée qu’on peut faire mieux que « réduire nos impacts ».
 
@@ -99,17 +99,17 @@ Je parle d’une **évolution structurée** qui respecte la réalité du terrain
 En général, ça se joue en 3 temps :
 
 1. **Diagnostic régénératif**
-    - Où est-ce qu’on crée de la valeur ?
-    - Où est-ce qu’on en détruit (humain, environnement, lien, sens) ?
-    - Qu’est-ce que “régénératif” veut dire _dans votre cas_ ?
+ - Où est-ce qu’on crée de la valeur ?
+ - Où est-ce qu’on en détruit (humain, environnement, lien, sens) ?
+ - Qu’est-ce que “régénératif” veut dire _dans votre cas_ ?
 2. **Plan d’action pragmatique**
-    - Prioriser selon impact et faisabilité
-    - Choisir quelques leviers puissants
-    - Mettre en mouvement sans épuiser l’organisation
+ - Prioriser selon impact et faisabilité
+ - Choisir quelques leviers puissants
+ - Mettre en mouvement sans épuiser l’organisation
 3. **Transformation opérationnelle**
-    - Avancer pas à pas
-    - Mesurer, ajuster, apprendre
-    - Ancrer de nouvelles habitudes (culture)
+ - Avancer pas à pas
+ - Mesurer, ajuster, apprendre
+ - Ancrer de nouvelles habitudes (culture)
 
 Mon rôle, dans cet espace, est celui d’un **sparring partner régénératif** :
 
@@ -178,17 +178,17 @@ L’enjeu n’est pas d’être “parfait”. L’enjeu est de **réorienter le
 Pas une révolution. Une évolution structurée :
 
 1. **Diagnostic régénératif**
-    - repérer où l’organisation crée de la valeur et où elle en détruit (humain, vivant, lien, sens)
-    - identifier quelques leviers systémiques
-    - clarifier ce que “régénératif” veut dire _dans ce contexte_
+ - repérer où l’organisation crée de la valeur et où elle en détruit (humain, vivant, lien, sens)
+ - identifier quelques leviers systémiques
+ - clarifier ce que “régénératif” veut dire _dans ce contexte_
 2. **Plan d’action pragmatique**
-    - prioriser selon impact et faisabilité
-    - intégrer les principes régénératifs dans l’existant
-    - former, outiller, donner du temps
+ - prioriser selon impact et faisabilité
+ - intégrer les principes régénératifs dans l’existant
+ - former, outiller, donner du temps
 3. **Transformation opérationnelle**
-    - avancer par itérations
-    - mesurer, ajuster, apprendre
-    - ancrer de nouvelles habitudes (culture)
+ - avancer par itérations
+ - mesurer, ajuster, apprendre
+ - ancrer de nouvelles habitudes (culture)
 
 ## Exemples concrets (pour se représenter)
 

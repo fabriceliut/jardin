@@ -1,7 +1,7 @@
 ---
 title: Du combat à la coexistence, renaître au-delà de nos peurs
 tags:
-  - article
+ - article
 ---
 *Pendant des millénaires, l’être humain a vécu dans l’ombre d’ennemis tangibles — bêtes sauvages, tribus rivales, dangers environnementaux — qui imposaient l’impératif de se défendre, de s’unir pour combattre l’inconnu. Aujourd’hui, force est de constater que nous avons, à bien des égards, conquis notre environnement. Les menaces réelles se sont estompées au profit de peurs intérieures et de systèmes de rivalités souvent hérités d’un passé lointain. Mais peur de quoi ? En 2025, notre plus grand prédateur, c’est nous-mêmes.*
 

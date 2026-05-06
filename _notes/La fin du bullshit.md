@@ -1,7 +1,7 @@
 ---
 title: La fin du bullshit
 tags:
-  - philosophie
+ - philosophie
 ---
 **Je me demande quand est-ce que ça va finir, le bullshit.** Vraiment, qui aime le mensonge, les vendeurs de rêve, la manipulation, le détournement d'intérêt ? Après une année 2020 qui nous montre très explicitement toutes les failles de transparence et de sincérité de notre système, qui peut encore désirer revenir à un état "normal" des choses ?
 
@@ -13,9 +13,9 @@ Tu veux gagner de l'argent, ok. Tu as besoin de gagner de l'argent, ok. Nous jou
 
 Mais est-ce qu'on ne se rajouterait pas une règle : business mais NO Bullshit.
 
--   Sincère, honnête.
--   Cherchant l'énergie de la coopération plutôt que de la concurrence.
--   Dans le partage, l'ouverture.
--   Sans avoir peur de la [[complexité]] des enjeux parce que justement c'est une opportunité pour faire ensemble.
+- Sincère, honnête.
+- Cherchant l'énergie de la coopération plutôt que de la concurrence.
+- Dans le partage, l'ouverture.
+- Sans avoir peur de la [[complexité]] des enjeux parce que justement c'est une opportunité pour faire ensemble.
 
 **Et toi alors, prêt à arrêter le bullshit une bonne fois pour toutes pour [[Prendre soin du monde]] à la place en toute sincérité et [[dignité]] ?**

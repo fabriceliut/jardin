@@ -1,7 +1,7 @@
 ---
 title: Champignons magiques, présence et leçons
 tags:
-  - Meta-analyse
+ - Meta-analyse
 ---
 ## L’expérience
 

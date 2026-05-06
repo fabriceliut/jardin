@@ -1,7 +1,7 @@
 ---
 title: La danse de la vie, trouver la beauté dans la fluidité
 tags:
-  - spiritualité
+ - spiritualité
 ---
 Il existe une loi fondamentale de la nature qui semble régir notre rapport à la beauté. Que ce soit en admirant une danse gracieuse, en écoutant une musique envoûtante, en contemplant un paysage harmonieux ou en respirant des parfums qui s'accordent parfaitement, il y a un mouvement sous-jacent qui nous touche profondément. Ce mouvement, lorsqu'il est fluide, détendu, ouvert, libre et cohérent sans effort, incarne la beauté dans sa forme la plus pure.
 

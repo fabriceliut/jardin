@@ -1,8 +1,8 @@
 ---
 title: L'analogie entre l'écriture assistée par IA et la création musicale
 tags:
-  - article
-  - IA
+ - article
+ - IA
 ---
 *Je propose d'explorer l'analogie entre le processus d'écriture avec intelligence artificielle et la création musicale, en soulignant les étapes similaires de structuration et de composition. Je compare les méthodes traditionnelles d'écriture et de composition musicale avec les outils modernes qui facilitent ces processus.*
 

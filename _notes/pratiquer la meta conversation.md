@@ -1,7 +1,7 @@
 ---
 title: pratiquer la meta conversation
 tags:
-  - Meta-analyse
+ - Meta-analyse
 ---
 Est-ce que vous aussi vous sentez que lors d’une conversation il y a des évolutions comme par « niveaux » - comme si les échanges changeaient de hauteur, de fréquence, de niveau d’abstraction? (cf [[exploration de l'abstraction]])
 
@@ -13,10 +13,10 @@ De plus en plus meta, abstrait et en même temps essentiel… on peut voir ce mo
 
 On peut lors d’une conversation venir rencontrer le système de pensée de quelqu’un et se frotter à ses biais cognitifs mais aussi se surprendre en découvrant les nôtres…
 
-Lorsqu’une conversation devient un débat c’est qu’il y a une opposition logique au même « niveau » d’échange: vegan pas vegan - écologie pas écologie - politique de gauche où de droite etc…  
+Lorsqu’une conversation devient un débat c’est qu’il y a une opposition logique au même « niveau » d’échange: vegan pas vegan - écologie pas écologie - politique de gauche où de droite etc…
 
-Le débat va demander des arguments, de la connaissance dans un domaine, des explications etc… c’est souvent sujet à frictions et on peut se retrouver bloqué…  
- 
+Le débat va demander des arguments, de la connaissance dans un domaine, des explications etc… c’est souvent sujet à frictions et on peut se retrouver bloqué…
+
 **Mais lorsque le débat survient et qu'on se rend compte de la situation on peut choisir de « monter » d’un niveau meta pour réouvrir les possible.**
 
 ## remonter vers le meta

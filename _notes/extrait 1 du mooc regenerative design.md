@@ -1,21 +1,21 @@
 ---
 title: extrait 1 du mooc regenerative design
 tags:
-  - régénératif
-  - Afairepousser
+ - régénératif
+ - Afairepousser
 ---
 [[design régénératif]] - [[système complexe]] - [[bio-inspiration]] - 1.2-4 Regeneration (mooc chapter)
 
 - sustainability is not enough
 - regenerative is not another keyword for consultant
 
-> life journey to novelty  
+> life journey to novelty
 
 - we need to find a way to fit humanity inside the pattern of life to survive and live well
 - need to realign with ancient regenerative knowledges
 
-> a cell need to be regenerative in the context of it human body  
- 
+> a cell need to be regenerative in the context of it human body
+
 - we need to be in service of a larger system (like cells in our body)
 - how can we heal the damage of the past?
 - need to build a continuous capacity for people coming then to continue regenerate
@@ -30,7 +30,7 @@ tags:
 - [the seed communities](https://seed-communities.com/)
 - [international futures forum](https://www.internationalfuturesforum.com/)
 
-> “Instead of doing less damage to the environment, it is necessary to learn how we can participate with the environment — using the health of ecological systems as a basis for design. […] The shift from a fragmented worldview to a whole systems mental model is the significant leap our culture must make — framing and understanding living system interrelationships in an integrated way. A place-based approach is one way to achieve this understanding. […] Our role, as designers and stakeholders is to shift our relationship to one that creates a whole system of mutually beneficial relationships.” — Bill Reed  
+> “Instead of doing less damage to the environment, it is necessary to learn how we can participate with the environment — using the health of ecological systems as a basis for design. […] The shift from a fragmented worldview to a whole systems mental model is the significant leap our culture must make — framing and understanding living system interrelationships in an integrated way. A place-based approach is one way to achieve this understanding. […] Our role, as designers and stakeholders is to shift our relationship to one that creates a whole system of mutually beneficial relationships.” — Bill Reed
 
 ---
 

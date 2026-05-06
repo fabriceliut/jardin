@@ -1,7 +1,7 @@
 ---
 title: La chance n'est pas un hasard — c'est une surface d'exposition
 tags:
-  - article
+ - article
 ---
 On croit que la chance tombe du ciel. Qu'elle est aléatoire, injuste, capricieuse. Mais la science raconte une toute autre histoire.
 

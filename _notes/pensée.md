@@ -1,8 +1,8 @@
 ---
 title: pensée
 tags:
-  - Afairepousser
-  - terminologie
+ - Afairepousser
+ - terminologie
 ---
 Début d'exploration avec [le wiki](https://fr.wikipedia.org/wiki/Pensée).
 

@@ -1,8 +1,8 @@
 ---
 title: système complexe
 tags:
-  - Afairepousser
-  - systémique
+ - Afairepousser
+ - systémique
 ---
 ## Comprendre la complexité pour mieux piloter votre entreprise.
 

@@ -1,8 +1,8 @@
 ---
 title: L'Illusion de la tribu, bâtir une communauté est un acte biologique, pas technologique
 tags:
-  - article
-  - communitydesign
+ - article
+ - communitydesign
 ---
 On connaît tous cette ivresse. Celle du « Jour 1 ».
 
@@ -41,11 +41,11 @@ Aujourd'hui, l'offre communautaire explose (design, écologie, entrepreneuriat..
 Mon expérience de terrain m'a enseigné cette règle incontournable : un humain adulte (avec un travail, une famille, une vie) ne peut être **véritablement actif** que dans deux tribus maximum :
 
 - **Une locale (physique) :** Ancrée dans son territoire.
-    
+
 - **Une en ligne :** Centrée sur son expertise ou sa passion vitale.
-    
-    Dans toutes les autres, il subira la loi d'Internet : le fameux 90-9-1 (90 % de voyeurs passifs, 9 % de contributeurs occasionnels, 1 % de créateurs). Si votre modèle repose sur l'hyperactivité de 100 % de vos membres, il est mathématiquement voué à l'échec.
-    
+
+ Dans toutes les autres, il subira la loi d'Internet : le fameux 90-9-1 (90 % de voyeurs passifs, 9 % de contributeurs occasionnels, 1 % de créateurs). Si votre modèle repose sur l'hyperactivité de 100 % de vos membres, il est mathématiquement voué à l'échec.
+
 
 ## La Révélation : Du Bâtisseur au Jardinier
 
@@ -60,27 +60,27 @@ Voici les 3 règles d'or de cette méthode de conception :
 C'est le principe cardinal de la permaculture. Avant de creuser votre mare, regardez où coule l'eau.
 
 - La communauté que vous rêvez de créer existe-t-elle déjà, même sous une forme imparfaite ?
-    
+
 - Si oui, rangez votre ego et **rejoignez-la**. Apportez votre force à un organisme déjà vivant. Dans un système durable, la coopération bat toujours la compétition.
-    
+
 
 ### Règle n°2 : Visibiliser les bordures (La Niche)
 
 Si le vide existe vraiment, alors créez. Mais avec une précision chirurgicale. Dans la nature, la « lisière » (le bord d'une forêt, la berge d'une rivière) est la zone la plus riche en biodiversité car elle a une frontière claire.
 
 - _L'erreur fatale_ : Créer une tribu « Pour les freelances » (Océan rouge, saturation totale).
-    
+
 - _Le design gagnant_ : Créer un collectif « Pour les artisans d'art ruraux voulant digitaliser leur distribution. » (Niche évidente, utilité vitale).
-    
+
 
 ### Règle n°3 : L'Ancrage (Le Système Racinaire)
 
 Une plante sans racine s'envole au premier coup de vent. Le « churn » (désabonnement) de vos membres est ce coup de vent.
 
 - Si votre ambition est locale, **trouvez un lieu**. Un espace physique est le tuteur indispensable de la dynamique de groupe.
-    
+
 - Si votre tribu est 100 % en ligne, votre ancrage doit être **rituel**. Des rendez-vous temporels sacralisés et inratables. Sans structure rythmique, la communauté s'évapore.
-    
+
 
 ## Le Retour : Élever un système durable
 

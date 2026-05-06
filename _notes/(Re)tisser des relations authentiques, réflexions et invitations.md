@@ -1,8 +1,8 @@
 ---
 title: (Re)tisser des relations authentiques, réflexions et invitations
 tags:
-  - article
-  - psychologie
+ - article
+ - psychologie
 ---
 
 J’ai eu envie de poser ici mes réflexions sur la façon dont naissent et se construisent les relations qui comptent pour moi, qu’elles soient pro ou perso.

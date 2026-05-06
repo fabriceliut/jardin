@@ -1,8 +1,8 @@
 ---
 title: qu'est-ce qu'une réelle opportunité ?
 tags:
-  - Afairepousser
-  - entreprenariat
+ - Afairepousser
+ - entreprenariat
 ---
 inspiration d'un [tweet](https://twitter.com/SlaapMe/status/1405634038795182080)
 

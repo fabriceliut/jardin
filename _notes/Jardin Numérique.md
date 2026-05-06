@@ -1,9 +1,9 @@
 ---
 title: jardin numérique
 tags:
-  - terminologie
-  - Afairepousser
-  - guidebook
+ - terminologie
+ - Afairepousser
+ - guidebook
 ---
 Qu'est-ce qu'un jardin numérique ? Je tenterai dans cette série de "notes reliées" d'expliquer en détail le fonctionnement mais également la philosophie derrière qui est très importante car elle apporte une réelle évolution à la création de contenu & au partage de ce contenu.
 

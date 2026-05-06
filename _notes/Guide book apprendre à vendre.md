@@ -1,9 +1,9 @@
 ---
 title: Guide book apprendre à vendre
 tags:
-  - business
-  - guidebook
-  - Afairepousser
+ - business
+ - guidebook
+ - Afairepousser
 ---
 *Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]], j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
 
@@ -18,19 +18,19 @@ Nécessité de trouver une niche et potentiellement commencer par regarder autou
 Plutôt que vendre une transformation globale, adresser spécifiquement toutes les premières problématiques « point de contact » tout en apportant une conscience systémique pour orienter au mieux les actions pas à pas.
 
 En effet, je ne suis pas certain que beaucoup de profils soient prêts à déclencher une démarche de [[Métamorphose]].
- 
+
 *À l'échelle individuelle, on fonctionne aussi pas à pas, par petits ajustements, et le point de départ peut être l'activité physique, l'alimentation, les relations, les habitudes, etc. Mais rarement on se lève un matin et on décide d'investir sur une transformation complète de notre « Moi ».*
 
 # Connaître sincèrement son interlocuteur
 
-Comment est-ce qu'on l'a découvert ? 
+Comment est-ce qu'on l'a découvert ?
 - Article ? Podcast ? Événement ?
 	
 Quel est son propos de fond ?
 
 Quelle est sa forme de langage, son vocabulaire, son modèle mental ?
 
-Quel est son contexte pro ? Son historique pro ? 
+Quel est son contexte pro ? Son historique pro ?
 - Se renseigner en partant de toutes les informations accessibles publiquement sur lui et son entreprise.
 Quel est son contexte perso ? Son historique perso ?
 

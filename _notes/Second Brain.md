@@ -1,10 +1,10 @@
 ---
 title: Second Brain
 tags:
-  - projet
-  - terminologie
-  - knowledgemanagement
-  - Afairepousser
+ - projet
+ - terminologie
+ - knowledgemanagement
+ - Afairepousser
 ---
 Principe très proche du [[jardin numérique]], le seconde cerveau numérique représente une opportunité d'utiliser la machine comme complément à notre cerveau naturel & non pas comme remplaçant, c'est à dire, en respectant notre fonctionnement neuronal et sans nous assister totalement. **Le concept ici n'est pas de tout faire à notre place mais plutôt de nous permettre de nous développer avec lui.**
 
@@ -12,9 +12,9 @@ Le système "Building a Second Brain (BASB)"" qui vient de Tiago Forte est un mo
 
 **Capture :** La première étape consiste à capturer toutes les informations que vous rencontrez dans votre vie quotidienne, telles que les articles, notes et idées. Cela peut être fait à l'aide de différents outils, tels qu'une application de prise de notes ou un outil de capture de pages web.
 		*je fais ça grâce à Readwise Reader, Readwise & Workflowy*
-    
+
 **Clarification :** L'étape suivante consiste à clarifier les informations en les divisant en plus petits morceaux et en les organisant dans différentes catégories. Cela peut être fait en mettant en évidence les points clés, en créant des résumés ou en créant des plans.
-	    *je fais ça en surlignants des contenus de ce que je lis et en associant ces parties atomiques de connaissance à des tags. je regroupe ces éléments dans Readwise et c'est automatiquement synchronisé avec mon espace sur Roam Research, qui est ma grande base de connaissance, mon "personal wiki"*
+	 *je fais ça en surlignants des contenus de ce que je lis et en associant ces parties atomiques de connaissance à des tags. je regroupe ces éléments dans Readwise et c'est automatiquement synchronisé avec mon espace sur Roam Research, qui est ma grande base de connaissance, mon "personal wiki"*
 
 **Organisation :** Une fois les informations clarifiées, elles doivent être organisées de manière à pouvoir être facilement retrouvées et consultées plus tard. Cela peut être fait en créant un système de dossiers, étiquettes ou tags.
 - [[Organiser son information grâce au système PARAT]]
@@ -29,6 +29,6 @@ j'ajouterais une étape suivante qui consiste à créer des objets finaux de qua
 ---
 ### quelques premières sources
 
--   [Site web de Tiago Forte]([https://tiagoforte.com/](https://tiagoforte.com/)) 
--   [Livre "Building a Second Brain" de Tiago Forte]([https://tiagoforte.com/books/building-a-second-brain/](https://tiagoforte.com/books/building-a-second-brain/))
--   [Vidéo de présentation de la méthode BASB de Tiago Forte]([https://www.youtube.com/watch?v=FvL7WdFcMf4](https://www.youtube.com/watch?v=FvL7WdFcMf4))
+- [Site web de Tiago Forte]([https://tiagoforte.com/](https://tiagoforte.com/))
+- [Livre "Building a Second Brain" de Tiago Forte]([https://tiagoforte.com/books/building-a-second-brain/](https://tiagoforte.com/books/building-a-second-brain/))
+- [Vidéo de présentation de la méthode BASB de Tiago Forte]([https://www.youtube.com/watch?v=FvL7WdFcMf4](https://www.youtube.com/watch?v=FvL7WdFcMf4))

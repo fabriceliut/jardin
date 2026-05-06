@@ -1,7 +1,7 @@
 ---
 title: institut de la pensée intégrale
 tags:
-  - projet
+ - projet
 ---
 *Une nouvelle institution pour penser & penser le monde autrement, pour faire autrement ensemble.*
 
@@ -64,5 +64,5 @@ Penser « intégral » est une métamorphose personnelle à entraîner par div
 **Monde Végétal -** *L’intelligence de la forêt, l’information dans l’air, eau, cosmologie…* +10 modules
 
 ---
-#Afairepousser 
+#Afairepousser
  

@@ -1,7 +1,7 @@
 ---
 title: Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles
 tags:
-  - philosophie
+ - philosophie
 ---
 **La notion de [[sobriété]]** - même si actuellement utilisée à toutes les sauces - est très intéressante quand elle s’approche de la notion de convivialité de [Ivan illich](https://fr.wikipedia.org/wiki/Ivan_Illich). 
 
@@ -17,9 +17,9 @@ Et pour se motiver à une telle aventure il faut y trouver du sens et une profon
 
 Si considérer notre société comme malade et voir la sobriété conviviale comme un traitement heureux et naturel n’est pas suffisant pour motiver assez à se jeter à l’eau, **j’aime aussi voir une liste d’avantages très directs et concrets:** 
 
--   à échelle personnelle, la sobriété permet d’économiser de l’argent et de mieux l’utiliser et l’investir - et la convivialité redonne le pouvoir sur son rythme de vie, le temps et la manière de gérer son énergie. En somme, on gagne plus qu’on ne perd!
--   à échelle du groupe et locale, la convivialité facilite le lien, les relations, la coopération et la sobriété invite à faire mieux avec moins faisant exister un nouveau contexte créatif et stimulant! Est-ce que ce qui compte ce n’est pas de prendre plus de plaisir dans des aventures à partager? 
--   à échelle globale, la sobriété vient réduire notre impact dégénératif et la convivialité redonne un rythme et des dimensions adaptées à nos besoins humains
+- à échelle personnelle, la sobriété permet d’économiser de l’argent et de mieux l’utiliser et l’investir - et la convivialité redonne le pouvoir sur son rythme de vie, le temps et la manière de gérer son énergie. En somme, on gagne plus qu’on ne perd!
+- à échelle du groupe et locale, la convivialité facilite le lien, les relations, la coopération et la sobriété invite à faire mieux avec moins faisant exister un nouveau contexte créatif et stimulant! Est-ce que ce qui compte ce n’est pas de prendre plus de plaisir dans des aventures à partager? 
+- à échelle globale, la sobriété vient réduire notre impact dégénératif et la convivialité redonne un rythme et des dimensions adaptées à nos besoins humains
 
 Je ne sais pas si vous faites le même constat que moi, mais je ne vois que très peu de désavantages à explorer la voie de la sobriété conviviale. 
 
@@ -31,7 +31,7 @@ Je vois la sobriété et la convivialité comme des sources de contentement, de 
 
 Rien de radical donc et des erreurs encore tous les jours, des ratés et toujours des excès… mais conscients. 
 
-Dans ce récit nous ne sommes plus [des enfants gâtés](https://www.amazon.fr/Enfants-gâtés-Anthropologie-capitalisme-responsable/dp/2228930776) mais des enfants joyeux, heureux d’être ensemble et de jouer le quotidien même si c’est avec un morceau de bois - parce qu’il n’y a pas besoin de grand chose pour s’éclater; regardez ces spectacles d’improvisation où le matériel en est réduit à une scène et des chemises noires. 
+Dans ce récit nous ne sommes plus [des enfants gâtés](https://www.amazon.fr/Enfants-gâtés-Anthropologie-capitalisme-responsable/dp/2228930776) mais des enfants joyeux, heureux d’être ensemble et de jouer le quotidien même si c’est avec un morceau de bois - parce qu’il n’y a pas besoin de grand chose pour s’éclater; regardez ces spectacles d’improvisation où le matériel en est réduit à une scène et des chemises noires.
 
 La technologie ne disparaîtra pas, ni internet: elle fait désormais partie de notre humanité, c’est notre maillage "neuronal" collectif et universel. Mais comme le reste, elle sera plus sobre, justement utilisée suivant les principes de convivialité. 
 

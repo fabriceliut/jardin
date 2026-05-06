@@ -1,7 +1,7 @@
 ---
 title: Chief of Staff - La solution pour dépasser la charge de travail et garder le cap
 tags:
-  - chiefofstaff
+ - chiefofstaff
 ---
 _Votre entreprise est en plein essor, les opportunités affluent, mais voilà, les journées semblent de plus en plus courtes et les responsabilités vous submergent. Vous jonglez entre la stratégie à long terme, les urgences opérationnelles et la gestion quotidienne des équipes. C’est ici que le Chief of Staff entre en jeu._
 
@@ -24,7 +24,6 @@ Au-delà de son rôle de [[sparring partner]], le Chief of Staff est aussi un ge
 > _Vous gagnez ainsi en sérénité, sachant que quelqu'un veille à ce que les actions essentielles soient menées à bien, sans perdre de vue la stratégie globale._
 
 
-
 ### Pourquoi faire appel à un Chief of Staff ?
 
 Si vous avez le sentiment que vos journées ne suffisent plus à tout gérer, et que vos responsabilités vous empêchent de penser à l'avenir de votre entreprise, c'est peut-être le moment de considérer cette fonction. **Un Chief of Staff apporte une vraie bouffée d'oxygène : il est là pour absorber les détails, organiser les priorités, et surtout, vous permettre de garder une vue d'ensemble.**
@@ -32,7 +31,6 @@ Si vous avez le sentiment que vos journées ne suffisent plus à tout gérer, et
 Plus encore, le CoS joue un rôle essentiel dans la communication avec les parties prenantes internes et externes, des membres du conseil d'administration aux investisseurs, en passant par les employés.
 
 > _Il s’assure que votre vision est bien comprise et exécutée à tous les niveaux de l’entreprise, et il permet d’éviter les frictions qui peuvent survenir dans une phase de croissance rapide._
-
 
 
 ### Commencez par tester la fonction en temps partagé

@@ -1,7 +1,7 @@
 ---
 title: logique et nécessité des interrelations pour faire système en archipels
 tags:
-  - archipel
+ - archipel
 ---
 Une des études qu'on porte avec [[Archipel Kyosei]] pour faire grandir le mouvement des [[Archipels en Symbiose]]. En même temps, élément de [[Recherche-Action]] sur l'évolution de notre société et surtout des alternatives au mouvement dominant.
 
@@ -41,12 +41,12 @@ La liberté, la diversité, le respect du vivant, être à son service, la coop�
 
 ### Plus rien à créer, sauf les liens !
 Relions tout ce qui s’agite, et tout le monde peut le faire.
--   listez ce que vous connaissez comme projets, mouvements, communautés etc...
--   Listez ceux qui comme vous font des listes !
--   Connectez ces listes entre elles !
--   Connectez les catégories de ces listes entre elles. Pas besoin de tomber d’accord, faites les liens comme vous sentez et les convergences vont émerger au fil du temps !
--   Partagez au quotidien votre journal de bord. Écrivez en lecture public et connectez aux autres journaux de bord vos pensées, vos découvertes ! Nous sommes tous comme des capitaines du même bateau !
--   Reliez tout ce que vous pouvez relier avant de vouloir inventer quelque chose de nouveau…
+- listez ce que vous connaissez comme projets, mouvements, communautés etc...
+- Listez ceux qui comme vous font des listes !
+- Connectez ces listes entre elles !
+- Connectez les catégories de ces listes entre elles. Pas besoin de tomber d’accord, faites les liens comme vous sentez et les convergences vont émerger au fil du temps !
+- Partagez au quotidien votre journal de bord. Écrivez en lecture public et connectez aux autres journaux de bord vos pensées, vos découvertes ! Nous sommes tous comme des capitaines du même bateau !
+- Reliez tout ce que vous pouvez relier avant de vouloir inventer quelque chose de nouveau…
 
 Un exemple simple auquel vous pouvez participer pour relier > [Ref des archipels](https://workflowy.com/s/les-archipels-de-la/aEViTvhGbXP23ZV4)
 

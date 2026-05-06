@@ -1,7 +1,7 @@
 ---
 title: community design
 tags:
-  - concept
+ - concept
 ---
 Le _community design_ consiste à **concevoir les conditions** qui permettent à une communauté d’exister, de se développer, et de produire de la valeur (pour ses membres et pour son environnement), sans dépendre uniquement de l’animation ou de l’énergie de quelques personnes.
 
@@ -19,21 +19,21 @@ Une communauté devient un levier quand elle :
 ### Principes (design)
 
 - **Concevoir pour les interactions, pas pour l’audience**
-    
-    Le sujet n’est pas “combien de membres”, mais “quels échanges deviennent possibles”.
-    
+
+ Le sujet n’est pas “combien de membres”, mais “quels échanges deviennent possibles”.
+
 - **Rendre l’engagement modulable**
-    
-    Prévoir plusieurs niveaux de participation. Du “je lis” à “je co-construis”.
-    
+
+ Prévoir plusieurs niveaux de participation. Du “je lis” à “je co-construis”.
+
 - **Créer des boucles de feedback courtes**
-    
-    Observer ce qui marche, ce qui fatigue, ce qui exclut, et ajuster.
-    
+
+ Observer ce qui marche, ce qui fatigue, ce qui exclut, et ajuster.
+
 - **Préférer la clarté à la complexité**
-    
-    Une communauté durable est lisible. On sait comment entrer, contribuer, et évoluer.
-    
+
+ Une communauté durable est lisible. On sait comment entrer, contribuer, et évoluer.
+
 
 ### Liens avec le design
 
@@ -46,49 +46,49 @@ Une communauté devient un levier quand elle :
 ### Les briques à designer (checklist)
 
 - **Intention**
-    
-    À quoi sert la communauté, et pour qui, concrètement ?
-    
+
+ À quoi sert la communauté, et pour qui, concrètement ?
+
 - **Frontières**
-    
-    Qui est dedans, qui est dehors, et pourquoi ? (accès, critères, invitations)
-    
+
+ Qui est dedans, qui est dehors, et pourquoi ? (accès, critères, invitations)
+
 - **Proposition de valeur**
-    
-    Qu’est-ce que les membres viennent chercher et trouvent réellement ?
-    
+
+ Qu’est-ce que les membres viennent chercher et trouvent réellement ?
+
 - **Rôles**
-    
-    Hôtes, facilitateurs, contributeurs, mainteneurs, “anciens”
-    
+
+ Hôtes, facilitateurs, contributeurs, mainteneurs, “anciens”
+
 - **Rituels**
-    
-    Formats récurrents. Cadence. Préparation. Post-rituel (trace, suivi)
-    
+
+ Formats récurrents. Cadence. Préparation. Post-rituel (trace, suivi)
+
 - **Espaces**
-    
-    Synchrone / asynchrone. Public / privé. “Place du village” / “ateliers”
-    
+
+ Synchrone / asynchrone. Public / privé. “Place du village” / “ateliers”
+
 - **Règles et normes**
-    
-    Explicites et implicites. Modération. Sécurité psychologique
-    
+
+ Explicites et implicites. Modération. Sécurité psychologique
+
 - **Gouvernance**
-    
-    Qui décide quoi ? Comment on tranche ? Comment on évolue ?
-    
+
+ Qui décide quoi ? Comment on tranche ? Comment on évolue ?
+
 - **Onboarding**
-    
-    Comment une personne passe de “nouvelle” à “contributrice” ?
-    
+
+ Comment une personne passe de “nouvelle” à “contributrice” ?
+
 - **Knowledge management**
-    
-    Comment les apprentissages deviennent transmissibles ?
-    
+
+ Comment les apprentissages deviennent transmissibles ?
+
 - **Mesure**
-    
-    Qu’est-ce qu’on observe : rétention, entraide, densité de liens, énergie, qualité
-    
+
+ Qu’est-ce qu’on observe : rétention, entraide, densité de liens, énergie, qualité
+
 
 ### Anti-patterns (à éviter)
 

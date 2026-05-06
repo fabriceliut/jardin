@@ -1,9 +1,9 @@
 ---
 title: enrichir les nouveaux projets grâce au compostage des anciens
 tags:
-  - knowledgemanagement
-  - projectmanagement
-  - guidebook
+ - knowledgemanagement
+ - projectmanagement
+ - guidebook
 ---
 ## intention
 à chaque nouveau projet il y a le risque de réinventer la roue, quel que soit le projet. l'idée ici est de proposer un petit guide permettant de "composter" ou recycler un ancien projet pour en faire des ressources pour un nouveau.
@@ -60,4 +60,4 @@ vous imaginez tout ce que vous avez à recycler de vos projets passés?
 il y a toujours la question du temps, "je n'ai pas le temps" - qui est une vraie question. cela dit, prendre le temps aujourd'hui de créer des ressources pour en gagner ensuite est très souvent plus que rentable sur le moyen et long terme.
 c'est une culture de l'investissement qui va au-delà de celle de la réaction immédiate.
 
-#Afairepousser 
+#Afairepousser

@@ -1,9 +1,9 @@
 ---
 title: émergence de structure logique utilisable
 tags:
-  - guidebook
-  - knowledgemanagement
-  - Afairepousser
+ - guidebook
+ - knowledgemanagement
+ - Afairepousser
 ---
 >La connaissance n’est pas suffisante, elle doit être connectée et « testée » pour devenir du savoir actionnable.
 
@@ -24,16 +24,15 @@ Logique, complexe mais difficilement lisible et partageable
 
 ## Du modèle à l’outil, manuel, guide, kit, etc...
 
-### Mise en narratif .
+### Mise en narratif.
 Lien avec la [[Pensée Dire]]
 
-### Mise en langage. 
+### Mise en langage.
 ### Simplexifier.
-### Mise en forme. 
+### Mise en forme.
 
 ## De l’outil à l’action.
 >Le savoir n’est rien s’il n’est pas relié avec des actions concrètes dans le réel
-
 
 
 ### Des "systèmes de concepts" aux projets.
@@ -55,7 +54,7 @@ Lien avec la [[Pensée Faire]]
 
 Une démarche de [[Recherche-Action]] en commun en aller/retour.
 
-### Documentations, données enrichies & traces ou livres de bord. 
+### Documentations, données enrichies & traces ou livres de bord.
 Les sources, les pensées
 
 ### Le système de Feedback.

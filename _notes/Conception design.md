@@ -1,7 +1,7 @@
 ---
 title: Conception design
 tags:
-  - offre
+ - offre
 ---
 > Ici nous sommes dans le passé. Mais avec l'IA, je me retrouve à nouveau à produire et à créer des interfaces et des apps... x15 plus vite, ce qui est très utile dans un contexte de prototypage rapide pour tester et faire évoluer.
 
@@ -28,11 +28,11 @@ Je réalise également ponctuellement des identités & images de marque, chartes
 
 ---
 ## Réf clients
-- Altima 
-- Novius 
-- April 
-- Cher Ami 
+- Altima
+- Novius
+- April
+- Cher Ami
 - Steamulo
 
 ---
-#Afairepousser - Héritage du site liut.me - #offre 
+#Afairepousser - Héritage du site liut.me - #offre

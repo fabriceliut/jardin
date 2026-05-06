@@ -1,9 +1,9 @@
 ---
 title: La Fin du Conflit Intérieur, Regarder "Ce Qui Est"
 tags:
-  - article
-  - philosophie
-  - psychologie
+ - article
+ - philosophie
+ - psychologie
 ---
 ### Survivre au chaos familial : une perspective inspirée par J. Krishnamurti
 

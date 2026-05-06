@@ -1,13 +1,13 @@
 ---
 title: Nécessaire sur cette terre ou transparent ?
 tags:
-  - article
+ - article
 ---
 C'est souvent ce que je ressens : un jour, j’éprouve le besoin d’être indispensable aux autres, et le lendemain, je me sens carrément invisible. Ce qui est intéressant, c’est qu’en réalité, personne n’est vraiment nécessaire. Et pourtant, chacun porte en lui quelque chose d’unique à offrir au monde.
 
-Cela me ramène souvent à la question de ma propre responsabilité. Personne ne viendra frapper à ma porte pour me dire : « Hé, on a besoin de toi, oui, TOI, et personne d’autre ! »  
-Et pourtant, au fond, je crois que nous rêvons tous de ce moment : ne rien avoir à faire et que les autres viennent à nous, que ce soit pour le travail ou même en amitié.  
-Parfois, on se raconte cette histoire : « Je suis unique, j’ai des qualités, je suis une bonne compagnie... ce devrait être normal que les autres viennent me chercher. »  
+Cela me ramène souvent à la question de ma propre responsabilité. Personne ne viendra frapper à ma porte pour me dire : « Hé, on a besoin de toi, oui, TOI, et personne d’autre ! »
+Et pourtant, au fond, je crois que nous rêvons tous de ce moment : ne rien avoir à faire et que les autres viennent à nous, que ce soit pour le travail ou même en amitié.
+Parfois, on se raconte cette histoire : « Je suis unique, j’ai des qualités, je suis une bonne compagnie... ce devrait être normal que les autres viennent me chercher. »
 Et c’est cette histoire qui nous blesse, bien plus que la réalité de la vie.
 
 Bien sûr, chacun est unique. Comme je le disais, nous avons tous quelque chose de précieux à offrir au monde, quelque chose que personne d’autre ne pourra apporter. Mais ce "quelque chose", il nous faut d’abord le découvrir, l’explorer en nous-mêmes, à travers notre voyage intérieur, avant de le partager avec les autres et le monde.

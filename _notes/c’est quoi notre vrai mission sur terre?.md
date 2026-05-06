@@ -1,17 +1,17 @@
 ---
 title: c’est quoi notre vraie mission sur terre?
 tags:
-  - article
+ - article
 ---
 Nous sommes tous dans la même entreprise quoi qu’on en pense. C’est juste que nous n’approchons pas notre mission collective par le même angle et qu’il y a tellement d’angles que nous avons oublié que nous sommes dans le même vaisseau spatial. 
 
-Quand c’est trop complexe en réalité tout le monde est perdu. Alors revenons au très simple, parce que c’est possible sans être trop simpliste.  
+Quand c’est trop complexe en réalité tout le monde est perdu. Alors revenons au très simple, parce que c’est possible sans être trop simpliste. 
 
 **La vérité c’est que nous sommes tous engagés dans une entreprise collective qui s’appelle humanité, par simple acte de naissance. Et qu’on ne démissionne pas de cette entreprise, c’est pour la vie.** 
 
 **Notre mission commune c’est de créer les conditions pour vivre bien et heureux sur terre.** Et une des composantes essentielles à ce bien-être c’est de ne pas dégénérer en faisant progresser notre mission tout en ne détruisant pas non plus tout autour : parce qu’on ne peut pas être heureux facilement si nous ne sommes pas en douce interaction avec notre environnement et le reste du vivant sur terre. 
 
-Comme nous avons oublié cette mission réelle nous sommes tous individuellement en train de chercher des missions individuelles mais elles ont difficilement du sens : en effet c’est quasiment impossible de se sentir utile et intègre dans un tout vivant et vibrant si notre seul point de repère c’est nous-même.  
+Comme nous avons oublié cette mission réelle nous sommes tous individuellement en train de chercher des missions individuelles mais elles ont difficilement du sens : en effet c’est quasiment impossible de se sentir utile et intègre dans un tout vivant et vibrant si notre seul point de repère c’est nous-même. 
 
 Alors pour certains ce sera leur famille, leurs amis et la communauté proche. 
 
@@ -25,7 +25,7 @@ Nous vivons ensemble et nous mourons ensemble, comme le foie est lié à l’est
 
 ### Si je vais dans la caricature : c’est de travailler à faire de notre existence un paradis sur terre. 
 
-Se lever le matin pour faire exister un jour le paradis ici et pas attendre après la mort : peut-être que c’était la réelle œuvre des origines des religions : vivre dans l’ici et maintenant pour construire le paradis qu’on visualise tous.  
+Se lever le matin pour faire exister un jour le paradis ici et pas attendre après la mort : peut-être que c’était la réelle œuvre des origines des religions : vivre dans l’ici et maintenant pour construire le paradis qu’on visualise tous. 
 
 C’est simple mais à faire exister c’est complexe : oui si quand tu lis ces mots tu juges naturellement que c’est très utopiste c’est déjà complexe parce qu’on ne s’autorise plus à rêver! 
 

@@ -1,7 +1,7 @@
 ---
 title: profiter du chaos et des erreurs
 tags:
-  - systémique
+ - systémique
 ---
 [inspiration de cet article](https://beauulrey.medium.com/organized-chaos-df1e3ff188ee)
 

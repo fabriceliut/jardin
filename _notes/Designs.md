@@ -1,8 +1,8 @@
 ---
 title: designs
 tags:
-  - designs
-  - concept
+ - designs
+ - concept
 ---
 **Les pensée & démarches "Designs"** prennent une place de plus en plus importante et nécessaire dans l'évolution de notre société et de nos systèmes, que ce soit les organisations d'entreprises ou les organismes publics, le secteur humanitaire ou associatif.
 

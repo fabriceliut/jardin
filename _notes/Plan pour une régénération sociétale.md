@@ -1,8 +1,8 @@
 ---
 title: Plan pour une régénération sociétale
 tags:
-  - article
-  - archipel
+ - article
+ - archipel
 ---
 Je vous partage ici mon plan personnel, mon IKIGAI, qui a pour finalité de participer à la réussite de notre transformation de société en cours. **Je crois qu'il nous est possible d'être au monde autrement et de faire émerger une autre forme de société mieux vivante et en équilibre entre nous et avec le reste du vivant.**
 
@@ -80,6 +80,6 @@ Faire évoluer la structuration essentielle de l'archipel Kyosei pour accueillir
 -   que ce soit toujours le plus facile possible pour vous
 -   dans le contexte d’une pleine coopération et pas d’opposition ou de conflit
 
-  
+
 
 Je vous laisse avec [[message aux leaders de la transition écologique sociétale en cours]] pour compléter ainsi que [le plan collectif](https://archipel-kyosei.notion.site/Plan-collectif-pour-r-g-n-rer-la-soci-t-db4154c8570d41c6b29128c05b9a44bd?pvs=4) dans lequel s'inscrit ce plan personnel.

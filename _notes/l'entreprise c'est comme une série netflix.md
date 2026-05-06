@@ -13,9 +13,9 @@ un consultant, facilitateur ou un intervenant externe arrive en cours d'un histo
 
 ### malgré les Inconvénients de l'externe
 
-- Déconnecté de l’historique des évènements et relationnels
+- Déconnecté de l’historique des événements et relationnels
 - Déconnecté des essais et erreurs précédents
-- Il doit retrouver le fil logique des évènements (onboarding)
+- Il doit retrouver le fil logique des événements (onboarding)
 - … (à développer)
 
 ### à retenir

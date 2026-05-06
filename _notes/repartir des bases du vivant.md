@@ -1,11 +1,11 @@
 ---
 title: repartir des bases du vivant
 tags:
-  - régénératif
-  - bio-inspiration
-  - Afairepousser
+ - régénératif
+ - bio-inspiration
+ - Afairepousser
 ---
-c'est quoi vraiment ce qui est vivant? Comment être plus vivant ou vitalisé à échelle personnelle déjà? 
+c'est quoi vraiment ce qui est vivant? Comment être plus vivant ou vitalisé à échelle personnelle déjà?
 retrouver les bases de ce qui fait de nous des êtres vivants c'est revenir à la simplicité pour changer ses habitudes et son comportement au quotidien et pouvoir se régénérer déjà chacun à son échelle.
 
 > se régénérer, devenir pleinement vivant, c'est une fondation pour ensuite propager cette vitalité autour de soi, tel un virus vertueux.
@@ -15,11 +15,11 @@ ces bases peuvent redéfinir les orientations d'un invividu au jour le jour mais
 
 c'est si facile de se perdre dans le flow des activités du quotidien. alors reprenons simplement les bases du vivant que nous oublions si souvent:
 
--   **Manger**
--   **Boire**
--   **(Se) Reposer**
--   **Respirer**
--   **Reliance - (Relations & Liens)**
+- **Manger**
+- **Boire**
+- **(Se) Reposer**
+- **Respirer**
+- **Reliance - (Relations & Liens)**
 
 avec ici une version priorisée un peu plus personnelle et précise:
 

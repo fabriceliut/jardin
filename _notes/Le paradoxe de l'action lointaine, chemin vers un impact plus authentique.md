@@ -1,7 +1,7 @@
 ---
 title: Le paradoxe de l'action lointaine, chemin vers un impact plus authentique
 tags:
-  - article
+ - article
 ---
 Tu t'es déjà senti comme moi, attiré par la résolution de grands problèmes qui semblent tellement plus importants que tes propres défis quotidiens ?
 
@@ -82,15 +82,15 @@ C'est une hypothèse que j'explore : si ce que je développe dans mon périmètr
 En explorant cette piste, je remarque quelques changements subtils dans ma façon d'aborder les choses :
 
 1. **Je passe progressivement de la théorie à la pratique** - Au lieu de m'arrêter à des concepts abstraits, j'apprends à développer des réponses issues de mon expérience directe.
-    
+
 2. **Je me sens plus authentique** - Mes contributions viennent davantage de mon vécu réel que d'une projection de ce que je pense que les autres auraient besoin.
-    
+
 3. **Je construis sur des bases plus robustes** - Chaque petit pas concret devient un appui pour le suivant.
-    
+
 4. **Je retrouve une certaine joie** - Il y a quelque chose de satisfaisant à voir ses actions, même modestes, produire des effets tangibles.
-    
+
 5. **J'inspire peut-être différemment** - Sans en faire une règle absolue, je constate que nous sommes souvent plus touchés par quelqu'un qui partage une transformation personnelle que par des théories détachées.
-    
+
 
 ## Une hypothèse que j'explore : la dimension systémique paradoxale
 

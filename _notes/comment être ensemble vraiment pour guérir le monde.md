@@ -1,7 +1,7 @@
 ---
 title: comment être ensemble vraiment pour guérir le monde
 tags:
-  - article
+ - article
 ---
 J’ai une vision de tous ces gens géniaux que je connais et qui seraient fantastiques à faire travailler ensemble pour une cause commune, pour [[Prendre soin du monde]].
 

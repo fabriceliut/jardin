@@ -2,8 +2,8 @@
 title: guidebook business as non usual
 image: /assets/businessnonusual.png
 tags:
-  - guidebook
-  - tonotion
+ - guidebook
+ - tonotion
 ---
 ![]({{page.image}})
 

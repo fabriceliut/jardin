@@ -28,13 +28,13 @@ méthode à activer - détecter les "petits pas" à faire pour rentrer dans les 
 
 **formats à activer pour créer les premiers liens et les premières rencontres :**
 
-- micro évènements très spécifiques - permet de se rencontrer pour pousser ensemble les sujets qu'on veut voir grandir en commun (transition, transformation, nouveaux paradigmes, prospectives du monde dans lequel on veut tous vivre etc...)
+- micro événements très spécifiques - permet de se rencontrer pour pousser ensemble les sujets qu'on veut voir grandir en commun (transition, transformation, nouveaux paradigmes, prospectives du monde dans lequel on veut tous vivre etc...)
 - création en commun de contenus vidéo, articles, templates notion, outils, jeux, etc...
 - formations aux méthodes et approches des uns et des autres (CEC, perma-entreprise, fresques, etc...)
 
 ce qui compte c'est de faire "meta écosystème" voire même imaginer une "entreprise de territoire en commun" - tous ensemble pour adresser les sujets de transition et [[régénératif]] pour [[Prendre soin du monde]].
 
-#Afairepousser 
+#Afairepousser
 
 ---
 *points de vue modifiés au fil du temps*

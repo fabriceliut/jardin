@@ -1,8 +1,8 @@
 ---
 title: les niveaux de gestion des communications
 tags:
-  - knowledgemanagement
-  - guidebook
+ - knowledgemanagement
+ - guidebook
 ---
 Il est utile de comprendre les détails de comment fonctionne la communication entre humains pour mieux s’organiser et réduire l’effort de traiter de l’information. 
 
@@ -27,15 +27,15 @@ C’est en général à ce moment là qu’on va choisir soit de traiter soit de
 
 ### Nv3 
 
-Moment du traitement. On va relire le message et tenter de comprendre l’information pour la traiter et en extraire soit des tâches à produire, soit de l’information de compréhension ou ressource.  
+Moment du traitement. On va relire le message et tenter de comprendre l’information pour la traiter et en extraire soit des tâches à produire, soit de l’information de compréhension ou ressource.
 
-Les tâches simples peuvent être des actions à déclencher pour répondre à une demande ou des questions à poser en retour pour clarifier ou préciser l’information transmise.   
+Les tâches simples peuvent être des actions à déclencher pour répondre à une demande ou des questions à poser en retour pour clarifier ou préciser l’information transmise. 
 
-Les informations de compréhension elles vont permettre de créer d’autres objets d’information type documents de connaissance et autres ressources elles-mêmes utiles pour un projet ou des tâches.  
+Les informations de compréhension elles vont permettre de créer d’autres objets d’information type documents de connaissance et autres ressources elles-mêmes utiles pour un projet ou des tâches. 
 
 ### Nv4 
 
-L’information est traitée, il n’y a plus rien à extraire du message, celui-ci peut être archivé. Et voilà.   
+L’information est traitée, il n’y a plus rien à extraire du message, celui-ci peut être archivé. Et voilà. 
 
 ---
 
@@ -56,7 +56,7 @@ Surtout si les informations sont de qualité et d’urgences différentes, le tr
 > Vous ne pourrez pas en vouloir au récepteur si votre message était alors mal formulé. 
 
 
-**En général : un message pour une information spécifique. Un mail pour une demande unique.**   
+**En général : un message pour une information spécifique. Un mail pour une demande unique.** 
 
 Si vous avez 5 demandes différentes à formuler au même moment de qualités différentes un message sera lourd à traiter. 
 
@@ -74,7 +74,7 @@ Ce fonctionnement asynchrone va demander une qualité de formulation de l’info
 - avant de communiquer, mettez vous à la place de votre récepteur 
 - Plus vous faites un travail de pré traitement de l’information moins vous demander d’effort de la part du récepteur et plus vous augmenter la qualité de ses retours 
 - Un message = une information 
-- Plusieurs informations = une réunion bien construite avec un ordre du jour clair ou une préparation traitée des tâches et des informations en contexte dans un outil de gestion de projet  
+- Plusieurs informations = une réunion bien construite avec un ordre du jour clair ou une préparation traitée des tâches et des informations en contexte dans un outil de gestion de projet 
 
 > En appliquant ce processus de communication vous allez par la même occasion raffiner l’organisation de votre pensée, la formulation de vos besoins et la création de connaissance en commun. 
 

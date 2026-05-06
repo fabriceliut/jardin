@@ -6,4 +6,4 @@ Je développerai ici la théorie de la circulation des savoirs comme nécessité
 en lien avec la démarche de [[jardin numérique]] qui permet de créer des tissus de connaissances ouverts et en commun.
 
 ---
-#Afairepousser #article 
+#Afairepousser #article

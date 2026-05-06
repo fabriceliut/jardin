@@ -1,7 +1,7 @@
 ---
 title: 2 courants Yin et Yang
 tags:
-  - concept
+ - concept
 ---
 
 Une des pistes de réflexion pour tenter de [[décoder la vie]]

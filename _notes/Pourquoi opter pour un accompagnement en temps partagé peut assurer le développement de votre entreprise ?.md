@@ -1,15 +1,15 @@
 ---
 title: Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?
 tags:
-  - chiefofstaff
+ - chiefofstaff
 ---
 > L'entreprise TheTandem n'est plus mais cela n'enlève en rien la valeur des réflexions partagées ici qui viennent toujours alimenter mes perspectives et ma manière de travailler au quotidien : dans la proximité, pour de l'efficience et de la joie au travail.
 
 _Dans les moments clés de votre entreprise,_ certaines décisions peuvent faire toute la différence_. Recruter un cadre de direction à temps plein ? Travailler avec un consultant classique ? Ou bien choisir une troisième voie : l’accompagnement en temps partagé ?_
 
-_Cet article vous explique en quoi cette solution, que nous avons adoptée chez_ [[TheTandem]] , peut être un levier puissant pour accélérer votre croissance tout en maîtrisant vos coûts.
+_Cet article vous explique en quoi cette solution, que nous avons adoptée chez_ [[TheTandem]], peut être un levier puissant pour accélérer votre croissance tout en maîtrisant vos coûts.
 
-  
+
 
 ## Un modèle accessible dès les premières phases de développement
 
@@ -17,17 +17,17 @@ Le recrutement d’un dirigeant (COO, [[chief of staff]], CFO, etc.) en interne 
 
 > _Ainsi, dès les premières étapes de croissance, vous pouvez intégrer une expertise senior sans alourdir inutilement votre structure de coûts._
 
-  
+
 
 ## Une richesse d’expériences à travers des contextes variés
 
 Les experts en temps partagé interviennent dans plusieurs entreprises, ce qui leur permet d’acquérir **une expertise diversifiée à travers des contextes variés**. Leur capacité à apprendre de différentes industries et à résoudre des problématiques variées enrichit considérablement leur contribution dans chaque mission. Vous bénéficiez donc de ce vivier d'expériences qui permet d’apporter un regard extérieur, de poser les bonnes questions, et de proposer des solutions concrètes, issues de multiples cas d’usage.
 
-  
+
 
 **_Exemple_** _:_ [_Fabrice Liut_](https://www.linkedin.com/in/liut/) _qui intervient souvent dans le secteur industriel, ONG, ETI mais aussi scale-up plus tech comme_ [_Olivier Giry_](https://www.linkedin.com/in/oliviergiry/) _mais suivant des typologies d'accompagnements différentes : l'un et surtout sur des interventions à des moments clés quand l'autre rentre plus en proximité du day to day job du dirigeant._
 
-  
+
 
 ## Une solution flexible et agile pour vos besoins évolutifs
 
@@ -35,7 +35,7 @@ Au fil de votre développement, vos besoins évoluent : optimisation des opérat
 
 **_Exemple :_** [_Eloïse Lanard_](https://www.linkedin.com/in/elo%C3%AFse-lanard-255238144/) _intervient ou place des assistant.e.s de direction aux moments les plus judicieux pour les entrepreneurs, quand il faut gérer la montée à l'échelle et la croissance parfois trop rapide._
 
-  
+
 
 ## Un accompagnement opérationnel et intégré
 
@@ -43,7 +43,7 @@ Contrairement à un consultant externe classique, l’expert en temps partagé s
 
 _Exemple :_ [_Sylvain FAVRE_](https://www.linkedin.com/in/sfavre/) _est toujours entre les réflexions stratégiques d'un rôle de CTO et les applications concrètes et techniques avec les équipes de la DSI : jamais l'un sans l'autre, jamais de plans sans des tests et des itérations._
 
-  
+
 
 ## La force d’un collectif d’experts complémentaires
 
@@ -51,7 +51,7 @@ Chez **TheTandem**, notre approche en temps partagé repose aussi sur une collab
 
 [_Eloïse Lanard_](https://www.linkedin.com/in/elo%C3%AFse-lanard-255238144/) _est au coeur des chiffres de l'entreprise et vit le quotidien des métiers lui permettant de porter un pré-diagnostique d'une situation à risque pour laquelle elle peut proposer l'intervention de l'associé_ [TheTandem](https://www.linkedin.com/company/thetandemgroupe/) _le plus adapté à relever les défis en cours._
 
-  
+
 
 ## Un diagnostic approfondi et progressif
 
@@ -59,7 +59,7 @@ L’un des avantages majeurs de notre approche en temps partagé est la possibil
 
 [_Olivier Giry_](https://www.linkedin.com/in/oliviergiry/) _fait des questions sont expertise : il va utiliser "le Canva de l'entreprise dynamique", un outil singulier développé par TheTandem pour passer à l'analyse 15 dimensions majeures de l'entreprise et s'assurer de comprendre une situation par toutes les perspectives possible._
 
-  
+
 
 ## Tester l'accompagnement en douceur avec un canal dédié : l'offre maillot vert
 

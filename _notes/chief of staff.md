@@ -1,7 +1,7 @@
 ---
 title: chief of staff
 tags:
-  - atome
+ - atome
 ---
 **Pourquoi travailler avec un soutien externe “type [[chief of staff]]”, même si le rôle est encore peu identifié en France ?**
 
@@ -28,25 +28,25 @@ En résumé : **pas un titre figé, mais une mission claire** : faire gagner
 ### Les avantages concrets d’un soutien externe (expert en transformation des organisations)
 
 - **Un regard expérimenté et spécialisé**
-    
-    Vous bénéficiez d’une expertise en transformation et en efficacité organisationnelle, avec la capacité d’identifier rapidement les vrais leviers : gouvernance, priorités, rôles, rituels, pilotage, exécution.
-    
+
+ Vous bénéficiez d’une expertise en transformation et en efficacité organisationnelle, avec la capacité d’identifier rapidement les vrais leviers : gouvernance, priorités, rôles, rituels, pilotage, exécution.
+
 - **Un gain de temps immédiat pour la direction**
-    
-    En confiant la structuration, la coordination et le suivi des chantiers à une personne dédiée, la direction se libère de la charge “invisible” qui consomme du temps et de l’énergie.
-    
+
+ En confiant la structuration, la coordination et le suivi des chantiers à une personne dédiée, la direction se libère de la charge “invisible” qui consomme du temps et de l’énergie.
+
 - **Un modèle rentable et adaptable**
-    
-    Vous accédez à un niveau senior sans supporter un recrutement à temps plein. L’intervention s’ajuste au besoin (quelques heures, quelques jours, une période intense).
-    
+
+ Vous accédez à un niveau senior sans supporter un recrutement à temps plein. L’intervention s’ajuste au besoin (quelques heures, quelques jours, une période intense).
+
 - **Moins de risques, plus de maîtrise**
-    
-    Anticipation des points de blocage, sécurisation des dépendances, clarification des décisions. La transformation devient pilotée plutôt que subie.
-    
+
+ Anticipation des points de blocage, sécurisation des dépendances, clarification des décisions. La transformation devient pilotée plutôt que subie.
+
 - **Des résultats mesurables**
-    
-    Plus de focus, moins de dispersion, des décisions mieux cadrées, des projets qui avancent, et une organisation qui tient la cadence sans s’épuiser.
-    
+
+ Plus de focus, moins de dispersion, des décisions mieux cadrées, des projets qui avancent, et une organisation qui tient la cadence sans s’épuiser.
+
 
 ---
 
@@ -55,17 +55,17 @@ En résumé : **pas un titre figé, mais une mission claire** : faire gagner
 **Associé Opérationnel & Stratégique**, c’est exactement ce que je fais depuis des années, formulé de façon plus lisible pour les dirigeants :
 
 - [[Sparring Partner]]
-    
-    Je challenge la stratégie, les arbitrages, et les angles morts.
-    
+
+ Je challenge la stratégie, les arbitrages, et les angles morts.
+
 - **Architecte**
-    
-    Je structure l’organisation pour rendre l’exécution plus simple, plus robuste, plus prévisible.
-    
+
+ Je structure l’organisation pour rendre l’exécution plus simple, plus robuste, plus prévisible.
+
 - **Éclaireur**
-    
-    Je trouve des solutions pragmatiques, je débloque, et je fais avancer.
-    
+
+ Je trouve des solutions pragmatiques, je débloque, et je fais avancer.
+
 
 ---
 

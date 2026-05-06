@@ -1,7 +1,7 @@
 ---
 title: design as unusual
 tags:
-  - designs
+ - designs
 ---
 Pour marquer la différence de l'approche du [[design régénératif]] ou planet-centric, life-centric avec les démarche design classiques.
 

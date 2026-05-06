@@ -1,8 +1,8 @@
 ---
 title: L'Humilité, Le Socle de la Puissance
 tags:
-  - article
-  - Meta-analyse
+ - article
+ - Meta-analyse
 ---
 Dans notre précédente réflexion sur la [[puissance]], nous avons défini celle-ci non pas comme une domination, mais comme une énergie intérieure, un potentiel vital qui ne demande qu'à s'exprimer. Nous avons vu que la [[Force]] est souvent l'acte de contraindre, tandis que la _Puissance_ est l'état d'être.
 
@@ -25,9 +25,9 @@ Imaginez un athlète ou un artiste martial. Pour délivrer une puissance maximal
 Ce qui bloque la puissance, c'est la rigidité de l'ego. L'ego veut paraître grand, il veut avoir raison, il veut être « au-dessus ». En cherchant à s'élever artificiellement, il se coupe de sa base.
 
 - **La Force de l'ego** est cassante. Elle dépense une énergie folle à maintenir une image, à construire des forteresses et des armures.
-    
+
 - **La Force de l'Humilité** est fluide. Elle accepte la réalité telle qu'elle est. Elle ne gaspille aucune énergie dans le déni ou la justification.
-    
+
 
 Lorsque nous manquons d'humilité, nous sommes comme un tuyau bouché par le calcaire de nos certitudes. La pression (la puissance) monte, mais rien ne sort, sinon de la frustration.
 

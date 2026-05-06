@@ -1,10 +1,10 @@
 ---
 title: spirale dynamique
 tags:
-  - terminologie
-  - Afairepousser
-  - régénératif
-  - systémique
+ - terminologie
+ - Afairepousser
+ - régénératif
+ - systémique
 ---
 Base [wiki](https://fr.wikipedia.org/wiki/Spirale_dynamique) en attendant de développer.
 
@@ -14,26 +14,26 @@ c'est une ressource lorsqu'on étudie et qu'on travaille sur l'organisation (ent
 
 Dans l'original formulation de la théorie de la dynamique en spirale de Clare W. Graves, **il y a huit vMemes**, ou stades de développement, qui sont représentés sous forme de cercles concentriques sur une spirale. Les six premiers vMemes sont les suivants:
 
-1.  Survival vMeme (survie)
-2.  Tribal vMeme (tribal)
-3.  Egoistic vMeme (égoïste)
-4.  Systemic vMeme (systémique)
-5.  Integral vMeme (intégral)
+1. Survival vMeme (survie)
+2. Tribal vMeme (tribal)
+3. Egoistic vMeme (égoïste)
+4. Systemic vMeme (systémique)
+5. Integral vMeme (intégral)
 
 Les trois derniers vMemes sont les suivants:
 
-6.  Holistic vMeme (holistique)
-7.  Quantum vMeme (quantique)
-8.  Cosmos vMeme (cosmos)
+6. Holistic vMeme (holistique)
+7. Quantum vMeme (quantique)
+8. Cosmos vMeme (cosmos)
 
 ### correspondances à imaginer avec le bouddhisme
 
 certains ont vu dans les vMemes de Graves une correspondance avec les stades de développement de l'esprit décrits dans le bouddhisme.
 
-Par exemple, le premier vMeme, ou "survie", correspondrait au stade de l'ignorance et de l'attachement aux plaisirs sensuels. 
-Le deuxième vMeme, ou "tribal", correspondrait au stade de l'attachement aux rôles et aux identités. 
-Le troisième vMeme, ou "égoïste", correspondrait au stade de l'attachement à l'ego et à la réalisation de soi. 
-Le quatrième vMeme, ou "systémique", correspondrait au stade de l'éveil à l'interdépendance et de la compassion. 
+Par exemple, le premier vMeme, ou "survie", correspondrait au stade de l'ignorance et de l'attachement aux plaisirs sensuels.
+Le deuxième vMeme, ou "tribal", correspondrait au stade de l'attachement aux rôles et aux identités.
+Le troisième vMeme, ou "égoïste", correspondrait au stade de l'attachement à l'ego et à la réalisation de soi.
+Le quatrième vMeme, ou "systémique", correspondrait au stade de l'éveil à l'interdépendance et de la compassion.
 Et enfin, le cinquième vMeme, ou "intégral", correspondrait au stade de l'éveil complet et de la pleine illumination.
 
 *Cependant, il convient de noter que ces correspondances ne sont pas universelles et qu'il y a des différences significatives entre les deux approches. De plus, la théorie de la dynamique en spirale de Graves a été développée indépendamment du bouddhisme et est basée sur des recherches en psychologie et en sociologie, plutôt que sur la philosophie et la spiritualité bouddhistes.*

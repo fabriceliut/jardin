@@ -1,11 +1,11 @@
 ---
 title: repartir de soi et de ses émotions pour changer le monde
 tags:
-  - régénératif
+ - régénératif
 ---
 *vous aussi vous voulez participer à changer le monde? mais comment agir "juste" sans commencer par se changer soi-même?*
 
-> sois toi-même ce que tu veux que le monde soit  
+> sois toi-même ce que tu veux que le monde soit
 
 l'idée serait alors de repartir de soi, de [[Prendre soin de soi]] pour ensuite ouvrir sur le monde, [[Prendre soin du monde]], dans un mouvement de soi vers le monde, du micro au macro.
 

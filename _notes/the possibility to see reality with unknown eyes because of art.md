@@ -1,9 +1,9 @@
 ---
 title: the possibility to see reality with unknown eyes because of art
 tags:
-  - art
-  - Afairepousser
-  - Meta-analyse
+ - art
+ - Afairepousser
+ - Meta-analyse
 ---
 https://twitter.com/SlaapMe/status/1361048078048968705
 

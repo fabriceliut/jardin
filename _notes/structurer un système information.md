@@ -1,9 +1,9 @@
 ---
 title: structurer un système information
 tags:
-  - knowledgemanagement
-  - guidebook
-  - Afairepousser
+ - knowledgemanagement
+ - guidebook
+ - Afairepousser
 ---
 ## Les données en interrelations.
 L’information n’est pas suffisante, **elle doit être traitée et connectée pour en faire de la connaissance utilisable.**
@@ -27,22 +27,22 @@ Gestion de la temporalité
 
 ### Synthèses d’articles & d’ouvrages, reliées à des thèmes et des concepts.
 
-*Permet de construire une base de sources de recherche* 
+*Permet de construire une base de sources de recherche*
 
 Ressources reliées à des thèmes
-    - Mise en commun de connaissances, outils, méthodes, théories
+ - Mise en commun de connaissances, outils, méthodes, théories
 - Pages concepts
-    - Des sources on génère des idées qui font des concepts
-    - On peut relier les concepts entre eux pour atteindre des concepts plus complets
+ - Des sources on génère des idées qui font des concepts
+ - On peut relier les concepts entre eux pour atteindre des concepts plus complets
 - Pages projets (recherche ou projets concrets)
-    - Une diversité de concepts génèrent un projet
-    - Les projets forment des synergies suivant une logique de mise en action qu’on peut appeler une stratégie
+ - Une diversité de concepts génèrent un projet
+ - Les projets forment des synergies suivant une logique de mise en action qu’on peut appeler une stratégie
 - Livre de bord
-    - Permet de tracer un historique des apports des éléments précédents, leurs évolutions et croisement etc... ce journal crée l’histoire du groupe de recherche action et de la vie de ce cerveau commun
-    - Les pages « pensées »
-        - Simplement des expressions libres de réflexions individuelles qui peuvent inspirer des idées et des concepts
-        - Leur rédaction est totalement libre et n’attend pas une utilité ou une structure logique et partageable
-        - Un peu comme un journal intime ouvert et commun
+ - Permet de tracer un historique des apports des éléments précédents, leurs évolutions et croisement etc... ce journal crée l’histoire du groupe de recherche action et de la vie de ce cerveau commun
+ - Les pages « pensées »
+ - Simplement des expressions libres de réflexions individuelles qui peuvent inspirer des idées et des concepts
+ - Leur rédaction est totalement libre et n’attend pas une utilité ou une structure logique et partageable
+ - Un peu comme un journal intime ouvert et commun
 
 ### 🧰 Outils.
 - [[Roam Research]] ou [[Workflowy]] pour tout le travail qui va jusqu'au projet posé en logique et à l'écrit

@@ -13,7 +13,7 @@ Alors l'urgence entraîne des réactions : de nouveaux livres, une transformatio
 
 **Est-ce qu'on croit VRAIMENT que tout ce scénario n'est pas prévisible et surtout prévu ?** Est-ce qu'on croit vraiment que les monopoles de notre monde ne sont pas conscients de ce qu'il se passe depuis bien longtemps ?
 
-Est-ce que ces puissances ne savent pas tout simplement parfaitement gérer les foules ? J'en reviendrai à une petite phrase du film _Inception_, l'une des bases de la manipulation : **donner l'impression à une personne qu'une idée est son idée** 💡. #quote 
+Est-ce que ces puissances ne savent pas tout simplement parfaitement gérer les foules ? J'en reviendrai à une petite phrase du film _Inception_, l'une des bases de la manipulation : **donner l'impression à une personne qu'une idée est son idée** 💡. #quote
 
 Dans un monde en quête de sens, n'est-il pas parfaitement adapté de créer une urgence permettant aux petits cerveaux comme les nôtres de se sentir utiles, voire nécessaires ? Quel meilleur moyen que de nous rendre acteurs de toute cette machine sans nécessiter un dictateur ou un contrôle par la force physique ?
 
@@ -33,4 +33,4 @@ Alors si l'on peut sauver notre monde, le premier pas serait peut-être d'être 
 
 La vraie liberté serait peut-être alors de **pouvoir** écrire sa réalité au lieu de suivre celle de ceux qui ont perdu le goût de vivre en dehors de leur monopole.
 
-#Afairepousser 
+#Afairepousser

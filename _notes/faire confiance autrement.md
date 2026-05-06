@@ -7,7 +7,7 @@ Cette bascule semble cela dit demander de changer le fonctionnement même du cer
 
 
 Source utile pour l'écriture 👇
--   🔗[](https://hbr.org/2019/11/how-to-develop-a-talent-pipeline-for-your-digital-transformation)[https://hbr.org/2019/11/how-to-develop-a-talent-pipeline-for-your-digital-transformation](https://hbr.org/2019/11/how-to-develop-a-talent-pipeline-for-your-digital-transformation)
+- 🔗[](https://hbr.org/2019/11/how-to-develop-a-talent-pipeline-for-your-digital-transformation)[https://hbr.org/2019/11/how-to-develop-a-talent-pipeline-for-your-digital-transformation](https://hbr.org/2019/11/how-to-develop-a-talent-pipeline-for-your-digital-transformation)
 
 ---
 #Afairepousser 

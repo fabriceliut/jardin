@@ -1,9 +1,9 @@
 ---
 title: Le fardeau du chef-d'œuvre, de la paralysie à l'action pure
 tags:
-  - article
-  - psychologie
-  - Meta-analyse
+ - article
+ - psychologie
+ - Meta-analyse
 image: "[[eau-mur-coule Large.jpeg]]"
 ---
 Il y a un cycle mental dans lequel je me surprends souvent à tourner en rond. Il commence invariablement par le regard que je porte sur les autres.
@@ -30,9 +30,9 @@ C'est une protection redoutable : tant que je ne produis rien d'abouti, je peux 
 En creusant ce blocage, j'ai réalisé que je faisais une erreur de logique fondamentale. Je confondais ma **puissance d'agir** avec l'**artefact** (le résultat matériel).
 
 - Un DJ n'est pas défini par un vinyle posé sur une étagère, mais par l'acte vibrant de mixer au présent.
-    
+
 - Un designer n'est pas son portfolio, il est le mouvement de sa pensée face à un problème.
-    
+
 
 J'avais conditionné mon droit d'exister à la production d'une "preuve" absolue : le chef-d'œuvre. Tant que ce chef-d'œuvre n'existait pas, je considérais que je n'étais rien. En attendant cette validation future et incertaine, je bloquais ma joie présente. Mon énergie créative, comme de l'eau retenue par un barrage, s'était mise à stagner, devenant une amertume qui jugeait ceux qui, eux, osaient nager.
 

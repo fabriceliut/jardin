@@ -1,7 +1,7 @@
 ---
 title: dignité
 tags:
-  - terminologie
+ - terminologie
 ---
 Définition complète sur [Wikipédia](https://fr.wikipedia.org/wiki/Dignité).
 
