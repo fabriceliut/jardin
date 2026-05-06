@@ -11,42 +11,45 @@ Basé sur le template [digital-garden-jekyll-template](https://github.com/maxime
 ## Fonctionnalités
 
 - **Jekyll 4.4** — générateur de site statique
-- **Liens Obsidian** — syntaxe `[[wikilinks]]` avec backlinks automatiques et embeds `![[image.png]]`
+- **Liens Obsidian** — syntaxe `[[wikilinks]]` avec backlinks automatiques, embeds `![[image.png]]`, transclusion `![[note]]` et résolution des `aliases:` front matter
+- **Tags navigables** — badges par note, page `/tags` listant toutes les notes par tag
 - **Aperçu au survol** — tooltips sur les liens internes (fetch + DOMParser, sans iframe)
 - **Graphe de notes** — visualisation D3.js des connexions entre notes (chargement lazy)
 - **Recherche instantanée** — recherche client-side avec index JSON, accents normalisés, résultats surlignés
 - **Table des matières** — générée automatiquement, repliable (composant `<details>`)
 - **Dark mode** — 3 états (auto / sombre / clair), persisté en localStorage, sans flash (FOUC)
 - **Flux Atom** — feed RSS personnalisé des 20 dernières notes modifiées
-- **SEO complet** — Open Graph, Twitter Cards, JSON-LD, sitemap, canonical
-- **Accessibilité** — `lang="fr"`, skip link, `aria-label`, `focus-visible`, `prefers-reduced-motion`
-- **Design responsive** — typographie fluide (`clamp`), grille adaptative, navigation glassmorphism
+- **SEO complet** — Open Graph, Twitter Cards, JSON-LD, sitemap, canonical, `robots.txt`
+- **Accessibilité** — `lang="fr"`, skip link, `aria-label`, `aria-current`, `focus-visible`, `prefers-reduced-motion`
+- **Design responsive** — typographie fluide (`clamp`), grille adaptative (sidebar 260px fixe), navigation glassmorphism
 - **Pagination** — bouton "Voir plus" sur la page d'accueil (30 notes, 10 visibles par défaut)
+- **Performance** — fonts async, WebP avatar, cache Netlify optimisé, `overflow-x: clip`, CSS versionné par build
 
 ## Stack technique
 
 | Composant | Détail |
 |-----------|--------|
-| Générateur | Jekyll 4.4.1, Ruby 3.4 |
-| Police | Plus Jakarta Sans (5 graisses : 400–800) |
-| Styles | SCSS modulaire (11 partials), CSS custom properties |
+| Générateur | Jekyll 4.4.1, Ruby 3.3 |
+| Police | Plus Jakarta Sans (graisses : 400, 600, 700, 800) — async |
+| Styles | SCSS modulaire (11 partials), `@use`, CSS custom properties |
 | Graphe | D3.js v5.16.0 |
-| Déploiement | Netlify |
-| Plugins | `jekyll-last-modified-at`, `jekyll-sitemap`, `bidirectional_links_generator.rb` |
+| Déploiement | Netlify (auto sur push `master`) |
+| Plugins | `jekyll-last-modified-at`, `jekyll-sitemap`, `bidirectional_links_generator.rb`, `open_external_links_in_new_tab.rb` |
+| Assets | Avatar WebP (78 KB via `<picture>`), images lazy-loaded |
 
 ## Architecture SCSS
 
 ```
 _sass/
-├── _tokens.scss      # Design tokens, dark mode, reset, body
-├── _nav.scss         # Navigation, glassmorphism, logo
-├── _typography.scss  # Headings, liens, code, blockquotes, tables
-├── _content.scss     # Grille note, backlinks, tooltips, theme toggle
+├── _tokens.scss      # Design tokens, dark mode, reset, body, wrapper
+├── _nav.scss         # Navigation, glassmorphism, hamburger
+├── _typography.scss  # Headings, liens, code, blockquotes, tables, images
+├── _content.scss     # Grille note (sidebar 260px), backlinks, tooltips, tags, transclusion
 ├── _homepage.scss    # Intro-card, grille récente, "Voir plus"
 ├── _toc.scss         # Table des matières (details/summary)
 ├── _footer.scss      # Footer
 ├── _search.scss      # Page recherche
-├── _utilities.scss   # Accessibilité, 404, graphe, sélection
+├── _utilities.scss   # Accessibilité, skip-link, graphe, page-content
 ├── _code.scss        # Coloration syntaxique
 └── _normalize.scss   # Reset navigateur
 ```
