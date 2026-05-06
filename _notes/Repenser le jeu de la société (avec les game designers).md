@@ -155,7 +155,7 @@ Le cœur du sujet n’est pas de rajouter des points, des badges, ou des classem
 Le cœur du sujet, c’est d’oser des règles où :
 
 - la [[coopération]] est plus rentable que la prédation
-- le [[régénératif]] est valorisée autant que la performance
+- le [[régénératif]] est valorisé autant que la performance
 - le long terme est mieux récompensé que le court terme
 - la contribution invisible (care, transmission, maintenance) compte vraiment
 - la “victoire” n’est pas l’élimination de l’autre

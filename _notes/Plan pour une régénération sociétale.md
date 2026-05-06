@@ -8,9 +8,9 @@ Je vous partage ici mon plan personnel, mon IKIGAI, qui a pour finalité de part
 
 # Intention profonde
 
-Je me lève et je suis au quotidien au service de la transformation sociétale en cours. J'agis pour faire des entreprises des organisations régénérée et régénératives. Pour se faire, je soutiens les efforts et les défis des directions générales en temps qu'externe (COO, designer, facilitateur) sur toutes les dimensions de l'entreprise.
+Je me lève et je suis au quotidien au service de la transformation sociétale en cours. J'agis pour faire des entreprises des organisations régénérées et régénératives. Pour ce faire, je soutiens les efforts et les défis des directions générales en temps qu'externe (COO, designer, facilitateur) sur toutes les dimensions de l'entreprise.
 
-Je reste "externe" pour permettre la prise de recule, les croisements et les enrichissements mutuels entre les organisations que j'accompagne (5 en même temps max pour une ressource comme moi - mais je travaille en écosystème apprenant avec d'autres comme moi et complémentaires).
+Je reste "externe" pour permettre la prise de recul, les croisements et les enrichissements mutuels entre les organisations que j'accompagne (5 en même temps max pour une ressource comme moi - mais je travaille en écosystème apprenant avec d'autres comme moi et complémentaires).
 
 # Vision du monde à 2050
 
@@ -28,9 +28,9 @@ Continuer le développement de l'Archipel Kyosei, expérimentation d'une organis
 
 Coopérer avec les cabinets de conseil, les agences de design et les autres organes d'accompagnement des directions générales qui veulent aller vers l'entreprise régénérative.
 
-Coopérer avec les organes de recherche-action pour créer des ressources (outils, méthodes, process, principes) permettant à un commun de fluidifier les actions nécessaire pour atteindre la vision. (ex - Lumia)
+Coopérer avec les organes de recherche-action pour créer des ressources (outils, méthodes, process, principes) permettant à un commun de fluidifier les actions nécessaires pour atteindre la vision. (ex - Lumia)
 
-Coopérer avec les organes de rassemblement et de coordination des acteurs partageant la même intention profonde et qui cherchent l'effet de masse et l'impact national voir européen - faisant le lien avec les institutions en place (permettant de faire évoluer les lois et normes légales) (ex - Mouvement impact France)
+Coopérer avec les organes de rassemblement et de coordination des acteurs partageant la même intention profonde et qui cherchent l'effet de masse et l'impact national voire européen - faisant le lien avec les institutions en place (permettant de faire évoluer les lois et normes légales) (ex - Mouvement impact France)
 
 Coopérer avec les organes de sensibilisation, formation, certification, plaidoirie qui partagent la même intention profonde et qui cherchent via leur parcours, actions et outils de mesure à préparer les directions générales à aller vers l'entreprise régénérative. (ex - Convention des entreprises pour le climat, divers fresques, analyses et bilans, certif B-corps)
 

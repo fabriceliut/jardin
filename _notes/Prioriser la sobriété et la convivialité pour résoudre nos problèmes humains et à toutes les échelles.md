@@ -5,11 +5,11 @@ tags:
 ---
 **La notion de [[sobriété]]** - même si actuellement utilisée à toutes les sauces - est très intéressante quand elle s’approche de la notion de convivialité de [Ivan illich](https://fr.wikipedia.org/wiki/Ivan_Illich). 
 
-Les deux notions associées peuvent redéfinir les fondations du fonctionnement de notre humanité: oui rien que ça! 
+Les deux notions associées peuvent redéfinir les fondations du fonctionnement de notre humanité : oui rien que ça ! 
 
 En effet, se déplacer à vélo et sur des distances quotidiennes ne dépassant pas les 30km est convivial. La même distance maximum de l’aliment sortie de terre à l’assiette aussi. 
 
-Il est possible de rédiger une bible de la « sobriété conviviale » - une guide très concret pour nous guider dans notre mode de vie au quotidien.
+Il est possible de rédiger une bible de la « sobriété conviviale » - un guide très concret pour nous guider dans notre mode de vie au quotidien.
 
 Certes le plus difficile n’est pas de connaître ce qu’on pourrait ou ce qu’on devrait faire mais plutôt de mettre en place le nécessaire dès aujourd’hui et en pas à pas pour le faire vraiment. 
 
@@ -27,7 +27,7 @@ Certes l’histoire ne sera plus d’optimiser nos systèmes pour produire plus 
 
 Il y aura toujours ceux qui voudront s’accrocher aux vieux récits mais cela ne veut pas dire qu’on ne peut pas en proposer d’autres. 
 
-Je vois la sobriété et la convivialité comme des sources de contentement, de liens, d’humilité, de curiosité et de créativité. Dans le récit que jj'ai en tête **cette sobriété est conviviale et donc pas radicale**. Hors des jugements, de la violence et de l’opposition à ceux qui ne veulent pas de cette histoire mais plus une vrai invitation à jouer ensemble pour ceux qui en ont envie. 
+Je vois la sobriété et la convivialité comme des sources de contentement, de liens, d’humilité, de curiosité et de créativité. Dans le récit que j'ai en tête **cette sobriété est conviviale et donc pas radicale**. Hors des jugements, de la violence et de l’opposition à ceux qui ne veulent pas de cette histoire mais plus une vrai invitation à jouer ensemble pour ceux qui en ont envie. 
 
 Rien de radical donc et des erreurs encore tous les jours, des ratés et toujours des excès… mais conscients. 
 

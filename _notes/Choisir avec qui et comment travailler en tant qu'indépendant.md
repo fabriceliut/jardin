@@ -63,7 +63,7 @@ Comme vous voyez, c'est très fourni aussi de ce côté-là ! **Cela dit, je met
 ## L'entreprise.
 Ce collectif, en général, c'est celui qu'on connaît le mieux. Des humains réunis pour faire du business, développer des activités économiques. Le principe historique c'est qu'il y a des dirigeants et des employés, certains touchant des parts sur bénéfices et d'autres un salaire et quelques avantages sociaux.
 
-Vous me direz "oui mais moi, c'est indépendant que je suis". Et bien désormais, **vous trouverez une belle diversité d'entreprises qui travaillent en majorité avec des indépendants**. Ces entreprises créent des communautés de freelances qu'elles font travailler sur les projets entrants.
+Vous me direz "oui mais moi, c'est indépendant que je suis". Eh bien désormais, **vous trouverez une belle diversité d'entreprises qui travaillent en majorité avec des indépendants**. Ces entreprises créent des communautés de freelances qu'elles font travailler sur les projets entrants.
 
 Des questions vous viennent peut-être alors : **comment votre indépendance est-elle encore assurée ou vécue dans ce cas ?**
 - Je répondrai toujours "cela dépend" et donc à vous d'explorer ! Cela dit et de principe, vous restez toujours indépendant et pouvez faire partie d'autant de communautés d'entreprises que vous voulez !

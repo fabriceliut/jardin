@@ -5,7 +5,7 @@ Dans un environnement complexe, **les indicateurs quantitatifs** sont trop limit
 
 > Je donnerai des exemples de ces indicateurs prochainement (KPI, OKR, indices de croissance, etc.)
 
-Il est alors possible de créer des indicateurs qualitatifs qui vont, suite à croisement et analyse, pouvoir nous donner des informations très précises sur ce qu'il faut prioriser, quoi faire, comment réagir... et donc constituer une aide à la décision de qualité elle aussi.
+Il est alors possible de créer des indicateurs qualitatifs qui vont, suite au croisement et à l'analyse, pouvoir nous donner des informations très précises sur ce qu'il faut prioriser, quoi faire, comment réagir... et donc constituer une aide à la décision de qualité elle aussi.
 
 
 ## Les univers inspirant ces indicateurs

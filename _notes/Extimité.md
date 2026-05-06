@@ -7,7 +7,7 @@ Première définition sur [Wiki](https://fr.wikipedia.org/wiki/Extimité).
 
 > le désir de rendre visibles certains aspects de soi jusque-là considérés comme relevant de l'intimité.
 
-Je me suis lancé dans cette expérience avec une lettre ouverte sur mon intimité justement, sans filtre, que [vous pouvez suivre](https://tinyletter.com/Fabriceliut) si le coeur vous en dit.
+Je me suis lancé dans cette expérience avec une lettre ouverte sur mon intimité justement, sans filtre, que [vous pouvez suivre](https://tinyletter.com/Fabriceliut) si le cœur vous en dit.
 
 ## Pourquoi ouvrir son intimité ?
 Pour montrer toute ma vulnérabilité, l'offrir à vous, au monde et me rendre compte que ça ne me tue pas. C'est quand une personne s'autorise à être vulnérable, quand elle s'autorise à faire des erreurs qu'elle laisse entrevoir ce qui est vivant en elle... Elle se met « à nu » et laisse passer toute sa beauté, sa lumière...

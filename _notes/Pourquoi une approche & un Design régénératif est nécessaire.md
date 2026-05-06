@@ -10,9 +10,9 @@ tags:
 
 > *“It’s up to us to decide what kind of a world we want to leave to coming generations – a sustainable one, or a desolate one in which the civilisation we have built disintegrates rather than builds on past successes,”* - [Source inspirant cet article](https://www.independent.co.uk/environment/sixth-mass-extinction-endangered-animals-wildlife-markets-biodiversity-crisis-standford-study-a9544856.html).
 
-**Plus de 500 espèces sont sur le chemin de l'extinction dans les 20 prochaines années.** Sans compter celles qui ont disparus depuis que je suis né. J'étais trop petit, je ne pouvais même pas me rendre compte de la gravité de la situation. Maintenant je comprend trop bien que c'est systémique et qu'on est en train de perdre beaucoup plus qu'on ne le sait...
+**Plus de 500 espèces sont sur le chemin de l'extinction dans les 20 prochaines années.** Sans compter celles qui ont disparu depuis que je suis né. J'étais trop petit, je ne pouvais même pas me rendre compte de la gravité de la situation. Maintenant je comprend trop bien que c'est systémique et qu'on est en train de perdre beaucoup plus qu'on ne le sait...
 
-- De tous temps, ce qui inspire l'humain pour crée, c'est la nature et au-delà de ce terme, c'est la diversité de ce qu'il peut observer, étudier, goûter...
+- De tous temps, ce qui inspire l'humain pour créer, c'est la nature et au-delà de ce terme, c'est la diversité de ce qu'il peut observer, étudier, goûter...
 - En réduisant la diversité, déjà nous brisons la symbiose en place depuis bien plus longtemps que nous, mais en plus, nous réduisons notre capacité à nous inspirer, à découvrir, à nous émerveiller...
 - De tous temps, une partie de l'humanité est en quête de sagesse, de compréhension de l'existence. Nous comprenons maintenant que peut-être, nos plus grands enseignements sont à découvrir dans notre "bibliothèque naturelle"... Mais imaginez le nombre de livres que nous avons déjà brûlés et tout cette perte de richesse...
 - On réduit notre sécurité sanitaire. Casser la symbiose, c'est mettre un coup de pied dans l'équilibre en place. Dans un chaos trop agité, il nous sera bien difficile d'être résilient ou même d'y croire... **Être résilient dans un monde stérile n'a aucun sens, de mon humble avis...**
@@ -29,7 +29,7 @@ Le [[design régénératif]] porte l'intention d'oeuvrer à organiser nos syst�
 
 ### **Comment est-ce que ça s'applique au quotidien ?**
 
-Toujours se poser la questions de l'impact & des externalités de nos actions. **Est-ce que faire ce que je fais au quotidien est en train de me rendre plus vivant & est-ce que ça rend plus vivant les autres & le monde autour de moi ?** Est-ce que je suis en train de participer à un projet, une initiative qui limite voir réduit la diversité & la dynamique vitale ou est-ce que je suis en train de soutenir un mouvement nourricier ?
+Toujours se poser la question de l'impact & des externalités de nos actions. **Est-ce que faire ce que je fais au quotidien est en train de me rendre plus vivant & est-ce que ça rend plus vivant les autres & le monde autour de moi ?** Est-ce que je suis en train de participer à un projet, une initiative qui limite voir réduit la diversité & la dynamique vitale ou est-ce que je suis en train de soutenir un mouvement nourricier ?
 
 **Quelques pistes, concrètes, suivant quelques points d'actions sur notre société :**
 

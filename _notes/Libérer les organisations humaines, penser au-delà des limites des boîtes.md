@@ -26,7 +26,7 @@ En 1sec il est possible de faire sauter ces constructions limitantes pour laisse
 
 Et j’en passe. Pour simplifier, pensez une forêt faites de végétaux très différents et de champignons très variés dans le sol.
 
-La société c’est la forêt, les entreprises les végétaux et ceux qui supports et aident les champignons. 🍄
+La société c’est la forêt, les entreprises les végétaux et ceux qui supportent et aident les champignons. 🍄
 
 Voici mon [[manifeste d'un champignon]].
 

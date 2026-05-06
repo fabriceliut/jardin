@@ -23,11 +23,11 @@ Chez moi, je ne sais plus trop où c'est à force de bouger tout le temps... Peu
 
 Chez moi, c'est un lieu refuge, dans chaque ville, ce lieu dans lequel je me sens bien et en sécurité, que je met un peu de temps à apprivoiser pour justement me sentir.. chez moi...
 
-C'est partout sur la planète ou j'ai envie de rester un peu. A force de voyager et de ne jamais rester longtemps à un endroit fixe, ma maison, ma zone de confort devient tout simplement moi-même...
+C'est partout sur la planète où j'ai envie de rester un peu. A force de voyager et de ne jamais rester longtemps à un endroit fixe, ma maison, ma zone de confort devient tout simplement moi-même...
 
 > "Tu es à ta place partout où tu te trouves"
 
-Je peux commencer par mon corps pour chez moi ? C'est mon corps ? Chez moi, c'est à l'intérieure de moi ? Ma maison intérieure ?
+Je peux commencer par mon corps pour chez moi ? C'est mon corps ? Chez moi, c'est à l'intérieur de moi ? Ma maison intérieure ?
 
 Chez moi, c'est là ou je respire. Chez moi, c'est ce que j'ai le droit de défendre ! C'est mon Moi, c'est mon odeur, partout où je sens mon odeur, c'est chez moi...
 

@@ -18,7 +18,7 @@ Comme vous voyez, c’est toujours tourné dans l’intérêt d’apporter quelq
 
 ## La nouvelle vérité du moment
 
-Et bien c’est de cerner plus précisément à qui je veux m’adresser, de m’adresser à lui au bon endroit (bon réseau), au bon moment et d’adapter le contenu au plus proche de ce qui lui trotte dans la tête en ce moment.
+Eh bien, c’est de cerner plus précisément à qui je veux m’adresser, de m’adresser à lui au bon endroit (bon réseau), au bon moment et d’adapter le contenu au plus proche de ce qui lui trotte dans la tête en ce moment.
 
 Si mon lecteur type est bloqué dans une problématique, c’est cette problématique que je dois poser en tête de mon contenu :
 

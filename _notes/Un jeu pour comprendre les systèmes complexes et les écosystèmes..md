@@ -10,7 +10,7 @@ Merci Nick, créateur de ce petit jeu, pour m'aider à répondre en partie, de m
 
 Prenez 2 éléments séparés et reliez-les par une ligne : et voilà, vous avez votre premier "système" ! Maintenant, prenez plein de points, reliez-les dans tous les sens : et voilà un [[système complexe]] ! Mais ce n'est pas que la quantité de liens qui compte, c'est aussi leurs qualités, leurs caractéristiques et l'environnement dans lequel s'intègre le système !
 
-Un couple est un système : 2 personnes liées. Un recette de cuisine est un système : des ingrédients liés, des timings, des ustensiles... C'est déjà un système "compliqué", pour cette raison, on écrit des recettes. Une communauté est un [[système complexe]] : pleins de gens, pleins de liens. La nature aussi est un système. **En fait, tout est système, comme notre cerveau ! Et c'est une manière de voir les choses, un "modèle de pensée" qu'on appelle "[[pensée systémique]]".**
+Un couple est un système : 2 personnes liées. Une recette de cuisine est un système : des ingrédients liés, des timings, des ustensiles... C'est déjà un système "compliqué", pour cette raison, on écrit des recettes. Une communauté est un [[système complexe]] : pleins de gens, pleins de liens. La nature aussi est un système. **En fait, tout est système, comme notre cerveau ! Et c'est une manière de voir les choses, un "modèle de pensée" qu'on appelle "[[pensée systémique]]".**
 
 ### **C'est quoi un [[système complexe]] ?**
 
@@ -44,7 +44,7 @@ _Ensuite, un petit système d'information._
 
 ![](https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0/1547916428975?e=2147483647&v=beta&t=DKCw0LersDy2SsIfza7P8u_eh1c_FlsXLGWA_rPm_0k)
 
-_A vous de créer la "contagion" ! Le flux, la circulation explique très bien que la complexité est dans les connexions quelques soient les éléments..._
+_A vous de créer la "contagion" ! Le flux, la circulation explique très bien que la complexité est dans les connexions quels que soient les éléments..._
 
 ![](https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0/1547916603662?e=2147483647&v=beta&t=74g6lqT5cuLBe1aNrlWeOvkk5EQ98X5g7JUflnOD97U)
 

@@ -21,7 +21,7 @@ c'est déjà une bonne pratique que de prévoir un temps de retour d'expérience
 
 comme pour le recyclage, il faut monter une filière - et bien pour le compostage projet, il faut aussi mettre en place la filière interne de recyclage.
 
-le REX est une bonne pratique mais que le premier pas de ce processus de compostage.
+le REX est une bonne pratique mais n’est que le premier pas de ce processus de compostage.
 
 ### les questions à se poser
 

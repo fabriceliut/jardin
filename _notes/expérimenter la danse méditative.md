@@ -19,7 +19,7 @@ tags:
 
  La méditation permet de l’éloigner des couches mentales, et ouvre la porte de l’Être. Plus on s’éloigne du mental, plus on s’éloigne du temps, de l’espace et de la souffrance. **C’est donc une manière de renouer avec le tout et trouver la paix intérieure.**
 
- La danse méditative et une forme de méditation, qui par le corps, le mouvement, permet de lâcher le mental, l’ego, et de libérer l’énergie vitale qui est en nous, au moins l’espace de quelques heures, pour gagner en épanouissement au quotidien.
+ La danse méditative est une forme de méditation, qui par le corps, le mouvement, permet de lâcher le mental, l’ego, et de libérer l’énergie vitale qui est en nous, au moins l’espace de quelques heures, pour gagner en épanouissement au quotidien.
 
  La danse méditative propose un moment sans jugement, sans superficialité. Simplement laisser s’exprimer le corps et vibrer librement, en sécurité, seuls ou à plusieurs.
 
@@ -38,14 +38,14 @@ tags:
 - **Venez avec votre humeur du jour, aucune n’est jugée ou mauvaise.**
 - **Portez des vêtements confortables et dansez pieds nus.**
 - **Ne parlez pas sur la piste de danse.**
-- **Respectez vous ainsi que toutes les autres personnes présentes.**
+- **Respectez-vous ainsi que toutes les autres personnes présentes.**
 - **Ne consommez ni alcool ni drogues pendant la pratique.**
 - **Ne prenez ni photos, ni vidéos.**
 - **Utilisez le regard, l’expression du visage ou le mouvement, comme seul moyen d’expression.**
-- **Connectez vous visuellement pour inviter à une danse à plusieurs.**
+- **Connectez-vous visuellement pour inviter à une danse à plusieurs.**
 - **Respectez un refus d’invitation, qui peut se faire par un non simple de la tête, les mains sur le coeur.**
-- **Respecter l’espace de chaque danseur.**
-- **Remerciez chaque danse par un salut mains sur le coeur.**
+- **Respectez l’espace de chaque danseur.**
+- **Remerciez chaque danseur par un salut mains sur le coeur.**
 - **Programme**
 
 

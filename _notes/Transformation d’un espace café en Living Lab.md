@@ -40,9 +40,9 @@ Comment le Comptoir apporte sa pierre à cet édifice complexe ?
 
 - Invitation à toutes les communautés
 - Des propositions d’événements pour faciliter la mise en synergie des acteurs
-- Une documentation en continue de ce qu’il se passe, des analyses, interviews et retours terrain concrets
+- Une documentation en continu de ce qu’il se passe, des analyses, interviews et retours terrain concrets
 - Une analyse des évolutions et une restitution aux participants de l’expérience
-- Une podcast pour recueillir la spontanéité de ce qu’il se passe au jour le jour, et le partager à l’extérieur
+- Un podcast pour recueillir la spontanéité de ce qu’il se passe au jour le jour, et le partager à l’extérieur
 - Une dimension de recherche action pour que tout ce qui est essayé devienne ressource à d’autres essais
 
 ### **Expérimentation dans l’expérimentation.**
@@ -51,7 +51,7 @@ Comment le Comptoir apporte sa pierre à cet édifice complexe ?
 
 - Comment « nourrir » économiquement un espace commun par des dynamiques économiques individualisées (décentralisation du modèle économique, « business design » en commun…).
 - Comment créer un modèle win, win, win, win ? (SOFFFA, chaque éco-système, les « clients » de SOFFFA et des éco-systèmes, le public encore extérieur à ces synergies).
-- Comment « laisser émerger » une dynamique propre à chaque éco-système, créant une dynamique commune et cohérente voir (laissons nous rêver) symbiotique ?
+- Comment « laisser émerger » une dynamique propre à chaque éco-système, créant une dynamique commune et cohérente voire (laissons-nous rêver) symbiotique ?
 - Comment ainsi générer un « Living Lab », source d’abondance de connaissances, de projets et abondant économiquement pour le macro-éco-système comme pour tous les individus liés à ce « coeur battant » ?
 - Comment sortir totalement des vieux modèles de concurrence pour trouver un modèle de collaboration symbiotique ?
 - Comment faire « ruisseler » cette abondance, dans toutes ses dimensions, à l’extérieur de SOFFFA, dans les organisations, le quartier, la ville, etc..?
