@@ -2,6 +2,13 @@
 // ============================================================
 // TYPOGRAPHY
 // ============================================================
+// Images in content: never exceed their container
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 p {
   margin: 0 0 1.25em;
   hyphens: auto;

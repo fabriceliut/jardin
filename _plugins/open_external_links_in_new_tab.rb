@@ -21,7 +21,11 @@ def convert_links(doc)
   if open_external_links_in_new_tab
     parsed_doc = Nokogiri::HTML::DocumentFragment.parse(doc.content)
     parsed_doc.css("a:not(.internal-link):not(.footnote):not(.reversefootnote)").each do |link|
+      href = link.attr('href').to_s
+      # Only open genuinely external links (http/https) in a new tab
+      next unless href.start_with?('http://', 'https://')
       link.set_attribute('target', '_blank')
+      link.set_attribute('rel', 'noopener noreferrer')
     end
     doc.content = parsed_doc.inner_html
   end
