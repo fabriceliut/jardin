@@ -1,9 +1,9 @@
 ---
 title: Apprendre à travers la vie humaine
 tags:
-  - Afairepousser
   - spiritualité
   - Meta-analyse
+  - V1
 ---
 <aside> 🌌
 

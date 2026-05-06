@@ -1,8 +1,9 @@
 ---
 title: écriture atomique
 tags:
- - contentmarketing
- - knowledgemanagement
+  - contentmarketing
+  - knowledgemanagement
+  - terminologie
 ---
 Le concept d'écriture atomique, dans le contexte de la prise de notes, se réfère à la méthode consistant à traiter **un seul sujet de manière ciblée et concentrée**, afin de créer des notes précises et concises. L'idée est de se concentrer sur un seul élément d'information à la fois, en éliminant les distractions et en évitant la surcharge cognitive.
 
