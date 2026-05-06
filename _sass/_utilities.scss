@@ -6,6 +6,11 @@
   max-width: 100%;
 }
 
+// Single-column pages (about, search, offres…): cap reading width
+.page-content {
+  max-width: 72ch;
+}
+
 // ============================================================
 // ACCESSIBILITY
 // ============================================================

@@ -98,13 +98,18 @@ body {
 
 // --- Layout wrapper ---
 .wrapper {
-  max-width: 90ch;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 2vh 4vw;
+  padding: 1.5rem 1.5rem;
 }
 @media (min-width: 640px) {
   .wrapper {
-    padding: 3vh 5vw;
+    padding: 2rem 2.5rem;
+  }
+}
+@media (min-width: 900px) {
+  .wrapper {
+    padding: 2.5rem 3rem;
   }
 }
 main { padding: 0; }

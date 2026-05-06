@@ -16,7 +16,7 @@
   #notes-entry-container {
     grid-template-columns: minmax(0, 1fr) 260px;
     grid-template-areas: "content side";
-    gap: 2.5em;
+    gap: 3rem;
     align-items: start;
   }
 }
@@ -24,20 +24,19 @@
 .note-content {
   grid-area: content;
   min-width: 0;
-  max-width: 68ch;
+  max-width: 72ch;
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-word;
 }
 .note-sidebar {
   grid-area: side;
-  width: 100%;
-  max-width: 260px;
+  width: 260px;
+  flex-shrink: 0;
   font-size: 0.9em;
   overflow-wrap: break-word;
   word-wrap: break-word;
-  // on mobile sidebar flows below content at full width
-  @media (max-width: 899px) { max-width: none; }
+  @media (max-width: 899px) { width: 100%; }
 }
 
 // --- Backlinks ---
