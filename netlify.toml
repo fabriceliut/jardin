@@ -19,11 +19,11 @@
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
 
-# CSS and search index: 1-day browser cache — CDN is cleared on each deploy
+# CSS: always revalidate — URL versioned per build to guarantee freshness
 [[headers]]
   for = "/styles.css"
   [headers.values]
-    Cache-Control = "public, max-age=86400, stale-while-revalidate=604800"
+    Cache-Control = "public, no-cache, must-revalidate"
 
 [[headers]]
   for = "/search.json"
