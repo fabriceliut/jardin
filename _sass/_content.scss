@@ -78,6 +78,8 @@
   font-size: 0.9em;
   margin-top: 0.3em;
   color: var(--color-subtext);
+  overflow-wrap: anywhere;
+  word-break: break-all;
 }
 
 .backlink-empty {
