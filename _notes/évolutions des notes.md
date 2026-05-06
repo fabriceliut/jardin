@@ -5,6 +5,9 @@ tags:
 ---
 Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[jardin numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
 
+## en date du 06/05/26
+j'ai fais une grosse passe IA pour correction orthographique de +290 notes et j'ai ajouté une page d'index par tags pour remonter les notes par thèmes en plus de la recherche classique et de la vue en graph, ce qui permet de gagner en fluidité dans vos explorations.
+
 ## en date du 18/02/26
 J'ai retravaillé le design et les fonctionnalités du jardin numérique. Désormais il est possible d'utiliser un moteur de recherche en plus de la navigation par liens internes. J'ai aussi ajouté des notes et nettoyé certaines. Belle exploration beaucoup plus agréable pour tout le monde !
 
