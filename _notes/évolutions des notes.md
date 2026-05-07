@@ -1,10 +1,8 @@
 ---
 title: évolutions des notes
 tags:
- - logs
- - log
- - v1
-
+  - log
+  - v1
 ---
 Je vais tenir un petit journal de bord des évolutions de ce journal numérique pour documenter le processus de création et d'évolution d'un [[jardin numérique]] en public et partager ce qu'il se passe derrière la création du contenu et du système.
 
