@@ -2,7 +2,7 @@
 title: Ça veut dire quoi impact pour toi
 tags:
   - note
-  - seed
+  - v1
 
 ---
 Ce terme est sur les lèvres de beaucoup de personnes, il donne du sens à nos actions : si on a de l'impact, alors on est utile, et plus on a d'impact, plus nous sommes utiles largement — "ça fait bouger les choses".

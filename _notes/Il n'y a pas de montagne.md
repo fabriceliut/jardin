@@ -2,7 +2,7 @@
 title: Il n'y a pas de montagne
 tags:
   - note
-  - seed
+  - v1
 
 ---
 Parce qu'on aime les citations, je commencerai ainsi :
