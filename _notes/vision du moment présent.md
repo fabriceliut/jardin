@@ -1,9 +1,7 @@
 ---
 title: vision du moment présent
 tags:
-  - philosophie
-  - spiritualité
-  - seed
+
 ---
 https://twitter.com/SlaapMe/status/1358707657151029249?s=20
 

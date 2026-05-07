@@ -3,6 +3,9 @@ title: nous avons une mission
 tags:
  - article
  - archipel
+ - v1
+ - candidate_post
+
 ---
 Est-ce que tout comme moi vous avez envie d'en finir avec la dissonance de notre société ? Est-ce que tout comme moi vous êtes épuisés parfois au quotidien de devoir composer avec des éléments dont vous ne comprenez pas du tout la logique ?
 

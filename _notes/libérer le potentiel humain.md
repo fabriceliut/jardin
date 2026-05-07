@@ -2,6 +2,8 @@
 title: libérer le potentiel humain
 tags:
  - article
+ - v1
+
 ---
 Je monte dans le train et retrouve un scénario classique que vous vivez aussi : les voyageurs sont en train d’empiler leurs bagages mais ça rentre difficilement. 
 

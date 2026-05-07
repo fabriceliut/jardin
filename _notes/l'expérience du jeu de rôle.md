@@ -2,6 +2,9 @@
 title: l'expérience du jeu de rôle
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 **Abandonner le personnage de votre vie l’espace de quelques heures, pour au travers d’autres personnages qui ne sont pas “vous”, découvrir votre Être dans toute sa profondeur.**
 

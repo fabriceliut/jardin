@@ -4,6 +4,9 @@ tags:
  - offre
  - projet
  - philosophie
+ - note
+ - v1
+
 ---
 Qu’est-ce que je peux vraiment vous apporter ? Pourquoi choisir de travailler ensemble ? Je vous le dis simplement, comme si on se rencontrait pour la première fois.
 

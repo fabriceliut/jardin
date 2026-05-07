@@ -1,5 +1,9 @@
 ---
 title: développer un esprit Chasseur cueilleur
+tags:
+  - note
+  - seed
+
 ---
 Qu’est-ce que ça voudrait dire qu’être chasseur cueilleur de nos jours ? Surtout quand on habite à la base en ville comme moi ici à Lyon ?
 

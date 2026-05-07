@@ -2,6 +2,9 @@
 title: dualité
 tags:
  - terminologie
+ - note
+ - seed
+
 ---
 Première ouverture par [l'exploration du Wiki](https://fr.wikipedia.org/wiki/Dualité).
 

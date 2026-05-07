@@ -3,6 +3,8 @@ title: Le régénératif n'est pas une hype
 tags:
  - article
  - régénératif
+ - seed
+
 ---
 Signal faible sur le sujet du [[régénératif]] pour ceux à qui ça parle : maintenant 6 ans que je suis à fond dedans aussi et d'autres depuis +30 ans... ce n'est pas...👇
 

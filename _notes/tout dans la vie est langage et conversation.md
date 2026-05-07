@@ -4,6 +4,9 @@ tags:
  - language
  - Afairepousser
  - article
+ - wip
+ - to_update
+
 ---
 Peut-être que l'étude de la [[linguistique]] nous permettrait de comprendre l'art, les échecs, l'entreprenariat, la danse, etc... Sans pour autant tout expérimenter en profondeur.
 

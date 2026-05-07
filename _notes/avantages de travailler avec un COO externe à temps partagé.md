@@ -2,6 +2,9 @@
 title: avantages de travailler avec un COO externe à temps partagé
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 **COO** : chef operating officer ou directeur des opérations.
 Dans une organisation, vous avez essentiellement le CEO qui est très souvent à l'origine de l'entreprise. Il va dans un premier temps également porter la casquette de COO pour des raisons de rôles et de moyens initiaux.

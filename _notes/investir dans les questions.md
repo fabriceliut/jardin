@@ -3,6 +3,9 @@ title: investir dans les questions
 tags:
  - article
  - designs
+ - v1
+ - candidate_post
+
 ---
 **La valeur est dans les questions.**
 

@@ -1,5 +1,9 @@
 ---
 title: Créer des indicateurs qualitatifs
+tags:
+  - note
+  - seed
+
 ---
 Dans un environnement complexe, **les indicateurs quantitatifs** sont trop limités pour comprendre la réalité des choses et prendre de bonnes décisions. Pourtant, c'est ce qui permet actuellement de piloter la plupart des organisations et des institutions...
 

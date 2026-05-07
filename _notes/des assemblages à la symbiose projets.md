@@ -1,5 +1,9 @@
 ---
 title: des assemblages à la symbiose projets
+tags:
+  - note
+  - seed
+
 ---
 Réside ici toute la complexité de l'approche - la symbiose peut exister entre les projets si et seulement si l'assemblage permet à chaque projet de s'exprimer totalement librement et suivant ses besoins propres sans concessions.
 

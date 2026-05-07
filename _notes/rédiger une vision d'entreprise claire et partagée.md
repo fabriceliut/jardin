@@ -4,6 +4,9 @@ tags:
  - futur
  - transformation
  - guidebook
+ - ressource
+ - updated
+
 ---
 Série de contenus spécialement pour partager ce que j’ai appris en travaillant avec des dirigeants de plus utile pour d’autres.
 

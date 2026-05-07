@@ -2,6 +2,9 @@
 title: Le jeune Karl Marx
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 _Réflexion suite au film « le jeune Karl Marx »._
 

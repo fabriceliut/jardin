@@ -3,6 +3,9 @@ title: en tant qu'accompagnant externe, tu oeuvres à transformer les entreprise
 tags:
  - transformation
  - guidebook
+ - ressource
+ - updated
+
 ---
 tu es loin d'être un cas isolé, c'est même l'inverse et très partagé (venant de +100 accompagnants externes avec qui j'ai pu échanger régulièrement depuis +10 ans).
 

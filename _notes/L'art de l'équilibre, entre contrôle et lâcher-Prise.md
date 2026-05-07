@@ -2,6 +2,9 @@
 title: L'art de l'équilibre, entre contrôle et lâcher-prise
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 Dans notre société hyperconnectée et performante, nous oscillons constamment entre deux extrêmes : le besoin de tout maîtriser et l'aspiration à lâcher prise. Cette tension, loin d'être un défaut, révèle peut-être l'essence même d'une existence équilibrée.
 

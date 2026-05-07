@@ -4,6 +4,8 @@ tags:
  - article
  - psychologie
  - Meta-analyse
+ - evergreen
+ - candidate_post
 image: "[[eau-mur-coule Large.jpeg]]"
 ---
 Il y a un cycle mental dans lequel je me surprends souvent à tourner en rond. Il commence invariablement par le regard que je porte sur les autres.

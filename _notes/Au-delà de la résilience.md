@@ -1,5 +1,9 @@
 ---
 title: Au-delà de la résilience
+tags:
+  - moc
+  - evergreen
+
 ---
 [[résilience]], c'est devenu tendance d'en parler et de dire qu'on travaille à la développer. Et surtout, souvent, on parle de résilience quand on ne veut pas avouer parler de survie.
 

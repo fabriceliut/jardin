@@ -3,6 +3,9 @@ title: le féminin & le masculin
 tags:
  - spiritualité
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 je propose de présenter le féminin comme l'énergie Yin et le masculin comme l'énergie Yang. les principes de ces 2 énergies sont exactement les même que présentés dans les théories orientales qui utilisent les principes yin/yang.
 

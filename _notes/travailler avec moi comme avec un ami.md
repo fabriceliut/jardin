@@ -2,6 +2,9 @@
 title: travailler avec moi comme avec un ami
 tags:
  - philosophie
+ - note
+ - seed
+
 ---
 Avec moi ce sera comme faire un projet avec un ami:
 

@@ -3,6 +3,9 @@ title: Easy tips pour dirigeant, comment gagner 2h par jour
 tags:
  - tips
  - projectmanagement
+ - note
+ - seed
+
 ---
 J’ai bien dit +2 h par jour, et ce n’est pas une accroche à clic. Et c’est vraiment simple.
 

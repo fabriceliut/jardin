@@ -2,6 +2,8 @@
 title: le consulting d'aujourd’hui c’est de la facilitation et ça change tout!
 tags:
  - article
+ - seed
+
 ---
 Le consulting a évolué ces dernières années pour devenir davantage une [[facilitation]] qu'une simple prestation de conseils.
 

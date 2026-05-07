@@ -2,6 +2,8 @@
 title: Ma vision du dirigeant engagé
 tags:
  - article
+ - v1
+
 ---
 Un **dirigeant engagé**, c’est d’abord un état d’esprit. Il place les enjeux sociaux, écologiques et sociétaux au cœur de ses décisions, **au même niveau que la recherche de rentabilité**. Pour lui, l’entreprise n’est pas seulement une machine à générer du profit : c’est un levier pour répondre aux urgences de notre époque tout en créant de la valeur long terme.
 

@@ -2,6 +2,9 @@
 title: N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !
 tags:
  - outils
+ - note
+ - updated
+
 ---
 
 L'humain évolue dans un monde de la technique comme solution à tout depuis bien longtemps. L'ère industrielle n'a pas aidé à calmer ça, elle l'a développée et rendue culturellement normalisée.

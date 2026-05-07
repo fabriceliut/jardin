@@ -4,6 +4,10 @@ tags:
  - Afairepousser
  - philosophie
  - systémique
+ - note
+ - wip
+ - to_update
+
 ---
 **Vos enjeux sont complexes ? Un généraliste vous aide à voir l’ensemble du système, à poser les bonnes questions et à orienter vers les bons spécialistes, au bon moment.**
 

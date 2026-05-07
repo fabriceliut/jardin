@@ -2,6 +2,9 @@
 title: Prendre soin du collectif
 tags:
  - index
+ - moc
+ - evergreen
+
 ---
 Sujet au coeur de l'[[Archipel Kyosei]] & de beaucoup d'autres collectifs qui cherchent de nouveaux modèles pour évoluer ensemble.
 Dans les paradigmes habituels, le collectif est un groupe, une équipe, une entreprise ou une nation, avec tout le sens que peuvent porter ces concepts.

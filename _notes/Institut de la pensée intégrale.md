@@ -2,6 +2,9 @@
 title: institut de la pensée intégrale
 tags:
  - projet
+ - moc
+ - evergreen
+
 ---
 *Une nouvelle institution pour penser & penser le monde autrement, pour faire autrement ensemble.*
 

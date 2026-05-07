@@ -3,6 +3,9 @@ title: Business as non usual, le guide
 image: /assets/businessnonusual.png
 tags:
  - guidebook
+ - ressource
+ - updated
+
 ---
 ![]({{page.image}})
 

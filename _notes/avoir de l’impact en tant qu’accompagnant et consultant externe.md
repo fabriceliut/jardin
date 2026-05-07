@@ -1,5 +1,9 @@
 ---
 title: avoir de l’impact en tant qu’accompagnant et consultant externe
+tags:
+  - note
+  - seed
+
 ---
 ## intention
 

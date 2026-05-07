@@ -2,6 +2,9 @@
 title: Transformer le territoire lyonnais par une Fabrique
 tags:
  - cas-étude
+ - note
+ - seed
+
 ---
 
 Une démarche politique, sociétale et écosystémique se développe sur Lyon. Inspirés de la nature et de sa « gouvernance organique », les activistes locaux s’organisent pour porter ensemble une nouvelle forme de politique par le faire en commun : **la Fabrique des transition, lyon & ses régions.** *+ de détails sur ce cas d’étude du Comptoir prochainement.*

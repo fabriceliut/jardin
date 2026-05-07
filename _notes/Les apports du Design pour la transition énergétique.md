@@ -4,6 +4,8 @@ tags:
  - article
  - designs
  - écologie
+ - v1
+
 ---
 > La transition énergétique désigne une modification structurelle profonde des modes de production et de consommation de l'énergie. C'est l'un des volets de la transition écologique. - [Wiki](https://fr.wikipedia.org/wiki/Transition_%C3%A9nerg%C3%A9tique)
 

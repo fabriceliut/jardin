@@ -2,6 +2,9 @@
 title: Intelligence Artificielle Une Course Acharnée aux Dépens de Notre Humanité
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 J'utilise l'[[intelligence artificielle]] quotidiennement et sous diverses formes. Cependant, je fais partie de ceux qui disent « Attention ⚠️ ».
 

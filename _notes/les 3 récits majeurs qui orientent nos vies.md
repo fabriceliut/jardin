@@ -2,6 +2,9 @@
 title: les 3 récits majeurs qui orientent nos vies
 tags:
  - storytelling
+ - note
+ - v1
+
 ---
 - 1.
 

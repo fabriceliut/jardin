@@ -172,28 +172,219 @@
   font-size: 0.75rem;
   padding: 0.28em 0.9em;
 }
-.tags-page .tag-section {
-  margin-bottom: 2.5em;
-  padding-bottom: 2em;
-  border-bottom: 1px solid var(--color-border);
-  &:last-child { border-bottom: none; }
+// ── Tags page V2 ──────────────────────────────────────────────
+
+.tags-v2 {
+  // Filter module
+  .tags-filter-module {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--color-surface);
+    padding: 1rem 0 0.75rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--color-border);
+
+    .tags-search-input {
+      width: 100%;
+      padding: 0.55em 1em;
+      border: 1px solid var(--color-border);
+      border-radius: $border-radius;
+      background: var(--color-box-background);
+      color: var(--color-text);
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color $transition-fast, box-shadow $transition-fast;
+      &:focus {
+        border-color: var(--color-accent);
+        box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-accent) 15%, transparent);
+      }
+    }
+
+    .tags-group-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4em;
+      margin-top: 0.6em;
+    }
+
+    .tag-group-pill {
+      padding: 0.25em 0.9em;
+      border: 1px solid var(--color-border);
+      border-radius: 2em;
+      background: transparent;
+      color: var(--color-subtext);
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background $transition-fast, color $transition-fast, border-color $transition-fast;
+
+      &:hover { border-color: var(--color-accent); color: var(--color-accent); }
+      &.active {
+        background: var(--color-accent);
+        border-color: var(--color-accent);
+        color: var(--color-surface);
+      }
+    }
+  }
+
+  .tags-no-results {
+    text-align: center;
+    color: var(--color-subtext);
+    font-style: italic;
+    padding: 2rem 0;
+  }
+
+  // Tag group sections
+  .tag-group {
+    margin-bottom: 2.5rem;
+
+    .tag-group-header {
+      margin-bottom: 0.85rem;
+    }
+
+    .tag-group-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--color-subtext);
+      margin: 0 0 0.15em;
+    }
+
+    .tag-group-desc {
+      font-size: 0.82rem;
+      color: var(--color-subtext);
+      margin: 0;
+    }
+
+    .tag-accordions {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4em;
+    }
+  }
+
+  // Accordion
+  .tag-accordion {
+    border: 1px solid var(--color-border);
+    border-radius: $border-radius;
+    overflow: hidden;
+    transition: border-color $transition-fast;
+
+    &[open] {
+      border-color: var(--color-accent);
+    }
+
+    &:hover:not([open]) {
+      border-color: color-mix(in srgb, var(--color-accent) 50%, var(--color-border));
+    }
+
+    .tag-accordion-summary {
+      display: flex;
+      align-items: center;
+      gap: 0.6em;
+      padding: 0.55em 0.85em;
+      cursor: pointer;
+      list-style: none;
+      user-select: none;
+      background: var(--color-box-background);
+      transition: background $transition-fast;
+
+      &::-webkit-details-marker { display: none; }
+      &::marker { display: none; }
+
+      &:hover { background: color-mix(in srgb, var(--color-accent) 6%, var(--color-box-background)); }
+
+      .tag-accordion-desc {
+        flex: 1;
+        font-size: 0.8rem;
+        color: var(--color-subtext);
+        font-style: italic;
+      }
+
+      .tag-accordion-count {
+        margin-left: auto;
+        font-size: 0.7rem;
+        font-weight: 700;
+        color: var(--color-subtext);
+        background: var(--color-surface);
+        border: 1px solid var(--color-border);
+        border-radius: 2em;
+        padding: 0.1em 0.55em;
+        min-width: 1.8em;
+        text-align: center;
+      }
+
+      .tag-accordion-chevron {
+        width: 0.6em;
+        height: 0.6em;
+        border-right: 2px solid var(--color-subtext);
+        border-bottom: 2px solid var(--color-subtext);
+        transform: rotate(45deg);
+        transition: transform $transition-fast;
+        flex-shrink: 0;
+      }
+    }
+
+    &[open] .tag-accordion-summary {
+      border-bottom: 1px solid var(--color-border);
+      background: color-mix(in srgb, var(--color-accent) 5%, var(--color-box-background));
+
+      .tag-accordion-chevron {
+        transform: rotate(-135deg);
+      }
+    }
+  }
+
+  // Notes list inside accordion
+  .tag-notes-list {
+    list-style: none;
+    padding: 0.6em 1em;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3em;
+    background: var(--color-surface);
+
+    li a {
+      font-size: 0.9rem;
+      color: var(--color-text);
+      text-decoration: none;
+      padding: 0.1em 0;
+      display: block;
+      &:hover { color: var(--color-accent); text-decoration: underline; }
+    }
+  }
 }
-.tags-page .tag-section-title {
-  display: flex;
-  align-items: center;
-  gap: 0.5em;
-  margin-bottom: 0.75em;
-  font-size: 1em;
-  font-weight: 600;
-}
-.tags-page .tag-notes-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4em;
-  padding-left: 0.25em;
+
+// Legacy V1 (kept for backwards compat)
+.tags-page:not(.tags-v2) {
+  .tag-section {
+    margin-bottom: 2.5em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid var(--color-border);
+    &:last-child { border-bottom: none; }
+  }
+  .tag-section-title {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-bottom: 0.75em;
+    font-size: 1em;
+    font-weight: 600;
+  }
+  .tag-notes-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+    padding-left: 0.25em;
+  }
 }
 
 // --- Transclusion (Obsidian-style ![[note]]) ---

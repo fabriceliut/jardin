@@ -2,6 +2,9 @@
 title: ignorance, curiosité et recherche scientifique
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 [source ressource d'écriture](https://austinkleon.com/2021/08/03/absence-of-certainty-awareness-of-ignorance/)
 

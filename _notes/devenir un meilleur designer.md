@@ -3,6 +3,10 @@ title: devenir un meilleur designer
 tags:
  - designs
  - Afairepousser
+ - article
+ - wip
+ - to_update
+
 ---
 [slides à l'origine de cette note](https://gamma.app/docs/jmqdgdw18mdf6g5)
 

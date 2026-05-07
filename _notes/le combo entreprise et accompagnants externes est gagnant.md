@@ -2,6 +2,9 @@
 title: le combo entreprise et accompagnants externes est gagnant
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 en tant que dirigeant, si vous essayez toujours de tout gérer avec de l'interne, cet article est pour vous.
 

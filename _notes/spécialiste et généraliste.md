@@ -4,6 +4,10 @@ tags:
  - Afairepousser
  - transformation
  - entreprenariat
+ - note
+ - wip
+ - to_update
+
 ---
 à l'origine, une discussion [sur linkedIN](https://www.linkedin.com/posts/marie-lou-barnaud_gaeznaezraliste-spaezcialiste-km-activity-6936975990766100480-4XMi?utm_source=linkedin_share&utm_medium=member_desktop_web)
 

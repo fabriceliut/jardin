@@ -2,6 +2,9 @@
 title: La recherche de la santé parfaite
 tags:
  - santé
+ - note
+ - updated
+
 ---
 > Article archive de 2015 pour [[Prendre soin de soi]]
 

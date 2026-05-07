@@ -3,6 +3,10 @@ title: neurosciences
 tags:
  - terminologie
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 En lien avec les concepts de mémoire, de plasticité cérébrale, de développement cognitif ainsi que les différents méchanismes de l'attention.
 

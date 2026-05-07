@@ -1,5 +1,9 @@
 ---
 title: la détente dans la conscience
+tags:
+  - note
+  - seed
+
 ---
 _Phrase concept venant d'une de mes profs de théâtre d'improvisation._
 

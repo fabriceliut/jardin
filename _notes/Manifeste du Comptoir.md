@@ -3,6 +3,9 @@ title: Manifeste du Comptoir
 tags:
  - projet
  - philosophie
+ - note
+ - seed
+
 ---
 
 > *On ne résout pas un problème avec le même mode de pensée que celui qui a généré le problème.* - Albert Einstein

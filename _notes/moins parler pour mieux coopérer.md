@@ -4,6 +4,10 @@ tags:
  - Afairepousser
  - coopération
  - bio-inspiration
+ - note
+ - wip
+ - to_update
+
 ---
 Je ne vois pas pourquoi nous serions l’espèce la plus évoluée. Nous sommes certes en « bout de chaîne » de mutations mais nous ne sommes pas les seuls sur cette terre il y a beaucoup d’humilité à avoir face au reste du vivant.
 

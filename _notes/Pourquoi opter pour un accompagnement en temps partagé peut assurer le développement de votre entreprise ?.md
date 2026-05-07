@@ -2,6 +2,9 @@
 title: Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?
 tags:
  - chiefofstaff
+ - note
+ - updated
+
 ---
 > L'entreprise TheTandem n'est plus mais cela n'enlève en rien la valeur des réflexions partagées ici qui viennent toujours alimenter mes perspectives et ma manière de travailler au quotidien : dans la proximité, pour de l'efficience et de la joie au travail.
 

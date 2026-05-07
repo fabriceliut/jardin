@@ -2,6 +2,8 @@
 title: construire les cathédrales aujourd'hui, c'est régénérer
 tags:
  - article
+ - seed
+
 ---
 À l’époque ils avaient les cathédrales à construire sur plusieurs générations. Nous avons notre propre cathédrale et celle-ci est encore plus grande et commune : c’est notre planète et son habitabilité pour l’humanité.
 

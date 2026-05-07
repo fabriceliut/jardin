@@ -4,6 +4,10 @@ tags:
  - business
  - guidebook
  - Afairepousser
+ - ressource
+ - wip
+ - to_update
+
 ---
 *Suite à plusieurs mois de recherche en commun avec notre [[Archipel Kyosei]], j'ai tenté d'arrêter une première version 0.1 **d'un guide pour apprendre à vendre**.*
 

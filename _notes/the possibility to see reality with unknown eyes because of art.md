@@ -4,6 +4,10 @@ tags:
  - art
  - Afairepousser
  - Meta-analyse
+ - moc
+ - wip
+ - to_update
+
 ---
 https://twitter.com/SlaapMe/status/1361048078048968705
 

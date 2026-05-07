@@ -4,6 +4,8 @@ tags:
  - article
  - analogie
  - chiefofstaff
+ - v1
+
 ---
 Imagine-toi au pied d'une paroi d'escalade. Tu lèves les yeux et observes la voie qui s'étend devant toi, chaque prise représentant un défi à surmonter. Avant même de poser la main sur la première prise, tu visualises le parcours, anticipant chaque mouvement, chaque position. Tu répètes mentalement les gestes, simulant les mouvements dans l'air. C'est une préparation essentielle, mais tu sais que la réalité sera différente.
 

@@ -4,6 +4,8 @@ tags:
  - tips
  - guidebook
  - numérique
+ - ressource
+ - updated
 image: /assets/todolundi.png
 ---
 *voici un modèle que j'utilise tous les lundis sur 3h environ pour bien lancer ma semaine, tout poser à plat, planifier et être au clair sur les priorités, les urgences et ainsi la tête au calme et la charge mentale au plus bas.*

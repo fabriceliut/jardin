@@ -2,6 +2,9 @@
 title: faisons partie de nous
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 ### Faisons-nous partie de nous ?
 

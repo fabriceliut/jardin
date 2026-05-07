@@ -1,9 +1,7 @@
 ---
 title: émergence de structure logique utilisable
 tags:
-  - guidebook
-  - knowledgemanagement
-  - wip
+
 ---
 >La connaissance n’est pas suffisante, elle doit être connectée et « testée » pour devenir du savoir actionnable.
 

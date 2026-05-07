@@ -3,6 +3,9 @@ title: la recherche action pour remplacer les démarches d'innovation classiques
 tags:
  - article
  - knowledgemanagement
+ - v1
+ - candidate_post
+
 ---
 D’un côté les penseurs et de l’autre les acteurs du terrain? Je remarque que nous en sommes encore très souvent à ces paradigmes de société et je suis persuadé que c’est l’une des lacunes principale de notre culture actuelle.
 

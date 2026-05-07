@@ -3,6 +3,9 @@ title: se connecter et se faire confiance plus facilement
 tags:
  - tips
  - coopération
+ - note
+ - v1
+
 ---
 Pour travailler ensemble les humains passent toujours par les même étapes :
 

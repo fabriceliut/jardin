@@ -4,6 +4,10 @@ tags:
  - knowledgemanagement
  - guidebook
  - Afairepousser
+ - ressource
+ - wip
+ - to_update
+
 ---
 ## Les données en interrelations.
 L’information n’est pas suffisante, **elle doit être traitée et connectée pour en faire de la connaissance utilisable.**

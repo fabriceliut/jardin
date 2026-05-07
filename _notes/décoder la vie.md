@@ -1,5 +1,9 @@
 ---
 title: décoder la vie
+tags:
+  - moc
+  - evergreen
+
 ---
 **Pourquoi chercher à décoder la vie alors qu'elle est si magique, si complexe, si mystérieuse ?** Est-ce que ce n'est pas le fait de ne pouvoir la comprendre qui la rend belle et que justement, chercher à comprendre la rend plus rude et désagréable ?
 

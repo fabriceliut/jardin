@@ -3,6 +3,9 @@ title: changer le monde en créant d'autres histoires
 tags:
  - storytelling
  - régénératif
+ - note
+ - seed
+
 ---
 Only because of our shared imagination, we destroyed planet Earth. Can we regenerate it if we create others stories together ?
 

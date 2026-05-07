@@ -3,6 +3,9 @@ title: L'Illusion de la tribu, bâtir une communauté est un acte biologique, pa
 tags:
  - article
  - communitydesign
+ - updated
+ - candidate_post
+
 ---
 On connaît tous cette ivresse. Celle du « Jour 1 ».
 

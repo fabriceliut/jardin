@@ -4,6 +4,10 @@ tags:
  - Afairepousser
  - spiritualité
  - régénératif
+ - note
+ - wip
+ - to_update
+
 ---
 et si le féminin prenait le lead - une société sous lead de l'énergie du féminin, du jamais vu encore - j'ai envie d'encourager ça.
 

@@ -2,6 +2,9 @@
 title: pratiquer la meta conversation
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 Est-ce que vous aussi vous sentez que lors d’une conversation il y a des évolutions comme par « niveaux » - comme si les échanges changeaient de hauteur, de fréquence, de niveau d’abstraction? (cf [[exploration de l'abstraction]])
 

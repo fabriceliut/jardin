@@ -2,6 +2,8 @@
 title: L’art de la synchronicité, entre intuition et réflexion
 tags:
  - article
+ - v1
+
 ---
 Parfois, la vie nous fait des clins d’œil. Des coïncidences qui tombent pile au bon moment, des rencontres inattendues, ou même des situations qui se répètent sans qu’on sache trop pourquoi. Carl Jung appelait ça la « synchronicité » : des événements qui n’ont pas de lien de cause à effet direct, mais qui résonnent fort en nous, comme si la vie voulait attirer notre attention sur quelque chose.
 

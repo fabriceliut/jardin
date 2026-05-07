@@ -3,6 +3,9 @@ title: la vie en tribus nomades
 tags:
  - fiction
  - rêve
+ - note
+ - v1
+
 ---
 Je vous partage un rêve d’un mode de vie que je ne connais pas mais qui m’inspire beaucoup.
 

@@ -2,6 +2,10 @@
 title: Gouvernance adaptable
 tags:
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 La #gouvernance est compliquée lorsqu’il faut s’accorder à beaucoup. Cependant, s’il était possible de disposer d’un #langage suffisamment riche et partant d’une base assez simple pour « construire » plein de « langages » de gouvernance différents mais issus de la même base et pouvant donc collaborer chacun à sa manière, il serait possible de créer des multi-gouvernances interconnectées 🙂 Je pense ici aux ontologies, à la sémantique. Arriver à trouver la « Tour de Babel », et pour la trouver, je pense qu’il y a intérêt à étudier le sanskrit : c’est un #langage qui repose sur 14 notes originelles et qui permet de construire ce que l’on veut ensuite, tout en restant dans la même langue où tout le monde se comprend.
 

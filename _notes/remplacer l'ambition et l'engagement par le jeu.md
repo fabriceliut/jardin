@@ -3,6 +3,9 @@ title: remplacer l'ambition et l'engagement par le jeu
 tags:
  - psychologie
  - entreprenariat
+ - note
+ - seed
+
 ---
 - > “play” more than anything else, is what created the modern world
 

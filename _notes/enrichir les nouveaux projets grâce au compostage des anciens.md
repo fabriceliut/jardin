@@ -4,6 +4,9 @@ tags:
  - knowledgemanagement
  - projectmanagement
  - guidebook
+ - ressource
+ - updated
+
 ---
 ## intention
 à chaque nouveau projet il y a le risque de réinventer la roue, quel que soit le projet. l'idée ici est de proposer un petit guide permettant de "composter" ou recycler un ancien projet pour en faire des ressources pour un nouveau.

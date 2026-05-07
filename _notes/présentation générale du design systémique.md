@@ -4,6 +4,10 @@ tags:
  - designs
  - systémique
  - guidebook
+ - article
+ - updated
+ - candidate_post
+
 ---
 *j'ai eu la chance de produire cette présentation dans l'ouvrage "[passer au design thinking édition 2](https://www.amazon.fr/Passez-design-thinking-%C3%A9dition-construire/dp/2416006789/ref=sr_1_1?keywords=passer+au+design+thinking&qid=1688300722&sr=8-1)" dont je vous propose le contenu ici.*
 

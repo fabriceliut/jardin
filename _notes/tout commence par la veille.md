@@ -3,6 +3,10 @@ title: tout commence par la veille
 tags:
  - knowledgemanagement
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 Tout commence par l'observation, l'écoute, la curiosité, l'exploration, la découverte. C'est la toute première phase de captation d'information. Soit elle va être utile directement, soit elle doit être intégrée et donc demande un peu de temps ou d'y revenir au besoin. C'est pour cette raison qu'il est très enrichissant de "capitaliser" ses découvertes & de les structurer comme un [[jardin numérique]] par exemple via des outils comme [[Roam Research]] ou [[Notion]].
 

@@ -3,6 +3,9 @@ title: L'Humilité, Le Socle de la Puissance
 tags:
  - article
  - Meta-analyse
+ - evergreen
+ - candidate_post
+
 ---
 Dans notre précédente réflexion sur la [[puissance]], nous avons défini celle-ci non pas comme une domination, mais comme une énergie intérieure, un potentiel vital qui ne demande qu'à s'exprimer. Nous avons vu que la [[Force]] est souvent l'acte de contraindre, tandis que la _Puissance_ est l'état d'être.
 

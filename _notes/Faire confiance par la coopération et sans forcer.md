@@ -2,6 +2,9 @@
 title: Faire confiance par la coopération et sans forcer
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 Lorsqu'on pratique le [[Yoga]], très souvent, le maître répète durant la pratique en mouvement qu'il ne sert à rien de forcer. Il convient d'orienter tout le champ de sa [[conscience]] sur la posture, sur le corps et de laisser faire, sans forcer.
 On fait alors [[confiance]] au processus, sans plus rien essayer d'accélérer. On accepte que nous n'avons pas le contrôle, que c'est le corps qui fait le travail, qui s'adapte à ces nouvelles conditions, se renforce petit à petit...

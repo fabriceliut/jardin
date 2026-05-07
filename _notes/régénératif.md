@@ -3,6 +3,9 @@ title: régénératif
 tags:
  - terminologie
  - index
+ - moc
+ - evergreen
+
 ---
 Si vous lisez cette page, c’est que quelque chose vous appelle : l’idée qu’on peut faire mieux que « réduire nos impacts ».
 

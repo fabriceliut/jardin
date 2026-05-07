@@ -3,6 +3,9 @@ title: Mouvement mondial du design régénératif
 tags:
  - régénératif
  - article
+ - v1
+ - candidate_post
+
 ---
 L'humanité est confrontée à de nombreuses menaces mondiales résultant de l'ampleur, du rythme et de l'intensité des changements de nos systèmes culturels, technologiques, politiques et économiques. Ce qui nous manque, c'est la capacité d'appréhender et de guider ce processus évolutif extrêmement complexe à l'échelle de la société.
 

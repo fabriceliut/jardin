@@ -3,6 +3,9 @@ title: les niveaux de gestion des communications
 tags:
  - knowledgemanagement
  - guidebook
+ - ressource
+ - updated
+
 ---
 Il est utile de comprendre les détails de comment fonctionne la communication entre humains pour mieux s’organiser et réduire l’effort de traiter de l’information. 
 

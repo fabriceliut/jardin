@@ -3,6 +3,9 @@ title: la puissance du design systémique par l’exemple des banques
 image: /assets/banques.jpg
 tags:
  - cas-étude
+ - note
+ - updated
+
 ---
 
 > The power of systems design lies in the fact that one initiative has the potential to respond to many needs at the same time. - Gunter Pauli, Blue Economy 3.0

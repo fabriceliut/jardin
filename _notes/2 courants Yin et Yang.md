@@ -2,6 +2,9 @@
 title: 2 courants Yin et Yang
 tags:
  - concept
+ - note
+ - seed
+
 ---
 
 Une des pistes de réflexion pour tenter de [[décoder la vie]]

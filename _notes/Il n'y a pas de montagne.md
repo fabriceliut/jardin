@@ -1,5 +1,9 @@
 ---
 title: Il n'y a pas de montagne
+tags:
+  - note
+  - seed
+
 ---
 Parce qu'on aime les citations, je commencerai ainsi :
 

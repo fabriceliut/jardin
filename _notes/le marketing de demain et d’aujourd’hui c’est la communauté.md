@@ -3,6 +3,9 @@ title: le marketing de demain et d’aujourd’hui c’est la communauté
 tags:
  - communitydesign
  - communitybuilding
+ - note
+ - seed
+
 ---
 Paradigme habituel de vente : construire une marque et travailler sa plateforme pour communiquer et donner envie d’acheter. 
 

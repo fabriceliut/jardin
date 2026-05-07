@@ -3,6 +3,10 @@ title: metagame
 tags:
  - terminologie
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 Nous vivons dans le "game" de la société. Au-dessus, "certains" jouent au jeu de la société, c'est eux qui gèrent le "Monopoly" avec ses règles, son économie, ses [[paradigme]].
 Au-dessus encore, il y a le niveau de la Vie elle-même, en dehors de tout formatage de société, de culture mais DANS la vie.

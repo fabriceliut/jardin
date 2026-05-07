@@ -3,6 +3,9 @@ title: Le Manifeste de la Fête Continue, Vers une Nouvelle Éthique du Quotidie
 tags:
  - article
  - Meta-analyse
+ - evergreen
+ - candidate_post
+
 ---
 ## Le Constat : La joie mise en quarantaine
 

@@ -4,6 +4,9 @@ tags:
  - philosophie
  - psychologie
  - transformation
+ - note
+ - v1
+
 ---
 Se poser la question "pourquoi" et un point de départ nécessaire quand il s'agit de faire ou créer quoi que ce soit. En effet, on cherche à répondre à un besoin réel avec une conscience systémique plutôt que de travailler sur un sujet qui n'est pas le bon sujet ou la priorité. Se demander "pourquoi", c'est la prise de recule nécessaire pour démarrer l'esprit clair et écrire ce pourquoi en premier, comme le dit très bien Simon Sinek, est nécessaire pour assurer que tout le travail qui va suivre sur le "comment" et le "quoi" aura de la forme et une utilité réelle, même en terme de business pur.
 

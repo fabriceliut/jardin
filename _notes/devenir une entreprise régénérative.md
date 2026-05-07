@@ -2,6 +2,9 @@
 title: devenir une entreprise régénérative
 tags:
  - régénératif
+ - note
+ - v1
+
 ---
 en tant que [[bras droit]] des dirigeants, j'ai un focus à accompagner ceux qui veulent faire de leurs entreprises des organisations régénératives.
 

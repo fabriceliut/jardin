@@ -3,6 +3,10 @@ title: Yoga
 tags:
  - terminologie
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 Je vois un lien qui peut paraître très éloigné avec les [[designs]] tout comme il n'y a pas un yoga mais plusieurs écoles, comme plusieurs branches de [[Philosophie Pratique]]... Nous sommes certainement en train, via nos nouveaux concepts occidentaux, de retrouver le lien avec la sagesse ancestrale...
 

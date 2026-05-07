@@ -1,5 +1,9 @@
 ---
 title: Automatisation
+tags:
+  - ressource
+  - seed
+
 ---
 # Pourquoi automatiser et améliorer la gestion de projets et du temps ?
 

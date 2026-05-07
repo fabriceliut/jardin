@@ -3,6 +3,10 @@ title: plan d'action d'entreprise et rôles responsables
 tags:
  - Afairepousser
  - guidebook
+ - ressource
+ - wip
+ - to_update
+
 ---
 Suite de cette série pour partager ce que j’ai appris de plus important avec les dirigeants que j’ai accompagné qui peut enrichir les autres. 
 

@@ -3,6 +3,10 @@ title: design systémique
 tags:
  - designs
  - terminologie
+ - article
+ - updated
+ - candidate_post
+
 ---
 C'est l'un des [[designs]] & l'application concrète de la [[pensée systémique]] via, par exemple, la [[modélisation systémique]].
 

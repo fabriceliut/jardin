@@ -2,6 +2,10 @@
 title: design circulaire
 tags:
  - designs
+ - article
+ - updated
+ - candidate_post
+
 ---
 _Ici, vous trouverez un dossier complet, en évolution continue pour présenter cet axe de la démarche globale "Designs". Vous trouverez également des propositions d'expériences de sensibilisation, d'événements, de formations mais aussi des outils, méthodes et briques théoriques à intégrer directement dans vos projets en cours._
 

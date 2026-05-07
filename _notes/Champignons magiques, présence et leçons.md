@@ -2,6 +2,9 @@
 title: Champignons magiques, présence et leçons
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 ## L’expérience
 

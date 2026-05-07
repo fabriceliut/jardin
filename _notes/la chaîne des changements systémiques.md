@@ -1,5 +1,9 @@
 ---
 title: la chaîne des changements systémiques
+tags:
+  - note
+  - seed
+
 ---
 On cherche souvent à créer intellectuellement le système qui peut régler de manière complexe et macro nos problématiques de société.
 

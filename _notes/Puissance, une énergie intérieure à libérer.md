@@ -2,6 +2,8 @@
 title: Puissance, une énergie intérieure à libérer
 tags:
  - article
+ - v1
+
 ---
 La [[puissance]] n’est pas une posture ni un effort. Elle est une présence intérieure, **une densité vivante qui circule quand on cesse de se contracter contre soi-même**. C’est un état où l’on se sent aligné, clair, capable, et profondément libre. La puissance ne s’invente pas : elle se révèle quand les obstacles intérieurs se dissipent.
 

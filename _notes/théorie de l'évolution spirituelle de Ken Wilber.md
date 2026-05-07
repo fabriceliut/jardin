@@ -6,6 +6,10 @@ tags:
  - systémique
  - Afairepousser
  - transformation
+ - note
+ - wip
+ - to_update
+
 ---
 théorie de développement humain qui met l'accent sur le processus d'évolution spirituelle et sur la progression vers un état de conscience supérieure. Selon Wilber, il y a plusieurs niveaux de développement spirituel, qui sont caractérisés par des stades de conscience de plus en plus élevés.
 

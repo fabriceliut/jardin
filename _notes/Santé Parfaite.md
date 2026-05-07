@@ -4,6 +4,9 @@ tags:
  - régénératif
  - spiritualité
  - santé
+ - note
+ - seed
+
 ---
 Le concept de santé parfaite vient de Deepak Chopra & de [son ouvrage](https://fr.wikipedia.org/wiki/Deepak_Chopra) portant le même nom.
 

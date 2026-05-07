@@ -1,5 +1,9 @@
 ---
 title: Échec et mat du monopole
+tags:
+  - note
+  - seed
+
 ---
 Nous sommes dans un monde qui va toujours plus vite. Un tel rythme que même ceux qui analysent la société commencent à avoir un mal fou à suivre ce qu'il se passe ; sauf certainement ceux qui ont beaucoup de cerveaux et de ressources pour l'analyser et interpréter la [[complexité]] quasiment en continu : les monopoles économiques.
 

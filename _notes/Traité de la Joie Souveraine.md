@@ -4,6 +4,9 @@ tags:
  - article
  - philosophie
  - psychologie
+ - v1
+ - candidate_post
+
 ---
 _De la Superstition de la Chute à la Puissance de l'Adulte_
 

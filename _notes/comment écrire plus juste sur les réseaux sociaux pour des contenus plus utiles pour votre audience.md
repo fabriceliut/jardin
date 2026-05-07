@@ -2,6 +2,9 @@
 title: comment écrire plus juste sur les réseaux sociaux pour des contenus plus utiles pour votre audience
 tags:
  - contentmarketing
+ - note
+ - v1
+
 ---
 Je ne suis pas expert des réseaux sociaux par contre, je me suis vraiment planté depuis un paquet de temps dans ma manière d’écrire !
 

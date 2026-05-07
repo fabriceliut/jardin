@@ -3,6 +3,9 @@ title: Organiser son information grâce au système PARAT
 tags:
  - knowledgemanagement
  - numérique
+ - note
+ - v1
+
 ---
 Méthode intégrée dans le système [[Second Brain]], basé sur les cinq étapes suivantes : **Project, Areas, Resources, Archive, Todos**.
 

@@ -2,6 +2,9 @@
 title: Choisir avec qui et comment travailler en tant qu'indépendant
 tags:
  - guidebook
+ - ressource
+ - updated
+
 ---
 > Le collectif Archipel Kyosei n'est plus mon entreprise principale, mais cela n'enlève rien à la valeur des réflexions partagées ici qui viennent toujours alimenter mes perspectives et ma manière de travailler au quotidien : dans la proximité, pour de l'efficience et de la joie au travail.
 

@@ -2,6 +2,9 @@
 title: CEO, n'oubliez pas votre COO ou Chief of Staff
 tags:
  - tips
+ - note
+ - v1
+
 ---
 **Quels sont les avantages pour un CEO de travailler avec un Chief Operating Officer et un Chief of Staff (COO et COS) ?**
 

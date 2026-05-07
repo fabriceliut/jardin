@@ -2,6 +2,9 @@
 title: La vie en double face
 tags:
  - fiction
+ - note
+ - seed
+
 ---
 Ici, dans la réalité, il y a moi.
 Quand je me couche le soir, c'est le début de la journée de l'autre... celle que je ne connais pas et dont je n'ai pas conscience. Parce que quand je dors, il ne se passe rien. Enfin, je croyais...

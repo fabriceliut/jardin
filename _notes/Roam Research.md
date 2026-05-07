@@ -2,6 +2,9 @@
 title: Roam Research
 tags:
  - outils
+ - note
+ - v1
+
 ---
 ### (et les « tools for thought ») - [Site officiel](https://roamresearch.com/)
 

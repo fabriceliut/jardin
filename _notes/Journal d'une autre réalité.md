@@ -3,6 +3,10 @@ title: Journal d'une autre réalité
 tags:
  - atome
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 Je n'aurais jamais imaginé vivre un jour la réalité de cette manière.
 

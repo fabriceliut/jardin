@@ -2,6 +2,9 @@
 title: Chief of Staff - La solution pour dépasser la charge de travail et garder le cap
 tags:
  - chiefofstaff
+ - note
+ - v1
+
 ---
 _Votre entreprise est en plein essor, les opportunités affluent, mais voilà, les journées semblent de plus en plus courtes et les responsabilités vous submergent. Vous jonglez entre la stratégie à long terme, les urgences opérationnelles et la gestion quotidienne des équipes. C’est ici que le Chief of Staff entre en jeu._
 

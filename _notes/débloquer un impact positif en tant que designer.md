@@ -1,5 +1,9 @@
 ---
 title: débloquer un impact positif en tant que designer
+tags:
+  - moc
+  - evergreen
+
 ---
 il faut prendre en compte et accepter de travailler en situation de complexité.
 pour adresser la complexité, il faut développer la [[pensée systémique]].

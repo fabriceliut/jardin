@@ -2,6 +2,9 @@
 title: chief of staff
 tags:
  - atome
+ - note
+ - v1
+
 ---
 **Pourquoi travailler avec un soutien externe “type [[chief of staff]]”, même si le rôle est encore peu identifié en France ?**
 

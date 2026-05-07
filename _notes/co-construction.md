@@ -4,6 +4,10 @@ tags:
  - terminologie
  - offre
  - designs
+ - article
+ - updated
+ - candidate_post
+
 ---
 # Qu'est-ce que la co-construction ?
 

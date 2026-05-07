@@ -3,6 +3,10 @@ title: facilitation
 tags:
  - terminologie
  - designs
+ - article
+ - v1
+ - candidate_post
+
 ---
 # Pourquoi la facilitation et le [[Design Sprint]] ?
 

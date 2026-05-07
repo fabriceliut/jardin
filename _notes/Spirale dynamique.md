@@ -5,6 +5,10 @@ tags:
  - Afairepousser
  - régénératif
  - systémique
+ - note
+ - wip
+ - to_update
+
 ---
 Base [wiki](https://fr.wikipedia.org/wiki/Spirale_dynamique) en attendant de développer.
 

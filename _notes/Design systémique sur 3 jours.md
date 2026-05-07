@@ -3,6 +3,9 @@ title: Design systémique sur 3 jours
 image: /assets/troisjours.jpeg
 tags:
  - offre
+ - note
+ - v1
+
 ---
 ![]({{page.image}})
 

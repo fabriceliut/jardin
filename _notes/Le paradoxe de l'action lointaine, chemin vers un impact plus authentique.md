@@ -2,6 +2,9 @@
 title: Le paradoxe de l'action lointaine, chemin vers un impact plus authentique
 tags:
  - article
+ - updated
+ - candidate_post
+
 ---
 Tu t'es déjà senti comme moi, attiré par la résolution de grands problèmes qui semblent tellement plus importants que tes propres défis quotidiens ?
 

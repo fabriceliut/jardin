@@ -2,6 +2,9 @@
 title: design par le contexte et son environnement
 tags:
  - designs
+ - article
+ - seed
+
 ---
 En partant de l'article de Kévin et en rebond pour un faire un point de référence manifeste de la pratique design en contexte d'un système complexe.
 

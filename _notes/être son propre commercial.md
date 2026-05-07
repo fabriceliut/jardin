@@ -1,5 +1,9 @@
 ---
 title: être son propre commercial
+tags:
+  - note
+  - seed
+
 ---
 dans la série des contenus pour indépendants
 viendra un partage en vidéo sur YouTube

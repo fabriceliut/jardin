@@ -4,6 +4,10 @@ tags:
  - régénératif
  - transformation
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 ### contexte
 Suite à discussion avec Olaf, un ami de [[Archipel Kyosei]]

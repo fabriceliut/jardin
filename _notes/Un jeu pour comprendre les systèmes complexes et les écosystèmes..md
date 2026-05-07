@@ -3,6 +3,9 @@ title: Un jeu pour comprendre les systèmes complexes et les écosystèmes.
 tags:
  - systémique
  - guidebook
+ - ressource
+ - updated
+
 ---
 Merci Nick, créateur de ce petit jeu, pour m'aider à répondre en partie, de manière fun et plus simplement à ce qu'est le [[design systémique]]. Mais avant ça, petite présentation globale du sujet.
 

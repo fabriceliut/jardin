@@ -2,6 +2,9 @@
 title: Transurfing — surfer sur les lignes de vie
 tags:
  - atome
+ - moc
+ - evergreen
+
 ---
 Le **Transurfing de la réalité** est un modèle métaphysique développé par **Vadim Zeland** dans son livre _Transurfing — Modèle quantique de développement personnel_. Il propose une vision radicale : la réalité n'est pas unique, elle est un **espace infini de variantes** dans lequel nous nous déplaçons en fonction de notre état intérieur.
 

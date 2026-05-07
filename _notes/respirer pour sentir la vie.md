@@ -3,6 +3,10 @@ title: respirer pour sentir la vie
 tags:
  - Afairepousser
  - spiritualité
+ - note
+ - wip
+ - to_update
+
 ---
 https://twitter.com/SlaapMe/status/1372286294995374084
 

@@ -4,6 +4,9 @@ image: /assets/coopererregenerer.jpeg
 tags:
  - régénératif
  - article
+ - updated
+ - candidate_post
+
 ---
 ![]({{page.image}})
 

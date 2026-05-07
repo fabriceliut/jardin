@@ -2,6 +2,9 @@
 title: identité de groupe
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 J'ouvre une nouvelle exploration collective autour du concept d'identité de groupe. Je prendrai un scénario assez simple d'entrepreneur pour illustrer ma réflexion.
 Appelons-le Xavier. Xavier est entrepreneur et souhaite s'associer avec des personnes complémentaires pour développer son projet. Il est alors face à plusieurs choix :

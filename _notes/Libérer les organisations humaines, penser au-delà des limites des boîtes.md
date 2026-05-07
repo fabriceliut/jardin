@@ -4,6 +4,9 @@ tags:
  - article
  - régénératif
  - transformation
+ - v1
+ - candidate_post
+
 ---
 Un entreprise est généralement perçue comme une « boîte » avec un intérieur et un extérieur, ce qui crée des limitations et des biais qui ne sont pas nécessaire, je m’explique…
 

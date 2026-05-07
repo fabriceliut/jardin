@@ -3,6 +3,9 @@ title: modélisation systémique
 tags:
  - designs
  - outils
+ - article
+ - seed
+
 ---
 Également sous le nom de "mapping systémique".
 

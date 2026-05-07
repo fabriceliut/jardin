@@ -3,6 +3,10 @@ title: penser global mais agir local
 tags:
  - systémique
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 ## intention
 *soutenir la prise d'action individuelle et la simplicité en se libérant du point de vue global qui fait prendre conscience mais qui donne aussi un sentiment d'être trop petit et impuissant.*

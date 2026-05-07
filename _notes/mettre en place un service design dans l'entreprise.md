@@ -4,6 +4,8 @@ tags:
  - article
  - designs
  - offre
+ - v1
+
 ---
 Vous n’avez pas encore de département ou de service « design » dans votre entreprise? Alors il vous manque clairement un service!
 

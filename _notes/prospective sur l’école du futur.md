@@ -3,6 +3,10 @@ title: prospective sur l’école du futur
 tags:
  - futur
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 Fabrice, designer systémique du Comptoir, applique régulièrement sa veille et son analyse des systèmes humains pour générer des prospectives et guider l’écriture de futurs souhaitables.
 

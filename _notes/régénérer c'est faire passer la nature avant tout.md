@@ -3,6 +3,8 @@ title: régénérer c'est faire passer la nature avant tout
 tags:
  - article
  - régénératif
+ - seed
+
 ---
 > « passer d’une culture à somme nulle (gagnant-perdant) à une culture à somme non nulle (gagnant-gagnant) nécessite une collaboration généralisée pour s’assurer que la nature gagne aussi (gagnant-gagnant-gagnant) et gagne en premier, car elle est la fournisseuse de l’abondance dont nous dépendons....
 

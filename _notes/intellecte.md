@@ -2,6 +2,9 @@
 title: intellect
 tags:
  - terminologie
+ - note
+ - seed
+
 ---
 Piste d'étude pour [[décoder la vie]]
 

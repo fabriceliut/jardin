@@ -1,5 +1,9 @@
 ---
 title: biais à faire sauter pour gagner de l'argent
+tags:
+  - note
+  - seed
+
 ---
 https://twitter.com/SlaapMe/status/1359525545457967112
 

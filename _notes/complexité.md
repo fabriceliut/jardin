@@ -3,6 +3,10 @@ title: complexité
 tags:
  - terminologie
  - Afairepousser
+ - moc
+ - wip
+ - to_update
+
 ---
 Concept qui articule l'étude des [[système complexe]] et proche de la [[pensée systémique]] par la [[pensée complexe]].
 

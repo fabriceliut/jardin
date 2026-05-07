@@ -2,6 +2,9 @@
 title: comprendre ce qu'est un projet
 tags:
  - guidebook
+ - ressource
+ - seed
+
 ---
 Un projet c'est la phase de "faire" qui relie des inspirations à une intention.
 

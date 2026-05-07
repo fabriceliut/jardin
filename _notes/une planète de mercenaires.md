@@ -2,6 +2,9 @@
 title: une planète de mercenaires
 tags:
  - société
+ - note
+ - updated
+
 ---
 # Une planète de mercenaires
 

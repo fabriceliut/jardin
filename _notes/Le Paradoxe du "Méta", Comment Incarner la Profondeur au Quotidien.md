@@ -4,6 +4,9 @@ tags:
  - article
  - psychologie
  - Meta-analyse
+ - evergreen
+ - candidate_post
+
 ---
 Avoir une constitution psychique tournée vers l'intuition et la profondeur (une vision "deep", "méta" ou existentielle des choses) est à la fois un don et un fardeau, particulièrement dans le cadre de la vie de famille.
 

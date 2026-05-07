@@ -2,6 +2,9 @@
 title: c’est quoi notre vraie mission sur terre?
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 Nous sommes tous dans la même entreprise quoi qu’on en pense. C’est juste que nous n’approchons pas notre mission collective par le même angle et qu’il y a tellement d’angles que nous avons oublié que nous sommes dans le même vaisseau spatial. 
 

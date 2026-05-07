@@ -2,6 +2,9 @@
 title: La fin du bullshit
 tags:
  - philosophie
+ - note
+ - v1
+
 ---
 **Je me demande quand est-ce que ça va finir, le bullshit.** Vraiment, qui aime le mensonge, les vendeurs de rêve, la manipulation, le détournement d'intérêt ? Après une année 2020 qui nous montre très explicitement toutes les failles de transparence et de sincérité de notre système, qui peut encore désirer revenir à un état "normal" des choses ?
 

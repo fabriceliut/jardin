@@ -2,6 +2,9 @@
 title: La Danse des Masques, Comment reconquérir sa spontanéité sans se briser ?
 tags:
  - article
+ - updated
+ - candidate_post
+
 ---
 Nous connaissons tous cette sensation. Ce moment précis, en réunion, lors d'un dîner de famille ou dans une administration, où une phrase, un rire ou une émotion monte en nous, prêt à jaillir... et se heurte soudainement à un mur invisible. La gorge se serre, le corps se raidit, et nous rentrons sagement dans le rang. Nous venons de nous heurter aux barreaux de notre "prison sociale".
 

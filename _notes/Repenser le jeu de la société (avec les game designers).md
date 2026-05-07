@@ -4,6 +4,9 @@ tags:
  - article
  - philosophie
  - Meta-analyse
+ - evergreen
+ - candidate_post
+
 ---
 Quand on parle de « jeu », on pense souvent à une parenthèse. Un espace à côté du sérieux. Un sas d’évasion entre deux obligations.
 

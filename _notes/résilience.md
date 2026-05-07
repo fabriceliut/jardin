@@ -2,6 +2,9 @@
 title: résilience
 tags:
  - terminologie
+ - note
+ - seed
+
 ---
 La résilience est le processus psychologique qui permet à un individu de s'adapter et de surmonter des événements stressants, traumatiques ou adverses. Elle représente la capacité à rebondir après une difficulté, à récupérer et à continuer d'avancer malgré des conditions difficiles.
 

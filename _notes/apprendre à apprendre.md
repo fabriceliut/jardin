@@ -1,5 +1,9 @@
 ---
 title: apprendre à apprendre
+tags:
+  - note
+  - seed
+
 ---
 ## Présentation globale du concept
 

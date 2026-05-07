@@ -2,6 +2,9 @@
 title: lettre ouverte aux CEO engagés dans la transition sociétale
 tags:
  - archipel
+ - note
+ - seed
+
 ---
 Je suis totalement engagé dans la transition en cours mais je ne suis pas en posture de CEO ou dirigeant d’une initiative à impact. 
 

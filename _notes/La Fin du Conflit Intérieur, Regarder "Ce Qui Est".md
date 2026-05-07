@@ -4,6 +4,9 @@ tags:
  - article
  - philosophie
  - psychologie
+ - updated
+ - candidate_post
+
 ---
 ### Survivre au chaos familial : une perspective inspirée par J. Krishnamurti
 

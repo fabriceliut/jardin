@@ -4,6 +4,10 @@ tags:
  - Afairepousser
  - designs
  - systémique
+ - article
+ - wip
+ - to_update
+
 ---
 ### intention
 pas besoin d'opposer ces modèles de pensées car ils se complètent pleinement

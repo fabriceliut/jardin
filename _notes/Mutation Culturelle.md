@@ -3,6 +3,10 @@ title: Mutation Culturelle
 tags:
  - Afairepousser
  - terminologie
+ - note
+ - wip
+ - to_update
+
 ---
 
 Par approche en [[bio-inspiration]] il est possible d'envisager les évolutions culturelles comme des mutations génétiques. **La mutation biologique pour le matériel et la mutation culturelle pour le monde de l'immatériel.**

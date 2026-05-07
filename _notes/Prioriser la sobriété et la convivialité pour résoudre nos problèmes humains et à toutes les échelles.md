@@ -2,6 +2,9 @@
 title: Prioriser la sobriété et la convivialité pour résoudre nos problèmes humains et à toutes les échelles
 tags:
  - philosophie
+ - note
+ - updated
+
 ---
 **La notion de [[sobriété]]** - même si actuellement utilisée à toutes les sauces - est très intéressante quand elle s’approche de la notion de convivialité de [Ivan illich](https://fr.wikipedia.org/wiki/Ivan_Illich). 
 

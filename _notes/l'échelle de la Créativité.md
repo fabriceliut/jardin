@@ -2,6 +2,8 @@
 title: l'Échelle de la Créativité
 tags:
  - article
+ - v1
+ - candidate_post
 image: /assets/echelle-creativite.png
 ---
 sur une échelle de [[la créativité]] vous êtes plutôt très originaux ou très adaptés? pourquoi c'est utile de savoir se positionner, pour soi et les autres aussi, sur cette jauge : explications 👇

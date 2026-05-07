@@ -2,6 +2,9 @@
 title: Archipel Kyosei
 tags:
  - projet
+ - note
+ - v1
+
 ---
 ## **Archipel Kyosei : une aventure marquante**
 

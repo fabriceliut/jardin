@@ -2,6 +2,9 @@
 title: le Comptoir
 tags:
  - projet
+ - note
+ - v1
+
 ---
 Le Comptoir, c’était le point de départ d’une aventure collective. À l’époque, je voulais rassembler des personnes, des organisations et des territoires pour mieux traverser les transitions et la complexité du monde actuel. L’enjeu : sortir chacun de son coin, croiser les regards et avancer ensemble, de façon concrète.
 

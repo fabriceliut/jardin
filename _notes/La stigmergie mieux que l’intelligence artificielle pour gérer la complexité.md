@@ -3,6 +3,9 @@ title: La stigmergie mieux que l’intelligence artificielle pour gérer la comp
 tags:
  - bio-inspiration
  - cas-exemple
+ - note
+ - updated
+
 ---
 
 Je commence avec un exemple simple pour illustrer cette question : [Google a racheté Waze](https://www.frandroid.com/marques/google/145902_google-pourrait-acquerir-lapplication-de-navigation-waze) il y a quelques années, l’application de navigation alimentée principalement en intelligence… [humaine](https://support.google.com/waze/answer/6078702?hl=fr) !

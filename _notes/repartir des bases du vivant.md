@@ -4,6 +4,10 @@ tags:
  - régénératif
  - bio-inspiration
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 c'est quoi vraiment ce qui est vivant? Comment être plus vivant ou vitalisé à échelle personnelle déjà?
 retrouver les bases de ce qui fait de nous des êtres vivants c'est revenir à la simplicité pour changer ses habitudes et son comportement au quotidien et pouvoir se régénérer déjà chacun à son échelle.

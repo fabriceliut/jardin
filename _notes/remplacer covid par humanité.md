@@ -4,6 +4,9 @@ tags:
  - société
  - philosophie
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 notre humanité a subi une période de pandémie pendant plus de 2ans. ce que nous désirons en grande majorité, c'est que ça s'arrête et qu'on puisse retrouver "au moins" le même état qu'avant et ne plus en parler. ce virus "nous emmerde" très clairement. il fait peur et crée stress et anxiété.
 

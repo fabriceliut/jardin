@@ -5,6 +5,9 @@ tags:
  - régénératif
  - archipel
  - projet
+ - v1
+ - candidate_post
+
 ---
 Un leader, un influenceur, une tête de réseau etc. c’est une personne qui est tout le temps sollicitée et donc très difficilement disponible pour répondre à toutes les demandes entrantes.
 

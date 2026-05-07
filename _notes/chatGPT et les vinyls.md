@@ -2,6 +2,9 @@
 title: chatGPT et les vinyles
 tags:
  - IA
+ - note
+ - v1
+
 ---
 Certains ont peur de l'impact de l'intelligence artificielle et ça m'a fait penser à la transition du support vinyle au numérique pour la musique. Je développe.
 

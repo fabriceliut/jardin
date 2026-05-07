@@ -2,6 +2,9 @@
 title: L’art délicat de transmettre la sagesse, entre inspiration et appropriation
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 Il y a quelques jours, je suis tombé sur une newsletter qui explorait “la psychologie des transitions” et “pourquoi elles ressemblent à des mini-morts identitaires”. L’auteure présentait ces concepts comme ses propres découvertes, issues de ses “explorations” personnelles.
 

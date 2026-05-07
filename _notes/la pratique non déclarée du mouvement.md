@@ -2,6 +2,9 @@
 title: la pratique non déclarée du mouvement
 tags:
  - mouvement
+ - note
+ - seed
+
 ---
 dans la série pour [[Prendre soin de soi]] par le [[Mouvement Naturel]].
 

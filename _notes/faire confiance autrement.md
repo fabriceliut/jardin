@@ -1,5 +1,9 @@
 ---
 title: faire confiance autrement
+tags:
+  - note
+  - seed
+
 ---
 Il est possible de basculer de la [[confiance]] en des histoires et des promesses par validation d’antécédents à une confiance en la capacité à réagir et s’adapter pour rebondir et évoluer en faisant évoluer les autres. Confiance par la capacité de [[résilience]].
 

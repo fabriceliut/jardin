@@ -2,6 +2,9 @@
 title: logique
 tags:
  - terminologie
+ - note
+ - seed
+
 ---
 ## point sur la logique occidentiale
 

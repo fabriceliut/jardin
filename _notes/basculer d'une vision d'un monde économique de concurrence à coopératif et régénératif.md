@@ -1,5 +1,9 @@
 ---
 title: basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif
+tags:
+  - note
+  - seed
+
 ---
 Le modèle actuel est de concurrence, établi comme étant « normal » et sans alternative réelle.
 

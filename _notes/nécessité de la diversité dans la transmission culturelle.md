@@ -3,6 +3,10 @@ title: nécessité de la diversité dans la transmission culturelle
 tags:
  - Afairepousser
  - numérique
+ - note
+ - wip
+ - to_update
+
 ---
 Sinon ce sont les géants de ce monde (Gafam et chinois par exemple) qui vont imposer une culture et donc réduire la diversité et mettre en péril notre humanité.
 

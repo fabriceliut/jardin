@@ -3,6 +3,10 @@ title: système complexe
 tags:
  - Afairepousser
  - systémique
+ - note
+ - wip
+ - to_update
+
 ---
 ## Comprendre la complexité pour mieux piloter votre entreprise.
 

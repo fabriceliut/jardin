@@ -2,6 +2,9 @@
 title: créer sa propre infrastructure d'apprentissage
 tags:
  - offre
+ - note
+ - seed
+
 ---
 - [thread twitter source](https://twitter.com/rroudt/status/1346910995193597953?s=21)
 

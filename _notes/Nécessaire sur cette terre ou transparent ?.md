@@ -2,6 +2,9 @@
 title: Nécessaire sur cette terre ou transparent ?
 tags:
  - article
+ - v1
+ - candidate_post
+
 ---
 C'est souvent ce que je ressens : un jour, j’éprouve le besoin d’être indispensable aux autres, et le lendemain, je me sens carrément invisible. Ce qui est intéressant, c’est qu’en réalité, personne n’est vraiment nécessaire. Et pourtant, chacun porte en lui quelque chose d’unique à offrir au monde.
 

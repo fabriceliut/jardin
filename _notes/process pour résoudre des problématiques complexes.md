@@ -3,6 +3,9 @@ title: process pour résoudre des problématiques complexes
 tags:
  - tips
  - systémique
+ - note
+ - seed
+
 ---
 - start by listening
 - ask good questions (cf [[dialectique]])

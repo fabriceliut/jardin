@@ -2,6 +2,9 @@
 title: gagnez sa vie avec son esprit plutôt que son temps
 tags:
  - business
+ - note
+ - seed
+
 ---
 N'est-ce pas un concept intéressant ?
 

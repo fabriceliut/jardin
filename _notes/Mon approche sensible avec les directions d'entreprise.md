@@ -2,6 +2,9 @@
 title: Mon approche sensible avec les directions d'entreprise
 tags:
  - chiefofstaff
+ - note
+ - v1
+
 ---
 Bienvenue dans mon jardin, l’espace où je peux te parler sans filtre, un peu plus à cœur ouvert. Ici, je partage ce qui m’anime vraiment, la façon dont j’accompagne les directions d’entreprise, et pourquoi j’y mets autant de soin.
 

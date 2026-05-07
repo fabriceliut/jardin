@@ -2,6 +2,9 @@
 title: dignité
 tags:
  - terminologie
+ - note
+ - seed
+
 ---
 Définition complète sur [Wikipédia](https://fr.wikipedia.org/wiki/Dignité).
 

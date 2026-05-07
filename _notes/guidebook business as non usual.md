@@ -4,6 +4,9 @@ image: /assets/businessnonusual.png
 tags:
  - guidebook
  - tonotion
+ - ressource
+ - updated
+
 ---
 ![]({{page.image}})
 

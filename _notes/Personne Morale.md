@@ -2,6 +2,9 @@
 title: personne morale
 tags:
  - terminologie
+ - note
+ - v1
+
 ---
 [Wiki](https://fr.wikipedia.org/wiki/Personne_morale)
 

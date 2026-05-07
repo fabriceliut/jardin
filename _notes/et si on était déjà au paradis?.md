@@ -2,6 +2,10 @@
 title: et si on était déjà au paradis?
 tags:
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 - Envie d'être libre de faire ce que je veux en rêve même si ça fait du mal aux autres
 - Parce que je peux pas dans la vie réelle

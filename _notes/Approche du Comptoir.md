@@ -2,6 +2,9 @@
 title: approche du comptoir
 tags:
  - concept
+ - note
+ - v1
+
 ---
 >La mission du Comptoir est d’engager toutes les organisations dans leur « mutation ». Que vous soyez dirigeants, acteurs du changement, chefs de projets ou managers, le Comptoir vous accompagne étape après étape.
 

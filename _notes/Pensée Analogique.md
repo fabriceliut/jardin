@@ -3,6 +3,10 @@ title: pensée analogique
 tags:
  - terminologie
  - Afairepousser
+ - note
+ - wip
+ - to_update
+
 ---
 Processus de tisser des liens entre des éléments venant de domaines totalement différents et qui n'ont en apparence aucun rapport. Les métaphores par exemple sont un système qui active ce mode de pensée tout comme la [[bio-inspiration]].
 

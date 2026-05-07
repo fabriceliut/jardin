@@ -3,6 +3,10 @@ title: la culture du feedback base de la coopération
 tags:
  - Afairepousser
  - coopération
+ - note
+ - wip
+ - to_update
+
 ---
 [https://link.medium.com/BQpHDilNAtb](https://link.medium.com/BQpHDilNAtb) (article source)
 

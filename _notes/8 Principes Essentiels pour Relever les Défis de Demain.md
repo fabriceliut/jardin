@@ -2,6 +2,8 @@
 title: 8 Principes Essentiels pour Relever les Défis de Demain
 tags:
  - article
+ - seed
+
 ---
 Les enjeux sont de taille quand on les observe de son point de vue, mais du point de vue de l’humanité, c’est totalement à la hauteur et dans nos cordes… mais qu’est-ce qu’il manque alors pour relever les défis ?
 

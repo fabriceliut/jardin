@@ -1,5 +1,9 @@
 ---
 title: C'est quoi lâcher prise
+tags:
+  - note
+  - seed
+
 ---
 Tout part d'une question sur Facebook d'un ami, Anys.M, qui peut inspirer les recherches pour [[Prendre soin de soi]].
 

@@ -3,6 +3,10 @@ title: Design circulaire sur 1 jour
 tags:
  - offre
  - designs
+ - article
+ - v1
+ - candidate_post
+
 ---
 
 *L’approche circulaire se met en place grâce à une première journée construite spécifiquement pour poser concrètement, en collaboration, le système d’une organisation et ainsi permettre à toutes les parties prenantes de prendre conscience des réelles opportunités d’un redesign circulaire.*

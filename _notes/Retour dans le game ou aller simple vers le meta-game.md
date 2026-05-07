@@ -3,6 +3,10 @@ title: Retour dans le game ou aller simple vers le meta-game
 tags:
  - Meta-analyse
  - Afairepousser
+ - moc
+ - wip
+ - to_update
+
 ---
 **Ce que j'appelle ici "game" c'est notre jeu de société** : des semaines d'activités divers pour faire rentrer de l'argent nécessaire à "vivre", prendre soin de notre famille & amis, nous divertir, etc...
 

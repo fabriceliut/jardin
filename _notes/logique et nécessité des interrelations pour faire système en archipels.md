@@ -2,6 +2,9 @@
 title: logique et nécessité des interrelations pour faire système en archipels
 tags:
  - archipel
+ - note
+ - v1
+
 ---
 Une des études qu'on porte avec [[Archipel Kyosei]] pour faire grandir le mouvement des [[Archipels en Symbiose]]. En même temps, élément de [[Recherche-Action]] sur l'évolution de notre société et surtout des alternatives au mouvement dominant.
 

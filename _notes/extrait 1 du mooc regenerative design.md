@@ -3,6 +3,10 @@ title: extrait 1 du mooc regenerative design
 tags:
  - régénératif
  - Afairepousser
+ - ressource
+ - wip
+ - to_update
+
 ---
 [[design régénératif]] - [[système complexe]] - [[bio-inspiration]] - 1.2-4 Regeneration (mooc chapter)
 

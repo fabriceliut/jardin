@@ -1,5 +1,9 @@
 ---
 title: ce que je retiens de la vie à 34ans
+tags:
+  - note
+  - seed
+
 ---
 https://twitter.com/SlaapMe/status/1394379370425470977
 

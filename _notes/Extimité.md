@@ -2,6 +2,9 @@
 title: extimité
 tags:
  - terminologie
+ - note
+ - seed
+
 ---
 Première définition sur [Wiki](https://fr.wikipedia.org/wiki/Extimité).
 

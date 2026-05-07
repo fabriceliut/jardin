@@ -4,6 +4,9 @@ tags:
  - société
  - art
  - systémique
+ - note
+ - seed
+
 ---
 Ce sont 3 concepts qui permette d'avoir une lecture plus claire de la #société.
 Ils fonctionnent en analogie avec la Forêt :

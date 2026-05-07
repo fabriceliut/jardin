@@ -2,6 +2,9 @@
 title: devenir acteur de la transformation de son organisation
 tags:
  - transformation
+ - note
+ - seed
+
 ---
 Développer l'état d'esprit de l'entrepreneur (ou intra-preneur).
 

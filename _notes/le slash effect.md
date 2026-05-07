@@ -3,6 +3,8 @@ title: le slash effect
 tags:
  - article
  - entreprenariat
+ - v1
+
 ---
 Pas simple d’expliquer ce que je fais depuis des années et puis j’apprendre que ça porte un nom : **le slash effect** ;)
 

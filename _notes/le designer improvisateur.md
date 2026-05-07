@@ -3,6 +3,10 @@ title: le designer improvisateur
 tags:
  - Afairepousser
  - designs
+ - article
+ - wip
+ - to_update
+
 ---
 source inspirante > https://ungated.media/article/worldview-part-1/
 

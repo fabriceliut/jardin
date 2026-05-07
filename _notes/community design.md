@@ -2,6 +2,9 @@
 title: community design
 tags:
  - concept
+ - note
+ - v1
+
 ---
 Le _community design_ consiste à **concevoir les conditions** qui permettent à une communauté d’exister, de se développer, et de produire de la valeur (pour ses membres et pour son environnement), sans dépendre uniquement de l’animation ou de l’énergie de quelques personnes.
 

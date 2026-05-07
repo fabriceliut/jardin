@@ -4,6 +4,9 @@ tags:
  - article
  - Meta-analyse
  - psychologie
+ - evergreen
+ - candidate_post
+
 ---
 > _“On ne peut voir vrai que si l'on regarde depuis l'endroit où rien ne bouge, au cœur même de l'instant.”_
 

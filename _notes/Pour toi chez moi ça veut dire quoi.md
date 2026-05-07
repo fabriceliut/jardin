@@ -2,6 +2,9 @@
 title: Pour toi chez moi ça veut dire quoi
 tags:
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 Une question que je trouvais belle et sensible, alors, j'ai demandé aux autres. Inspirant pour comprendre comment [[Prendre soin de soi]].
 

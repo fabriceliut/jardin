@@ -3,6 +3,8 @@ title: régénérer pour ne pas dégénérer
 tags:
  - article
  - régénératif
+ - seed
+
 ---
 RSE, normes carbones, économie circulaire, transition écologique… tout ça c’est des sous produits de ce qui est le « vrai jeu de société »…
 

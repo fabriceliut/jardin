@@ -3,6 +3,9 @@ title: du flux d’information au flow créatif
 tags:
  - knowledgemanagement
  - guidebook
+ - ressource
+ - updated
+
 ---
 Comment fonctionne le processus créatif et plus précisément **comment est-ce qu’on va transformer de l’information type inspiration en une nouvelle pièce de connaissance ou créative ?**
 

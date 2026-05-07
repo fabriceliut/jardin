@@ -2,6 +2,9 @@
 title: repartir de soi et de ses émotions pour changer le monde
 tags:
  - régénératif
+ - note
+ - seed
+
 ---
 *vous aussi vous voulez participer à changer le monde? mais comment agir "juste" sans commencer par se changer soi-même?*
 

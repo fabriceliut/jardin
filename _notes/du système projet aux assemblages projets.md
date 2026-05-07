@@ -1,5 +1,9 @@
 ---
 title: du système projet aux assemblages projets
+tags:
+  - note
+  - seed
+
 ---
 Une démarche en intelligence collective de la [[Pensée Rêve]] à l’action concrète au quotidien.
 Mise en fonctionnement systémique pour adresser des sujets de fond & complexes.

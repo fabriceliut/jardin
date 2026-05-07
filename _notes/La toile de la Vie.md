@@ -3,6 +3,9 @@ title: la toile de la Vie
 tags:
  - spiritualité
  - Meta-analyse
+ - moc
+ - evergreen
+
 ---
 > La vie qu'on perçoit est le reflet en images concrètes d'une toile vivante & abstraite à l'arrière, derrière le mental et la raison. Le monde de l'inconscient, la vie, tissu d'énergie dans lequel et duquel Tout est entrelacé, Tout est lié, Tout est UN... Une onde vibrante Nous parcourt mettant TOUT en mouvement... La Vie.
 
