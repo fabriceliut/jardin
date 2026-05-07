@@ -1,6 +1,9 @@
 ---
 title: voyage dans le temps
 tags:
+  - Meta-analyse
+  - V1
+  - note
 
 ---
 Cette question m’a toujours fasciné et pourtant je ne suis pas encore allé explorer les profondeurs de la physique quantique. 

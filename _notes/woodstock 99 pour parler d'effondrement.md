@@ -1,6 +1,11 @@
 ---
 title: woodstock 99 pour parler d'effondrement
 tags:
+  - société
+  - systémique
+  - cas-exemple
+  - V1
+  - note
 
 ---
 documentaire [sur Netflix ](https://www.netflix.com/watch/81337101?trackId=14170032)que j'invite vraiment à découvrir. comment un festival qui devait être le plus dingue du monde l'a été mais dans la polaritée totalement inverse de l'original de 1969.

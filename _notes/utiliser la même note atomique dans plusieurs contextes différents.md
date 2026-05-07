@@ -1,6 +1,10 @@
 ---
 title: utiliser la même note atomique dans plusieurs contextes différents
 tags:
+  - contentmarketing
+  - knowledgemanagement
+  - seed
+  - note
 
 ---
 Expliquer ce qu’est une note peut être utile dans des contextes très différents : un livre sur l’écriture, une conférence sur la documentation projet en équipe, une formation sur l’organisation de la connaissance personnelle etc… 

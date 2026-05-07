@@ -1,6 +1,9 @@
 ---
 title: éducation de demain
 tags:
+  - futur
+  - seed
+  - note
 
 ---
 ## Ma vision d'un futur souhaitable par l'apprentissage.
