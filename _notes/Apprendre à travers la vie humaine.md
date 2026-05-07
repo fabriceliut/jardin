@@ -5,11 +5,8 @@ tags:
   - Meta-analyse
   - V1
 ---
-<aside> 🌌
+> 🌌 Idée-noyau — la vie humaine n'est pas une prison à fuir mais un plan d'apprentissage choisi. Les états modifiés en sont des fenêtres, pas des sorties.
 
-Idée-noyau — la vie humaine n'est pas une prison à fuir mais un plan d'apprentissage choisi. Les états modifiés en sont des fenêtres, pas des sorties.
-
-</aside>
 
 Il y a quelques mois, allongé dans la pénombre d'un cabinet, casque sur les oreilles, j'ai senti mon corps devenir transparent. La kétamine descendait, la musique psychédélique tirait sur les coutures du réel, et soudain je n'étais plus à Lyon, plus en 2026, plus tout à fait Fabrice. J'étais — simplement. Une conscience suspendue dans une lumière qui se savait elle-même.
 

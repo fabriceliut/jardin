@@ -8,6 +8,39 @@ Je vais tenir un petit journal de bord des évolutions de ce journal numérique 
 ## en date du 06/05/26
 j'ai fais une grosse passe IA pour correction orthographique de +290 notes et j'ai ajouté une page d'index par tags pour remonter les notes par thèmes en plus de la recherche classique et de la vue en graph, ce qui permet de gagner en fluidité dans vos explorations.
 
+### règles de tagging utilisées sur ce jardin numérique
+
+**Tags de maturité (statut des notes)**
+
+| Tag          | Sens concret                                    | Quand tu l’utilises                               |
+| ------------ | ----------------------------------------------- | ------------------------------------------------- |
+| `#seed`      | Idée fraîche, note brouillon, non relue         | Capture rapide, prise de notes en vrac            |
+| `#wip`       | En construction, structure en cours             | Quand tu reviens travailler la note               |
+| `#v1`        | Première version publiable, lisible par autrui  | Quand tu peux l’assumer telle quelle sur le site  |
+| `#updated`   | Déjà revue/enrichie depuis la V1                | Après une grosse passe de mise à jour             |
+| `#evergreen` | Stable, formulée clairement, peu de changements | Quand c’est une brique solide de ton jardin       |
+| `#stale`     | Plus à jour, datée, nécessite une révision      | Quand tu vois qu’elle n’est plus fiable / alignée |
+
+**Tags de type de note (rôle dans le jardin)**
+
+| Tag          | Rôle de la note                               | Exemple d’usage                                              |
+| ------------ | --------------------------------------------- | ------------------------------------------------------------ |
+| `#note`      | Note d’idée “classique”                       | Une idée sur la complexité, un concept, une notion           |
+| `#article`   | Texte plus rédigé, proche billet de blog      | Un article sur “prendre soin de soi au quotidien”            |
+| `#moc`       | Carte / index / hub de liens (Map of Content) | “Prendre soin de soi” avec liens vers toutes les notes liées |
+| `#log`       | Journal, retour d’expérience, notes datées    | Journal de pratique, retours sur un atelier                  |
+| `#ressource` | Fiche ressource, listes de liens, citations   | Bibliographie, curation de contenus externes                 |
+
+**Tags de workflow (action à faire)**
+
+| Tag                                                            | Signification d’action                   | Quand tu l’ajoutes                                |
+| -------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- |
+| `#to_refactor`                                                 | À retravailler en profondeur             | Quand la structure/angle ne te convient plus      |
+| `#to_update`                                                   | À mettre à jour avec des infos récentes  | Quand le fond est bon mais des éléments ont bougé |
+| `#to_publish`                                                  | Prête à être publiée sur le site         | Quand il ne manque plus que la mise en ligne      |
+| `#candidate_post`\| Bonne base pour post LinkedIn / newsletter | Quand tu veux recycler en contenu public |                                                   |
+
+
 ## en date du 18/02/26
 J'ai retravaillé le design et les fonctionnalités du jardin numérique. Désormais il est possible d'utiliser un moteur de recherche en plus de la navigation par liens internes. J'ai aussi ajouté des notes et nettoyé certaines. Belle exploration beaucoup plus agréable pour tout le monde !
 
