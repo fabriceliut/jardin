@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "07ea20e37e098b2a",
+        "id": "0342a2de721ddda5",
         "type": "tabs",
         "children": [
           {
-            "id": "4787a6ab73c964a9",
+            "id": "a99d4be20f18ded9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Et si le bon choix était celui qui remet du mouvement ?.md",
+                "file": "_notes/Franchir le mur de la peur et toucher l'extase.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Et si le bon choix était celui qui remet du mouvement ?"
+              "title": "Franchir le mur de la peur et toucher l'extase"
             }
           }
         ]
@@ -94,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Franchir le mur de la peur et toucher l'extase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Franchir le mur de la peur et toucher l'extase"
             }
           },
           {
@@ -177,10 +188,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4787a6ab73c964a9",
+  "active": "a99d4be20f18ded9",
   "lastOpenFiles": [
-    "_notes/Sortir de la crise du sens, pour une société de la création.md",
+    "_notes/Franchir le mur de la peur et toucher l'extase.md",
     "_notes/Et si le bon choix était celui qui remet du mouvement ?.md",
+    "_notes/Sortir de la crise du sens, pour une société de la création.md",
     "_notes/woodstock 99 pour parler d'effondrement.md",
     "_notes/vision du moment présent.md",
     "_notes/vibrer pour trouver le bonheur.md",
@@ -215,7 +227,6 @@
     "design.md",
     "_notes/Transurfing — surfer sur les lignes de vie.md",
     "L'art de l'équilibre, entre contrôle et lâcher-Prise.md",
-    "_notes/Le Manifeste de la Fête Continue, Vers une Nouvelle Éthique du Quotidien.md",
     "_notes/jardin_notes.zip",
     "_notes/Archive.zip",
     "Untitled.canvas",
