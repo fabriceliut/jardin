@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0342a2de721ddda5",
+        "id": "6ef16590516e348e",
         "type": "tabs",
         "children": [
           {
-            "id": "a99d4be20f18ded9",
+            "id": "d4629f18e6031d23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Franchir le mur de la peur et toucher l'extase.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Franchir le mur de la peur et toucher l'extase"
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -188,8 +176,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a99d4be20f18ded9",
+  "active": "d97a1e12e84d83f0",
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_notes/mon intention du moment.md",
+    "_notes/De l’efficacité opérationnelle à la régénération du vivant.md",
     "_notes/Franchir le mur de la peur et toucher l'extase.md",
     "_notes/Et si le bon choix était celui qui remet du mouvement ?.md",
     "_notes/Sortir de la crise du sens, pour une société de la création.md",
@@ -224,9 +215,6 @@
     "assets/jazzyfrenchy.mp3",
     "_notes/Un jeu pour comprendre les systèmes complexes et les écosystèmes..md",
     "_notes/Repenser le jeu de la société (avec les game designers).md",
-    "design.md",
-    "_notes/Transurfing — surfer sur les lignes de vie.md",
-    "L'art de l'équilibre, entre contrôle et lâcher-Prise.md",
     "_notes/jardin_notes.zip",
     "_notes/Archive.zip",
     "Untitled.canvas",

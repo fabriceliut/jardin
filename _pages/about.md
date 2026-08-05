@@ -45,7 +45,7 @@ Je me lève chaque matin avec l’envie de contribuer à une société plus joye
 
 ## **Ce que vous gagnez à travailler avec moi**
 
-- Un allié qui vous aide à voir plus clair, à aligner vos équipes, à fluidifier vos projets, sans jamais perdre de vue la dimension humaine et systémique.
+- **Un allié** qui vous aide à voir plus clair, à aligner vos équipes, à fluidifier vos projets, sans jamais perdre de vue la dimension humaine et systémique.
 - Un regard décalé, parfois poétique, mais toujours ancré dans le réel et l’action.
 - Une énergie tournée vers la coopération, la simplicité, et l’envie d’inventer ensemble des façons de faire qui nous ressemblent.
 
