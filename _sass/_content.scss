@@ -1,56 +1,80 @@
 @use 'tokens' as *;
 // ============================================================
-// CONTENT LAYOUT (note page grid)
+// NOTE LAYOUT
 // ============================================================
 #notes-entry-container {
-  display: grid;
-  gap: 1.5em;
-  grid-template-areas: "content" "side";
-}
-@media (min-width: 640px) {
-  #notes-entry-container {
-    gap: 2em;
-  }
-}
-@media (min-width: 900px) {
-  #notes-entry-container {
-    grid-template-columns: minmax(0, 1fr) 260px;
-    grid-template-areas: "content side";
-    gap: 3rem;
-    align-items: start;
-  }
+  max-width: 72ch;
 }
 
 .note-content {
-  grid-area: content;
   min-width: 0;
-  max-width: 72ch;
   overflow-wrap: break-word;
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.note-sidebar {
-  grid-area: side;
-  width: 260px;
-  flex-shrink: 0;
-  font-size: 0.9em;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  @media (max-width: 899px) { width: 100%; }
 }
 
-// --- Backlinks ---
-.backlink-box {
-  background: var(--color-box-background);
-  padding: 1em 1.1em;
-  border-radius: $border-radius;
-  border: 1px solid var(--color-border);
-  transition: border-color $transition-fast, box-shadow $transition-fast;
-  margin-bottom: 0.75em;
+.note-backlinks {
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--color-border);
+  scroll-margin-top: 5rem;
 }
-.backlink-box:hover {
-  border-color: var(--color-accent);
-  box-shadow: var(--shadow-sm);
+
+.note-backlinks h2 {
+  margin: 0 0 0.65rem;
+  font-size: 1.2rem;
+}
+
+.note-backlinks-shortcut {
+  margin: 0 0 1.5rem;
+  font-size: 0.875rem;
+}
+
+.note-backlinks-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.note-backlinks-list li {
+  margin: 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.note-backlinks-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.5rem 0;
+  box-sizing: border-box;
+  min-height: 44px;
+  overflow-wrap: anywhere;
+}
+
+.note-backlinks-arrow {
+  flex-shrink: 0;
+  color: var(--color-subtext);
+}
+
+.note-backlinks-more summary {
+  padding: 0.55rem 0;
+  box-sizing: border-box;
+  min-height: 44px;
+  cursor: pointer;
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.note-backlinks-more summary:hover {
+  text-decoration: underline;
+}
+
+.note-backlinks-hide,
+.note-backlinks-more[open] .note-backlinks-show {
+  display: none;
+}
+
+.note-backlinks-more[open] .note-backlinks-hide {
+  display: inline;
 }
 
 .invalid-link {
@@ -63,34 +87,11 @@
 }
 .invalid-link-brackets { color: var(--color-border); cursor: help; }
 
-// --- Note CTA & sidebar helpers ---
+// --- Note contact ---
 .note-cta {
   margin-top: 2em;
   color: var(--color-subtext);
   font-size: 0.95em;
-}
-
-.sidebar-title {
-  margin-bottom: 1em;
-}
-
-.backlink-excerpt {
-  font-size: 0.9em;
-  margin-top: 0.3em;
-  color: var(--color-subtext);
-  overflow-wrap: anywhere;
-  word-break: break-all;
-}
-
-.backlink-empty {
-  font-size: 0.9em;
-  color: var(--color-subtext);
-}
-
-// --- ensure backlinks don't overflow on mobile ---
-.backlink-box a {
-  overflow-wrap: break-word;
-  word-break: break-word;
 }
 
 // --- Link previews / tooltips ---

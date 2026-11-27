@@ -1,0 +1,10 @@
+<ul class="note-backlinks-list" role="list">
+  {% for backlink in include.notes %}
+  <li>
+    <a class="internal-link" href="{{ backlink.url | relative_url }}{% if site.use_html_extension %}.html{% endif %}">
+      <span>{{ backlink.title | escape }}</span>
+      <span class="note-backlinks-arrow" aria-hidden="true">→</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
