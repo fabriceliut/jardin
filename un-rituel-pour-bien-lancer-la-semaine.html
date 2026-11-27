@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -77,7 +80,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -156,8 +159,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">3 min de lecture</span>
     </div>
@@ -186,21 +189,21 @@
 
 <ul>
   <li>
-<strong>réviser mon agenda</strong> pour bien avoir en tête tous les RDVs prévus, avec qui, pour quoi et assurer qu’il n’y ait pas de conflits gênants (s’il y a trop de RDVs aussi c’est à dire plus que 2 par jours, je vais avoir tendance à en annuler et déplacer certains quand ce n’est pas des urgences)</li>
+<strong>réviser mon agenda</strong> pour bien avoir en tête tous les rendez-vous prévus, avec qui, pour quoi et assurer qu’il n’y ait pas de conflits gênants (s’il y a trop de rendez-vous aussi c’est-à-dire plus que 2 par jours, je vais avoir tendance à en annuler et déplacer certains quand ce n’est pas des urgences)</li>
   <li>
 <strong>réviser l’agenda sur les soirées et les temps off</strong> : l’idée c’est d’équilibrer les temps travail avec les temps famille, amis et solo (pas plus de 1 soirée amis en semaine, pour le WE je laisse vivre librement)</li>
   <li>
-<strong>révisier la boîte mail</strong>. forcément, ça peut prendre de 1h à 3h mais l’idée ici est surtout de m’assurer de ne pas passer à côté d’un mail important, de prioriser les réponses et de nettoyer les mails traités ou qui ne sont pas intéressants (je tente tous les lundis le inbox zéro, rarement atteint mais c’est un défi intéressant)</li>
+<strong>réviser la boîte mail</strong>. forcément, ça peut prendre de 1h à 3h mais l’idée ici est surtout de m’assurer de ne pas passer à côté d’un mail important, de prioriser les réponses et de nettoyer les mails traités ou qui ne sont pas intéressants (je tente tous les lundis le inbox zéro, rarement atteint mais c’est un défi intéressant)</li>
   <li>
 <strong>réviser les messages en attente</strong> : j’utilise une app unique, Beeper qui centralise toutes les messageries (sms, whatsapp, instagram, linkedin etc…) dans une inbox unique que je tente aussi en moins d’1h de tomber à zéro</li>
   <li>
 <strong>réviser les notifications en attente</strong> : je n’ai quasiment aucunes notifications actives, sauf Slack et Notion (outils coopératifs), c’est donc assez rapide mais important pour ne pas rater des mises à jour sur les projets en cours</li>
   <li>
-<strong>réviser mes todos</strong> : j’ai principalement 3 types de listes de tâches : les routines et récurrences (payer le loyer, déclarations, clean de la maison, etc…), les tâches projets par ordre de priorité et la liste des “quicky” c’est à dire les petites tâches du quotidien rapides à traiter</li>
+<strong>réviser mes todos</strong> : j’ai principalement 3 types de listes de tâches : les routines et récurrences (payer le loyer, déclarations, clean de la maison, etc…), les tâches projets par ordre de priorité et la liste des “quicky” c’est-à-dire les petites tâches du quotidien rapides à traiter</li>
   <li>
 <strong>placer les “highlights” dans l’agenda</strong> : ce sont en gros les tâches prioritaires à réaliser sur des créneaux de 1 à 2h que je place dans l’agenda. je vois mon agenda comme un “espace temps” qui dans tous les cas sera rempli au complet. mes types de highlights sont : work - musique - mouvement (yoga) - rien faire</li>
   <li>
-<strong>révision générale</strong> des fiches “projets”, de “pipe réseau et commercial”, de la liste d’éléments que j’ai produit et qui sont à “composter” (c’est à dire rendre utile pour d’autres projets), la liste des “idées” que j’ai gardé de côté (qui vont devenir soit des projets, des contenus ou que je vais supprimer) et enfin de ma “inbox” de veille (c’est à dire toutes les découvertes, liens, ressources que j’ai capturé pour traiter plus tard)</li>
+<strong>révision générale</strong> des fiches “projets”, de “pipe réseau et commercial”, de la liste d’éléments que j’ai produit et qui sont à “composter” (c’est-à-dire rendre utile pour d’autres projets), la liste des “idées” que j’ai gardé de côté (qui vont devenir soit des projets, des contenus ou que je vais supprimer) et enfin de ma “inbox” de veille (c’est-à-dire toutes les découvertes, liens, ressources que j’ai capturé pour traiter plus tard)</li>
   <li>
 <strong>penser un peu la logistique de semaine</strong> (vêtements, recettes et repas, réservations divers pour que toutes les activités se passent bien)</li>
   <li>
@@ -208,7 +211,7 @@
   <li>et pour finir, que je fais <strong>seulement le premier lundi de chaque mois</strong> : réviser ma vision, mes stratégies, mes objectifs du moment, la planification du mois pour les grands événements ou déplacements un peu lourds, une mesure et évaluation financière et m’assurer que j’ai bien des temps pour prendre soin de mois</li>
 </ul>
 
-<p><img src="/assets/todolundi.png" alt=""></p>
+<p><img src="/assets/todolundi.png" alt="Liste de tâches pour préparer la semaine" loading="lazy"></p>
 
 <p>et voilà! quand tout est bien posé et mon agenda plein de bonnes choses à la bonne place, je n’ai plus à remettre en question et je sais que je suis au clair et prêt pour me lancer dans ma semaine.</p>
 

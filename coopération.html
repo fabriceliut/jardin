@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">2 min de lecture</span>
     </div>
@@ -169,6 +172,8 @@
       <a href="/tags#note" class="tag-badge">note</a>
       
       <a href="/tags#v1" class="tag-badge">v1</a>
+      
+      <a href="/tags#coopération" class="tag-badge">coopération</a>
       
     </div>
     
@@ -191,11 +196,11 @@
   <p>Connecter, lier, mettre en lien, en réseau, en cohérence…</p>
 </blockquote>
 
-<p>Et ça s’applique avec les humains, les organisations, les projets, l’information etc… (information ? oui penser au <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  knowledge management  <span class="invalid-link-brackets">]]</span></span>)</p>
+<p>Et ça s’applique avec les humains, les organisations, les projets, l’information etc… (information ? oui penser au <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>knowledge management<span class="invalid-link-brackets">]]</span></span>)</p>
 
 <p>le rôle de l’accompagnant est de faciliter les coopérations, fluidifier les démarches de co-construction, structurer et animer des communautés de pratiques (<a class="internal-link" href="/community-design">community design</a>), initier et faire vivre des écosystèmes d’affaire et de territoires etc…</p>
 
-<p>le <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  project management  <span class="invalid-link-brackets">]]</span></span> est également un levier puissant de coopération.</p>
+<p>le <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>project management<span class="invalid-link-brackets">]]</span></span> est également un levier puissant de coopération.</p>
 
 <h3 id="constat-dexpérience-15-ans">constat d’expérience +15 ans</h3>
 <p>nous sommes une espèce avant tout sociale et pourtant la coopération n’est toujours pas chose évidente…
@@ -255,8 +260,20 @@ Les bonnes personnes sont présentes et les projets et solutions aussi… mais t
         </div>
       
         <div class="backlink-box">
+          <a class="internal-link" href="/sortir-de-la-crise-du-sens-pour-une-soci%C3%A9t%C3%A9-de-la-cr%C3%A9ation">Sortir de la crise du sens, pour une société de la création</a>
+          <div class="backlink-excerpt">Nous parlons souvent de crise du sens comme d’un malaise diffus, presque abstrait. Pourtant, elle se manifeste très concrètement :...</div>
+        </div>
+      
+        <div class="backlink-box">
           <a class="internal-link" href="/voir-l-entreprise-comme-une-plante-et-ses-racines">Voir l'entreprise comme une plante et ses racines</a>
           <div class="backlink-excerpt">
+  
+    
+      ![[plante_racine.png
+      Une plante et son système racinaire]]
+    
+  
+
 </div>
         </div>
       
@@ -285,6 +302,13 @@ Les bonnes personnes sont présentes et les projets et solutions aussi… mais t
         <div class="backlink-box">
           <a class="internal-link" href="/guidebook-business-as-non-usual">guidebook business as non usual</a>
           <div class="backlink-excerpt">
+  
+    
+      ![[businessnonusual.png
+      Illustration du guide Business as non usual]]
+    
+  
+
 </div>
         </div>
       

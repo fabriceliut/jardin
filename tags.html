@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -225,7 +228,7 @@
           
           <li><a class="internal-link" href="/bras-droit">bras droit</a></li>
           
-          <li><a class="internal-link" href="/ce-que-je-retiens-de-la-vie-%C3%A0-34ans">ce que je retiens de la vie à 34ans</a></li>
+          <li><a class="internal-link" href="/ce-que-je-retiens-de-la-vie-%C3%A0-34ans">ce que je retiens de la vie à 34 ans</a></li>
           
           <li><a class="internal-link" href="/changer-le-monde-en-cr%C3%A9ant-d-autres-histoires">changer le monde en créant d'autres histoires</a></li>
           
@@ -263,7 +266,7 @@
           
           <li><a class="internal-link" href="/entropie">entropie</a></li>
           
-          <li><a class="internal-link" href="/et-si-demain-vous-choisissiez-de-vous-replacer-par-des-produits-autonomes">et si demain vous choisissiez de vous replacer par des produits autonomes?</a></li>
+          <li><a class="internal-link" href="/et-si-demain-vous-choisissiez-de-vous-replacer-par-des-produits-autonomes">et si demain vous choisissiez de vous remplacer par des produits autonomes ?</a></li>
           
           <li><a class="internal-link" href="/et-si-tout-%C3%A7a-c-%C3%A9tait-juste-un-r%C3%AAve">et si tout ça c'était juste un rêve</a></li>
           
@@ -476,12 +479,14 @@
           <span class="tag-badge">v1</span>
           <span class="tag-accordion-desc">Première version publiable</span>
           
-          <span class="tag-accordion-count">79</span>
+          <span class="tag-accordion-count">92</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/re-tisser-des-relations-authentiques-r%C3%A9flexions-et-invitations">(Re)tisser des relations authentiques, réflexions et invitations</a></li>
+          
+          <li><a class="internal-link" href="/apprendre-%C3%A0-travers-la-vie-humaine">Apprendre à travers la vie humaine</a></li>
           
           <li><a class="internal-link" href="/archipel-kyosei">Archipel Kyosei</a></li>
           
@@ -501,9 +506,15 @@
           
           <li><a class="internal-link" href="/design-syst%C3%A9mique-sur-3-jours">Design systémique sur 3 jours</a></li>
           
+          <li><a class="internal-link" href="/design-thinking">Design thinking</a></li>
+          
           <li><a class="internal-link" href="/du-combat-%C3%A0-la-coexistence-rena%C3%AEtre-au-del%C3%A0-de-nos-peurs">Du combat à la coexistence, renaître au-delà de nos peurs</a></li>
           
+          <li><a class="internal-link" href="/et-si-le-bon-choix-%C3%A9tait-celui-qui-remet-du-mouvement">Et si le bon choix était celui qui remet du mouvement ?</a></li>
+          
           <li><a class="internal-link" href="/faire-confiance-par-la-coop%C3%A9ration-et-sans-forcer">Faire confiance par la coopération et sans forcer</a></li>
+          
+          <li><a class="internal-link" href="/franchir-le-mur-de-la-peur-et-toucher-l-extase">Franchir le mur de la peur et toucher l'extase</a></li>
           
           <li><a class="internal-link" href="/il-n-y-a-pas-de-montagne">Il n'y a pas de montagne</a></li>
           
@@ -547,7 +558,11 @@
           
           <li><a class="internal-link" href="/r%C3%A9g%C3%A9n%C3%A9rer-est-une-direction">Régénérer est une direction</a></li>
           
+          <li><a class="internal-link" href="/sortir-de-la-crise-du-sens-pour-une-soci%C3%A9t%C3%A9-de-la-cr%C3%A9ation">Sortir de la crise du sens, pour une société de la création</a></li>
+          
           <li><a class="internal-link" href="/trait%C3%A9-de-la-joie-souveraine">Traité de la Joie Souveraine</a></li>
+          
+          <li><a class="internal-link" href="/un-petit-pas-produit-l-information-qui-manque-pour-d%C3%A9cider">Un petit pas produit l’information qui manque pour décider</a></li>
           
           <li><a class="internal-link" href="/voir-l-entreprise-comme-une-plante-et-ses-racines">Voir l'entreprise comme une plante et ses racines</a></li>
           
@@ -558,6 +573,8 @@
           <li><a class="internal-link" href="/avantages-de-travailler-avec-un-coo-externe-%C3%A0-temps-partag%C3%A9">avantages de travailler avec un COO externe à temps partagé</a></li>
           
           <li><a class="internal-link" href="/bio-inspiration">bio-inspiration</a></li>
+          
+          <li><a class="internal-link" href="/business-design">business design</a></li>
           
           <li><a class="internal-link" href="/chatgpt-et-les-vinyls">chatGPT et les vinyles</a></li>
           
@@ -582,6 +599,8 @@
           <li><a class="internal-link" href="/exp%C3%A9rimenter-la-danse-m%C3%A9ditative">expérimenter la danse méditative</a></li>
           
           <li><a class="internal-link" href="/facilitation">facilitation</a></li>
+          
+          <li><a class="internal-link" href="/intelligence-artificielle">intelligence artificielle</a></li>
           
           <li><a class="internal-link" href="/investir-dans-les-questions">investir dans les questions</a></li>
           
@@ -629,13 +648,23 @@
           
           <li><a class="internal-link" href="/start-with-why-but-stop-with-why">start with why but stop with why</a></li>
           
+          <li><a class="internal-link" href="/syst%C3%A8me-de-connaissances">système de connaissances</a></li>
+          
           <li><a class="internal-link" href="/une-humanit%C3%A9-en-expansion-infinie">une humanité en expansion infinie</a></li>
           
           <li><a class="internal-link" href="/une-organisation-est-comme-un-corps-humain">une organisation est comme un corps humain</a></li>
           
+          <li><a class="internal-link" href="/vibrer-pour-trouver-le-bonheur">vibrer pour trouver le bonheur</a></li>
+          
+          <li><a class="internal-link" href="/voyager-dans-le-temps">voyage dans le temps</a></li>
+          
+          <li><a class="internal-link" href="/woodstock-99-pour-parler-d-effondrement">woodstock 99 pour parler d'effondrement</a></li>
+          
           <li><a class="internal-link" href="/%C3%A7a-veut-dire-quoi-impact-pour-toi">Ça veut dire quoi impact pour toi</a></li>
           
           <li><a class="internal-link" href="/echec-et-mat-du-monopole">Échec et mat du monopole</a></li>
+          
+          <li><a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a></li>
           
           <li><a class="internal-link" href="/%C3%A9volutions-des-notes">évolutions des notes</a></li>
           
@@ -785,7 +814,7 @@
           
           <li><a class="internal-link" href="/l-exp%C3%A9rience-du-jeu-de-r%C3%B4le">l'expérience du jeu de rôle</a></li>
           
-          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de penser entre journée et soirée</a></li>
+          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de pensée entre journée et soirée</a></li>
           
           <li><a class="internal-link" href="/la-toile-de-la-vie">la toile de la Vie</a></li>
           
@@ -824,7 +853,7 @@
           <span class="tag-badge">note</span>
           <span class="tag-accordion-desc">Note d'idée classique</span>
           
-          <span class="tag-accordion-count">153</span>
+          <span class="tag-accordion-count">169</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
@@ -847,6 +876,8 @@
           
           <li><a class="internal-link" href="/design-syst%C3%A9mique-sur-3-jours">Design systémique sur 3 jours</a></li>
           
+          <li><a class="internal-link" href="/design-thinking">Design thinking</a></li>
+          
           <li><a class="internal-link" href="/easy-tips-pour-dirigeant-comment-gagner-2h-par-jour">Easy tips pour dirigeant, comment gagner 2h par jour</a></li>
           
           <li><a class="internal-link" href="/gouvernance-adaptable">Gouvernance adaptable</a></li>
@@ -854,6 +885,8 @@
           <li><a class="internal-link" href="/il-n-y-a-pas-de-montagne">Il n'y a pas de montagne</a></li>
           
           <li><a class="internal-link" href="/journal-d-une-autre-r%C3%A9alit%C3%A9">Journal d'une autre réalité</a></li>
+          
+          <li><a class="internal-link" href="/l-%C3%AAtre-et-l-%C3%A9tant">L'être et l'étant</a></li>
           
           <li><a class="internal-link" href="/la-danse-de-la-vie-trouver-la-beaut%C3%A9-dans-la-fluidit%C3%A9">La danse de la vie, trouver la beauté dans la fluidité</a></li>
           
@@ -869,6 +902,8 @@
           
           <li><a class="internal-link" href="/la-vie-et-la-mort-2-faces-d-une-m%C3%AAme-pi%C3%A8ce">La vie et la mort 2 faces d'une même pièce</a></li>
           
+          <li><a class="internal-link" href="/le-jeune-karl-marx">Le jeune Karl Marx</a></li>
+          
           <li><a class="internal-link" href="/les-4-accords-tolt%C3%A8ques">Les 4 accords Toltèques</a></li>
           
           <li><a class="internal-link" href="/manifeste-du-comptoir">Manifeste du Comptoir</a></li>
@@ -880,6 +915,8 @@
           <li><a class="internal-link" href="/n-achetez-plus-des-outils-services-produits-coop%C3%A9rez-avec-ceux-qui-les-construisent">N'achetez plus des outils, services, produits ! Coopérez avec ceux qui les construisent !</a></li>
           
           <li><a class="internal-link" href="/organiser-son-information-gr%C3%A2ce-au-syst%C3%A8me-parat">Organiser son information grâce au système PARAT</a></li>
+          
+          <li><a class="internal-link" href="/pour-toi-chez-moi-%C3%A7a-veut-dire-quoi">Pour toi chez moi ça veut dire quoi</a></li>
           
           <li><a class="internal-link" href="/pourquoi-opter-pour-un-accompagnement-en-temps-partag%C3%A9-peut-assurer-le-d%C3%A9veloppement-de-votre-entreprise">Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?</a></li>
           
@@ -900,6 +937,8 @@
           <li><a class="internal-link" href="/transformation-d-un-espace-caf%C3%A9-en-living-lab">Transformation d’un espace café en Living Lab</a></li>
           
           <li><a class="internal-link" href="/transformer-le-territoire-lyonnais-par-une-fabrique">Transformer le territoire lyonnais par une Fabrique</a></li>
+          
+          <li><a class="internal-link" href="/un-petit-pas-produit-l-information-qui-manque-pour-d%C3%A9cider">Un petit pas produit l’information qui manque pour décider</a></li>
           
           <li><a class="internal-link" href="/upperground-middleground-et-underground">Upperground, middleground et underground</a></li>
           
@@ -929,7 +968,9 @@
           
           <li><a class="internal-link" href="/bras-droit">bras droit</a></li>
           
-          <li><a class="internal-link" href="/ce-que-je-retiens-de-la-vie-%C3%A0-34ans">ce que je retiens de la vie à 34ans</a></li>
+          <li><a class="internal-link" href="/business-design">business design</a></li>
+          
+          <li><a class="internal-link" href="/ce-que-je-retiens-de-la-vie-%C3%A0-34ans">ce que je retiens de la vie à 34 ans</a></li>
           
           <li><a class="internal-link" href="/changer-le-monde-en-cr%C3%A9ant-d-autres-histoires">changer le monde en créant d'autres histoires</a></li>
           
@@ -971,7 +1012,7 @@
           
           <li><a class="internal-link" href="/entropie">entropie</a></li>
           
-          <li><a class="internal-link" href="/et-si-demain-vous-choisissiez-de-vous-replacer-par-des-produits-autonomes">et si demain vous choisissiez de vous replacer par des produits autonomes?</a></li>
+          <li><a class="internal-link" href="/et-si-demain-vous-choisissiez-de-vous-replacer-par-des-produits-autonomes">et si demain vous choisissiez de vous remplacer par des produits autonomes ?</a></li>
           
           <li><a class="internal-link" href="/et-si-on-%C3%A9tait-d%C3%A9j%C3%A0-au-paradis">et si on était déjà au paradis?</a></li>
           
@@ -979,11 +1020,15 @@
           
           <li><a class="internal-link" href="/et-toi-ton-impact-plut%C3%B4t-d%C3%A9g%C3%A9n%C3%A9ratif-ou-r%C3%A9g%C3%A9n%C3%A9ratif">et toi ton impact, plutôt dégénératif ou régénératif</a></li>
           
+          <li><a class="internal-link" href="/exploration-de-l-abstraction">exploration de l'abstraction</a></li>
+          
           <li><a class="internal-link" href="/exp%C3%A9rimenter-la-danse-m%C3%A9ditative">expérimenter la danse méditative</a></li>
           
           <li><a class="internal-link" href="/extimit%C3%A9">extimité</a></li>
           
           <li><a class="internal-link" href="/faire-confiance-autrement">faire confiance autrement</a></li>
+          
+          <li><a class="internal-link" href="/faisons-partie-de-nous">faisons partie de nous</a></li>
           
           <li><a class="internal-link" href="/gagnez-sa-vie-avec-son-esprit-plut%C3%B4t-que-son-temps">gagnez sa vie avec son esprit plutôt que son temps</a></li>
           
@@ -996,6 +1041,8 @@
           <li><a class="internal-link" href="/joies-passives">joies passives</a></li>
           
           <li><a class="internal-link" href="/l-entreprise-c-est-comme-une-s%C3%A9rie-netflix">l'entreprise c'est comme une série netflix</a></li>
+          
+          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de pensée entre journée et soirée</a></li>
           
           <li><a class="internal-link" href="/la-cha%C3%AEne-des-changements-syst%C3%A9miques">la chaîne des changements systémiques</a></li>
           
@@ -1014,6 +1061,8 @@
           <li><a class="internal-link" href="/la-vie-en-tribus-nomades">la vie en tribus nomades</a></li>
           
           <li><a class="internal-link" href="/le-comptoir">le Comptoir</a></li>
+          
+          <li><a class="internal-link" href="/le-f%C3%A9minin-le-masculin">le féminin &amp; le masculin</a></li>
           
           <li><a class="internal-link" href="/le-marketing-de-demain-et-d-aujourd-hui-c-est-la-communaut%C3%A9">le marketing de demain et d’aujourd’hui c’est la communauté</a></li>
           
@@ -1049,6 +1098,8 @@
           
           <li><a class="internal-link" href="/neurosciences">neurosciences</a></li>
           
+          <li><a class="internal-link" href="/nos-relations-humaines-sont-comme-les-neurones">nos relations humaines sont comme les neurones</a></li>
+          
           <li><a class="internal-link" href="/n%C3%A9cessit%C3%A9-de-la-diversit%C3%A9-dans-la-transmission-culturelle">nécessité de la diversité dans la transmission culturelle</a></li>
           
           <li><a class="internal-link" href="/penser-global-mais-agir-local">penser global mais agir local</a></li>
@@ -1065,6 +1116,8 @@
           
           <li><a class="internal-link" href="/pourquoi-travailler-avec-un-g%C3%A9n%C3%A9raliste-plut%C3%B4t-qu-un-sp%C3%A9cialiste">pourquoi travailler avec un généraliste plutôt qu’un spécialiste?</a></li>
           
+          <li><a class="internal-link" href="/pratiquer-la-meta-conversation">pratiquer la meta conversation</a></li>
+          
           <li><a class="internal-link" href="/process-pour-r%C3%A9soudre-des-probl%C3%A9matiques-complexes">process pour résoudre des problématiques complexes</a></li>
           
           <li><a class="internal-link" href="/profiter-du-chaos-et-des-erreurs">profiter du chaos et des erreurs</a></li>
@@ -1076,6 +1129,8 @@
           <li><a class="internal-link" href="/qu-est-ce-qu-une-r%C3%A9elle-opportunit%C3%A9">qu'est-ce qu'une réelle opportunité ?</a></li>
           
           <li><a class="internal-link" href="/relier-efficacement-monde-de-la-recherche-et-monde-du-terrain">relier efficacement monde de la recherche et monde du terrain</a></li>
+          
+          <li><a class="internal-link" href="/remplacer-covid-par-humanit%C3%A9">remplacer covid par humanité</a></li>
           
           <li><a class="internal-link" href="/remplacer-l-ambition-et-l-engagement-par-le-jeu">remplacer l'ambition et l'engagement par le jeu</a></li>
           
@@ -1100,6 +1155,10 @@
           <li><a class="internal-link" href="/start-with-why-but-stop-with-why">start with why but stop with why</a></li>
           
           <li><a class="internal-link" href="/syst%C3%A8me-complexe">système complexe</a></li>
+          
+          <li><a class="internal-link" href="/syst%C3%A8me-de-connaissances">système de connaissances</a></li>
+          
+          <li><a class="internal-link" href="/the-possibility-to-see-reality-with-unknown-eyes-because-of-art">the possibility to see reality with unknown eyes because of art</a></li>
           
           <li><a class="internal-link" href="/th%C3%A9orie-de-l-%C3%A9volution-spirituelle-de-ken-wilber">théorie de l'évolution spirituelle de Ken Wilber</a></li>
           
@@ -1129,6 +1188,8 @@
           
           <li><a class="internal-link" href="/%C3%A9cologie">écologie</a></li>
           
+          <li><a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a></li>
+          
           <li><a class="internal-link" href="/%C3%A9criture-atomique">écriture atomique</a></li>
           
           <li><a class="internal-link" href="/%C3%A9ducation-de-demain">éducation de demain</a></li>
@@ -1146,7 +1207,7 @@
           <span class="tag-badge">article</span>
           <span class="tag-accordion-desc">Texte rédigé, proche billet</span>
           
-          <span class="tag-accordion-count">84</span>
+          <span class="tag-accordion-count">87</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
@@ -1275,13 +1336,19 @@
           
           <li><a class="internal-link" href="/g%C3%A9rer-son-organisation-en-se-basant-sur-son-ressenti">gérer son organisation en se basant sur son ressenti</a></li>
           
+          <li><a class="internal-link" href="/identit%C3%A9-de-groupe">identité de groupe</a></li>
+          
           <li><a class="internal-link" href="/investir-dans-les-questions">investir dans les questions</a></li>
+          
+          <li><a class="internal-link" href="/l-exp%C3%A9rience-du-jeu-de-r%C3%B4le">l'expérience du jeu de rôle</a></li>
           
           <li><a class="internal-link" href="/l-impuissance-comme-source-de-puissance-collective">l'impuissance comme source de puissance collective</a></li>
           
           <li><a class="internal-link" href="/l-%C3%A9chelle-de-la-cr%C3%A9ativit%C3%A9">l'Échelle de la Créativité</a></li>
           
           <li><a class="internal-link" href="/la-recherche-action-pour-remplacer-les-d%C3%A9marches-d-innovation-classiques">la recherche action pour remplacer les démarches d'innovation classiques</a></li>
+          
+          <li><a class="internal-link" href="/la-toile-de-la-vie">la toile de la Vie</a></li>
           
           <li><a class="internal-link" href="/le-combo-entreprise-et-accompagnants-externes-est-gagnant">le combo entreprise et accompagnants externes est gagnant</a></li>
           
@@ -1330,22 +1397,14 @@
           <span class="tag-badge">moc</span>
           <span class="tag-accordion-desc">Carte / index de liens</span>
           
-          <span class="tag-accordion-count">30</span>
+          <span class="tag-accordion-count">15</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/au-del%C3%A0-de-la-r%C3%A9silience">Au-delà de la résilience</a></li>
           
-          <li><a class="internal-link" href="/champignons-magiques-pr%C3%A9sence-et-le%C3%A7ons">Champignons magiques, présence et leçons</a></li>
-          
-          <li><a class="internal-link" href="/l-%C3%AAtre-et-l-%C3%A9tant">L'être et l'étant</a></li>
-          
-          <li><a class="internal-link" href="/le-jeune-karl-marx">Le jeune Karl Marx</a></li>
-          
           <li><a class="internal-link" href="/les-services-de-archipel-kyosei">Les services de Archipel Kyosei</a></li>
-          
-          <li><a class="internal-link" href="/pour-toi-chez-moi-%C3%A7a-veut-dire-quoi">Pour toi chez moi ça veut dire quoi</a></li>
           
           <li><a class="internal-link" href="/prendre-soin-de-soi">Prendre soin de soi</a></li>
           
@@ -1365,35 +1424,13 @@
           
           <li><a class="internal-link" href="/d%C3%A9coder-la-vie">décoder la vie</a></li>
           
-          <li><a class="internal-link" href="/exploration-de-l-abstraction">exploration de l'abstraction</a></li>
-          
-          <li><a class="internal-link" href="/faisons-partie-de-nous">faisons partie de nous</a></li>
-          
-          <li><a class="internal-link" href="/identit%C3%A9-de-groupe">identité de groupe</a></li>
-          
-          <li><a class="internal-link" href="/ignorance-curiosit%C3%A9-et-recherche-scientifique">ignorance, curiosité et recherche scientifique</a></li>
-          
           <li><a class="internal-link" href="/institut-de-la-pens%C3%A9e-int%C3%A9grale">institut de la pensée intégrale</a></li>
           
-          <li><a class="internal-link" href="/l-exp%C3%A9rience-du-jeu-de-r%C3%B4le">l'expérience du jeu de rôle</a></li>
-          
-          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de penser entre journée et soirée</a></li>
-          
-          <li><a class="internal-link" href="/la-toile-de-la-vie">la toile de la Vie</a></li>
-          
-          <li><a class="internal-link" href="/le-f%C3%A9minin-le-masculin">le féminin &amp; le masculin</a></li>
-          
-          <li><a class="internal-link" href="/nos-relations-humaines-sont-comme-les-neurones">nos relations humaines sont comme les neurones</a></li>
-          
-          <li><a class="internal-link" href="/pratiquer-la-meta-conversation">pratiquer la meta conversation</a></li>
-          
-          <li><a class="internal-link" href="/remplacer-covid-par-humanit%C3%A9">remplacer covid par humanité</a></li>
+          <li><a class="internal-link" href="/intelligence-artificielle">intelligence artificielle</a></li>
           
           <li><a class="internal-link" href="/r%C3%A9g%C3%A9n%C3%A9ratif">régénératif</a></li>
           
           <li><a class="internal-link" href="/spiritualit%C3%A9">spiritualité</a></li>
-          
-          <li><a class="internal-link" href="/the-possibility-to-see-reality-with-unknown-eyes-because-of-art">the possibility to see reality with unknown eyes because of art</a></li>
           
         </ul>
       </details>
@@ -1406,10 +1443,12 @@
           <span class="tag-badge">log</span>
           <span class="tag-accordion-desc">Journal, retour d'expérience</span>
           
-          <span class="tag-accordion-count">1</span>
+          <span class="tag-accordion-count">2</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
+          
+          <li><a class="internal-link" href="/champignons-magiques-pr%C3%A9sence-et-le%C3%A7ons">Champignons magiques, présence et leçons</a></li>
           
           <li><a class="internal-link" href="/%C3%A9volutions-des-notes">évolutions des notes</a></li>
           
@@ -1424,7 +1463,7 @@
           <span class="tag-badge">ressource</span>
           <span class="tag-accordion-desc">Fiche, liens, citations</span>
           
-          <span class="tag-accordion-count">27</span>
+          <span class="tag-accordion-count">28</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
@@ -1462,6 +1501,8 @@
           <li><a class="internal-link" href="/guidebook-business-as-non-usual">guidebook business as non usual</a></li>
           
           <li><a class="internal-link" href="/guidebook-de-l-approche-territoriale-neoz">guidebook de l'approche territoriale NEOZ</a></li>
+          
+          <li><a class="internal-link" href="/ignorance-curiosit%C3%A9-et-recherche-scientifique">ignorance, curiosité et recherche scientifique</a></li>
           
           <li><a class="internal-link" href="/jardin-num%C3%A9rique">jardin numérique</a></li>
           
@@ -1849,14 +1890,20 @@
       <details class="tag-accordion" data-tag="IA" id="ia">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">IA</span>
-          <span class="tag-accordion-count">2</span>
+          <span class="tag-accordion-count">5</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
+          <li><a class="internal-link" href="/intelligence-artificielle-une-course-acharn%C3%A9e-au-d%C3%A9pends-de-notre-humanit%C3%A9">Intelligence Artificielle Une Course Acharnée aux Dépens de Notre Humanité</a></li>
+          
           <li><a class="internal-link" href="/l-analogie-entre-l-%C3%A9criture-assist%C3%A9e-par-ia-et-la-cr%C3%A9ation-musicale">L'analogie entre l'écriture assistée par IA et la création musicale</a></li>
           
+          <li><a class="internal-link" href="/la-stigmergie-mieux-que-l-intelligence-artificielle-pour-g%C3%A9rer-la-complexit%C3%A9">La stigmergie mieux que l’intelligence artificielle pour gérer la complexité</a></li>
+          
           <li><a class="internal-link" href="/chatgpt-et-les-vinyls">chatGPT et les vinyles</a></li>
+          
+          <li><a class="internal-link" href="/intelligence-artificielle">intelligence artificielle</a></li>
           
         </ul>
       </details>
@@ -1908,7 +1955,7 @@
           
           <li><a class="internal-link" href="/l-exp%C3%A9rience-du-jeu-de-r%C3%B4le">l'expérience du jeu de rôle</a></li>
           
-          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de penser entre journée et soirée</a></li>
+          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de pensée entre journée et soirée</a></li>
           
           <li><a class="internal-link" href="/la-toile-de-la-vie">la toile de la Vie</a></li>
           
@@ -1923,28 +1970,6 @@
           <li><a class="internal-link" href="/the-possibility-to-see-reality-with-unknown-eyes-because-of-art">the possibility to see reality with unknown eyes because of art</a></li>
           
           <li><a class="internal-link" href="/voyager-dans-le-temps">voyage dans le temps</a></li>
-          
-        </ul>
-      </details>
-      
-    
-      
-      
-      <details class="tag-accordion" data-tag="V1" id="v1">
-        <summary class="tag-accordion-summary">
-          <span class="tag-badge">V1</span>
-          <span class="tag-accordion-count">4</span>
-          <span class="tag-accordion-chevron" aria-hidden="true"></span>
-        </summary>
-        <ul class="tag-notes-list">
-          
-          <li><a class="internal-link" href="/apprendre-%C3%A0-travers-la-vie-humaine">Apprendre à travers la vie humaine</a></li>
-          
-          <li><a class="internal-link" href="/vibrer-pour-trouver-le-bonheur">vibrer pour trouver le bonheur</a></li>
-          
-          <li><a class="internal-link" href="/voyager-dans-le-temps">voyage dans le temps</a></li>
-          
-          <li><a class="internal-link" href="/woodstock-99-pour-parler-d-effondrement">woodstock 99 pour parler d'effondrement</a></li>
           
         </ul>
       </details>
@@ -2030,7 +2055,7 @@
           
           <li><a class="internal-link" href="/chief-of-staff">chief of staff</a></li>
           
-          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de penser entre journée et soirée</a></li>
+          <li><a class="internal-link" href="/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e">la bascule d’état de pensée entre journée et soirée</a></li>
           
         </ul>
       </details>
@@ -2041,7 +2066,7 @@
       <details class="tag-accordion" data-tag="bio-inspiration" id="bio-inspiration">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">bio-inspiration</span>
-          <span class="tag-accordion-count">5</span>
+          <span class="tag-accordion-count">7</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
@@ -2049,6 +2074,10 @@
           <li><a class="internal-link" href="/la-stigmergie-mieux-que-l-intelligence-artificielle-pour-g%C3%A9rer-la-complexit%C3%A9">La stigmergie mieux que l’intelligence artificielle pour gérer la complexité</a></li>
           
           <li><a class="internal-link" href="/voir-l-entreprise-comme-une-plante-et-ses-racines">Voir l'entreprise comme une plante et ses racines</a></li>
+          
+          <li><a class="internal-link" href="/bio-inspiration">bio-inspiration</a></li>
+          
+          <li><a class="internal-link" href="/biomim%C3%A9tisme">biomimétisme</a></li>
           
           <li><a class="internal-link" href="/moins-parler-pour-mieux-coop%C3%A9rer">moins parler pour mieux coopérer</a></li>
           
@@ -2065,12 +2094,14 @@
       <details class="tag-accordion" data-tag="business" id="business">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">business</span>
-          <span class="tag-accordion-count">5</span>
+          <span class="tag-accordion-count">7</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/guide-book-apprendre-%C3%A0-vendre">Guide book apprendre à vendre</a></li>
+          
+          <li><a class="internal-link" href="/business-design">business design</a></li>
           
           <li><a class="internal-link" href="/comment-se-pr%C3%A9senter-aux-autres">comment se présenter aux autres?</a></li>
           
@@ -2079,6 +2110,8 @@
           <li><a class="internal-link" href="/strat%C3%A9gies-d-entreprise">stratégies d'entreprise</a></li>
           
           <li><a class="internal-link" href="/vendre-online-en-2023">vendre online en 2023</a></li>
+          
+          <li><a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a></li>
           
         </ul>
       </details>
@@ -2133,20 +2166,30 @@
       <details class="tag-accordion" data-tag="chiefofstaff" id="chiefofstaff">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">chiefofstaff</span>
-          <span class="tag-accordion-count">5</span>
+          <span class="tag-accordion-count">10</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
+          <li><a class="internal-link" href="/ceo-n-oubliez-pas-votre-coo-ou-chief-of-staff">CEO, n'oubliez pas votre COO ou Chief of Staff</a></li>
+          
           <li><a class="internal-link" href="/chief-of-staff-la-solution-pour-d%C3%A9passer-la-charge-de-travail-et-garder-le-cap">Chief of Staff - La solution pour dépasser la charge de travail et garder le cap</a></li>
           
           <li><a class="internal-link" href="/de-la-voie-d-escalade-au-plan-strat%C3%A9gique-une-nouvelle-perspective-pour-l-entreprise">De la voie d'escalade au plan stratégique, une nouvelle perspective pour l'entreprise</a></li>
+          
+          <li><a class="internal-link" href="/l-avantage-d-un-chief-of-staff-externe-pour-soutenir-la-direction-des-op%C3%A9rations-en-p%C3%A9riodes-cl%C3%A9s-de-d%C3%A9veloppement-de-l-entreprise">L'avantage d'un Chief of Staff externe pour soutenir la direction des opérations en périodes clés de développement de l'entreprise</a></li>
           
           <li><a class="internal-link" href="/mon-approche-sensible-avec-les-directions-d-entreprise">Mon approche sensible avec les directions d'entreprise</a></li>
           
           <li><a class="internal-link" href="/pourquoi-opter-pour-un-accompagnement-en-temps-partag%C3%A9-peut-assurer-le-d%C3%A9veloppement-de-votre-entreprise">Pourquoi opter pour un accompagnement en temps partagé peut assurer le développement de votre entreprise ?</a></li>
           
           <li><a class="internal-link" href="/r%C3%A8gles-de-calcul-de-mes-tarifs">Règles de calcul de mes tarifs</a></li>
+          
+          <li><a class="internal-link" href="/avantages-de-travailler-avec-un-coo-externe-%C3%A0-temps-partag%C3%A9">avantages de travailler avec un COO externe à temps partagé</a></li>
+          
+          <li><a class="internal-link" href="/bras-droit">bras droit</a></li>
+          
+          <li><a class="internal-link" href="/chief-of-staff">chief of staff</a></li>
           
         </ul>
       </details>
@@ -2173,12 +2216,14 @@
       <details class="tag-accordion" data-tag="communitydesign" id="communitydesign">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">communitydesign</span>
-          <span class="tag-accordion-count">4</span>
+          <span class="tag-accordion-count">5</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/l-illusion-de-la-tribu-b%C3%A2tir-une-communaut%C3%A9-est-un-acte-biologique-pas-technologique">L'Illusion de la tribu, bâtir une communauté est un acte biologique, pas technologique</a></li>
+          
+          <li><a class="internal-link" href="/community-design">community design</a></li>
           
           <li><a class="internal-link" href="/le-marketing-de-demain-et-d-aujourd-hui-c-est-la-communaut%C3%A9">le marketing de demain et d’aujourd’hui c’est la communauté</a></li>
           
@@ -2228,7 +2273,7 @@
           
           <li><a class="internal-link" href="/des-notes-au-livre-comme-en-musique">des notes au livre, comme en musique</a></li>
           
-          <li><a class="internal-link" href="/et-si-demain-vous-choisissiez-de-vous-replacer-par-des-produits-autonomes">et si demain vous choisissiez de vous replacer par des produits autonomes?</a></li>
+          <li><a class="internal-link" href="/et-si-demain-vous-choisissiez-de-vous-replacer-par-des-produits-autonomes">et si demain vous choisissiez de vous remplacer par des produits autonomes ?</a></li>
           
           <li><a class="internal-link" href="/les-notes-atomiques-de-sources">les notes atomiques de sources</a></li>
           
@@ -2245,10 +2290,24 @@
       <details class="tag-accordion" data-tag="coopération" id="coopération">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">coopération</span>
-          <span class="tag-accordion-count">3</span>
+          <span class="tag-accordion-count">10</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
+          
+          <li><a class="internal-link" href="/cr%C3%A9er-un-syst%C3%A8me-de-connaissance-coop%C3%A9ratif">Créer un système de connaissance coopératif</a></li>
+          
+          <li><a class="internal-link" href="/de-l-efficacit%C3%A9-op%C3%A9rationnelle-%C3%A0-la-r%C3%A9g%C3%A9n%C3%A9ration-du-vivant">De l’efficacité opérationnelle à la régénération du vivant</a></li>
+          
+          <li><a class="internal-link" href="/faire-confiance-par-la-coop%C3%A9ration-et-sans-forcer">Faire confiance par la coopération et sans forcer</a></li>
+          
+          <li><a class="internal-link" href="/prendre-soin-du-collectif">Prendre soin du collectif</a></li>
+          
+          <li><a class="internal-link" href="/basculer-d-une-vision-d-un-monde-%C3%A9conomique-de-concurrence-%C3%A0-coop%C3%A9ratif-et-r%C3%A9g%C3%A9n%C3%A9ratif">basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif</a></li>
+          
+          <li><a class="internal-link" href="/coop%C3%A9ration">coopération</a></li>
+          
+          <li><a class="internal-link" href="/intelligence-collective">intelligence collective</a></li>
           
           <li><a class="internal-link" href="/la-culture-du-feedback-base-de-la-coop%C3%A9ration">la culture du feedback base de la coopération</a></li>
           
@@ -2262,10 +2321,32 @@
     
       
       
+      <details class="tag-accordion" data-tag="créativité" id="créativité">
+        <summary class="tag-accordion-summary">
+          <span class="tag-badge">créativité</span>
+          <span class="tag-accordion-count">4</span>
+          <span class="tag-accordion-chevron" aria-hidden="true"></span>
+        </summary>
+        <ul class="tag-notes-list">
+          
+          <li><a class="internal-link" href="/sortir-de-la-crise-du-sens-pour-une-soci%C3%A9t%C3%A9-de-la-cr%C3%A9ation">Sortir de la crise du sens, pour une société de la création</a></li>
+          
+          <li><a class="internal-link" href="/du-flux-d-information-au-flow-cr%C3%A9atif">du flux d’information au flow créatif</a></li>
+          
+          <li><a class="internal-link" href="/l-%C3%A9chelle-de-la-cr%C3%A9ativit%C3%A9">l'Échelle de la Créativité</a></li>
+          
+          <li><a class="internal-link" href="/la-cr%C3%A9ativit%C3%A9">la créativité</a></li>
+          
+        </ul>
+      </details>
+      
+    
+      
+      
       <details class="tag-accordion" data-tag="designs" id="designs">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">designs</span>
-          <span class="tag-accordion-count">24</span>
+          <span class="tag-accordion-count">26</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
@@ -2280,9 +2361,13 @@
           
           <li><a class="internal-link" href="/design-r%C3%A9g%C3%A9n%C3%A9ratif">Design régénératif</a></li>
           
+          <li><a class="internal-link" href="/design-thinking">Design thinking</a></li>
+          
           <li><a class="internal-link" href="/les-apports-du-design-pour-la-transition-%C3%A9nerg%C3%A9tique">Les apports du Design pour la transition énergétique</a></li>
           
           <li><a class="internal-link" href="/ma-vision-du-design-en-2021">Ma vision du Design en 2021</a></li>
+          
+          <li><a class="internal-link" href="/business-design">business design</a></li>
           
           <li><a class="internal-link" href="/co-construction">co-construction</a></li>
           
@@ -2317,6 +2402,24 @@
           <li><a class="internal-link" href="/pr%C3%A9sentation-g%C3%A9n%C3%A9rale-du-design-syst%C3%A9mique">présentation générale du design systémique</a></li>
           
           <li><a class="internal-link" href="/qu-est-ce-qu-un-designer-en-2024">qu'est-ce qu'un designer en 2024</a></li>
+          
+        </ul>
+      </details>
+      
+    
+      
+      
+      <details class="tag-accordion" data-tag="décision" id="décision">
+        <summary class="tag-accordion-summary">
+          <span class="tag-badge">décision</span>
+          <span class="tag-accordion-count">2</span>
+          <span class="tag-accordion-chevron" aria-hidden="true"></span>
+        </summary>
+        <ul class="tag-notes-list">
+          
+          <li><a class="internal-link" href="/et-si-le-bon-choix-%C3%A9tait-celui-qui-remet-du-mouvement">Et si le bon choix était celui qui remet du mouvement ?</a></li>
+          
+          <li><a class="internal-link" href="/un-petit-pas-produit-l-information-qui-manque-pour-d%C3%A9cider">Un petit pas produit l’information qui manque pour décider</a></li>
           
         </ul>
       </details>
@@ -2473,10 +2576,12 @@
       <details class="tag-accordion" data-tag="knowledgemanagement" id="knowledgemanagement">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">knowledgemanagement</span>
-          <span class="tag-accordion-count">16</span>
+          <span class="tag-accordion-count">20</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
+          
+          <li><a class="internal-link" href="/cr%C3%A9er-un-syst%C3%A8me-de-connaissance-coop%C3%A9ratif">Créer un système de connaissance coopératif</a></li>
           
           <li><a class="internal-link" href="/design-information-architecture">Design information architecture</a></li>
           
@@ -2490,6 +2595,8 @@
           
           <li><a class="internal-link" href="/enrichir-les-nouveaux-projets-gr%C3%A2ce-au-compostage-des-anciens">enrichir les nouveaux projets grâce au compostage des anciens</a></li>
           
+          <li><a class="internal-link" href="/jardin-num%C3%A9rique">jardin numérique</a></li>
+          
           <li><a class="internal-link" href="/la-connaissance-fonctionne-comme-une-collection-100-sur-un-sujet-la-valeur-explose">la connaissance fonctionne comme une collection, 100% sur un sujet, la valeur explose</a></li>
           
           <li><a class="internal-link" href="/la-recherche-action-pour-remplacer-les-d%C3%A9marches-d-innovation-classiques">la recherche action pour remplacer les démarches d'innovation classiques</a></li>
@@ -2502,6 +2609,8 @@
           
           <li><a class="internal-link" href="/structurer-un-syst%C3%A8me-information">structurer un système information</a></li>
           
+          <li><a class="internal-link" href="/syst%C3%A8me-de-connaissances">système de connaissances</a></li>
+          
           <li><a class="internal-link" href="/tout-commence-par-la-veille">tout commence par la veille</a></li>
           
           <li><a class="internal-link" href="/utiliser-la-m%C3%AAme-note-atomique-dans-plusieurs-contextes-diff%C3%A9rents">utiliser la même note atomique dans plusieurs contextes différents</a></li>
@@ -2509,6 +2618,8 @@
           <li><a class="internal-link" href="/%C3%A9criture-atomique">écriture atomique</a></li>
           
           <li><a class="internal-link" href="/%C3%A9mergence-de-structure-logique-utilisable">émergence de structure logique utilisable</a></li>
+          
+          <li><a class="internal-link" href="/%C3%A9volutions-des-notes">évolutions des notes</a></li>
           
         </ul>
       </details>
@@ -2535,10 +2646,14 @@
       <details class="tag-accordion" data-tag="mouvement" id="mouvement">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">mouvement</span>
-          <span class="tag-accordion-count">2</span>
+          <span class="tag-accordion-count">4</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
+          
+          <li><a class="internal-link" href="/et-si-le-bon-choix-%C3%A9tait-celui-qui-remet-du-mouvement">Et si le bon choix était celui qui remet du mouvement ?</a></li>
+          
+          <li><a class="internal-link" href="/un-petit-pas-produit-l-information-qui-manque-pour-d%C3%A9cider">Un petit pas produit l’information qui manque pour décider</a></li>
           
           <li><a class="internal-link" href="/exp%C3%A9rimenter-la-danse-m%C3%A9ditative">expérimenter la danse méditative</a></li>
           
@@ -2627,7 +2742,7 @@
       <details class="tag-accordion" data-tag="philosophie" id="philosophie">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">philosophie</span>
-          <span class="tag-accordion-count">18</span>
+          <span class="tag-accordion-count">20</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
@@ -2638,6 +2753,8 @@
           
           <li><a class="internal-link" href="/la-fin-du-bullshit">La fin du bullshit</a></li>
           
+          <li><a class="internal-link" href="/le-manifeste-de-la-f%C3%AAte-continue-vers-une-nouvelle-%C3%A9thique-du-quotidien">Le Manifeste de la Fête Continue, Vers une Nouvelle Éthique du Quotidien</a></li>
+          
           <li><a class="internal-link" href="/les-4-accords-tolt%C3%A8ques">Les 4 accords Toltèques</a></li>
           
           <li><a class="internal-link" href="/manifeste-du-comptoir">Manifeste du Comptoir</a></li>
@@ -2647,6 +2764,8 @@
           <li><a class="internal-link" href="/repenser-le-jeu-de-la-soci%C3%A9t%C3%A9-avec-les-game-designers">Repenser le jeu de la société (avec les game designers)</a></li>
           
           <li><a class="internal-link" href="/trait%C3%A9-de-la-joie-souveraine">Traité de la Joie Souveraine</a></li>
+          
+          <li><a class="internal-link" href="/dialectique">dialectique</a></li>
           
           <li><a class="internal-link" href="/joies-actives">joies actives</a></li>
           
@@ -2677,12 +2796,16 @@
       <details class="tag-accordion" data-tag="projectmanagement" id="projectmanagement">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">projectmanagement</span>
-          <span class="tag-accordion-count">3</span>
+          <span class="tag-accordion-count">5</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
+          <li><a class="internal-link" href="/automatisation">Automatisation</a></li>
+          
           <li><a class="internal-link" href="/easy-tips-pour-dirigeant-comment-gagner-2h-par-jour">Easy tips pour dirigeant, comment gagner 2h par jour</a></li>
+          
+          <li><a class="internal-link" href="/du-syst%C3%A8me-projet-aux-assemblages-projets">du système projet aux assemblages projets</a></li>
           
           <li><a class="internal-link" href="/enrichir-les-nouveaux-projets-gr%C3%A2ce-au-compostage-des-anciens">enrichir les nouveaux projets grâce au compostage des anciens</a></li>
           
@@ -2733,12 +2856,18 @@
       <details class="tag-accordion" data-tag="psychologie" id="psychologie">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">psychologie</span>
-          <span class="tag-accordion-count">9</span>
+          <span class="tag-accordion-count">14</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/re-tisser-des-relations-authentiques-r%C3%A9flexions-et-invitations">(Re)tisser des relations authentiques, réflexions et invitations</a></li>
+          
+          <li><a class="internal-link" href="/archetypes-de-yung-et-les-12-signes-du-zodiac">Archétypes de Jung et les 12 signes du Zodiaque</a></li>
+          
+          <li><a class="internal-link" href="/c-est-quoi-l%C3%A2cher-prise">C'est quoi lâcher prise</a></li>
+          
+          <li><a class="internal-link" href="/franchir-le-mur-de-la-peur-et-toucher-l-extase">Franchir le mur de la peur et toucher l'extase</a></li>
           
           <li><a class="internal-link" href="/la-fin-du-conflit-int%C3%A9rieur-regarder-ce-qui-est">La Fin du Conflit Intérieur, Regarder "Ce Qui Est"</a></li>
           
@@ -2748,9 +2877,13 @@
           
           <li><a class="internal-link" href="/le-fardeau-du-chef-d-%C5%93uvre-de-la-paralysie-%C3%A0-l-action-pure">Le fardeau du chef-d'œuvre, de la paralysie à l'action pure</a></li>
           
+          <li><a class="internal-link" href="/prendre-soin-de-soi">Prendre soin de soi</a></li>
+          
           <li><a class="internal-link" href="/trait%C3%A9-de-la-joie-souveraine">Traité de la Joie Souveraine</a></li>
           
           <li><a class="internal-link" href="/remplacer-l-ambition-et-l-engagement-par-le-jeu">remplacer l'ambition et l'engagement par le jeu</a></li>
+          
+          <li><a class="internal-link" href="/retrouver-la-confiance-en-l-intuition">retrouver la confiance en l’intuition</a></li>
           
           <li><a class="internal-link" href="/start-with-why-but-stop-with-why">start with why but stop with why</a></li>
           
@@ -2765,12 +2898,14 @@
       <details class="tag-accordion" data-tag="régénératif" id="régénératif">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">régénératif</span>
-          <span class="tag-accordion-count">22</span>
+          <span class="tag-accordion-count">28</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/de-l-efficacit%C3%A9-op%C3%A9rationnelle-%C3%A0-la-r%C3%A9g%C3%A9n%C3%A9ration-du-vivant">De l’efficacité opérationnelle à la régénération du vivant</a></li>
+          
+          <li><a class="internal-link" href="/design-r%C3%A9g%C3%A9n%C3%A9ratif">Design régénératif</a></li>
           
           <li><a class="internal-link" href="/le-r%C3%A9g%C3%A9n%C3%A9ratif-n-est-pas-une-hype">Le régénératif n'est pas une hype</a></li>
           
@@ -2778,7 +2913,11 @@
           
           <li><a class="internal-link" href="/mouvement-mondial-du-design-r%C3%A9g%C3%A9n%C3%A9ratif">Mouvement mondial du design régénératif</a></li>
           
+          <li><a class="internal-link" href="/plan-pour-une-r%C3%A9g%C3%A9n%C3%A9ration-soci%C3%A9tale">Plan pour une régénération sociétale</a></li>
+          
           <li><a class="internal-link" href="/pourquoi-une-approche-un-design-r%C3%A9g%C3%A9n%C3%A9ratif-est-n%C3%A9cessaire">Pourquoi une approche &amp; un Design régénératif est nécessaire</a></li>
+          
+          <li><a class="internal-link" href="/prendre-soin-du-monde">Prendre soin du monde</a></li>
           
           <li><a class="internal-link" href="/redonner-un-sens-et-une-dynamique-aux-organisations">Redonner un Sens et une Dynamique aux Organisations</a></li>
           
@@ -2786,7 +2925,11 @@
           
           <li><a class="internal-link" href="/sant%C3%A9-parfaite">Santé Parfaite</a></li>
           
+          <li><a class="internal-link" href="/basculer-d-une-vision-d-un-monde-%C3%A9conomique-de-concurrence-%C3%A0-coop%C3%A9ratif-et-r%C3%A9g%C3%A9n%C3%A9ratif">basculer d'une vision d'un monde économique de concurrence à coopératif et régénératif</a></li>
+          
           <li><a class="internal-link" href="/changer-le-monde-en-cr%C3%A9ant-d-autres-histoires">changer le monde en créant d'autres histoires</a></li>
+          
+          <li><a class="internal-link" href="/construire-les-cath%C3%A9drales-aujourd-hui-c-est-r%C3%A9g%C3%A9n%C3%A9rer">construire les cathédrales aujourd'hui, c'est régénérer</a></li>
           
           <li><a class="internal-link" href="/devenir-une-entreprise-r%C3%A9g%C3%A9n%C3%A9rative">devenir une entreprise régénérative</a></li>
           
@@ -2801,6 +2944,8 @@
           <li><a class="internal-link" href="/repartir-de-soi-et-de-ses-%C3%A9motions-pour-changer-le-monde">repartir de soi et de ses émotions pour changer le monde</a></li>
           
           <li><a class="internal-link" href="/repartir-des-bases-du-vivant">repartir des bases du vivant</a></li>
+          
+          <li><a class="internal-link" href="/r%C3%A9g%C3%A9n%C3%A9ratif">régénératif</a></li>
           
           <li><a class="internal-link" href="/r%C3%A9g%C3%A9n%C3%A9rer-c-est-faire-passer-la-nature-avant-tout">régénérer c'est faire passer la nature avant tout</a></li>
           
@@ -2859,10 +3004,12 @@
       <details class="tag-accordion" data-tag="société" id="société">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">société</span>
-          <span class="tag-accordion-count">4</span>
+          <span class="tag-accordion-count">5</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
+          
+          <li><a class="internal-link" href="/sortir-de-la-crise-du-sens-pour-une-soci%C3%A9t%C3%A9-de-la-cr%C3%A9ation">Sortir de la crise du sens, pour une société de la création</a></li>
           
           <li><a class="internal-link" href="/upperground-middleground-et-underground">Upperground, middleground et underground</a></li>
           
@@ -2881,12 +3028,14 @@
       <details class="tag-accordion" data-tag="spiritualité" id="spiritualité">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">spiritualité</span>
-          <span class="tag-accordion-count">12</span>
+          <span class="tag-accordion-count">14</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/apprendre-%C3%A0-travers-la-vie-humaine">Apprendre à travers la vie humaine</a></li>
+          
+          <li><a class="internal-link" href="/franchir-le-mur-de-la-peur-et-toucher-l-extase">Franchir le mur de la peur et toucher l'extase</a></li>
           
           <li><a class="internal-link" href="/la-danse-de-la-vie-trouver-la-beaut%C3%A9-dans-la-fluidit%C3%A9">La danse de la vie, trouver la beauté dans la fluidité</a></li>
           
@@ -2901,6 +3050,8 @@
           <li><a class="internal-link" href="/respirer-pour-sentir-la-vie">respirer pour sentir la vie</a></li>
           
           <li><a class="internal-link" href="/retrouver-la-confiance-en-l-intuition">retrouver la confiance en l’intuition</a></li>
+          
+          <li><a class="internal-link" href="/spiritualit%C3%A9">spiritualité</a></li>
           
           <li><a class="internal-link" href="/th%C3%A9orie-de-l-%C3%A9volution-spirituelle-de-ken-wilber">théorie de l'évolution spirituelle de Ken Wilber</a></li>
           
@@ -2937,14 +3088,38 @@
       <details class="tag-accordion" data-tag="systémique" id="systémique">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">systémique</span>
-          <span class="tag-accordion-count">13</span>
+          <span class="tag-accordion-count">26</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
+          <li><a class="internal-link" href="/design-syst%C3%A9mique-sur-3-jours">Design systémique sur 3 jours</a></li>
+          
+          <li><a class="internal-link" href="/la-stigmergie-mieux-que-l-intelligence-artificielle-pour-g%C3%A9rer-la-complexit%C3%A9">La stigmergie mieux que l’intelligence artificielle pour gérer la complexité</a></li>
+          
+          <li><a class="internal-link" href="/les-services-de-archipel-kyosei">Les services de Archipel Kyosei</a></li>
+          
+          <li><a class="internal-link" href="/ma-vision-du-design-en-2021">Ma vision du Design en 2021</a></li>
+          
           <li><a class="internal-link" href="/un-jeu-pour-comprendre-les-syst%C3%A8mes-complexes-et-les-%C3%A9cosyst%C3%A8mes">Un jeu pour comprendre les systèmes complexes et les écosystèmes.</a></li>
           
           <li><a class="internal-link" href="/upperground-middleground-et-underground">Upperground, middleground et underground</a></li>
+          
+          <li><a class="internal-link" href="/accompagner-une-organisation-avec-une-vision-syst%C3%A9mique">accompagner une organisation avec une vision systémique</a></li>
+          
+          <li><a class="internal-link" href="/alterner-entre-pens%C3%A9e-syst%C3%A9mique-et-lin%C3%A9aire">alterner entre pensée systémique et linéaire</a></li>
+          
+          <li><a class="internal-link" href="/antifragile">antifragile</a></li>
+          
+          <li><a class="internal-link" href="/complexit%C3%A9">complexité</a></li>
+          
+          <li><a class="internal-link" href="/design-syst%C3%A9mique">design systémique</a></li>
+          
+          <li><a class="internal-link" href="/la-cha%C3%AEne-des-changements-syst%C3%A9miques">la chaîne des changements systémiques</a></li>
+          
+          <li><a class="internal-link" href="/la-puissance-du-design-syst%C3%A9mique-par-l-exemple-des-banques">la puissance du design systémique par l’exemple des banques</a></li>
+          
+          <li><a class="internal-link" href="/mod%C3%A9lisation-syst%C3%A9mique">modélisation systémique</a></li>
           
           <li><a class="internal-link" href="/penser-global-mais-agir-local">penser global mais agir local</a></li>
           
@@ -2959,6 +3134,8 @@
           <li><a class="internal-link" href="/profiter-du-chaos-et-des-erreurs">profiter du chaos et des erreurs</a></li>
           
           <li><a class="internal-link" href="/pr%C3%A9sentation-g%C3%A9n%C3%A9rale-du-design-syst%C3%A9mique">présentation générale du design systémique</a></li>
+          
+          <li><a class="internal-link" href="/simplexit%C3%A9">simplexité</a></li>
           
           <li><a class="internal-link" href="/spirale-dynamique">spirale dynamique</a></li>
           
@@ -3149,12 +3326,20 @@
       <details class="tag-accordion" data-tag="écologie" id="écologie">
         <summary class="tag-accordion-summary">
           <span class="tag-badge">écologie</span>
-          <span class="tag-accordion-count">1</span>
+          <span class="tag-accordion-count">5</span>
           <span class="tag-accordion-chevron" aria-hidden="true"></span>
         </summary>
         <ul class="tag-notes-list">
           
           <li><a class="internal-link" href="/les-apports-du-design-pour-la-transition-%C3%A9nerg%C3%A9tique">Les apports du Design pour la transition énergétique</a></li>
+          
+          <li><a class="internal-link" href="/fusionner-%C3%A9cologie-et-%C3%A9conomie-en-un-seul-concept-int%C3%A9gr%C3%A9">fusionner écologie et économie en un seul concept intégré</a></li>
+          
+          <li><a class="internal-link" href="/message-aux-leaders-de-la-transition-%C3%A9cologique-soci%C3%A9tale-en-cours">message aux leaders de la transition écologique sociétale en cours</a></li>
+          
+          <li><a class="internal-link" href="/%C3%A9cologie">écologie</a></li>
+          
+          <li><a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a></li>
           
         </ul>
       </details>

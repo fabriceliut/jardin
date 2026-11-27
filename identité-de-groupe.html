@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">6 min de lecture</span>
     </div>
@@ -166,7 +169,7 @@
       
       <a href="/tags#meta-analyse" class="tag-badge">Meta-analyse</a>
       
-      <a href="/tags#moc" class="tag-badge">moc</a>
+      <a href="/tags#article" class="tag-badge">article</a>
       
       <a href="/tags#evergreen" class="tag-badge">evergreen</a>
       
@@ -206,7 +209,7 @@ Je vois alors ici deux choix :</p>
   <li><strong>S’il n’y a pas nouvelle entité, alors comment définir cette association &amp; le fait de faire ensemble, d’avoir un projet commun ?</strong></li>
 </ul>
 
-<p>De mon point de vue, et c’est ce que je questionne ici, <strong>le premier choix</strong> est bien plus fréquent que l’autre. Il est plus simple à appréhender et nous y sommes culturellement habitués. Quand on crée une association, une entreprise, c’est un objet intellectuel dont nous avons accepté l’existence, c’est une <a class="internal-link" href="/personne-morale">personne morale</a>. <strong>Cette entité n’existe pas physiquement car rien de plus n’existe que les individus &amp; les objets qui la composent. Pourtant, dans notre esprit, elle existe.</strong> Juridiquement, elle existe. La plupart du temps même, les individus ont besoin de son existence pour évoluer ensemble, sinon ils ne se sentent pas “appartenir à” quelque chose.
+<p>De mon point de vue, et c’est-ce que je questionne ici, <strong>le premier choix</strong> est bien plus fréquent que l’autre. Il est plus simple à appréhender et nous y sommes culturellement habitués. Quand on crée une association, une entreprise, c’est un objet intellectuel dont nous avons accepté l’existence, c’est une <a class="internal-link" href="/personne-morale">personne morale</a>. <strong>Cette entité n’existe pas physiquement car rien de plus n’existe que les individus &amp; les objets qui la composent. Pourtant, dans notre esprit, elle existe.</strong> Juridiquement, elle existe. La plupart du temps même, les individus ont besoin de son existence pour évoluer ensemble, sinon ils ne se sentent pas “appartenir à” quelque chose.
 C’est avec cette <a class="internal-link" href="/personne-morale">personne morale</a> et toutes les règles qu’on crée pour la définir que l’on crée une <strong>identité de groupe</strong>. Cette identité nous permet de faire “un”, en partageant une raison d’être, des intentions, des valeurs &amp; des principes de fonctionnement, etc.</p>
 
 <h2 id="et-quen-est-il-du-second-choix-">Et qu’en est-il du second choix ?</h2>

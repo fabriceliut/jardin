@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">4 min de lecture</span>
     </div>
@@ -181,7 +184,7 @@
       <div id="toc-container"></div>
       <p>Il est utile de comprendre les détails de comment fonctionne la communication entre humains pour mieux s’organiser et réduire l’effort de traiter de l’information. </p>
 
-<p>Également connaître la structure de la communication permet d’améliorer la manière de créer et partager de l’information - voir <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  management de la connaissance  <span class="invalid-link-brackets">]]</span></span>. </p>
+<p>Également connaître la structure de la communication permet d’améliorer la manière de créer et partager de l’information - voir <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>management de la connaissance<span class="invalid-link-brackets">]]</span></span>. </p>
 
 <p>C’est donc à avantage dans les deux sens. </p>
 
@@ -241,7 +244,7 @@
 
 <p>C’est alors certainement le moment de placer une réunion qui sera pour le coup bien placée : <strong>sur 1h condenser une transmission d’informations et de demandes bien formulées</strong>. </p>
 
-<p>Si vous utilisez des outils de <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  management projet  <span class="invalid-link-brackets">]]</span></span> ce sera encore plus simple et efficace : chaque tâche ou information pourra être un élément assigné à la personne responsable, avec du détail en contexte et une deadline pour le délai de traitement attendu. </p>
+<p>Si vous utilisez des outils de <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>management projet<span class="invalid-link-brackets">]]</span></span> ce sera encore plus simple et efficace : chaque tâche ou information pourra être un élément assigné à la personne responsable, avec du détail en contexte et une deadline pour le délai de traitement attendu. </p>
 
 <p>Il suffira alors d’envoyer un message avec un information unique précisant où trouver un paquet d’infos et de demandes qui sont déjà traitées et en contexte pour la personne. </p>
 

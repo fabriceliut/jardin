@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">1 min de lecture</span>
     </div>
@@ -172,6 +175,8 @@
       
       <a href="/tags#seed" class="tag-badge">seed</a>
       
+      <a href="/tags#spiritualité" class="tag-badge">spiritualité</a>
+      
     </div>
     
   </header>
@@ -179,9 +184,18 @@
   <div id="notes-entry-container">
     <div class="note-content">
       <div id="toc-container"></div>
-      <p>qu’est-ce que je pourrais bien écrire sur la spiritualité? pour le moment justement je n’ai rien à en dire, c’est un mot qui parle de lui-même et qui essaie de toucher au plus prêt à la Foi, à la Vie, à la beauté, etc… comme tous ces mots qui s’approchent mais qui ne sont pas ce dont ils parlent parce que le mot ne peut que s’approcher mais il n’est pas…</p>
+      <p>qu’est-ce que je pourrais bien écrire sur la spiritualité? pour le moment justement je n’ai rien à en dire, c’est un mot qui parle de lui-même et qui essaie de toucher au plus près de la Foi, à la Vie, à la beauté, etc… comme tous ces mots qui s’approchent mais qui ne sont pas ce dont ils parlent parce que le mot ne peut que s’approcher mais il n’est pas…</p>
 
 <p>découvrez toutes les notes en lien directement de cette page.</p>
+
+<p>Quelques points d’entrée dans le jardin :</p>
+
+<ul>
+  <li><a class="internal-link" href="/conscience">Explorer la conscience</a></li>
+  <li><a class="internal-link" href="/la-toile-de-la-vie">Penser ce qui relie le vivant</a></li>
+  <li><a class="internal-link" href="/franchir-le-mur-de-la-peur-et-toucher-l-extase">S’ouvrir à l’inconnu</a></li>
+  <li><a class="internal-link" href="/th%C3%A9orie-de-l-%C3%A9volution-spirituelle-de-ken-wilber">Lire la perspective de Ken Wilber</a></li>
+</ul>
 
       <p class="note-cta">Merci de votre lecture — vous pouvez me contacter sur <a href="https://liut.me">liut.me</a></p>
     </div>

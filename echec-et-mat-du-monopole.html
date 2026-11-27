@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">4 min de lecture</span>
     </div>
@@ -179,7 +182,7 @@
 
 <p>Eux, ils jouent tout simplement aux échecs et très certainement avec beaucoup de coups d’avance. C’est très prétentieux de notre part d’imaginer les GAFAM ou les grandes entreprises chinoises inconscientes de l’état de notre monde et du risque d’effondrement climatique ou autre.</p>
 
-<p>Les livres des années 70 prévenant d’un effondrement arrivent maintenant pour les « petites gens », mais les gros, eux, ont déjà toutes les informations dans leurs bases de données depuis bien longtemps. <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  Aldous Huxley  <span class="invalid-link-brackets">]]</span></span>, pour ne citer que lui, était un visionnaire. Il était UN et d’autres encore nourrissent de leurs écrits l’intelligence des grandes entreprises, que ce soit celle des meilleurs cerveaux de la planète ou l’artificielle pour laquelle tous les budgets sont pleinement destinés.</p>
+<p>Les livres des années 70 prévenant d’un effondrement arrivent maintenant pour les « petites gens », mais les gros, eux, ont déjà toutes les informations dans leurs bases de données depuis bien longtemps. <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>Aldous Huxley<span class="invalid-link-brackets">]]</span></span>, pour ne citer que lui, était un visionnaire. Il était UN et d’autres encore nourrissent de leurs écrits l’intelligence des grandes entreprises, que ce soit celle des meilleurs cerveaux de la planète ou l’artificielle pour laquelle tous les budgets sont pleinement destinés.</p>
 
 <p>Certaines personnes, dont je fais partie intégrante, prônent l’urgence. Une urgence sociale, environnementale, psychologique. Trop de burn-out, plus de sens, aucun respect de la nature ; l’Homme est un loup pour l’homme, le loup et la planète tout entière.</p>
 
@@ -203,7 +206,7 @@
 
 <p>Alors si l’on peut sauver notre monde, le premier pas serait peut-être d’être conscient de ce gros échiquier économique sur lequel nous sommes des pions. Peut-être qu’avec plus de conscience collective, nous pourrions choisir de tout simplement quitter ce jeu et de recommencer une partie autrement. Une partie où tout le monde joue vraiment, où chacun peut définir ses règles et ses conditions. Peut-être que nous pourrions vivre dans un monde où il y aurait des milliers de parties différentes avec tout autant de règles différentes et qu’on pourrait facilement changer de jeu suivant nos besoins et nos envies. <strong>Un monde beaucoup plus libre car à chaque seconde nous pourrions écrire de nouvelles règles.</strong></p>
 
-<p><span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  Archipels en Symbiose  <span class="invalid-link-brackets">]]</span></span> — Pour construire ce monde, il ne faudrait plus vendre notre temps à ceux qui tiennent le monopole. <strong>Pour construire ce monde, il faudrait se réapproprier l’écriture de notre culture et libérer la possibilité d’autant de sociétés qu’on pourrait imaginer puis matérialiser.</strong></p>
+<p><span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>Archipels en Symbiose<span class="invalid-link-brackets">]]</span></span> — Pour construire ce monde, il ne faudrait plus vendre notre temps à ceux qui tiennent le monopole. <strong>Pour construire ce monde, il faudrait se réapproprier l’écriture de notre culture et libérer la possibilité d’autant de sociétés qu’on pourrait imaginer puis matérialiser.</strong></p>
 
 <p>La vraie liberté serait peut-être alors de <strong>pouvoir</strong> écrire sa réalité au lieu de suivre celle de ceux qui ont perdu le goût de vivre en dehors de leur monopole.</p>
 

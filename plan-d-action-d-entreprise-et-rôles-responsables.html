@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">6 min de lecture</span>
     </div>
@@ -183,13 +186,13 @@
       <div id="toc-container"></div>
       <p>Suite de cette série pour partager ce que j’ai appris de plus important avec les dirigeants que j’ai accompagné qui peut enrichir les autres. </p>
 
-<p>Dans <a class="internal-link" href="/strat%C3%A9gies-d-entreprise">stratégies d’entreprise</a>, j’expliquais comment mettre en place des stratégies en alignement avec la vision de l’entreprise. </p>
+<p>Dans <a class="internal-link" href="/strat%C3%A9gies-d-entreprise">stratégies d'entreprise</a>, j’expliquais comment mettre en place des stratégies en alignement avec la vision de l’entreprise. </p>
 
 <p>Maintenant il faut mettre en place le système qui va activer et dynamiser ces stratégies : un plan d’action.</p>
 
 <h2 id="définir-des-rôles-et-responsabilités">définir des rôles et responsabilités</h2>
 
-<p>En effet, comme déjà vu à plusieurs reprises, disposer d’une vision et de stratégies fortes n’est pas suffisant pour que ce soit vivant : il faut aussi s’assurer que chacun « sâche qui fait quoi, quand et pour quoi ».</p>
+<p>En effet, comme déjà vu à plusieurs reprises, disposer d’une vision et de stratégies fortes n’est pas suffisant pour que ce soit vivant : il faut aussi s’assurer que chacun « sache qui fait quoi, quand et pour quoi ».</p>
 
 <p>Définir les rôles et responsabilités n’est pas chose aisée pour beaucoup de direction et la première des difficultés est de <strong>dissocier les rôles des humains qui portent les rôles.</strong></p>
 
@@ -205,7 +208,7 @@
 
 <p>Pourtant, j’appuie vraiment sur ce point des répartitions de rôles parce que ce n’est pas la même chose que recruter sur des fiches de postes, qui sont plus des nécessaire d’ordre RH et financier. </p>
 
-<p>Je pourrais développer sur les limites des fiches de postes dans un autre article mais ici, revenons sur comment bien définir et repartir des responsabilités. (je développe aussi sur les rôles dans <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  gouvernance d’entreprise  <span class="invalid-link-brackets">]]</span></span>)</p>
+<p>Je pourrais développer sur les limites des fiches de postes dans un autre article mais ici, revenons sur comment bien définir et répartir des responsabilités. (je développe aussi sur les rôles dans <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>gouvernance d'entreprise<span class="invalid-link-brackets">]]</span></span>)</p>
 
 <h3 id="quest-ce-que-des-rôles">Qu’est-ce que des rôles?</h3>
 
@@ -230,9 +233,9 @@
 
 <p>Aussi, si un collaborateur clé ou historique quitte l’entreprise, l’entreprise perd un porteur de rôle et plus le rôle lui-même!</p>
 
-<p>Pour que ce fonctionnement en rôles fonctionne il faut aussi s’assurer de mettre en place une culture de la documentation pour que l’historique du rôle et ses ressources soient mises à jour en continue. </p>
+<p>Pour que ce fonctionnement en rôles fonctionne il faut aussi s’assurer de mettre en place une culture de la documentation pour que l’historique du rôle et ses ressources soient mises à jour en continu. </p>
 
-<p>Je développe dans un autre article sur le <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  management de la connaissance  <span class="invalid-link-brackets">]]</span></span> comme ressource essentielle au bon fonctionnement d’une organisation. </p>
+<p>Je développe dans un autre article sur le <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>management de la connaissance<span class="invalid-link-brackets">]]</span></span> comme ressource essentielle au bon fonctionnement d’une organisation. </p>
 
 <p>Dernier point important sur les rôles : il y a des règles pour prendre le rôle mais aussi pour le laisser à quelqu’un d’autre. Toujours une procédure ON et OFF boarding.</p>
 
@@ -240,7 +243,7 @@
 
 <p>Aussi, mais je ne développerais pas ici, il est possible que plusieurs humains dynamisent un rôle.</p>
 
-<p>Possible aussi pour un humains de dynamiser plusieurs rôles… mais je rentrerais dans la complexité des rôles dans une autre note sur la <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  gouvernance d’entreprise  <span class="invalid-link-brackets">]]</span></span>. </p>
+<p>Possible aussi pour un humain de dynamiser plusieurs rôles… mais je rentrerai dans la complexité des rôles dans une autre note sur la <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>gouvernance d'entreprise<span class="invalid-link-brackets">]]</span></span>. </p>
 
 <h3 id="et-les-responsabilités">Et les responsabilités?</h3>
 
@@ -258,7 +261,7 @@
 
 <p>Je développerais sur les modèles de gouvernance horizontaux dans un autre article. </p>
 
-<p>L’organisation en rôles est principalement un mode d’organisation horizontal c’est à dire que tous les collaborateurs sont au « même niveau » : ils portent juste des rôles nécessaire différents et des responsabilités différentes.</p>
+<p>L’organisation en rôles est principalement un mode d’organisation horizontal c’est-à-dire que tous les collaborateurs sont au « même niveau » : ils portent juste des rôles nécessaire différents et des responsabilités différentes.</p>
 
 <p>Si le collaborateur affirme dynamiser un rôle il s’engage à tenir les responsabilités du rôle et de maintenir à jour et efficient le rôle. </p>
 
@@ -271,9 +274,9 @@
 <h2 id="proposition-datelier-pour-co-construire-les-rôles-et-responsabilités">Proposition d’atelier pour co-construire les rôles et responsabilités </h2>
 
 <ul>
-  <li>repartir d’une lecture de la <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  vision d’entreprise  <span class="invalid-link-brackets">]]</span></span>
+  <li>repartir d’une lecture de la <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>vision d’entreprise<span class="invalid-link-brackets">]]</span></span>
 </li>
-  <li>Relire les <a class="internal-link" href="/strat%C3%A9gies-d-entreprise">stratégies d’entreprise</a>
+  <li>Relire les <a class="internal-link" href="/strat%C3%A9gies-d-entreprise">stratégies d'entreprise</a>
 </li>
   <li>Décomposer chaque stratégie en sous groupes pour définir les projets qui font vivre ces stratégies </li>
   <li>Pour chaque projet, définir les groupes de tâches nécessaire </li>
@@ -314,9 +317,9 @@
   <li>Des rituels pour piloter le plan</li>
   <li>Faire évoluer le plan et le mettre à jour </li>
   <li>Faire évoluer les rôles et mettre à jour </li>
-  <li>Méthodes de gestion de projet : <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  management projet  <span class="invalid-link-brackets">]]</span></span>
+  <li>Méthodes de gestion de projet : <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>management projet<span class="invalid-link-brackets">]]</span></span>
 </li>
-  <li>Méthodes de gestion de la connaissance : <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  management de la connaissance  <span class="invalid-link-brackets">]]</span></span>
+  <li>Méthodes de gestion de la connaissance : <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>management de la connaissance<span class="invalid-link-brackets">]]</span></span>
 </li>
   <li>Les outils, les ressources et les bonnes pratiques au quotidien</li>
 </ul>

@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">10 min de lecture</span>
     </div>
@@ -197,7 +200,7 @@
 
 <p>En vient la démarche de plus en plus en place, celle de centrer la réflexion sur l’utilisateur (l’usager, le consommateur, etc…) et de penser à son expérience en contact avec le produit, le service, la marque. Ainsi, on ne pense plus à vendre une voiture, on pense à l’usage de “conduire” ou “se déplacer” etc… Et c’est alors qu’on entre dans l’ère du “tout en location” : on paie un abonnement au mois pour disposer de l’usage de la voiture de son choix, pour recevoir des livres, regarder ses séries, etc…</p>
 
-<p>L’entreprise qui fournit le produit ou service fournit surtout maintenant toute une gamme de services connexes et d’accompagnements : elle devient votre allié du quotidien, vous prend par la main dans toutes vos expériences possibles. C’est comme ça que <em><strong>La Poste</strong></em> devient service internet, téléphonique, location de transports, banque, etc… pareil pour Orange, pour Amazon, etc… Plus l’entreprise est capable de fournir de services complémentaires, plus elle développe d’axes business différents. On peut parler alors d’un business design écosystémique <em>(développé plus en détail dans la fiche <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  business design  <span class="invalid-link-brackets">]]</span></span>)</em></p>
+<p>L’entreprise qui fournit le produit ou service fournit surtout maintenant toute une gamme de services connexes et d’accompagnements : elle devient votre allié du quotidien, vous prend par la main dans toutes vos expériences possibles. C’est comme ça que <em><strong>La Poste</strong></em> devient service internet, téléphonique, location de transports, banque, etc… pareil pour Orange, pour Amazon, etc… Plus l’entreprise est capable de fournir de services complémentaires, plus elle développe d’axes business différents. On peut parler alors d’un business design écosystémique <em>(développé plus en détail dans la fiche <a class="internal-link" href="/business-design">business design</a>)</em></p>
 
 <p>Il y a alors une logique de circularité, mais toujours pour faire revenir “le client” sur un parcours au final très linéaire. Et surtout, très peu souvent sont pensées <strong>les externalités</strong>.</p>
 
@@ -205,7 +208,7 @@
 
 <p><strong>Tout cela évolue :</strong> <em><strong>Apple</strong></em> par exemple tente d’intégrer une démarche qu’on peut dire circulaire grâce à des entreprises partenaires. Ils reprennent les anciens iPhones contre une réduction pour l’achat d’un nouveau. Cet ancien iPhone est revendu à un partenaire qui les vendra en tant que seconde main en ligne. <em><strong>Apple</strong></em>, pour la dernière version du MacBook Air est à 90% de matériaux recyclés pour la production, etc.</p>
 
-<p>Prenons également un exemple souvent proposé, celui de <em><strong>Patagonia</strong></em>. Vous achetez un produit neuf que vous pourrez ensuite faire réparer par <em><strong>Patagonia</strong></em>. Vous pourrez aussi leur rendre pour qu’ils le recyclent et créent une gamme moins chère de produits recyclés. Ces mêmes produits peuvent encore être récupérés par <em><strong>Patagonia</strong></em> qui va fournir la matière pour faire des coussins et couvertures via un partenaire. Dans cet exemple, <strong>cela fait 4 boucles de vie possibles pour la matière extraite pour une seule vente de produit à l’origine.</strong> Vous imaginez l’avantage économique pour <em><strong>Patagonia</strong></em> et lié à ça, une démarche environnementale conséquente <em>(vous remarquez ici la jointure avec les démarches “Designs” d’Ecological Design, de Brand Design et de <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  business design  <span class="invalid-link-brackets">]]</span></span>)</em></p>
+<p>Prenons également un exemple souvent proposé, celui de <em><strong>Patagonia</strong></em>. Vous achetez un produit neuf que vous pourrez ensuite faire réparer par <em><strong>Patagonia</strong></em>. Vous pourrez aussi leur rendre pour qu’ils le recyclent et créent une gamme moins chère de produits recyclés. Ces mêmes produits peuvent encore être récupérés par <em><strong>Patagonia</strong></em> qui va fournir la matière pour faire des coussins et couvertures via un partenaire. Dans cet exemple, <strong>cela fait 4 boucles de vie possibles pour la matière extraite pour une seule vente de produit à l’origine.</strong> Vous imaginez l’avantage économique pour <em><strong>Patagonia</strong></em> et lié à ça, une démarche environnementale conséquente <em>(vous remarquez ici la jointure avec les démarches “Designs” d’Ecological Design, de Brand Design et de <a class="internal-link" href="/business-design">business design</a>)</em></p>
 
 <p>Ces deux exemples illustrent parfaitement l’émergence du Circular Design, qui apporte autant des avantages business qu’au niveau de l’environnement et de l’éthique que de l’image de marque. Mais ce ne sont que les premières briques, il est possible d’aller bien plus loin…</p>
 
@@ -221,9 +224,9 @@
 
 <p>Le cercle est également plus facile à s’approprier et à comprendre que la logique systémique, plus complexe <em>(voir la fiche sur le <a class="internal-link" href="/design-syst%C3%A9mique">design systémique</a>).</em> <strong>C’est un premier pas vers la conscience plus complète des systèmes complexes et également une évolution de culture importante par rapport aux habitudes linéaires.</strong></p>
 
-<p>Une démarche de <strong>Circular Design</strong> change en profondeur le système de l’organisation, sa culture <em>(voir la fiche <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  culture design  <span class="invalid-link-brackets">]]</span></span>)</em> mais également le mode de pensée des humains qui en font partie. Par exemple, si les déchets sont intégrés dans le corps du business, les collaborateurs vont intégrer les déchets dans leur conscience, même lorsqu’ils rentreront chez eux. C’est alors que la culture humaine évolue : impossible d’acheter au quotidien n’importe quoi pour jeter ça n’importe comment ! Quel gaspillage quand on commence à en comprendre les impacts mais également les opportunités de transformation et d’usage !</p>
+<p>Une démarche de <strong>Circular Design</strong> change en profondeur le système de l’organisation, sa culture <em>(voir la fiche <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>culture design<span class="invalid-link-brackets">]]</span></span>)</em> mais également le mode de pensée des humains qui en font partie. Par exemple, si les déchets sont intégrés dans le corps du business, les collaborateurs vont intégrer les déchets dans leur conscience, même lorsqu’ils rentreront chez eux. C’est alors que la culture humaine évolue : impossible d’acheter au quotidien n’importe quoi pour jeter ça n’importe comment ! Quel gaspillage quand on commence à en comprendre les impacts mais également les opportunités de transformation et d’usage !</p>
 
-<p>C’est sur le point des opportunités que la jointure avec les démarches en <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  économie circulaire  <span class="invalid-link-brackets">]]</span></span> interviennent. En effet, c’est grâce à une pensée et une démarche de design circulaire que l’on peut créer de nouveaux modèles économiques. Et ce n’est qu’une application possible !</p>
+<p>C’est sur le point des opportunités que la jointure avec les démarches en <a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a> interviennent. En effet, c’est grâce à une pensée et une démarche de design circulaire que l’on peut créer de nouveaux modèles économiques. Et ce n’est qu’une application possible !</p>
 
 <h3 id="quelques-éléments-du-design-circulaire">Quelques éléments du Design Circulaire.</h3>
 
@@ -313,11 +316,6 @@
       <div>
       
         <div class="backlink-box">
-          <a class="internal-link" href="/approche-du-comptoir">approche du comptoir</a>
-          <div class="backlink-excerpt">La mission du Comptoir est d’engager toutes les organisations dans leur « mutation ». Que vous soyez dirigeants, acteurs du...</div>
-        </div>
-      
-        <div class="backlink-box">
           <a class="internal-link" href="/design-circulaire-sur-1-jour">Design circulaire sur 1 jour</a>
           <div class="backlink-excerpt">L’approche circulaire se met en place grâce à une première journée construite spécifiquement pour poser concrètement, en collaboration, le système...</div>
         </div>
@@ -335,6 +333,16 @@
         <div class="backlink-box">
           <a class="internal-link" href="/ressources-du-comptoir">Ressources du Comptoir</a>
           <div class="backlink-excerpt">Toutes nos ressources sont en commun et propriétés de tous suivant la logique de l’open-source et de la création ouverte....</div>
+        </div>
+      
+        <div class="backlink-box">
+          <a class="internal-link" href="/business-design">business design</a>
+          <div class="backlink-excerpt">Le business design consiste à concevoir le modèle économique d’une activité : ce qu’elle propose, à qui, avec quels partenaires...</div>
+        </div>
+      
+        <div class="backlink-box">
+          <a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a>
+          <div class="backlink-excerpt">L’économie circulaire consiste à préserver la valeur de ce qui existe déjà. La réparation prolonge l’usage d’un produit. La revente...</div>
         </div>
       
       </div>

@@ -8,7 +8,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="">
+  <meta name="description" content="            ![[coopererregenerer.jpeg      Illustration sur la coopération et la régénération]]      ">
 
   <meta property="og:site_name" content="Jardin Liut.">
 
@@ -24,21 +24,24 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
-  <meta property="og:description" content=""/>
+  <meta property="og:description" content="            ![[coopererregenerer.jpeg      Illustration sur la coopération et la régénération]]      "/>
   
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -60,7 +63,7 @@
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Pourquoi une approche & un Design régénératif est nécessaire">
-  <meta name="twitter:description" content="">
+  <meta name="twitter:description" content="            ![[coopererregenerer.jpeg      Illustration sur la coopération et la régénération]]      ">
   <meta name="twitter:image" content="https://jardin.liut.me/assets/coopererregenerer.jpeg">
   
 
@@ -77,12 +80,12 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
     },
-    "description": ""
+    "description": "            ![[coopererregenerer.jpeg      Illustration sur la coopération et la régénération]]      "
   }
   </script>
   
@@ -156,8 +159,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">4 min de lecture</span>
     </div>
@@ -180,7 +183,7 @@
   <div id="notes-entry-container">
     <div class="note-content">
       <div id="toc-container"></div>
-      <p><img src="/assets/coopererregenerer.jpeg" alt=""></p>
+      <p><img src="/assets/coopererregenerer.jpeg" alt="Illustration sur la coopération et la régénération" loading="lazy"></p>
 
 <blockquote>
   <p><em>“It’s up to us to decide what kind of a world we want to leave to coming generations – a sustainable one, or a desolate one in which the civilisation we have built disintegrates rather than builds on past successes,”</em> - <a href="https://www.independent.co.uk/environment/sixth-mass-extinction-endangered-animals-wildlife-markets-biodiversity-crisis-standford-study-a9544856.html" target="_blank" rel="noopener noreferrer">Source inspirant cet article</a>.</p>
@@ -206,7 +209,7 @@
 
 <h2 id="au-quotidien-régénérer-plutôt-que-dégénérer"><strong>Au quotidien, régénérer plutôt que dégénérer.</strong></h2>
 
-<p>Le <a class="internal-link" href="/design-r%C3%A9g%C3%A9n%C3%A9ratif">design régénératif</a> porte l’intention d’oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c’est à dire porté par une contrainte forte, <strong>celle de dynamiser la vie plutôt que de la ramollir</strong>.</p>
+<p>Le <a class="internal-link" href="/design-r%C3%A9g%C3%A9n%C3%A9ratif">design régénératif</a> porte l’intention d’oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c’est-à-dire porté par une contrainte forte, <strong>celle de dynamiser la vie plutôt que de la ramollir</strong>.</p>
 
 <h3 id="comment-est-ce-que-ça-sapplique-au-quotidien-"><strong>Comment est-ce que ça s’applique au quotidien ?</strong></h3>
 

@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">1 min de lecture</span>
     </div>
@@ -183,7 +186,7 @@
       <div id="toc-container"></div>
       <p>Début d’exploration avec <a href="https://fr.wikipedia.org/wiki/Pens%C3%A9e" target="_blank" rel="noopener noreferrer">le wiki</a>.</p>
 
-<p><span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  Pensée Rêve  <span class="invalid-link-brackets">]]</span></span> - <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  Pensée Dire  <span class="invalid-link-brackets">]]</span></span> - <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  Pensée Faire  <span class="invalid-link-brackets">]]</span></span>
+<p><span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>Pensée Rêve<span class="invalid-link-brackets">]]</span></span> - <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>Pensée Dire<span class="invalid-link-brackets">]]</span></span> - <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>Pensée Faire<span class="invalid-link-brackets">]]</span></span>
 <a class="internal-link" href="/pens%C3%A9e-syst%C3%A9mique">pensée systémique</a> - <a class="internal-link" href="/pens%C3%A9e-analogique">pensée analogique</a></p>
 
       <p class="note-cta">Merci de votre lecture — vous pouvez me contacter sur <a href="https://liut.me">liut.me</a></p>
@@ -195,132 +198,9 @@
       <div>
       
         <div class="backlink-box">
-          <a class="internal-link" href="/biomim%C3%A9tisme">biomimétisme</a>
-          <div class="backlink-excerpt">La [[bio-inspiration]] fait usage de la [[pensée analogique]] pour imaginer des solutions à des [[système complexe]] venant de systèmes parfois...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/design-syst%C3%A9mique">design systémique</a>
-          <div class="backlink-excerpt">C’est l’un des [[designs]] &amp; l’application concrète de la [[pensée systémique]] via, par exemple, la [[modélisation systémique]].
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/faire-confiance-par-la-coop%C3%A9ration-et-sans-forcer">Faire confiance par la coopération et sans forcer</a>
-          <div class="backlink-excerpt">Lorsqu’on pratique le [[Yoga]], très souvent, le maître répète durant la pratique en mouvement qu’il ne sert à rien de...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/institut-de-la-pens%C3%A9e-int%C3%A9grale">institut de la pensée intégrale</a>
-          <div class="backlink-excerpt">Une nouvelle institution pour penser &amp; penser le monde autrement, pour faire autrement ensemble.
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/l-%C3%AAtre-et-l-%C3%A9tant">L'être et l'étant</a>
-          <div class="backlink-excerpt">Il y a une différence à bien faire remonter entre ces deux concepts, une différence fondamentale et à fort impact...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/le-r%C3%A9g%C3%A9n%C3%A9ratif-n-est-pas-une-hype">Le régénératif n'est pas une hype</a>
-          <div class="backlink-excerpt">Signal faible sur le sujet du [[régénératif]] pour ceux à qui ça parle : maintenant 6 ans que je suis...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/ma-vision-du-design-en-2021">Ma vision du Design en 2021</a>
-          <div class="backlink-excerpt">Je me dis actuellement acteur du [[design systémique]] et du [[design régénératif]]. Mais qu’est-ce que veulent dire ces termes associés...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/mutation-culturelle">Mutation Culturelle</a>
-          <div class="backlink-excerpt">Par approche en [[bio-inspiration]] il est possible d’envisager les évolutions culturelles comme des mutations génétiques. La mutation biologique pour le...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/pens%C3%A9e-analogique">pensée analogique</a>
-          <div class="backlink-excerpt">Processus de tisser des liens entre des éléments venant de domaines totalement différents et qui n’ont en apparence aucun rapport....</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/prendre-soin-du-monde">Prendre soin du monde</a>
-          <div class="backlink-excerpt">Vivre au quotidien s’exprime pour moi sur 2 dimensions majeures : le monde &amp; moi. Il y a des temps...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/ressources-du-comptoir">Ressources du Comptoir</a>
-          <div class="backlink-excerpt">Toutes nos ressources sont en commun et propriétés de tous suivant la logique de l’open-source et de la création ouverte....</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/roam-research">Roam Research</a>
-          <div class="backlink-excerpt">(et les « tools for thought ») - Site officiel
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/un-jeu-pour-comprendre-les-syst%C3%A8mes-complexes-et-les-%C3%A9cosyst%C3%A8mes">Un jeu pour comprendre les systèmes complexes et les écosystèmes.</a>
-          <div class="backlink-excerpt">Merci Nick, créateur de ce petit jeu, pour m’aider à répondre en partie, de manière fun et plus simplement à...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/voir-l-entreprise-comme-une-plante-et-ses-racines">Voir l'entreprise comme une plante et ses racines</a>
-          <div class="backlink-excerpt">
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/alterner-entre-pens%C3%A9e-syst%C3%A9mique-et-lin%C3%A9aire">alterner entre pensée systémique et linéaire</a>
-          <div class="backlink-excerpt">Deux des modes de pensée que notre cerveau peut activer au besoin.
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/complexit%C3%A9">complexité</a>
-          <div class="backlink-excerpt">Concept qui articule l’étude des [[système complexe]] et proche de la [[pensée systémique]] par la [[pensée complexe]].
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/devenir-une-entreprise-r%C3%A9g%C3%A9n%C3%A9rative">devenir une entreprise régénérative</a>
-          <div class="backlink-excerpt">en tant que [[bras droit]] des dirigeants, j’ai un focus à accompagner ceux qui veulent faire de leurs entreprises des...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/d%C3%A9bloquer-un-impact-positif-en-tant-que-designer">débloquer un impact positif en tant que designer</a>
-          <div class="backlink-excerpt">il faut prendre en compte et accepter de travailler en situation de complexité. pour adresser la complexité, il faut développer...</div>
-        </div>
-      
-        <div class="backlink-box">
           <a class="internal-link" href="/intellecte">intellect</a>
           <div class="backlink-excerpt">Piste d’étude pour [[décoder la vie]]
 </div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/le-combo-entreprise-et-accompagnants-externes-est-gagnant">le combo entreprise et accompagnants externes est gagnant</a>
-          <div class="backlink-excerpt">en tant que dirigeant, si vous essayez toujours de tout gérer avec de l’interne, cet article est pour vous.
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/pratiquer-la-meta-conversation">pratiquer la meta conversation</a>
-          <div class="backlink-excerpt">Est-ce que vous aussi vous sentez que lors d’une conversation il y a des évolutions comme par « niveaux » - comme...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/profiter-du-chaos-et-des-erreurs">profiter du chaos et des erreurs</a>
-          <div class="backlink-excerpt">inspiration de cet article
-</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/r%C3%A9g%C3%A9n%C3%A9ratif">régénératif</a>
-          <div class="backlink-excerpt">Si vous lisez cette page, c’est que quelque chose vous appelle : l’idée qu’on peut faire mieux que « réduire...</div>
-        </div>
-      
-        <div class="backlink-box">
-          <a class="internal-link" href="/tout-dans-la-vie-est-langage-et-conversation">tout dans la vie est langage et conversation</a>
-          <div class="backlink-excerpt">Peut-être que l’étude de la [[linguistique]] nous permettrait de comprendre l’art, les échecs, l’entreprenariat, la danse, etc… Sans pour autant...</div>
         </div>
       
       </div>

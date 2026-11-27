@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -42,12 +45,12 @@
   
 
   
-  <meta property="og:title" content="la bascule d’état de penser entre journée et soirée">
+  <meta property="og:title" content="la bascule d’état de pensée entre journée et soirée">
   <meta property="og:type" content="article">
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -59,7 +62,7 @@
 
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="la bascule d’état de penser entre journée et soirée">
+  <meta name="twitter:title" content="la bascule d’état de pensée entre journée et soirée">
   <meta name="twitter:description" content="  c’est une analyse pour “[[pratiquer la meta conversation]]” : notre alternance de mode de fonctionnement cognitif.">
   <meta name="twitter:image" content="https://jardin.liut.me/assets/avatar_24.jpg">
 
@@ -69,14 +72,14 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "la bascule d’état de penser entre journée et soirée",
+    "headline": "la bascule d’état de pensée entre journée et soirée",
     "url": "https://jardin.liut.me/la-bascule-d-%C3%A9tat-de-penser-entre-journ%C3%A9e-et-soir%C3%A9e",
     "author": {
       "@type": "Person",
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -91,7 +94,7 @@
 
   <title>
     
-      la bascule d’état de penser entre journée et soirée &mdash; Jardin Liut.
+      la bascule d’état de pensée entre journée et soirée &mdash; Jardin Liut.
     
   </title>
 </head>
@@ -150,13 +153,13 @@
 
 <article>
   <header>
-    <h1>la bascule d’état de penser entre journée et soirée</h1>
+    <h1>la bascule d’état de pensée entre journée et soirée</h1>
     
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">1 min de lecture</span>
     </div>
@@ -168,7 +171,7 @@
       
       <a href="/tags#meta-analyse" class="tag-badge">Meta-analyse</a>
       
-      <a href="/tags#moc" class="tag-badge">moc</a>
+      <a href="/tags#note" class="tag-badge">note</a>
       
       <a href="/tags#evergreen" class="tag-badge">evergreen</a>
       
@@ -183,7 +186,7 @@
   <p>c’est une analyse pour “<a class="internal-link" href="/pratiquer-la-meta-conversation">pratiquer la meta conversation</a>” : notre alternance de mode de fonctionnement cognitif.</p>
 </blockquote>
 
-<p><strong>La bascule d’état de penser entre la journée et la soirée est un phénomène naturel qui nous permet de trouver un équilibre entre notre côté rationnel et notre côté intuitif. En étant conscients de ces changements, nous pouvons mieux comprendre nos pensées et nos émotions et les utiliser de manière plus efficace pour notre bien-être.</strong></p>
+<p><strong>La bascule d’état de pensée entre la journée et la soirée est un phénomène naturel qui nous permet de trouver un équilibre entre notre côté rationnel et notre côté intuitif. En étant conscients de ces changements, nous pouvons mieux comprendre nos pensées et nos émotions et les utiliser de manière plus efficace pour notre bien-être.</strong></p>
 
 <p>La journée et la soirée sont deux moments de la journée où notre état de penser peut varier considérablement. Pendant la journée, nous sommes souvent occupés par nos tâches et nos responsabilités, ce qui peut nous amener à adopter un état de penser plus rationnel et pragmatique. Nous sommes concentrés sur nos objectifs et nos actions, et nous utilisons notre intellect pour résoudre les problèmes et prendre des décisions.</p>
 

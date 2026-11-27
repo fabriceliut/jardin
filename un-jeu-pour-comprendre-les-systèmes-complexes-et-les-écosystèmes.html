@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">4 min de lecture</span>
     </div>
@@ -197,7 +200,7 @@
 
 <p><strong>Le design est le fait de “fluidifier l’expérience humaine”</strong>, que ce soit par une chaise ergonomique, par un espace adapté et esthétique, par une interface d’application simple et désirable ou par une structure d’organisation, une gouvernance, une culture ou un “système” économique ou d’information facilitant les interactions humaines et le développement des projets et de notre société… <strong>En gros, ce qu’on cherche, c’est que les humains, du matin au soir, soient tranquille et puissent évoluer dans la vie comme dans une salle de jeu, sans dénaturer la salle de jeu pendant qu’ils s’éclatent…</strong></p>
 
-<p>Alors, le designer systémique utilise sa <a class="internal-link" href="/pens%C3%A9e-syst%C3%A9mique">pensée systémique</a> pour “fluidifier les systèmes”, toujours en collaboration avec les experts des milieux (culture, organisation, économie, politique, urbanisme, etc…) <strong>Il participe ainsi à la transformation nécessaire pour s’adapter en continue à l’évolution des choses.</strong></p>
+<p>Alors, le designer systémique utilise sa <a class="internal-link" href="/pens%C3%A9e-syst%C3%A9mique">pensée systémique</a> pour “fluidifier les systèmes”, toujours en collaboration avec les experts des milieux (culture, organisation, économie, politique, urbanisme, etc…) <strong>Il participe ainsi à la transformation nécessaire pour s’adapter en continu à l’évolution des choses.</strong></p>
 
 <h2 id="et-maintenant-place-au-jeu-"><strong>Et maintenant, place au jeu !</strong></h2>
 
@@ -207,29 +210,29 @@
 
 <p>Il a choisi un <a class="internal-link" href="/syst%C3%A8me-complexe">système complexe</a> humain en permettant de structurer des comportements différents de foules et de communautés. Cette expérience permet de comprendre assez clairement les biais de notre société et la complexité justement à collaborer, à se structurer et à avancer ensemble sans développer de l’opposition, des conflits, etc…</p>
 
-<h3 id="a-vous-de-jouer-">A vous de jouer !</h3>
+<h3 id="à-vous-de-jouer-">À vous de jouer !</h3>
 
 <p>Rien ne sert d’en dire plus, passons directement au jeu ! Pour illustrer quelques étapes, je vous accompagne de petites analyses. Bonne partie à vous !</p>
 
 <p><em>On commence déjà par se partager à boire : quoi de plus convivial pour comprendre l’effet réseau… ou pas.</em></p>
 
-<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQG6GTye2zP-_w/article-inline_image-shrink_1500_2232/0/1547916143589?e=2147483647&amp;v=beta&amp;t=0boNk6QpUuaPNIcX5Ujj-UTtZtOle4lXnoTUVwTj-1A" alt=""></p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQG6GTye2zP-_w/article-inline_image-shrink_1500_2232/0/1547916143589?e=2147483647&amp;v=beta&amp;t=0boNk6QpUuaPNIcX5Ujj-UTtZtOle4lXnoTUVwTj-1A" alt="Le jeu commence par un réseau d’invitations"></p>
 
 <p><em>Ensuite, un petit système d’information.</em></p>
 
-<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0/1547916428975?e=2147483647&amp;v=beta&amp;t=DKCw0LersDy2SsIfza7P8u_eh1c_FlsXLGWA_rPm_0k" alt=""></p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQGNuKlTDrBmbQ/article-inline_image-shrink_1500_2232/0/1547916428975?e=2147483647&amp;v=beta&amp;t=DKCw0LersDy2SsIfza7P8u_eh1c_FlsXLGWA_rPm_0k" alt="Un exemple de réseau d’information"></p>
 
 <p><em>A vous de créer la “contagion” ! Le flux, la circulation explique très bien que la complexité est dans les connexions quels que soient les éléments…</em></p>
 
-<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0/1547916603662?e=2147483647&amp;v=beta&amp;t=74g6lqT5cuLBe1aNrlWeOvkk5EQ98X5g7JUflnOD97U" alt=""></p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQG0m1xaW3cW8w/article-inline_image-shrink_1500_2232/0/1547916603662?e=2147483647&amp;v=beta&amp;t=74g6lqT5cuLBe1aNrlWeOvkk5EQ98X5g7JUflnOD97U" alt="La propagation d’un comportement par les connexions du réseau"></p>
 
 <p><em>Et en avant pour complexifier de plus en plus, mais toujours avec les bonnes explications et pas à pas.</em></p>
 
-<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQEsvFch0EiYtw/article-inline_image-shrink_1500_2232/0/1547916773471?e=2147483647&amp;v=beta&amp;t=6daYoj2Hbqnc71p0yT94xy3mZE4CcsSIuxLyi54gtrg" alt=""></p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQEsvFch0EiYtw/article-inline_image-shrink_1500_2232/0/1547916773471?e=2147483647&amp;v=beta&amp;t=6daYoj2Hbqnc71p0yT94xy3mZE4CcsSIuxLyi54gtrg" alt="Une simulation de plus en plus complexe"></p>
 
 <p><em>L’étude de l’effet de groupe est passionnant pour tous ceux qui veulent résoudre des problèmes de gouvernance, de management et de collaboration :</em> <strong><em>vous pouvez clairement comprendre la nécessité de la diversité, de la facilitation et de bonnes méthodes collaboratives</em></strong> <em>: à système complexe… Pensée collaborative et expertises obligent !</em></p>
 
-<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQEqq2qLoVQXtA/article-inline_image-shrink_1500_2232/0/1547917141833?e=2147483647&amp;v=beta&amp;t=rnjulz_XiafNMO0401wYlrccituGpcrFMwIbcyOrkw4" alt=""></p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQEqq2qLoVQXtA/article-inline_image-shrink_1500_2232/0/1547917141833?e=2147483647&amp;v=beta&amp;t=rnjulz_XiafNMO0401wYlrccituGpcrFMwIbcyOrkw4" alt="Un exemple d’effet de groupe"></p>
 
 <p>Je ne vous en montre pas plus et vous laisse vous jeter dans l’expérience pour la suite ! A vous de faire les analogies avec ce que vous voulez… Tout est système, et <strong>la pensée systémique permet de faire des ponts entre la nature par exemple et l’ingénierie : c’est ce qu’on appelle le Biomimétisme !</strong></p>
 
@@ -237,9 +240,9 @@
 
 <h3 id="pour-conclure">Pour conclure</h3>
 
-<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQGduR2arZFslA/article-inline_image-shrink_1500_2232/0/1547917347123?e=2147483647&amp;v=beta&amp;t=pqZJZOp4jYOXTBxTOV_aAFbCJCInIi_X0sMiGcnfPzE" alt=""></p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C4E12AQGduR2arZFslA/article-inline_image-shrink_1500_2232/0/1547917347123?e=2147483647&amp;v=beta&amp;t=pqZJZOp4jYOXTBxTOV_aAFbCJCInIi_X0sMiGcnfPzE" alt="Une illustration finale du jeu de Nicky Case"></p>
 
-<p>Maintenant que vous avez compris ce qu’est un système complexe et peut-être même que vous avez aimé designer les vôtres, vous avez certainement envie de faire le lien avec “la vrai vie” et vos problématiques complexes actuelles ? Et bien c’est une opportunité idéale pour <a href="https://liut.me/contact" target="_blank" rel="noopener noreferrer">nous rencontrer</a> non?</p>
+<p>Maintenant que vous avez compris ce qu’est un système complexe et peut-être même que vous avez aimé designer les vôtres, vous avez certainement envie de faire le lien avec “la vraie vie” et vos problématiques complexes actuelles ? Et bien c’est une opportunité idéale pour <a href="https://liut.me/contact" target="_blank" rel="noopener noreferrer">nous rencontrer</a> non?</p>
 
 <p>si vous voulez plus de contenus sur le thème, vous pouvez aussi commencer par suivre <a href="https://liut.substack.com" target="_blank" rel="noopener noreferrer">ma newsletter</a></p>
 
@@ -249,9 +252,15 @@
     <aside class="note-sidebar">
       <h3 class="sidebar-title">Notes en lien</h3>
       
-      <p class="backlink-empty">
-        Aucune note ne fait référence à celle-ci pour le moment.
-      </p>
+      <div>
+      
+        <div class="backlink-box">
+          <a class="internal-link" href="/syst%C3%A8me-complexe">système complexe</a>
+          <div class="backlink-excerpt">Comprendre la complexité pour mieux piloter votre entreprise.
+</div>
+        </div>
+      
+      </div>
       
     </aside>
   </div>

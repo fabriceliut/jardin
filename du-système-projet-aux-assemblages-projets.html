@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">1 min de lecture</span>
     </div>
@@ -168,6 +171,8 @@
       
       <a href="/tags#seed" class="tag-badge">seed</a>
       
+      <a href="/tags#projectmanagement" class="tag-badge">projectmanagement</a>
+      
     </div>
     
   </header>
@@ -175,7 +180,7 @@
   <div id="notes-entry-container">
     <div class="note-content">
       <div id="toc-container"></div>
-      <p>Une démarche en intelligence collective de la <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  Pensée Rêve  <span class="invalid-link-brackets">]]</span></span> à l’action concrète au quotidien.
+      <p>Une démarche en intelligence collective de la <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>Pensée Rêve<span class="invalid-link-brackets">]]</span></span> à l’action concrète au quotidien.
 Mise en fonctionnement systémique pour adresser des sujets de fond &amp; complexes.</p>
 
 <p>On évolue ainsi <a class="internal-link" href="/des-assemblages-%C3%A0-la-symbiose-projets">des assemblages à la symbiose projets</a> : ainsi un Projet complexe commun et coopératif.</p>

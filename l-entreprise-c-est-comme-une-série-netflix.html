@@ -8,7 +8,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longemps que lui, parfois à...">
+  <meta name="description" content="un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longtemps que lui, parfois ...">
 
   <meta property="og:site_name" content="Jardin Liut.">
 
@@ -24,21 +24,24 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
-  <meta property="og:description" content="un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longemps que lui, parfois à..."/>
+  <meta property="og:description" content="un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longtemps que lui, parfois ..."/>
   
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -60,7 +63,7 @@
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="l'entreprise c'est comme une série netflix">
-  <meta name="twitter:description" content="un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longemps que lui, parfois à...">
+  <meta name="twitter:description" content="un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longtemps que lui, parfois ...">
   <meta name="twitter:image" content="https://jardin.liut.me/assets/avatar_24.jpg">
 
   <!-- JSON-LD Structured Data -->
@@ -76,12 +79,12 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
     },
-    "description": "un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longemps que lui, parfois à..."
+    "description": "un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longtemps que lui, parfois ..."
   }
   </script>
   
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">1 min de lecture</span>
     </div>
@@ -175,14 +178,14 @@
   <div id="notes-entry-container">
     <div class="note-content">
       <div id="toc-container"></div>
-      <p>un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longemps que lui, parfois à l’episode 10 de la saison 12… et ça permet de se rendre compte des avantages de parfois, pour les moments adaptés… se payer un accompagnement externe.</p>
+      <p>un consultant, facilitateur ou un intervenant externe arrive en cours d’un histoire qui est ent rain de s’écrire depuis bien plus longtemps que lui, parfois à l’episode 10 de la saison 12… et ça permet de se rendre compte des avantages de parfois, pour les moments adaptés… se payer un accompagnement externe.</p>
 
 <h3 id="avantages">avantages</h3>
 
 <ul>
   <li>Regard non jugeant et neuf sur tout sur l’organisation et sur tous les collaborateurs</li>
   <li>Curiosités - il va poser les questions naïves pour comprendre que plus personne n’ose poser en interne</li>
-  <li>Invite à expliquer des évidences desquels parfois ceux qui sont dedans depuis longtemps ne se rendent plus compte</li>
+  <li>Invite à expliquer des évidences dont parfois ceux qui sont dedans depuis longtemps ne se rendent plus compte</li>
   <li>Apporter une prise de recule nécessaire</li>
   <li>… (à développer)</li>
 </ul>

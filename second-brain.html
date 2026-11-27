@@ -8,7 +8,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Principe très proche du [[jardin numérique]], le seconde cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau ...">
+  <meta name="description" content="Principe très proche du [[jardin numérique]], le second cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau n...">
 
   <meta property="og:site_name" content="Jardin Liut.">
 
@@ -24,21 +24,24 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
-  <meta property="og:description" content="Principe très proche du [[jardin numérique]], le seconde cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau ..."/>
+  <meta property="og:description" content="Principe très proche du [[jardin numérique]], le second cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau n..."/>
   
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -60,7 +63,7 @@
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Second Brain">
-  <meta name="twitter:description" content="Principe très proche du [[jardin numérique]], le seconde cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau ...">
+  <meta name="twitter:description" content="Principe très proche du [[jardin numérique]], le second cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau n...">
   <meta name="twitter:image" content="https://jardin.liut.me/assets/avatar_24.jpg">
 
   <!-- JSON-LD Structured Data -->
@@ -76,12 +79,12 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
     },
-    "description": "Principe très proche du [[jardin numérique]], le seconde cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau ..."
+    "description": "Principe très proche du [[jardin numérique]], le second cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau n..."
   }
   </script>
   
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">2 min de lecture</span>
     </div>
@@ -185,9 +188,9 @@
   <div id="notes-entry-container">
     <div class="note-content">
       <div id="toc-container"></div>
-      <p>Principe très proche du <a class="internal-link" href="/jardin-num%C3%A9rique">jardin numérique</a>, le seconde cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau naturel &amp; non pas comme remplaçant, c’est à dire, en respectant notre fonctionnement neuronal et sans nous assister totalement. <strong>Le concept ici n’est pas de tout faire à notre place mais plutôt de nous permettre de nous développer avec lui.</strong></p>
+      <p>Principe très proche du <a class="internal-link" href="/jardin-num%C3%A9rique">jardin numérique</a>, le second cerveau numérique représente une opportunité d’utiliser la machine comme complément à notre cerveau naturel &amp; non pas comme remplaçant, c’est-à-dire, en respectant notre fonctionnement neuronal et sans nous assister totalement. <strong>Le concept ici n’est pas de tout faire à notre place mais plutôt de nous permettre de nous développer avec lui.</strong></p>
 
-<p>Le système “Building a Second Brain (BASB)”” qui vient de Tiago Forte est un moyen d’utiliser la technologie pour capturer et organiser les informations pour une croissance personnelle et professionnelle. Le système repose sur l’idée que notre cerveau n’est pas adapté pour stocker et récupérer une grande quantité d’informations, nous avons donc besoin de créer un “second cerveau” externe pour nous aider à gérer et à comprendre ces informations. Il est divisé en quatre principaux composants : capture, clarification, organisation et génération.</p>
+<p>Le système « Building a Second Brain » (BASB) qui vient de Tiago Forte est un moyen d’utiliser la technologie pour capturer et organiser les informations pour une croissance personnelle et professionnelle. Le système repose sur l’idée que notre cerveau n’est pas adapté pour stocker et récupérer une grande quantité d’informations, nous avons donc besoin de créer un “second cerveau” externe pour nous aider à gérer et à comprendre ces informations. Il est divisé en quatre principaux composants : capture, clarification, organisation et génération.</p>
 
 <p><strong>Capture :</strong> La première étape consiste à capturer toutes les informations que vous rencontrez dans votre vie quotidienne, telles que les articles, notes et idées. Cela peut être fait à l’aide de différents outils, tels qu’une application de prise de notes ou un outil de capture de pages web.
 		<em>je fais ça grâce à Readwise Reader, Readwise &amp; Workflowy</em></p>
@@ -202,7 +205,7 @@
 
 <p><strong>Génération :</strong> L’étape finale consiste à générer de nouvelles idées et insights à partir des informations capturées, clarifiées et organisées. Cela peut être fait en reliant différentes parties d’informations, en créant des cartes mentales ou en utilisant les informations pour prendre des décisions.</p>
 
-<p>j’ajouterais une étape suivante qui consiste à créer des objets finaux de qualité comme des vidéos, des podcasts, des documentaires, livres, etc… une étape pour laquelle il faudra <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  apprendre à mettre en forme  <span class="invalid-link-brackets">]]</span></span> au-delà du traitement du fond et de l’information.</p>
+<p>j’ajouterais une étape suivante qui consiste à créer des objets finaux de qualité comme des vidéos, des podcasts, des documentaires, livres, etc… une étape pour laquelle il faudra <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>apprendre à mettre en forme<span class="invalid-link-brackets">]]</span></span> au-delà du traitement du fond et de l’information.</p>
 
 <blockquote>
   <p>Concept qui reste à développer plus en détails. si vous voulez échanger de vive voix et vous orienter vers un accompagnement, <a href="https://liut-notion.super.site/" target="_blank" rel="noopener noreferrer">nous pouvons nous rencontrer</a></p>
@@ -212,9 +215,9 @@
 <h3 id="quelques-premières-sources">quelques premières sources</h3>
 
 <ul>
-  <li><a href="[https://tiagoforte.com/](https://tiagoforte.com/)">Site web de Tiago Forte</a></li>
-  <li><a href="[https://tiagoforte.com/books/building-a-second-brain/](https://tiagoforte.com/books/building-a-second-brain/)">Livre “Building a Second Brain” de Tiago Forte</a></li>
-  <li><a href="[https://www.youtube.com/watch?v=FvL7WdFcMf4](https://www.youtube.com/watch?v=FvL7WdFcMf4)">Vidéo de présentation de la méthode BASB de Tiago Forte</a></li>
+  <li><a href="https://tiagoforte.com/" target="_blank" rel="noopener noreferrer">Site web de Tiago Forte</a></li>
+  <li><a href="https://tiagoforte.com/books/building-a-second-brain/" target="_blank" rel="noopener noreferrer">Livre “Building a Second Brain” de Tiago Forte</a></li>
+  <li><a href="https://www.youtube.com/watch?v=FvL7WdFcMf4" target="_blank" rel="noopener noreferrer">Vidéo de présentation de la méthode BASB de Tiago Forte</a></li>
 </ul>
 
       <p class="note-cta">Merci de votre lecture — vous pouvez me contacter sur <a href="https://liut.me">liut.me</a></p>
@@ -246,12 +249,17 @@
       
         <div class="backlink-box">
           <a class="internal-link" href="/neurosciences">neurosciences</a>
-          <div class="backlink-excerpt">En lien avec les concepts de mémoire, de plasticité cérébrale, de développement cognitif ainsi que les différents méchanismes de l’attention....</div>
+          <div class="backlink-excerpt">En lien avec les concepts de mémoire, de plasticité cérébrale, de développement cognitif ainsi que les différents mécanismes de l’attention....</div>
         </div>
       
         <div class="backlink-box">
           <a class="internal-link" href="/structurer-un-syst%C3%A8me-information">structurer un système information</a>
           <div class="backlink-excerpt">Les données en interrelations. L’information n’est pas suffisante, elle doit être traitée et connectée pour en faire de la connaissance...</div>
+        </div>
+      
+        <div class="backlink-box">
+          <a class="internal-link" href="/syst%C3%A8me-de-connaissances">système de connaissances</a>
+          <div class="backlink-excerpt">Un système de connaissances organise les informations auxquelles on veut pouvoir revenir pour comprendre une situation ou prendre une décision....</div>
         </div>
       
       </div>

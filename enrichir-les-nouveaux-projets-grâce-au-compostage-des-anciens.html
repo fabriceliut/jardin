@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">3 min de lecture</span>
     </div>
@@ -183,7 +186,7 @@
       <div id="toc-container"></div>
       <h2 id="intention">intention</h2>
 <p>à chaque nouveau projet il y a le risque de réinventer la roue, quel que soit le projet. l’idée ici est de proposer un petit guide permettant de “composter” ou recycler un ancien projet pour en faire des ressources pour un nouveau.
-c’est un peu comme l’<span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  économie circulaire  <span class="invalid-link-brackets">]]</span></span> de la donnée et de la connaissance.</p>
+c’est un peu comme l’<a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a> de la donnée et de la connaissance.</p>
 
 <h3 id="la-fin-dun-projet-cest-le-début-dun-nouveau">la fin d’un projet c’est le début d’un nouveau</h3>
 <p>le projet ne s’arrête pas à l’encaissement de la facture mais lorsqu’on a totalement récolté tous les apprentissages et les ressources qui en ont émergé.</p>
@@ -244,9 +247,14 @@ c’est une culture de l’investissement qui va au-delà de celle de la réacti
     <aside class="note-sidebar">
       <h3 class="sidebar-title">Notes en lien</h3>
       
-      <p class="backlink-empty">
-        Aucune note ne fait référence à celle-ci pour le moment.
-      </p>
+      <div>
+      
+        <div class="backlink-box">
+          <a class="internal-link" href="/%C3%A9conomie-circulaire">économie circulaire</a>
+          <div class="backlink-excerpt">L’économie circulaire consiste à préserver la valeur de ce qui existe déjà. La réparation prolonge l’usage d’un produit. La revente...</div>
+        </div>
+      
+      </div>
       
     </aside>
   </div>

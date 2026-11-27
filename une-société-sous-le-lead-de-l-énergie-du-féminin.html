@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">3 min de lecture</span>
     </div>
@@ -204,13 +207,96 @@ j’imagine une société qui prendrait soin avant tout de la communauté avant 
 <h2 id="favoriser-la-circulation-de-lénergie-féminine-pour-ré-équilibrer-la-balance">favoriser la circulation de l’énergie féminine pour ré-équilibrer la balance.</h2>
 
 <blockquote class="transclusion">
-  <p class="transclusion-content">je propose de présenter le féminin comme l'énergie Yin et le masculin comme l'énergie Yang. les principes de ces 2 énergies sont exactement les même que présentés dans les théories orientales qui utilisent les principes yin/yang.
-
-pour bien comprendre les différences et complémentarités directes de …</p>
-  <footer><a class="internal-link" href="/le-f%C3%A9minin-le-masculin">↗ le féminin &amp; le masculin</a></footer>
+<table>
+  <thead>
+    <tr>
+      <th>Caractéristique</th>
+      <th>Énergie Yin féminine</th>
+      <th>Énergie Yang masculine</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Source d’énergie</td>
+      <td>Intérieure</td>
+      <td>Extérieure</td>
+    </tr>
+    <tr>
+      <td>Nature introspective</td>
+      <td>Oui</td>
+      <td>Non</td>
+    </tr>
+    <tr>
+      <td>Force de résistance</td>
+      <td>Acceptation</td>
+      <td>Action</td>
+    </tr>
+    <tr>
+      <td>Mouvement</td>
+      <td>Fluide</td>
+      <td>Direct</td>
+    </tr>
+    <tr>
+      <td>Qualités principales</td>
+      <td>Douceur, sensibilité</td>
+      <td>Force, détermination</td>
+    </tr>
+    <tr>
+      <td>Expression émotionnelle</td>
+      <td>Expressive</td>
+      <td>Contrôlée</td>
+    </tr>
+    <tr>
+      <td>Communication</td>
+      <td>Verbale, non-verbale</td>
+      <td>Verbale</td>
+    </tr>
+    <tr>
+      <td>Représentation</td>
+      <td>Lune</td>
+      <td>Soleil</td>
+    </tr>
+    <tr>
+      <td>Relation avec l’environnement</td>
+      <td>Nurturance</td>
+      <td>Domination</td>
+    </tr>
+    <tr>
+      <td>Inspiration artistique</td>
+      <td>Créativité intuitive</td>
+      <td>Créativité rationnelle</td>
+    </tr>
+    <tr>
+      <td>Cycles et rythmes</td>
+      <td>Cyclique</td>
+      <td>Linéaire</td>
+    </tr>
+    <tr>
+      <td>Équilibre</td>
+      <td>Interne</td>
+      <td>Externe</td>
+    </tr>
+    <tr>
+      <td>Préférence de travail</td>
+      <td>Collaboration</td>
+      <td>Compétition</td>
+    </tr>
+    <tr>
+      <td>Approche de résolution des problèmes</td>
+      <td>Holistique</td>
+      <td>Analytique</td>
+    </tr>
+    <tr>
+      <td>Polarité</td>
+      <td>Négative</td>
+      <td>Positive</td>
+    </tr>
+  </tbody>
+</table>
+<footer>↗ <a class="internal-link" href="/le-f%C3%A9minin-le-masculin#block-d9olkw">le féminin &amp; le masculin</a></footer>
 </blockquote>
 
-<p>comme dans les théories du <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  Yin Yang  <span class="invalid-link-brackets">]]</span></span>, trop d’une énergie d’un polarité est destructeur et dégénératif. trop de masculin et tout brûle, trop de féminin et c’est la noyade.</p>
+<p>comme dans les théories du <a class="internal-link" href="/2-courants-yin-et-yang">Yin et Yang</a>, trop d’une énergie d’un polarité est destructeur et dégénératif. trop de masculin et tout brûle, trop de féminin et c’est la noyade.</p>
 
 <p>alors notre mission serait d’être conscient de cette balance et de tout faire pour l’équilibrée. c’est déjà un jeu qui se joue à échelle personne, mais c’est aussi à échelle de nos groupes, de nos organisations et de toute la société humaine dans son ensemble.</p>
 
@@ -233,7 +319,7 @@ en même temps pour “être au pouvoir” il faut réussir à prendre cette pla
   <li>dans l’écoute et l’accueil</li>
   <li>ouvert à la <a class="internal-link" href="/coop%C3%A9ration">coopération</a>
 </li>
-  <li>favoriser l’<span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  intuition  <span class="invalid-link-brackets">]]</span></span> plutôt que la raison</li>
+  <li>favoriser l’<a class="internal-link" href="/retrouver-la-confiance-en-l-intuition">intuition</a> plutôt que la raison</li>
 </ul>
 
 <p>et surtout pour ceux qui ont un comportement très masculin - ce sera pour eux une vrai bascule, un changement de polarité peut-être violent mais nécessaire dans la situation d’urgence sociétal que nous sommes en train de vivre.</p>

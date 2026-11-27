@@ -1,6 +1,6 @@
 [build]
   # Netlify builds the Jekyll site automatically on every push.
-  command = "bundle install && bundle exec jekyll build"
+  command = "bundle install && bundle exec jekyll build && python3 tools/check_links.py _site"
   publish = "_site"
 
 [build.environment]
@@ -28,7 +28,7 @@
 [[headers]]
   for = "/search.json"
   [headers.values]
-    Cache-Control = "public, max-age=86400, stale-while-revalidate=604800"
+    Cache-Control = "public, max-age=0, must-revalidate"
     Content-Type = "application/json; charset=utf-8"
 
 # Images and other binary assets: 30-day cache (filenames rarely change)
@@ -42,3 +42,14 @@
   for = "/feed.xml"
   [headers.values]
     Cache-Control = "public, max-age=3600, stale-while-revalidate=86400"
+
+# Route legacy copies of the homepage and notes to the current garden.
+[[redirects]]
+  from = "/docs/index.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/docs/*"
+  to = "/:splat"
+  status = 301

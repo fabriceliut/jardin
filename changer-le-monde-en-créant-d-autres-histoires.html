@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">1 min de lecture</span>
     </div>
@@ -182,10 +185,10 @@
       <p>Only because of our shared imagination, we destroyed planet Earth. Can we regenerate it if we create others stories together ?</p>
 
 <p>New stories &gt; new paradigms &gt; new rules to play game of life, like a <a class="internal-link" href="/metagame">metagame</a>.
-New game &gt; new reality &gt; everything is possible… did you already take Lsd or Ketamine ? What is a trip ?</p>
+New game &gt; new reality &gt; everything is possible&#8230; did you already take Lsd or Ketamine ? What is a trip ?</p>
 
 <p>New brain connexions but only in one head. Our humanity is like a neural network : <strong>if we change our beliefs, we can create new connexions for everybody and change reality for all of us</strong>.
-Who want to converge to a new world with me ? A regenerative world, with priorities on love, care, cooperation, pleasure of playing a shared game… I am so impatient !</p>
+Who want to converge to a new world with me ? A regenerative world, with priorities on love, care, cooperation, pleasure of playing a shared game&#8230; I am so impatient !</p>
 
 <p>sure people from <a href="https://twitter.com/interintellect_" target="_blank" rel="noopener noreferrer">@interintellect_</a> are interested in the same kind of exploration.</p>
 

@@ -24,17 +24,20 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1785937324">
+  <link rel="stylesheet" href="/styles.css?v=1795768876">
 
   <script>
-    // Progressive enhancement: lazy-load images for better perf
-    (function(){
-      try{
-        window.addEventListener('DOMContentLoaded', function(){
-          document.querySelectorAll('img:not([loading])').forEach(function(img){ img.loading = 'lazy'; });
-        });
-      }catch(e){}
-    })();
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
   </script>
 
   
@@ -47,7 +50,7 @@
   
 
   
-  <meta property="article:published_time" content="2026-08-05T13:42:04+00:00">
+  <meta property="article:published_time" content="2026-11-27T08:41:16+00:00">
   <meta property="article:author" content="https://jardin.liut.me/">
   
 
@@ -76,7 +79,7 @@
       "name": "Fabrice Liut",
       "url": "https://jardin.liut.me/about"
     },
-    "dateModified": "2026-08-05T13:41:27+00:00",
+    "dateModified": "2026-11-27T08:40:36+00:00",
     "publisher": {
       "@type": "Person",
       "name": "Fabrice Liut"
@@ -155,8 +158,8 @@
     <div class="note-meta">
       
       
-      <time class="note-updated" datetime="2026-08-05T13:41:27+00:00">
-        Mis à jour le 5 août 2026
+      <time class="note-updated" datetime="2026-11-27T08:40:36+00:00">
+        Mis à jour le 27 novembre 2026
       </time>
       <span class="reading-time">2 min de lecture</span>
     </div>
@@ -204,7 +207,7 @@ en tant que “pro” nous allons donc culturellement tout faire pour “tenir l
 
 <h2 id="take-to-go">take to go</h2>
 <ul>
-  <li>accepter le <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  chaos  <span class="invalid-link-brackets">]]</span></span> présent</li>
+  <li>accepter le <span title="Note en attente" class="invalid-link"><span class="invalid-link-brackets">[[</span>chaos<span class="invalid-link-brackets">]]</span></span> présent</li>
   <li>monter une équipe qui va coopérer pour explorer, se poser d’autres questions et surtout expérimenter et tester dans des environnements types workshops qui sont propices à faire des erreurs “contrôlées”</li>
   <li>vite faire des erreurs, vite apprendre pour réorienter et tester à nouveau, faire des erreurs, apprendre encore et ainsi de suite</li>
   <li>accepter que les plans stratégiques, les plans d’actions et les livrables ne sont plus vraiment les meilleurs objets pour être le plus résilient et performant possible</li>
