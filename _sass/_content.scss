@@ -12,14 +12,16 @@
 }
 
 .note-backlinks {
-  margin-top: 2rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--color-border);
-  scroll-margin-top: 5rem;
+  margin-top: clamp(2.5rem, 5vw, 3.5rem);
+  padding: clamp(1rem, 4vw, 1.75rem);
+  background: var(--color-box-background);
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius-lg;
+  scroll-margin-top: calc(var(--nav-height) + 1rem);
 }
 
 .note-backlinks h2 {
-  margin: 0 0 0.65rem;
+  margin: 0 0 1rem;
   font-size: 1.2rem;
 }
 
@@ -29,43 +31,76 @@
 }
 
 .note-backlinks-list {
+  display: grid;
+  gap: 0.75rem;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
+@media (min-width: 640px) {
+  .note-backlinks-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .note-backlinks-list li:only-child {
+    grid-column: 1 / -1;
+  }
+}
+
 .note-backlinks-list li {
   margin: 0;
-  border-bottom: 1px solid var(--color-border);
+}
+
+.note-backlinks-list a,
+.note-backlinks-more summary {
+  padding: 0.75rem 0.95rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius;
+  min-height: 44px;
+  transition: border-color $transition-fast, box-shadow $transition-fast;
 }
 
 .note-backlinks-list a {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
   gap: 0.75rem;
-  padding: 0.5rem 0;
-  box-sizing: border-box;
-  min-height: 44px;
+  height: 100%;
+  color: var(--color-primary);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.45;
+  text-decoration: none;
   overflow-wrap: anywhere;
+}
+
+.note-backlinks-list a:hover,
+.note-backlinks-more summary:hover {
+  border-color: var(--color-accent);
+  box-shadow: var(--shadow-sm);
+  text-decoration: underline;
 }
 
 .note-backlinks-arrow {
   flex-shrink: 0;
-  color: var(--color-subtext);
+  color: var(--color-accent);
+}
+
+.note-backlinks-more {
+  margin-top: 1rem;
 }
 
 .note-backlinks-more summary {
-  padding: 0.55rem 0;
-  box-sizing: border-box;
-  min-height: 44px;
   cursor: pointer;
   color: var(--color-accent);
+  font-size: 0.875rem;
   font-weight: 600;
 }
 
-.note-backlinks-more summary:hover {
-  text-decoration: underline;
+.note-backlinks-more[open] > .note-backlinks-list {
+  margin-top: 0.75rem;
 }
 
 .note-backlinks-hide,
