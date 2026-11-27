@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+  <meta charset="UTF-8">
+  <script>(function(){var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);})()</script>
+
+  <link rel="canonical" href="https://jardin.liut.me/sociodynamique" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="La sociodynamique propose des repères pour comprendre la position des acteurs face à un projet et travailler à partir des contributions et des résistances qu...">
+
+  <meta property="og:site_name" content="Jardin Liut.">
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
+
+  <!-- color-scheme: lets the browser paint bg before CSS loads -->
+  <meta name="color-scheme" content="light dark">
+
+  <!-- Fonts: Plus Jakarta Sans — async to avoid render-blocking -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
+
+  <!-- Stylesheet — ?v= changes each build to bust browser cache -->
+  <link rel="stylesheet" href="/styles.css?v=1795772535">
+
+  <script>
+    document.addEventListener('error', function(event) {
+      const image = event.target;
+      if (image.tagName !== 'IMG' || !image.closest('.note-content') || !image.alt) return;
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = 'Illustration indisponible · ' + image.alt;
+      image.replaceWith(fallback);
+    }, true);
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img:not([loading])').forEach(function(img) { img.loading = 'lazy'; });
+    });
+  </script>
+
+  
+  <meta property="og:description" content="La sociodynamique propose des repères pour comprendre la position des acteurs face à un projet et travailler à partir des contributions et des résistances qu..."/>
+  
+
+  
+  <meta property="og:title" content="Sociodynamique">
+  <meta property="og:type" content="article">
+  
+
+  
+  <meta property="article:published_time" content="2026-11-27T09:42:15+00:00">
+  <meta property="article:author" content="https://jardin.liut.me/">
+  
+
+  <meta property="og:url" content="https://jardin.liut.me/sociodynamique" />
+
+  
+  <meta property="og:image" content="https://jardin.liut.me/assets/avatar_24.jpg">
+  
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Sociodynamique">
+  <meta name="twitter:description" content="La sociodynamique propose des repères pour comprendre la position des acteurs face à un projet et travailler à partir des contributions et des résistances qu...">
+  <meta name="twitter:image" content="https://jardin.liut.me/assets/avatar_24.jpg">
+
+  <!-- JSON-LD Structured Data -->
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Sociodynamique",
+    "url": "https://jardin.liut.me/sociodynamique",
+    "author": {
+      "@type": "Person",
+      "name": "Fabrice Liut",
+      "url": "https://jardin.liut.me/about"
+    },
+    "dateModified": "2026-11-27T09:41:38+00:00",
+    "publisher": {
+      "@type": "Person",
+      "name": "Fabrice Liut"
+    },
+    "description": "La sociodynamique propose des repères pour comprendre la position des acteurs face à un projet et travailler à partir des contributions et des résistances qu..."
+  }
+  </script>
+  
+
+  <!-- RSS Feed -->
+  <link rel="alternate" type="application/atom+xml" title="Jardin Liut." href="/feed.xml">
+
+  <title>
+    
+      Sociodynamique &mdash; Jardin Liut.
+    
+  </title>
+</head>
+
+  <body>
+    <a class="skip-link" href="#main">Aller au contenu</a>
+    <nav class="site-nav"><div class="nav-inner wrapper" role="navigation" aria-label="Navigation principale">
+    <div class="site-brand">
+        <a href="/">Jardin Liut.</a>
+    </div>
+    <div class="nav-right">
+        <button class="theme-toggle" id="theme-toggle" aria-label="Changer le thème" title="Changer le thème">
+            <span class="theme-toggle-icon" id="theme-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+            </span>
+        </button>
+        <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu" aria-expanded="false">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
+</div>
+</nav>
+    <div class="nav-overlay" id="nav-overlay"></div>
+    <div class="nav-panel" id="nav-panel" role="dialog" aria-label="Navigation" aria-modal="false">
+        <div class="nav-panel-inner">
+            <a href="/search" >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                Rechercher
+            </a>
+            <a href="/offres" >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+                Offres
+            </a>
+            <a href="/about" >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                À propos
+            </a>
+            <a href="/tags" >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+                Tags
+            </a>
+            <a href="/graph" >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="12" r="3"/><line x1="8.59" y1="7.41" x2="15.42" y2="10.59"/><line x1="8.59" y1="16.59" x2="15.42" y2="13.41"/></svg>
+                Graph
+            </a>
+            <a href="/feed.xml">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+                RSS
+            </a>
+        </div>
+    </div>
+    <div class="wrapper">
+      <main id="main">
+
+
+
+
+
+<article>
+  <header>
+    <h1>Sociodynamique</h1>
+    
+    <div class="note-meta">
+      
+      
+      <time class="note-updated" datetime="2026-11-27T09:41:38+00:00">
+        Mis à jour le 27 novembre 2026
+      </time>
+      <span class="reading-time">1 min de lecture</span>
+    </div>
+    
+    
+    <div class="note-tags">
+      
+      <a href="/tags#note" class="tag-badge">note</a>
+      
+      <a href="/tags#seed" class="tag-badge">seed</a>
+      
+      <a href="/tags#coopération" class="tag-badge">coopération</a>
+      
+      <a href="/tags#transformation" class="tag-badge">transformation</a>
+      
+    </div>
+    
+    
+  </header>
+
+  <div id="notes-entry-container">
+    <div class="note-content">
+      <div id="toc-container"></div>
+      <p>La sociodynamique propose des repères pour comprendre la position des acteurs face à un projet et travailler à partir des contributions et des résistances qui apparaissent. La stratégie des alliés donne une place particulière aux personnes prêtes à agir.</p>
+
+<p>La carte sert à choisir de prochaines conversations, et les positions peuvent évoluer. Voir le <a class="internal-link" href="/guidebook-de-l-approche-territoriale-neoz">guidebook de l'approche territoriale NEOZ</a> et la <a href="https://www.institutdelasociodynamique.com/toutes-les-publications/strategie-des-allies" target="_blank" rel="noopener noreferrer">présentation de l’Institut de la Sociodynamique</a>.</p>
+
+    </div>
+
+    
+    
+    
+    <section class="note-backlinks" id="notes-qui-citent" aria-labelledby="notes-qui-citent-titre" tabindex="-1">
+      <h2 id="notes-qui-citent-titre">Notes qui citent celle-ci</h2>
+      <ul class="note-backlinks-list" role="list">
+  
+  <li>
+    <a class="internal-link" href="/guidebook-de-l-approche-territoriale-neoz">
+      <span>guidebook de l&#39;approche territoriale NEOZ</span>
+      <span class="note-backlinks-arrow" aria-hidden="true">→</span>
+    </a>
+  </li>
+  
+</ul>
+
+      
+    </section>
+    
+
+    <p class="note-cta">Merci de votre lecture — vous pouvez me contacter sur <a href="https://liut.me">liut.me</a></p>
+  </div>
+</article>
+
+<script>
+// Auto-generate TOC for notes with 3+ headings
+(function() {
+  var content = document.querySelector('.note-content');
+  var tocContainer = document.getElementById('toc-container');
+  if (!content || !tocContainer) return;
+  
+  var headings = content.querySelectorAll('h2, h3');
+  if (headings.length < 3) return;
+  
+  var details = document.createElement('details');
+  details.className = 'toc';
+  var summary = document.createElement('summary');
+  summary.className = 'toc-title';
+  summary.textContent = 'Sommaire';
+  details.appendChild(summary);
+  var ul = document.createElement('ul');
+  
+  headings.forEach(function(h, i) {
+    if (!h.id) h.id = 'heading-' + i;
+    var li = document.createElement('li');
+    if (h.tagName === 'H3') li.className = 'toc-h3';
+    var a = document.createElement('a');
+    a.setAttribute('href', '#' + h.id);
+    a.textContent = h.textContent;
+    a.addEventListener('click', function(e) {
+      e.preventDefault();
+      var target = document.getElementById(h.id);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        history.replaceState(null, '', '#' + h.id);
+      }
+    });
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+  
+  details.appendChild(ul);
+  tocContainer.appendChild(details);
+})();
+</script>
+</main>
+      <footer class="site-footer">
+	<nav class="footer-nav" aria-label="Navigation de pied de page">
+		<a href="/" >Accueil</a>
+		<a href="/search" >Rechercher</a>
+		<a href="/offres" >Offres</a>
+		<a href="/about" >À propos</a>
+		<a href="/tags" >Tags</a>
+		<a href="/graph" >Graph</a>
+		<a href="/feed.xml" aria-label="Flux RSS">RSS</a>
+	</nav>
+	<p>Ce <a href="/about">jardin numérique</a> est un espace vivant, en constante évolution.</p>
+	<p>© 2026 Jardin Liut.</p>
+</footer>
+
+    </div>
+
+    <div class="tooltip-wrapper" id="tooltip-wrapper">
+  <div id="tooltip-content"></div>
+</div>
+
+<script>
+(function() {
+  var opacityTimeout, contentTimeout;
+  var transitionDurationMs = 100;
+  var tooltipWrapper = document.getElementById('tooltip-wrapper');
+  var tooltipContent = document.getElementById('tooltip-content');
+  var cache = {};
+
+  function hideTooltip() {
+    opacityTimeout = setTimeout(function() {
+      tooltipWrapper.style.opacity = 0;
+      contentTimeout = setTimeout(function() {
+        tooltipContent.innerHTML = '';
+        tooltipWrapper.style.display = 'none';
+      }, transitionDurationMs + 1);
+    }, transitionDurationMs);
+  }
+
+  function showTooltip(event) {
+    var elem = event.target;
+    var rects = elem.getClientRects();
+    var elemProps = rects[rects.length - 1];
+    var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+    if (elem.host !== window.location.host) return;
+
+    function renderTooltip(html) {
+      tooltipContent.innerHTML = html;
+      tooltipWrapper.style.display = 'block';
+      setTimeout(function() { tooltipWrapper.style.opacity = 1; }, 1);
+
+      tooltipWrapper.style.left = (elemProps.left - (tooltipWrapper.offsetWidth / 2) + (elemProps.width / 2)) + 'px';
+      if ((window.innerHeight - elemProps.top) < tooltipWrapper.offsetHeight) {
+        tooltipWrapper.style.top = (elemProps.top + scrollTop - tooltipWrapper.offsetHeight - 10) + 'px';
+      } else {
+        tooltipWrapper.style.top = (elemProps.top + scrollTop + 35) + 'px';
+      }
+      if ((elemProps.left + elemProps.width / 2) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = '10px';
+      } else if ((document.body.clientWidth - elemProps.left - elemProps.width / 2) < (tooltipWrapper.offsetWidth / 2)) {
+        tooltipWrapper.style.left = (document.body.clientWidth - tooltipWrapper.offsetWidth - 20) + 'px';
+      }
+    }
+
+    if (cache[elem.href]) {
+      renderTooltip(cache[elem.href]);
+      return;
+    }
+
+    fetch(elem.href)
+      .then(function(r) { return r.text(); })
+      .then(function(html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, 'text/html');
+        var h1 = doc.querySelector('h1');
+        var content = doc.querySelector('.note-content');
+        if (!h1 || !content) return;
+        var preview = '<div class="tooltip-title">' + h1.textContent + '</div>' + content.innerHTML;
+        cache[elem.href] = preview;
+        renderTooltip(preview);
+      })
+      .catch(function() {});
+  }
+
+  function setupListeners(link) {
+    link.addEventListener('mouseleave', hideTooltip);
+    link.addEventListener('touchend', hideTooltip);
+    link.addEventListener('mouseenter', function(e) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+      showTooltip(e);
+    });
+  }
+
+  tooltipWrapper.addEventListener('mouseleave', hideTooltip);
+  tooltipWrapper.addEventListener('touchend', hideTooltip);
+  tooltipWrapper.addEventListener('mouseenter', function() {
+    clearTimeout(opacityTimeout);
+    clearTimeout(contentTimeout);
+  });
+
+  document.querySelectorAll('.note-content a').forEach(function(link) {
+    // Skip same-page anchor links (e.g. TOC links)
+    if (link.getAttribute('href') && link.getAttribute('href').charAt(0) === '#') return;
+    // Skip links inside the TOC
+    if (link.closest('.toc')) return;
+    setupListeners(link);
+  });
+})();
+</script>
+
+
+    <script>
+    // Theme toggle: cycles auto → dark → light → auto
+    (function() {
+      var root = document.documentElement;
+      var btn = document.getElementById('theme-toggle');
+      var icon = document.getElementById('theme-icon');
+      if (!btn || !icon) return;
+
+      var moonSVG = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+      var sunSVG = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>';
+
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark' || saved === 'light') {
+        root.setAttribute('data-theme', saved);
+      }
+      updateIcon();
+
+      btn.addEventListener('click', function() {
+        var current = root.getAttribute('data-theme');
+        if (!current) {
+          root.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+        } else if (current === 'dark') {
+          root.setAttribute('data-theme', 'light');
+          localStorage.setItem('theme', 'light');
+        } else {
+          root.removeAttribute('data-theme');
+          localStorage.removeItem('theme');
+        }
+        updateIcon();
+      });
+
+      function updateIcon() {
+        var theme = root.getAttribute('data-theme');
+        if (theme === 'dark') {
+          icon.innerHTML = sunSVG;
+        } else if (theme === 'light') {
+          icon.innerHTML = moonSVG;
+        } else {
+          icon.innerHTML = window.matchMedia('(prefers-color-scheme: dark)').matches ? sunSVG : moonSVG;
+        }
+      }
+    })();
+
+    // Hamburger menu toggle (panel + overlay)
+    (function() {
+      var hamburger = document.getElementById('nav-hamburger');
+      var navEl = document.querySelector('.site-nav');
+      var overlay = document.getElementById('nav-overlay');
+      var panel = document.getElementById('nav-panel');
+      if (!hamburger || !navEl) return;
+
+      function toggleMenu() {
+        var isOpen = navEl.classList.toggle('nav-open');
+        hamburger.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      }
+
+      function closeMenu() {
+        navEl.classList.remove('nav-open');
+        hamburger.setAttribute('aria-expanded', 'false');
+        hamburger.focus();
+      }
+
+      hamburger.addEventListener('click', toggleMenu);
+
+      // Close on overlay click
+      if (overlay) overlay.addEventListener('click', closeMenu);
+
+      // Close on link click
+      if (panel) {
+        panel.querySelectorAll('a').forEach(function(link) {
+          link.addEventListener('click', closeMenu);
+        });
+      }
+
+      // Close on Escape key
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && navEl.classList.contains('nav-open')) {
+          closeMenu();
+        }
+      });
+    })();
+    </script>
+  </body>
+</html>
