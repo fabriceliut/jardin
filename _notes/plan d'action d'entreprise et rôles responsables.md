@@ -8,7 +8,7 @@ tags:
  - to_update
 
 ---
-Suite de cette série pour partager ce que j’ai appris de plus important avec les dirigeants que j’ai accompagné qui peut enrichir les autres. 
+Suite de cette série pour partager ce que j’ai appris de plus important avec les dirigeants que j’ai accompagnés qui peut enrichir les autres. 
 
 Dans [[stratégies d'entreprise]], j’expliquais comment mettre en place des stratégies en alignement avec la vision de l’entreprise. 
 

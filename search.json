@@ -8,7 +8,7 @@ permalink: /search.json
   {
     "title": {{ note.title | jsonify }},
     "url": "{{ site.baseurl }}{{ note.url }}",
-    {% assign search_text = note.content | strip_html | normalize_whitespace %}
+    {% assign search_text = note.content | replace: "</p>", " </p>" | replace: "</li>", " </li>" | replace: "</h2>", " </h2>" | replace: "</h3>", " </h3>" | strip_html | normalize_whitespace %}
     "excerpt": {{ search_text | truncatewords: 30 | jsonify }},
     "text": {{ search_text | jsonify }}
   }{% unless forloop.last %},{% endunless %}

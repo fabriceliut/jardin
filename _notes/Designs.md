@@ -8,7 +8,7 @@ tags:
  - candidate_post
 
 ---
-**Les pensée & démarches "Designs"** prennent une place de plus en plus importante et nécessaire dans l'évolution de notre société et de nos systèmes, que ce soit les organisations d'entreprises ou les organismes publics, le secteur humanitaire ou associatif.
+**Les pensées & démarches "Designs"** prennent une place de plus en plus importante et nécessaire dans l'évolution de notre société et de nos systèmes, que ce soit les organisations d'entreprises ou les organismes publics, le secteur humanitaire ou associatif.
 
 > Quelques exemples ? IDEO, Patagonia, Apple, IBM, AirBnb, Uber, Facebook, Amazon, Lego... Pour ne citer que les plus grosses organisations.
 

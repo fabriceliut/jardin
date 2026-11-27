@@ -8,7 +8,7 @@ tags:
 ---
 # Une planète de mercenaires
 
-Nous sommes sur une planète de mercenaires. Quasiment tous les humains à la surface de la planète se comportent ainsi, même s'ils ne sont pas en "temps de guerre" déclarée, j'entend par guerre le sens classique, c'est-à-dire des oppositions par la violence, la force, ou des gens sont tués et où il y a besoin d'humains pour bien tuer : les mercenaires.
+Nous sommes sur une planète de mercenaires. Quasiment tous les humains à la surface de la planète se comportent ainsi, même s'ils ne sont pas en "temps de guerre" déclarée, j'entends par guerre le sens classique, c'est-à-dire des oppositions par la violence, la force, ou des gens sont tués et où il y a besoin d'humains pour bien tuer : les mercenaires.
 
 Prenons la définition fondamentale :
 

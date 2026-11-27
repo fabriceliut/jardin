@@ -13,7 +13,7 @@ tags:
 Suite à discussion avec Olaf, un ami de [[Archipel Kyosei]]
 
 ### intention
-trouver la relation idéale allant de la recherche académique de pointe à l’offre commerciale qui vend - et marketing qui convertie
+trouver la relation idéale allant de la recherche académique de pointe à l’offre commerciale qui vend - et marketing qui convertit
 
 pour s'assurer que ce qui est déployé sur le terrain est juste et adapté.
 pour s'assurer que ce qui émerge dans le monde de la recherche est utilisé à sa juste valeur et rapidement (pas après 10ans et 5 niveaux de vulgarisation).

@@ -93,7 +93,7 @@ id: search
   });
 
   search();
-  fetch('{{ site.baseurl }}/search.json')
+  fetch('{{ site.baseurl }}/search.json?v={{ site.time | date: "%s" }}')
     .then(response => {
       if (!response.ok) throw new Error('Index inaccessible');
       return response.json();

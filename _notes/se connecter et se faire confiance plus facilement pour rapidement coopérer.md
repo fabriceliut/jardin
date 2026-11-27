@@ -7,7 +7,7 @@ tags:
  - v1
 
 ---
-Pour travailler ensemble les humains passent toujours par les même étapes :
+Pour travailler ensemble les humains passent toujours par les mêmes étapes :
 
 - se découvrir
 - se rassembler

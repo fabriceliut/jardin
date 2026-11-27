@@ -5,7 +5,7 @@ tags:
  - v1
 
 ---
-D’une certaines manière notre humanité explore vraiment dans tous les sens dans sa quête de connaissance…
+D’une certaine manière notre humanité explore vraiment dans tous les sens dans sa quête de connaissance…
 
 Qui est au final une expansion d’elle-même qui veut se remplir de nouvelles informations.
 

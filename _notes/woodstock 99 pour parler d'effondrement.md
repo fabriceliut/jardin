@@ -8,7 +8,7 @@ tags:
   - note
 
 ---
-documentaire [sur Netflix ](https://www.netflix.com/watch/81337101?trackId=14170032)que j'invite vraiment à découvrir. comment un festival qui devait être le plus dingue du monde l'a été mais dans la polaritée totalement inverse de l'original de 1969.
+documentaire [sur Netflix ](https://www.netflix.com/watch/81337101?trackId=14170032)que j'invite vraiment à découvrir. comment un festival qui devait être le plus dingue du monde l'a été mais dans la polarité totalement inverse de l'original de 1969.
 d'un côté, peace and love et de l'autre war and violence! ce n'est pas la même époque et les intentions à l'origine ne sont pas les même non plus.
 en 99, il faut être rentable, c'est donc l'économie qui est au coeur, avec les économies à faire et donc tous les risques que ça induit lorsqu'on regroupe +100 000 personnes au même endroit...
 si c'est l'argent au centre, la réflexion artistique n'est pas la même: faire venir des groupes de métales en 99 n'est pas la même chose que du rock psy 69...

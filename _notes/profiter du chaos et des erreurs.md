@@ -8,7 +8,7 @@ tags:
 ---
 [inspiration de cet article](https://beauulrey.medium.com/organized-chaos-df1e3ff188ee)
 
-en général lorsqu'on travaille pour un client est attendu en sortie un livrable qui doit être le plus juste et efficace par rapport à la demande pour mériter son sous.
+en général lorsqu'on travaille pour un client est attendu en sortie un livrable qui doit être le plus juste et efficace par rapport à la demande pour mériter ses sous.
 en tant que "pro" nous allons donc culturellement tout faire pour "tenir la promesse" et faire en sorte que le livrable soit le plus qualitatif possible.
 
 la quête du meilleur livrable va souvent se faire dans son coin, pas forcément sous les yeux du client - on attendra la version suffisamment avancée.
