@@ -38,6 +38,6 @@ Maintenir cet équilibre, nourri par les deux polarités, constitue peut-être t
 
 Cette danse demande de la patience, de la bienveillance envers soi-même, et surtout l'acceptation que l'équilibre n'est pas un état fixe mais un mouvement perpétuel. Comme sur un fil, c'est dans le micro-ajustement constant que se trouve la stabilité.
 
-Car au final, il se passe des choses au niveau [[inconscient]] quand nous acceptons cette [[complexité]] plutôt que de chercher des solutions radicales. L'équilibre véritable émerge non pas de la perfection, mais de notre capacité à rester présents à ce qui est, moment après moment.
+Car au final, il se passe des choses au niveau [[Inconscient]] quand nous acceptons cette [[complexité]] plutôt que de chercher des solutions radicales. L'équilibre véritable émerge non pas de la perfection, mais de notre capacité à rester présents à ce qui est, moment après moment.
 
 Note qui participe à [[décoder la vie]]

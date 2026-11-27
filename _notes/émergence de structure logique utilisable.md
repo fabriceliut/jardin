@@ -54,7 +54,7 @@ Lien avec la [[Pensée Faire]]
 > "Qu’est-ce qui est fait concrètement avec ce qui est appris ?"
 
 
-Une démarche de [[Recherche-Action]] en commun en aller/retour.
+Une démarche de [[la recherche action pour remplacer les démarches d'innovation classiques|Recherche-Action]] en commun en aller/retour.
 
 ### Documentations, données enrichies & traces ou livres de bord.
 Les sources, les pensées

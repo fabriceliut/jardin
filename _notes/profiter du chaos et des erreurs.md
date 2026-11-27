@@ -32,7 +32,7 @@ mais ça demande d'accepter une autre culture du travail et de connaître un peu
 c'est contre intuitif dans un premier temps, difficile à expliquer pour permettre de se projeter même si validé par la science. souvent, il faut en faire l'expérience directe pour basculer.
 
 ## take to go
-- accepter le [[chaos]] présent
+- accepter le chaos présent
 - monter une équipe qui va coopérer pour explorer, se poser d'autres questions et surtout expérimenter et tester dans des environnements types workshops qui sont propices à faire des erreurs "contrôlées"
 - vite faire des erreurs, vite apprendre pour réorienter et tester à nouveau, faire des erreurs, apprendre encore et ainsi de suite
 - accepter que les plans stratégiques, les plans d'actions et les livrables ne sont plus vraiment les meilleurs objets pour être le plus résilient et performant possible

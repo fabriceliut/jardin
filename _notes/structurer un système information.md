@@ -49,7 +49,7 @@ Ressources reliées à des thèmes
  - Un peu comme un journal intime ouvert et commun
 
 ### 🧰 Outils.
-- [[Roam Research]] ou [[Workflowy]] pour tout le travail qui va jusqu'au projet posé en logique et à l'écrit
+- [[Roam Research]] ou [Workflowy](https://workflowy.com/) pour tout le travail qui va jusqu'au projet posé en logique et à l'écrit
 - [[Notion]] pour la mise en narration et en forme page web
 - *mettre en forme ensuite en article, livre, audio, vidéo, expérience dans le réel, etc...*
 

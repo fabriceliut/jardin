@@ -10,7 +10,7 @@ tags:
 ---
 notre humanité a subi une période de pandémie pendant plus de 2ans. ce que nous désirons en grande majorité, c'est que ça s'arrête et qu'on puisse retrouver "au moins" le même état qu'avant et ne plus en parler. ce virus "nous emmerde" très clairement. il fait peur et crée stress et anxiété.
 
-je pourrais vous partager un [[histoire des virus]] complète pour mieux les comprendre, mais je pense que depuis vous avez tous eu beaucoup de lectures sur le sujet et pas forcément envie de plus. alors je rappellerais simplement qu'un virus, ce dont il a besoin c'est un hôte dans lequel s'installer et se dupliquer. mais s'il commence à "prendre trop de place", trop s'installer, il casse l'équilibre fragile de l'hôte et peut le tuer.
+je pourrais vous partager un [[Histoire des virus]] complète pour mieux les comprendre, mais je pense que depuis vous avez tous eu beaucoup de lectures sur le sujet et pas forcément envie de plus. alors je rappellerais simplement qu'un virus, ce dont il a besoin c'est un hôte dans lequel s'installer et se dupliquer. mais s'il commence à "prendre trop de place", trop s'installer, il casse l'équilibre fragile de l'hôte et peut le tuer.
 maintenant remplacez virus ou covid par "humanité" et hôte par "planète Terre".
 
 > **l'humanité a besoin d'une planète terre pour s'installer et se dupliquer. mais si elle s'installe trop, elle risque de casser l'équilibre fragile de la planète et peut la détruire.**

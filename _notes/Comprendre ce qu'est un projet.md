@@ -16,7 +16,7 @@ Par le projet, **on rend déjà conscient pour nous-mêmes un imaginaire qu'on v
 
 ---
 
-Pour tout projet il est nécessaire de gérer des ressources intellectuelles (connaissance) et des ressources humaines. Le [[management de la connaissance]] adresse l'un et le [[management projet]] l'autre.
+Pour tout projet il est nécessaire de gérer des ressources intellectuelles (connaissance) et des ressources humaines. Le [[Management de la connaissance]] adresse l'un et le [[Gestion de projet|management projet]] l'autre.
 
 Pour ces 2 sujets il y a plusieurs besoins :
 
@@ -39,7 +39,7 @@ Pour ces 2 sujets il y a plusieurs besoins :
 **Comme la photo, un bout de texte peut être une finalité en soi ou le début d'une inspiration. Tout est projet : il y a des projets "bruts" et d'autres "composés", des simples et des plus complexes.**
 
 Dans notre société, nous avons tendance à valoriser beaucoup plus les projets complexes et construits que les projets bruts qui semblent toujours n'être que de la matière première rapide si cette matière n'est pas mise en récit et en scène. Ici nous voyons l'importance du #storytelling, du packaging et de créer un "objet projet" qui va mettre en valeur la production et l'adapter pour la présenter à son audience.
-Cette partie donne lieu à l'étude [[apprendre à mettre en forme]].
+Cette partie donne lieu à l'étude [[émergence de structure logique utilisable#Mise en forme.|apprendre à mettre en forme]].
 
 ---
 #Afairepousser 

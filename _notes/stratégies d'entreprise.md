@@ -29,7 +29,7 @@ Autre effet : même si la vision est bien posée elle semble tellement détaché
 
 Les stratégies sont là pour raconter le chemin et proposer un scénario clair dans lequel chacun va pouvoir se projeter et sentir que oui, si on passe par là et bien il est clairement possible d’aboutir à la vision! 
 
-Vous allez me dire qu'il y a un lien fort avec les [[objectifs d'entreprise]] et vous aurez raison! Mais j'y reviendrais plus tard.
+Vous allez me dire qu'il y a un lien fort avec les [[Objectifs d’entreprise]] et vous aurez raison! Mais j'y reviendrais plus tard.
 
 ## Repartir de la vision pour un atelier d’écriture des stratégies en groupe.
 
@@ -57,7 +57,7 @@ Ensuite il faudra s’assurer qu’à la lecture de ces 10 axes par quelqu’un 
 
 Ensuite, il va falloir se répartir les responsabilités : qui va travailler à dynamiser quelles stratégies et comment? 
 
-À ce stade c’est le début du sujet d’un autre article qui adresse un autre point de friction des directions : comment bien répartir les rôles et les responsabilités de l’entreprise et le tout en accord avec les stratégies mais aussi les compétences et les envies des collaborateurs? Voir la [[gouvernance d'entreprise]].
+À ce stade c’est le début du sujet d’un autre article qui adresse un autre point de friction des directions : comment bien répartir les rôles et les responsabilités de l’entreprise et le tout en accord avec les stratégies mais aussi les compétences et les envies des collaborateurs? Voir la [[Gouvernance d’entreprise]].
 
 
 ### Prochainement pour compléter cet article sur les stratégies :

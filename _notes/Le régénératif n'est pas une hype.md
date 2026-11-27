@@ -18,6 +18,6 @@ C'est l'affaire de toutes et tous, l'aboutissement d'une [[pensée systémique]]
 
 Je parle ici à ceux qui n'auront pas besoin d'exemples concrets mais qui sont déjà convaincus : régénérer c'est notre mission au quotidien, par quelque bout que vous le preniez.
 
-Depuis 6 ans dans l'aventure et beaucoup d’années devant nous : il n'y a pas de rebonds au-delà, sinon le [[chaos]], aboutissement du dégénératif.
+Depuis 6 ans dans l'aventure et beaucoup d’années devant nous : il n'y a pas de rebonds au-delà, sinon le [[profiter du chaos et des erreurs|chaos]], aboutissement du dégénératif.
 
 > "Viser le régénératif" le plus possible, pour rééquilibrer la balance planétaire.

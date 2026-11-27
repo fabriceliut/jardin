@@ -16,7 +16,7 @@ L'émergence de nouveautés qui sont en balance entre très originales ou très 
 
 ### lien entre créativité et innovation
 
-Créativité et [[innovation]] sont deux concepts étroitement liés, bien qu'ils ne soient pas synonymes.
+Créativité et [[Innovation]] sont deux concepts étroitement liés, bien qu'ils ne soient pas synonymes.
 
 La créativité fait référence à la capacité de penser de manière nouvelle et originale, de sortir des sentiers battus, de faire des connections inhabituelles et de proposer des idées uniques. C'est une compétence cognitive et émotionnelle qui permet à une personne d'imaginer et de concevoir quelque chose de nouveau.
 

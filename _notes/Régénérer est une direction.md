@@ -13,7 +13,7 @@ Bien entendu, ce n'est pas possible. Certaines situations sont tellement complex
 
 > Par exemple, lorsque vous faites de l'exercice physique intensif : vous "cassez" de la fibre musculaire ce qui va lancer un processus de reconstruction pour s'adapter à une nouvelle charge d'activité. Vous transformer votre corps pour qu'il s'adapte et devienne plus résistant dans certaines situations.
 
-Pour cette raison, la régénération n'est pas un processus linéaire : une situation tend à la régénération ou tend à la dégénération mais il n'y a pas d'état final. C'est un processus de vie, un processus naturel. C'est [[Yin Yang]], positif/négatif, deux énergies essentielles de notre réalité.
+Pour cette raison, la régénération n'est pas un processus linéaire : une situation tend à la régénération ou tend à la dégénération mais il n'y a pas d'état final. C'est un processus de vie, un processus naturel. C'est [[2 courants Yin et Yang|Yin Yang]], positif/négatif, deux énergies essentielles de notre réalité.
 
 Cependant, dans notre société actuelle, beaucoup plus d'activités, de projets ou de systèmes tendent vers la dégénération. C'est pour venir remettre de l'équilibre dans cette balance que le [[design régénératif]] existe. Cette approche ne cherche pas à équilibrer la réalité mais seulement à réparer les effets dégénératifs de l'humanité pour la soigner & la remettre en santé.
 
@@ -22,6 +22,6 @@ C'est ce qu'on pourrait appeler "le choix déterminant de la vie" - également e
 
 ![Illustration de la note sur la régénération](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FOmega%2Fd50EJqYA7l?alt=media&token=cd155080-20a1-4084-97ee-cb8d7ca1ee55)
 
-Inspiration du [livre]([[Livres et vidéos]]) 👉 Le génie de Viktor.Schauberger, Naturaliste, garde forestier et scientifique intuitif par l'observation.
+Cette note s’inspire de la lecture du *Génie de Viktor Schauberger*.
 
 pour [[Prendre soin du monde]].

@@ -8,7 +8,7 @@ tags:
  - to_update
 
 ---
-Nous vivons dans le "game" de la société. Au-dessus, "certains" jouent au jeu de la société, c'est eux qui gèrent le "Monopoly" avec ses règles, son économie, ses [[paradigme]].
+Nous vivons dans le "game" de la société. Au-dessus, "certains" jouent au jeu de la société, c'est eux qui gèrent le "Monopoly" avec ses règles, son économie, ses [[Paradigme]].
 Au-dessus encore, il y a le niveau de la Vie elle-même, en dehors de tout formatage de société, de culture mais DANS la vie.
 
 **Au-dessus enfin, le niveau de définition, d'écriture et de création de ce qu'on appelle la Vie : le Metagame.**

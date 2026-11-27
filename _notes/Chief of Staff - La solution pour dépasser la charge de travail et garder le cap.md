@@ -22,7 +22,7 @@ Un [[chief of staff]] (CoS) n’est pas un simple exécutant ou un assistant. **
 
 ### Un Pilote de la Stratégie et des Projets
 
-Au-delà de son rôle de [[sparring partner]], le Chief of Staff est aussi un gestionnaire clé des opérations. **Il supervise le bon déroulement des projets stratégiques, coordonne les différents départements et facilite la communication entre eux**. Il veille à ce que chaque membre de l'équipe de direction reste aligné sur les priorités, et il est le garant d'une exécution fluide des initiatives.
+Au-delà de son rôle de [[Sparring partner]], le Chief of Staff est aussi un gestionnaire clé des opérations. **Il supervise le bon déroulement des projets stratégiques, coordonne les différents départements et facilite la communication entre eux**. Il veille à ce que chaque membre de l'équipe de direction reste aligné sur les priorités, et il est le garant d'une exécution fluide des initiatives.
 
 > _Vous gagnez ainsi en sérénité, sachant que quelqu'un veille à ce que les actions essentielles soient menées à bien, sans perdre de vue la stratégie globale._
 

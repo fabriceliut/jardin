@@ -28,12 +28,12 @@ Finissons cette présentation globale par quelques exemples d'applications conc
 - **Par le [[design systémique]]**, prendre conscience de la structure de nos organisations, des priorités et urgences d'actions réelles mais aussi des modes d'échanges d'informations, des axes de frictions, etc... *(ex : Lego qui se restructure sur une logique horizontale et qui optimise ainsi tous ses services d'activités en fluidifiant les échanges, les collaborations et les prises de décisions)*
 - **Par le [[Design information architecture]]** pour structurer l'information de la veille coopérative à l'exploitation de cette connaissance en commun en mode projet.
 - par le [[community design]]
-- par le [[culture design]]
+- par le [[Culture design]]
 - par le [[Design fiction]]
-- par le [[political design]]
+- par le [[Political design]]
 - par le combo design et [[bio-inspiration]]
-- par le design [[low tech]] et le lien avec la [[frugalité]]
-- par le [[brand design]]
+- par le design [[Low-tech|low tech]] et le lien avec la [[Frugalité]]
+- par le [[Brand design]]
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 Vous pourrez découvrir ici prochainement une liste complète de tous les Designs.

@@ -58,7 +58,7 @@ En résumé : **pas un titre figé, mais une mission claire** : faire gagner
 
 **Associé Opérationnel & Stratégique**, c’est exactement ce que je fais depuis des années, formulé de façon plus lisible pour les dirigeants :
 
-- [[Sparring Partner]]
+- [[Sparring partner]]
 
  Je challenge la stratégie, les arbitrages, et les angles morts.
 

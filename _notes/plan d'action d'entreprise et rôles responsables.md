@@ -32,7 +32,7 @@ Vous me direz c’est normal : répartir les rôles et les efforts avec intellig
 
 Pourtant, j’appuie vraiment sur ce point des répartitions de rôles parce que ce n’est pas la même chose que recruter sur des fiches de postes, qui sont plus des nécessaire d’ordre RH et financier. 
 
-Je pourrais développer sur les limites des fiches de postes dans un autre article mais ici, revenons sur comment bien définir et répartir des responsabilités. (je développe aussi sur les rôles dans [[gouvernance d'entreprise]])
+Je pourrais développer sur les limites des fiches de postes dans un autre article mais ici, revenons sur comment bien définir et répartir des responsabilités. (je développe aussi sur les rôles dans [[Gouvernance d’entreprise]])
 
 
 ### Qu’est-ce que des rôles?
@@ -56,7 +56,7 @@ Aussi, si un collaborateur clé ou historique quitte l’entreprise, l’entrepr
 
 Pour que ce fonctionnement en rôles fonctionne il faut aussi s’assurer de mettre en place une culture de la documentation pour que l’historique du rôle et ses ressources soient mises à jour en continu. 
 
-Je développe dans un autre article sur le [[management de la connaissance]] comme ressource essentielle au bon fonctionnement d'une organisation. 
+Je développe dans un autre article sur le [[Management de la connaissance]] comme ressource essentielle au bon fonctionnement d'une organisation. 
 
 Dernier point important sur les rôles : il y a des règles pour prendre le rôle mais aussi pour le laisser à quelqu’un d’autre. Toujours une procédure ON et OFF boarding.
 
@@ -64,7 +64,7 @@ Un rôle nécessaire doit être dynamisé et c’est à la responsabilité du po
 
 Aussi, mais je ne développerais pas ici, il est possible que plusieurs humains dynamisent un rôle.
 
-Possible aussi pour un humain de dynamiser plusieurs rôles… mais je rentrerai dans la complexité des rôles dans une autre note sur la [[gouvernance d'entreprise]]. 
+Possible aussi pour un humain de dynamiser plusieurs rôles… mais je rentrerai dans la complexité des rôles dans une autre note sur la [[Gouvernance d’entreprise]]. 
 
 
 ### Et les responsabilités?
@@ -94,7 +94,7 @@ Il est conscient que s’il n’est pas assez actif dans son rôle, il bloque un
 
 ## Proposition d’atelier pour co-construire les rôles et responsabilités 
 
-- repartir d’une lecture de la [[vision d’entreprise]]
+- repartir d’une lecture de la [[rédiger une vision d'entreprise claire et partagée|vision d’entreprise]]
 - Relire les [[stratégies d'entreprise]]
 - Décomposer chaque stratégie en sous groupes pour définir les projets qui font vivre ces stratégies 
 - Pour chaque projet, définir les groupes de tâches nécessaire 
@@ -133,8 +133,8 @@ Et pour s’activer, suivre, piloter, réorienter il est cœur d’avoir un plan
 - Des rituels pour piloter le plan
 - Faire évoluer le plan et le mettre à jour 
 - Faire évoluer les rôles et mettre à jour 
-- Méthodes de gestion de projet : [[management projet]]
-- Méthodes de gestion de la connaissance : [[management de la connaissance]]
+- Méthodes de gestion de projet : [[Gestion de projet|management projet]]
+- Méthodes de gestion de la connaissance : [[Management de la connaissance]]
 - Les outils, les ressources et les bonnes pratiques au quotidien
 
 pour [[Prendre soin du collectif]].

@@ -17,11 +17,11 @@ tags:
 
 >Connecter, lier, mettre en lien, en réseau, en cohérence…
 
-Et ça s’applique avec les humains, les organisations, les projets, l’information etc… (information ? oui penser au [[knowledge management]])
+Et ça s’applique avec les humains, les organisations, les projets, l’information etc… (information ? oui penser au [[Management de la connaissance|knowledge management]])
 
 le rôle de l'accompagnant est de faciliter les coopérations, fluidifier les démarches de co-construction, structurer et animer des communautés de pratiques ([[community design]]), initier et faire vivre des écosystèmes d’affaire et de territoires etc…
 
-le [[project management]] est également un levier puissant de coopération.
+le [[Gestion de projet|project management]] est également un levier puissant de coopération.
 
 ### constat d'expérience +15 ans
 nous sommes une espèce avant tout sociale et pourtant la coopération n'est toujours pas chose évidente...

@@ -25,7 +25,7 @@ Le système « Building a Second Brain » (BASB) qui vient de Tiago Forte est un
 
 **Génération :** L'étape finale consiste à générer de nouvelles idées et insights à partir des informations capturées, clarifiées et organisées. Cela peut être fait en reliant différentes parties d'informations, en créant des cartes mentales ou en utilisant les informations pour prendre des décisions.
 
-j'ajouterais une étape suivante qui consiste à créer des objets finaux de qualité comme des vidéos, des podcasts, des documentaires, livres, etc... une étape pour laquelle il faudra [[apprendre à mettre en forme]] au-delà du traitement du fond et de l'information.
+j'ajouterais une étape suivante qui consiste à créer des objets finaux de qualité comme des vidéos, des podcasts, des documentaires, livres, etc... une étape pour laquelle il faudra [[émergence de structure logique utilisable#Mise en forme.|apprendre à mettre en forme]] au-delà du traitement du fond et de l'information.
 
 
 > Concept qui reste à développer plus en détails. si vous voulez échanger de vive voix et vous orienter vers un accompagnement, [nous pouvons nous rencontrer](https://liut-notion.super.site/)

@@ -9,7 +9,7 @@ tags:
 ---
 Il est utile de comprendre les détails de comment fonctionne la communication entre humains pour mieux s’organiser et réduire l’effort de traiter de l’information. 
 
-Également connaître la structure de la communication permet d’améliorer la manière de créer et partager de l’information - voir [[management de la connaissance]]. 
+Également connaître la structure de la communication permet d’améliorer la manière de créer et partager de l’information - voir [[Management de la connaissance]]. 
 
 C’est donc à avantage dans les deux sens. 
 
@@ -65,7 +65,7 @@ Si vous avez 5 demandes différentes à formuler au même moment de qualités di
 
 C’est alors certainement le moment de placer une réunion qui sera pour le coup bien placée : **sur 1h condenser une transmission d’informations et de demandes bien formulées**. 
 
-Si vous utilisez des outils de [[management projet]] ce sera encore plus simple et efficace : chaque tâche ou information pourra être un élément assigné à la personne responsable, avec du détail en contexte et une deadline pour le délai de traitement attendu. 
+Si vous utilisez des outils de [[Gestion de projet|management projet]] ce sera encore plus simple et efficace : chaque tâche ou information pourra être un élément assigné à la personne responsable, avec du détail en contexte et une deadline pour le délai de traitement attendu. 
 
 Il suffira alors d’envoyer un message avec un information unique précisant où trouver un paquet d’infos et de demandes qui sont déjà traitées et en contexte pour la personne. 
 

@@ -74,18 +74,54 @@
   line-height: 1.45;
   text-decoration: none;
   overflow-wrap: anywhere;
+  transition: background-color $transition-fast, border-color $transition-fast, color $transition-fast, box-shadow $transition-fast;
 }
 
-.note-backlinks-list a:hover,
-.note-backlinks-more summary:hover {
-  border-color: var(--color-accent);
-  box-shadow: var(--shadow-sm);
-  text-decoration: underline;
+.note-backlinks-list a:focus-visible {
+  background-color: var(--color-accent-hover);
+  border-color: var(--color-accent-hover);
+  color: var(--color-page-background);
 }
 
 .note-backlinks-arrow {
   flex-shrink: 0;
   color: var(--color-accent);
+  transition: color $transition-fast, transform $transition-normal;
+}
+
+.note-backlinks-list a:focus-visible .note-backlinks-arrow {
+  color: inherit;
+}
+
+@media (hover: hover) {
+  .note-backlinks-list a:hover {
+    background-color: var(--color-accent-hover);
+    border-color: var(--color-accent-hover);
+    color: var(--color-page-background);
+    box-shadow: var(--shadow-md);
+    text-decoration: none;
+  }
+
+  .note-backlinks-list a:hover .note-backlinks-arrow {
+    color: inherit;
+    transform: translateX(0.2rem);
+  }
+
+  .note-backlinks-more summary:hover {
+    border-color: var(--color-accent);
+    background-color: var(--color-accent-subtle);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .note-backlinks-list a,
+  .note-backlinks-arrow {
+    transition: none;
+  }
+
+  .note-backlinks-list a:hover .note-backlinks-arrow {
+    transform: none;
+  }
 }
 
 .note-backlinks-more {

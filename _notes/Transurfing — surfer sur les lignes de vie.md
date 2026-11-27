@@ -18,7 +18,7 @@ C'est une vision qui résonne avec l'idée de [[vibrer pour trouver le bonheur]]
 
 Plus on s'accroche à un désir, plus on génère un **excès de potentiel** qui repousse ce qu'on veut attirer. L'attachement produit de la résistance. C'est l'un des paradoxes centraux du Transurfing : _the harder you grip, the more it slips_.
 
-On retrouve ici le cœur de [[L'art de l'équilibre, entre contrôle et lâcher-Prise]]. Le [[contrôle]] rigide empêche le flux naturel des choses. La [[la détente dans la conscience]] est la posture juste.
+On retrouve ici le cœur de [[L'art de l'équilibre, entre contrôle et lâcher-Prise]]. Le [[L'art de l'équilibre, entre contrôle et lâcher-Prise|contrôle]] rigide empêche le flux naturel des choses. La [[la détente dans la conscience]] est la posture juste.
 
 ## Les pendules — ces structures qui se nourrissent de notre attention
 

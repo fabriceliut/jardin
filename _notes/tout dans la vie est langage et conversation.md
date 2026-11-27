@@ -22,4 +22,4 @@ Je suis fasciné d'imaginer que chaque domaine d'expression, chaque activité es
 
 Est-ce qu'on ne dit pas de tel ou tel sujet qu'il "nous parle" ? Est-ce que Tout tout le temps n'est pas en train de s'adresser à nous et de nous raconter des histoires par nos 5 sens ?
 
-Est-ce que derrière la linguistique il n'y pas surtout l'étude brute de la [[logique]] ? Est-ce qu'on ne touche pas aux limites de notre [[raison]] ?
+Est-ce que derrière la linguistique il n'y pas surtout l'étude brute de la [[logique]] ? Est-ce qu'on ne touche pas aux limites de notre [[Raison]] ?

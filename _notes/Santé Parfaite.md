@@ -19,7 +19,7 @@ Je développerais ici prochainement tout ce que j'ai appris pour se rapprocher d
 
 - Se doucher seulement à l'eau chaude puis eau froide - aucun produit
 - Dentifrice à l'argile
-- [[Mouvement Naturel]] & [[Yoga]]
+- [[Mouvement naturel]] & [[Yoga]]
 - Alimentation Ayurvédique
 - Méditation
 -...

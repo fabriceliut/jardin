@@ -299,7 +299,7 @@ Vous pouvez "sentir" quand vous commencez à bien connaître le territoire : s'i
 
 ## Quels outils & ressources utiliser ?
 [[Recherche design terrain]]
-[[Cartographie de réseaux]]
+[[#Cartographie de réseaux|Cartographie de réseaux]]
 Détecter les besoins & usages
 Construire un [[système de connaissances]]
 
@@ -325,7 +325,7 @@ Il cherche pour comprendre, il explore pour capter de l'information seulement da
 Il crée la confiance par le fait qu'il est sincèrement neutre dans un premier temps : il n'a rien à vendre, il est là pour collecter et apprendre.
 **Seulement quand il y a confiance** il peut y avoir une proposition des intérêts de l'explorateur qui change alors de posture. C'est à ce moment précis qu'on change de phase de travail, de l'exploration à la mise en coopération.
 
-Voir 👉 [[Initier les coopérations]]
+Voir 👉 [[#Initier les coopérations|Initier les coopérations]]
 
 ---
 
@@ -424,7 +424,7 @@ Vous êtes à la bonne place pour proposer de traduire les langages et les point
 **Les alliés représentent les coopérations évidentes et facile à créer.** Même vision, langage commun, intention commune, rythme commun. En terme d'optimisation des efforts, c'est très important de commencer à tisser les coopérations avec des alliés, c'est plus rapide et ça permet de tisser un premier réseau proche. Ensuite, plus ce réseau va s'étendre, plus il deviendra rassurant pour des cercles plus éloignés : cela facilitera les coopérations qui aurait été plus difficiles à activer de premier abord.
 
 ### Faire grandir le nombre d'alliés
->voir la [[Sociodynamique]] et l' [[actionnement]]
+>voir la [[Sociodynamique]] et l' [[#Actionner les alliés|actionnement]]
 
 Plus vous avez d'alliés plus vous réduisez le nombre de réfractaires et d'opposants.
 Au début d'un projet en général la majorité des acteurs ne sont ni alliés ni opposants mais hésitants. Tout l'enjeu est là : il s'agit de les amener à s'engager en faveur du projet plutôt que de laisser les opposants les rallier à leur cause, ce qui se passe naturellement si l'on n'intervient pas dans le jeu naturel.
@@ -472,10 +472,10 @@ A ce stade, ce n'est encore que de l'écriture pour soumettre votre lecture du p
 *Pour qu'ils commencent à participer aux travaux avec l'équipe projet* - **c'est le temps d'initier l'envie de rentrer en co-construction d'un projet commun**.
 
 ### Mapping des jeux d'acteurs
-C'est une [[cartographie de réseaux]] précise et utile pour acquérir une meilleure compréhension des jeux d'acteurs, par la visualisation.
+C'est une [[#Cartographie de réseaux|cartographie de réseaux]] précise et utile pour acquérir une meilleure compréhension des jeux d'acteurs, par la visualisation.
 
 ### Réfléchir en groupe aux différentes caractéristiques du projet
-(synthèse des infos principales sur le territoire, personnes rencontrées, hypothèses à valider, stratégie et prochaines actions... voir la matrice des [[9 cases]]).
+(synthèse des infos principales sur le territoire, personnes rencontrées, hypothèses à valider, stratégie et prochaines actions... voir la matrice des [[Canevas des neuf cases|9 cases]]).
 
 Pour : faire le point, synthétiser son avancée et envisager clairement la suite de sa stratégie.
 
@@ -544,9 +544,9 @@ Apport de l' Actionnement
 Apports de la posture en [[facilitation]]
 Apports de l' [[intelligence collective]]
 Apports du [[design systémique]]
-Apports sur [[Les types de relation]]
-Apports sur [[L'engagement]]
-Outil des [[9 cases]]
+Apports sur [[Types de relation|Les types de relation]]
+Apports sur [[Engagement|L'engagement]]
+Outil des [[Canevas des neuf cases|9 cases]]
 
 ---
 
@@ -619,7 +619,7 @@ les différentes ressources types:
 - système de communication - en continu tenir informé l'extérieur du groupe projet de ce qu'il se passe, semaines après semaines
 - système de Feedback - pour récolter en continu les retours, avis, apports d'autres acteurs qui ne sont pas encore actifs dans la gouvernance du projet - c'est notamment la cellule d'écoute nécessaire pour inclure les premiers réfractaires ou opposants
 
-Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[la démarche itérative]], en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs).
+Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[#Les différentes étapes de la démarche itérative|la démarche itérative]], en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs).
 
 ### Structurer un groupe projet aux membres complémentaires
 La complémentarité s'exprime dans les compétences, l'accès à certaines ressources et informations, l'accès à certains pouvoir de décision, etc...
@@ -704,8 +704,8 @@ Les apports du [[Design thinking]] pour la préparation et l'accompagnement de l
 - Résoudre des problématiques par les usages
 - Intégrer de multi-enjeux et les mettre en perspective d'un projet collectif
 
-[[engagement]]
-[[actionnement]]
+[[Engagement]]
+[[#Actionner les alliés|actionnement]]
 
 ---
 
@@ -741,7 +741,7 @@ Dans la Piège, la gouvernance partagée était très importante pour le présid
 Positionnement des autres acteurs sur le sujet de la gouvernance :
 - Les syndicats pourront être supports mais ne seront pas acteurs
 - Les membres présents étaient principalement en attente de "concret", c'est-à-dire de pouvoir visualiser et travailler ensemble sur une carte pour comprendre combien en taille, ou/et combien en économie crée - besoin de compter et de comprendre le deal envisagé
- - Est-ce que alors ils seront prêts à prendre des rôles d’eux-mêmes ou à comprendre l'intérêt d'une gouvernance projet ? À voir quel [[actionnement]] sera possible...
+ - Est-ce que alors ils seront prêts à prendre des rôles d’eux-mêmes ou à comprendre l'intérêt d'une gouvernance projet ? À voir quel [[#Actionner les alliés|actionnement]] sera possible...
 
 ---
 
@@ -816,7 +816,7 @@ Les actions définies en décomposant en étapes le projet long terme sont attri
 	Des bons retours, des avis positifs et encourageants
 - Récolter les apports des autres rôles et engager les étapes suivantes, en temps et en heure par rapport aux premiers pas des autres et aux informations récoltées
 
-C'est [[la démarche itérative]] en action : à chaque petite étape, il y a remise au commun et réajustement si nécessaire.
+C'est [[#Les différentes étapes de la démarche itérative|la démarche itérative]] en action : à chaque petite étape, il y a remise au commun et réajustement si nécessaire.
 C'est aller moins vite mais plus loin ensemble.
 C'est éviter d'accumuler des erreurs qui vont mener dans le mur.
 C'est garder le cap fixé par l'écriture du projet commun en accord avec les intentions du projet et de chacun.
@@ -843,7 +843,7 @@ Leadership de la complexité
 Apports du #[[design systémique]] et des théories des systèmes complexes
 Utiliser le prototype projet
 
-[[la démarche itérative]]
+[[#Les différentes étapes de la démarche itérative|la démarche itérative]]
 
 ---
 
@@ -1047,7 +1047,7 @@ Des outils pour créer la connexion entre les participants
 Des outils pour poser les bonnes questions
 Des outils pour faire émerger des idées nouvelles
 Des outils pour synthétiser, structurer et conceptualiser
-Des outils pour rendre visuel un projet ou une problématique comme la [[Cartographie de réseaux]] par exemple ou **la facilitation graphique**
+Des outils pour rendre visuel un projet ou une problématique comme la [[#Cartographie de réseaux|Cartographie de réseaux]] par exemple ou **la facilitation graphique**
 
 ### Quelques tips de facilitation
 Tenir la synthèse des échanges
@@ -1091,7 +1091,7 @@ La pensée systémique est là pour "lire" et appréhender nos systèmes complex
 Tout est système
 Tout est liens & relations
 Changer 1% d'un système peut tout changer
-La représentation graphique d'un système complexe permet la visualisation, comme pour une [[Cartographie de réseaux]]
+La représentation graphique d'un système complexe permet la visualisation, comme pour une [[#Cartographie de réseaux|Cartographie de réseaux]]
 
 ### Le Design systémique
 Modéliser les systèmes complexes

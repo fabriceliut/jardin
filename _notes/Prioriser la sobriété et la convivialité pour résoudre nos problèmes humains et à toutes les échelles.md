@@ -6,7 +6,7 @@ tags:
  - updated
 
 ---
-**La notion de [[sobriété]]** - même si actuellement utilisée à toutes les sauces - est très intéressante quand elle s’approche de la notion de convivialité de [Ivan illich](https://fr.wikipedia.org/wiki/Ivan_Illich). 
+**La notion de [[Sobriété]]** - même si actuellement utilisée à toutes les sauces - est très intéressante quand elle s’approche de la notion de convivialité de [Ivan illich](https://fr.wikipedia.org/wiki/Ivan_Illich). 
 
 Les deux notions associées peuvent redéfinir les fondations du fonctionnement de notre humanité : oui rien que ça ! 
 

@@ -23,4 +23,4 @@ Quel que soit la mission de nos entreprises il y a **une mission supérieure qui
 
 À bien y réfléchir vous verrez, c’est gagnant gagnant gagnant et agir [[régénératif]] peut commencer dès demain.
 
-pour [[Prendre soin du monde]] et une approche [[non-human centric design]].
+pour [[Prendre soin du monde]] et une approche [[Design centré sur le vivant|non-human centric design]].

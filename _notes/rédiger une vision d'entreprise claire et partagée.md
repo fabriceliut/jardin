@@ -10,7 +10,7 @@ tags:
 ---
 Série de contenus spécialement pour partager ce que j’ai appris en travaillant avec des dirigeants de plus utile pour d’autres.
 
-Aujourd’hui petit point sur la [[vision d’entreprise]] en commençant avec une question simple : **est-ce qu’elle est écrite au propre quelque part, à jour et accessible et partagée à tous les collaborateurs**? 
+Aujourd’hui petit point sur la vision d’entreprise en commençant avec une question simple : **est-ce qu’elle est écrite au propre quelque part, à jour et accessible et partagée à tous les collaborateurs**? 
 
 Si ce n’est pas un « oui » franc et sincère en réponse à cette question, alors il est plus que temps de se poser dessus. 
 
@@ -71,4 +71,4 @@ S’il est temps pour vous de faire ce travaille alors vous pouvez m’écrire :
 
 Je pourrais aussi développer le travail d’écriture de la vision pour une entreprise qui passerait « à mission », qui est un autre contexte à risque, mais je ferais un article dédié pour rentrer plus dans les détails spécifiques. (En effet, attention au greenwashing et au bullshit words qui feraient plus l’effet inverse que désiré).
 
-Je développerais aussi le lien de la vision avec la [[raison d'être d'entreprise]] ainsi que l'[[intention profonde]].
+Je développerais aussi le lien de la vision avec la [[Raison d’être d’entreprise]] ainsi que l'[[Intention profonde]].

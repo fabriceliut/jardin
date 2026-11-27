@@ -29,7 +29,7 @@ Je participe également à un [[Mouvement mondial du design régénératif]] que
 - Le design régénératif pour accélérer l'émergence de la [[civilisation de la vie]]
 - L'importance et la beauté de la [[Biodiversité]]
 - Développer ou régénérer notre [[conscience]]
-- Les apports de la [[permaculture]], de l'[[innovation frugale]]
+- Les apports de la [[Permaculture]], de l'[[Innovation frugale]]
 - Les travaux autour de l'[[anthropocène]]
 
 #Afairepousser #projet

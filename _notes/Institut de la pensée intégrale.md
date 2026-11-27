@@ -30,7 +30,7 @@ Penser « intégral » est une métamorphose personnelle à entraîner par div
 
 [[bio-inspiration]] - *Inspiration du vivant, [[pensée analogique]], végétal, animal, insectes, évolution…* +10 modules
 
-[[Philosophie Pratique]] - *Anthropocène, éthique, évolution [[linguistique]], Être & conscience…* +10 modules
+[[Philosophie pratique]] - *Anthropocène, éthique, évolution [[linguistique]], Être & conscience…* +10 modules
 
 **Sciences & [[logique]] -** *[[dialectique]], logique mathématique, biologie, chimie, physique…* +10 modules
 

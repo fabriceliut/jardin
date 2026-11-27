@@ -19,7 +19,7 @@ Le modèle archipel est un de ces modèles en émergence, en expérimentation co
 > Vous trouverez également des ressources du côté des nouveaux modèles d'organisations étudiés par [Frédéric Laloux](https://www.babelio.com/auteur/Frederic-Laloux/257646) qui utilise la [[spirale dynamique]] pour illustré "l'éveil" d'une organisation.
 
 Quelques pistes également à développer prochainement :
-- L'[[Entreprise Archipel]]
+- L'[[Entreprise archipel]]
 - L'[[Entreprise de territoire]]
 - [[faisons partie de nous]]
 

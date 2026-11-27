@@ -19,9 +19,9 @@ Ce sont, pour moi, surtout les questions qui doivent nous inspirer et par curios
 ## Des questions, surtout des questions.
 - Quelles sont les grands paradigmes du vivant ? Est-ce qu'on peut [[décoder la vie]] ?
 - Comment rendre utilisable ce qu'on apprend de la nature ?
-- Comment définir une [[mutation de société]] ?
-- Comment [[fluidifier le quotidien]] & rendre l'existence humaine plus douce & joyeuse ?
-- Comment [[développer la beauté]] ?
+- Comment définir une [[Mutation Culturelle|mutation de société]] ?
+- Comment [[Fluidifier le quotidien]] & rendre l'existence humaine plus douce & joyeuse ?
+- Comment [[Développer la beauté]] ?
 - Est-ce que créer une [[identité de groupe]] est nécessaire pour faire système ?
 - Est-ce que [[nous avons une mission]] ?
 

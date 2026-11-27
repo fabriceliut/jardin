@@ -67,4 +67,4 @@ tags:
 
 - ---
 
-- inspiration du livre "la danse des 5 rythmes" - en lien avec [[Mouvement Naturel]] & [[spiritualité]]
+- inspiration du livre "la danse des 5 rythmes" - en lien avec [[Mouvement naturel]] & [[spiritualité]]

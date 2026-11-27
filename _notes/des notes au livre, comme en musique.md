@@ -14,7 +14,7 @@ Et bien c’est pareil pour l’écriture : vous allez assembler les mots pour c
 
 Cette note pourra ensuite s’assembler avec d’autres pour faire émerger des concepts, des scénarios et donc les chapitres de votre livre. 
 
-> Voir aussi [[les notes atomiques de sources]] et [[utiliser la même note atomique dans plusieurs contextes différents]] [[atomique]]
+> Voir aussi [[les notes atomiques de sources]] et [[utiliser la même note atomique dans plusieurs contextes différents]] [[écriture atomique|atomique]]
 
 Les idées devront être structurées de manière logique et harmonieuse tout comme en musique pour bien sonner et que le tout soit compréhensible. 
 

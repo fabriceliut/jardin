@@ -11,7 +11,7 @@ tags:
 
 ## Comprendre l'interconnexion
 
-L'[[écologie]] et l'[[économie]] sont liées : l'économie dépend des ressources naturelles, et l'écologie est affectée par les activités économiques. Par exemple, une forêt saine fournit du bois (économie) et maintient la biodiversité (écologie).
+L'[[écologie]] et l'[[Économie]] sont liées : l'économie dépend des ressources naturelles, et l'écologie est affectée par les activités économiques. Par exemple, une forêt saine fournit du bois (économie) et maintient la biodiversité (écologie).
 
 ## Fusionner écologie et économie
 

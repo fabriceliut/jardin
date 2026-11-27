@@ -21,7 +21,7 @@ Nécessité de trouver une niche et potentiellement commencer par regarder autou
 
 Plutôt que vendre une transformation globale, adresser spécifiquement toutes les premières problématiques « point de contact » tout en apportant une conscience systémique pour orienter au mieux les actions pas à pas.
 
-En effet, je ne suis pas certain que beaucoup de profils soient prêts à déclencher une démarche de [[Métamorphose]].
+En effet, je ne suis pas certain que beaucoup de profils soient prêts à déclencher une démarche de [[Mutation Culturelle|Métamorphose]].
 
 *À l'échelle individuelle, on fonctionne aussi pas à pas, par petits ajustements, et le point de départ peut être l'activité physique, l'alimentation, les relations, les habitudes, etc. Mais rarement on se lève un matin et on décide d'investir sur une transformation complète de notre « Moi ».*
 

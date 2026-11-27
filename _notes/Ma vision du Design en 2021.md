@@ -18,10 +18,10 @@ Je me dis actuellement acteur du [[design systémique]] et du [[design régéné
 > -> Le Design & la beauté
 > -> Le Design & la Vie
 
-Cette vision du Design est nécessaire pour développer notre [[économie]] & notre [[écologie]] sur un même plan de priorités. Elle nous permet de sortir du piège de nos habitudes stériles et destructrices en commençant par **réorganiser notre humanité & la fournir en nouvelles approches** pour faire société vivante & joyeuse 👇
+Cette vision du Design est nécessaire pour développer notre [[Économie]] & notre [[écologie]] sur un même plan de priorités. Elle nous permet de sortir du piège de nos habitudes stériles et destructrices en commençant par **réorganiser notre humanité & la fournir en nouvelles approches** pour faire société vivante & joyeuse 👇
 
 ## Le Design organise
-Pourquoi organiser ? Pour être capable de gérer le [[chaos]].
+Pourquoi organiser ? Pour être capable de gérer le [[profiter du chaos et des erreurs|chaos]].
 
 > Lorsqu'on est perdu, qu'on ne sait plus quoi faire ou qu'on ne trouve plus de solutions, c'est ça une situation chaotique.
 

@@ -7,7 +7,7 @@ tags:
  - candidate_post
 
 ---
-Dans notre précédente réflexion sur la [[puissance]], nous avons défini celle-ci non pas comme une domination, mais comme une énergie intérieure, un potentiel vital qui ne demande qu'à s'exprimer. Nous avons vu que la [[Force]] est souvent l'acte de contraindre, tandis que la _Puissance_ est l'état d'être.
+Dans notre précédente réflexion sur la [[puissance]], nous avons défini celle-ci non pas comme une domination, mais comme une énergie intérieure, un potentiel vital qui ne demande qu'à s'exprimer. Nous avons vu que la [[Puissance, une énergie intérieure à libérer|Force]] est souvent l'acte de contraindre, tandis que la _Puissance_ est l'état d'être.
 
 Mais une question demeure : si cette puissance est en nous, pourquoi est-il si difficile de la libérer ? Pourquoi nos tentatives de « passer en force » aboutissent-elles souvent à l'épuisement plutôt qu'à la réalisation ?
 
@@ -15,7 +15,7 @@ La réponse réside dans un concept souvent mal compris, voire méprisé dans no
 
 ## Le Malentendu de la Faiblesse
 
-Culturellement, nous associons l'[[humilité]] à la soumission, à la petitesse ou à l'effacement de soi. Nous imaginons l'humble comme celui qui baisse la tête et rase les murs. C'est une erreur fondamentale.
+Culturellement, nous associons l'[[Humilité]] à la soumission, à la petitesse ou à l'effacement de soi. Nous imaginons l'humble comme celui qui baisse la tête et rase les murs. C'est une erreur fondamentale.
 
 L'humilité n'est pas le contraire de la puissance ; elle en est le canal.
 

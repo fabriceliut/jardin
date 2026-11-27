@@ -12,7 +12,7 @@ Tout part d'une question sur Facebook d'un ami, Anys.M, qui peut inspirer les re
 
 **Ma réponse**
 
-"_Accepter les situations incontrôlables tout en acceptant aussi qu'on peut, peut-être, reprendre le [[contrôle]] et puis le perdre à nouveau... C'est accepter de danser avec Tout parce que de toute manière, si on croit qu'on contrôle quoi que ce soit, il y a de grandes chances que ce soit surtout des histoires qu'on se raconte pour donner du sens."_
+"_Accepter les situations incontrôlables tout en acceptant aussi qu'on peut, peut-être, reprendre le [[L'art de l'équilibre, entre contrôle et lâcher-Prise|contrôle]] et puis le perdre à nouveau... C'est accepter de danser avec Tout parce que de toute manière, si on croit qu'on contrôle quoi que ce soit, il y a de grandes chances que ce soit surtout des histoires qu'on se raconte pour donner du sens."_
 
 **Anys**
 
