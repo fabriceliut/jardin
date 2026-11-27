@@ -8,7 +8,21 @@
 
 .note-content {
   min-width: 0;
+  hyphens: none;
+  word-break: normal;
   overflow-wrap: break-word;
+}
+
+.note-content p {
+  hyphens: none;
+}
+
+.note-content :is(p, li) {
+  text-wrap: pretty;
+}
+
+.note-content :is(h1, h2, h3, h4, h5, h6) {
+  text-wrap: balance;
 }
 
 .note-backlinks {
@@ -194,8 +208,6 @@
 .note-content a.internal-link {
   border-color: var(--color-accent);
   background-color: var(--color-accent-subtle);
-  overflow-wrap: break-word;
-  word-break: break-all;
 }
 
 #tooltip-wrapper {
