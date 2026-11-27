@@ -24,7 +24,7 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap"></noscript>
 
   <!-- Stylesheet — ?v= changes each build to bust browser cache -->
-  <link rel="stylesheet" href="/styles.css?v=1795773247">
+  <link rel="stylesheet" href="/styles.css?v=1795773625">
 
   <script>
     document.addEventListener('error', function(event) {
@@ -206,7 +206,7 @@
   });
 
   search();
-  fetch('/search.json?v=1795773247')
+  fetch('/search.json?v=1795773625')
     .then(response => {
       if (!response.ok) throw new Error('Index inaccessible');
       return response.json();
