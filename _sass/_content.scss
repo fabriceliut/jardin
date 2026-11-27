@@ -52,32 +52,31 @@
   margin: 0;
 }
 
-.note-backlinks-list a,
-.note-backlinks-more summary {
-  padding: 0.75rem 0.95rem;
-  background: var(--color-surface);
-  border: 1px solid var(--color-border);
-  border-radius: $border-radius;
-  min-height: 44px;
-  transition: border-color $transition-fast, box-shadow $transition-fast;
-}
-
 .note-backlinks-list a {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 0.75rem;
-  height: 100%;
+  gap: 0.65rem;
+  min-height: 44px;
   color: var(--color-primary);
   font-size: 0.95rem;
   font-weight: 600;
   line-height: 1.45;
   text-decoration: none;
   overflow-wrap: anywhere;
+  transition: background-color $transition-fast, color $transition-fast;
+}
+
+.note-backlinks > .note-backlinks-list a {
+  justify-content: space-between;
+  height: 100%;
+  padding: 0.75rem 0.95rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius;
   transition: background-color $transition-fast, border-color $transition-fast, color $transition-fast, box-shadow $transition-fast;
 }
 
-.note-backlinks-list a:focus-visible {
+.note-backlinks > .note-backlinks-list a:focus-visible {
   background-color: var(--color-accent-hover);
   border-color: var(--color-accent-hover);
   color: var(--color-page-background);
@@ -93,13 +92,49 @@
   color: inherit;
 }
 
+.note-backlinks-more {
+  margin-top: 0.75rem;
+}
+
+.note-backlinks-more summary {
+  width: fit-content;
+  padding: 0.6rem 0.25rem;
+  min-height: 44px;
+  cursor: pointer;
+  color: var(--color-accent);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-underline-offset: 3px;
+}
+
+.note-backlinks-list--compact {
+  display: block;
+  margin-top: 0.25rem;
+}
+
+.note-backlinks-list--compact a {
+  justify-content: flex-start;
+  padding: 0.4rem 0.55rem;
+  border-radius: $border-radius;
+  font-weight: 500;
+}
+
+.note-backlinks-list--compact .note-backlinks-arrow {
+  order: -1;
+  font-size: 0.85em;
+}
+
+.note-backlinks-list--compact a:focus-visible {
+  background-color: var(--color-accent-subtle);
+  color: var(--color-accent-hover);
+}
+
 @media (hover: hover) {
-  .note-backlinks-list a:hover {
+  .note-backlinks > .note-backlinks-list a:hover {
     background-color: var(--color-accent-hover);
     border-color: var(--color-accent-hover);
     color: var(--color-page-background);
     box-shadow: var(--shadow-md);
-    text-decoration: none;
   }
 
   .note-backlinks-list a:hover .note-backlinks-arrow {
@@ -107,14 +142,19 @@
     transform: translateX(0.2rem);
   }
 
-  .note-backlinks-more summary:hover {
-    border-color: var(--color-accent);
+  .note-backlinks-list--compact a:hover {
     background-color: var(--color-accent-subtle);
+    color: var(--color-accent-hover);
+  }
+
+  .note-backlinks-more summary:hover {
+    color: var(--color-accent-hover);
+    text-decoration: underline;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .note-backlinks-list a,
+  .note-backlinks .note-backlinks-list a,
   .note-backlinks-arrow {
     transition: none;
   }
@@ -122,21 +162,6 @@
   .note-backlinks-list a:hover .note-backlinks-arrow {
     transform: none;
   }
-}
-
-.note-backlinks-more {
-  margin-top: 1rem;
-}
-
-.note-backlinks-more summary {
-  cursor: pointer;
-  color: var(--color-accent);
-  font-size: 0.875rem;
-  font-weight: 600;
-}
-
-.note-backlinks-more[open] > .note-backlinks-list {
-  margin-top: 0.75rem;
 }
 
 .note-backlinks-hide,

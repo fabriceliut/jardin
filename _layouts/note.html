@@ -53,7 +53,7 @@ layout: default
             <span class="note-backlinks-show">{% if remaining_count == 1 %}Afficher l’autre note{% else %}Afficher les {{ remaining_count }} autres notes{% endif %}</span>
             <span class="note-backlinks-hide">{% if remaining_count == 1 %}Replier la note supplémentaire{% else %}Replier les notes supplémentaires{% endif %}</span>
           </summary>
-          {% include backlink-list.html notes=remaining_backlinks %}
+          {% include backlink-list.html notes=remaining_backlinks compact=true %}
         </details>
       {% endif %}
     </section>

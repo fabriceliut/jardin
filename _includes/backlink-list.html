@@ -1,4 +1,4 @@
-<ul class="note-backlinks-list" role="list">
+<ul class="note-backlinks-list{% if include.compact %} note-backlinks-list--compact{% endif %}" role="list">
   {% for backlink in include.notes %}
   <li>
     <a class="internal-link" href="{{ backlink.url | relative_url }}{% if site.use_html_extension %}.html{% endif %}">
