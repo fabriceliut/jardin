@@ -34,7 +34,7 @@ Selon Wilber, l'évolution spirituelle se déroule en deux grandes phases: la ph
 
 Selon Wilber, l'évolution spirituelle est un processus qui mène à un état de conscience supérieure, qui est caractérisé par une prise de conscience de l'unité de l'univers et de l'absence de séparation entre soi et l'univers. Il soutient que cet état de conscience supérieure est accessible à tous les individus, et qu'il est possible de développer sa propre évolution spirituelle en suivant certaines pratiques et en travaillant sur soi-même.
 
-### exemples de pratiques recommandées par Wilber pour développer son évolutioin spirituelle
+### exemples de pratiques recommandées par Wilber pour développer son évolution spirituelle
 
 1. **Méditation**: La méditation est une pratique qui consiste à se concentrer sur un objet, une phrase ou une respiration, afin de calmer l'esprit et de développer une prise de conscience claire et présente. Selon Wilber, la méditation peut aider à développer l'évolution spirituelle en aidant à calmer l'esprit et à éliminer les distractions
 2. **Étude des textes spirituels**: Selon Wilber, l'étude des textes spirituels peut aider à développer l'évolution spirituelle en offrant une perspective sur les enseignements et les principes fondamentaux de différentes traditions spirituelles

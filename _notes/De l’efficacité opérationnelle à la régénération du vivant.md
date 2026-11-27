@@ -4,6 +4,7 @@ tags:
   - v1
   - article
   - régénératif
+  - coopération
 ---
 # J’aide les organisations à retrouver de la clarté, du temps et de l’intelligence collective. Pas seulement pour mieux fonctionner. Pour rouvrir la possibilité de choisir une meilleure direction.
 
@@ -208,3 +209,5 @@ Avec celles et ceux qui veulent remettre l’économie au service du vivant.
 Si cette intention résonne pour toi, parlons-en.
 
 La cathédrale est immense, et nous aurons besoin de beaucoup de bâtisseurs.
+
+À lire aussi dans le jardin : [[intelligence collective]] et [[Régénérer est une direction]].

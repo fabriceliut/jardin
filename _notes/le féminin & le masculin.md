@@ -3,7 +3,7 @@ title: le féminin & le masculin
 tags:
  - spiritualité
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---

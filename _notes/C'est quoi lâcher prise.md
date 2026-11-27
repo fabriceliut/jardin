@@ -3,6 +3,7 @@ title: C'est quoi lâcher prise
 tags:
   - note
   - seed
+  - psychologie
 
 ---
 Tout part d'une question sur Facebook d'un ami, Anys.M, qui peut inspirer les recherches pour [[Prendre soin de soi]].
@@ -33,7 +34,7 @@ _"Vivre sans se raconter d'histoires. Comment ? Possible ?"_
 
 _"Si tu vis à chaque instant dans l'ici et maintenant, tu n'as plus besoin de te raconter des histoires, tu es tout simplement. Si tu l'as déjà expérimenté, tu sais que c'est possible. La question, c'est : est-ce que c'est possible d'atteindre un stade où je vis ça perpétuellement ? Est-ce que c'est ça l'illumination ?"_
 
-L'échange s'arrête là : quand on en arrive à la question de l'illumination, je crois que pour une fois, j'ai fait le choix de botter en touche ! [[lâcher-prise]], ça doit être aussi de ne pas chercher à tout expliquer, surtout le genre de concept qui risque de transcender les mots...
+L'échange s'arrête là : quand on en arrive à la question de l'illumination, je crois que pour une fois, j'ai fait le choix de botter en touche ! Le lâcher-prise, ça doit être aussi de ne pas chercher à tout expliquer, surtout le genre de concept qui risque de transcender les mots...
 
 **Ce que j'en retiens ?** Vivre sans se raconter d'histoires, et l'instant prend la place du temps. Être remplit le vide qui fait si peur parce que justement on ne peut l'expliquer.
 

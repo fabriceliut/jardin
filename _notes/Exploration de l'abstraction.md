@@ -2,7 +2,7 @@
 title: exploration de l'abstraction
 tags:
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---

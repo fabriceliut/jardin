@@ -32,7 +32,7 @@ Ce travail de génération de vision et d’écriture je l’ai mené plusieurs 
 - En sortie, une phrase mais LA phrase 
 - En équipe, les membres de la direction générale et des représentants des services et de chaque niveau hiérarchique 
 - Penser aussi à inviter des clients, des partenaires et des fournisseurs ou ceux de l'interne qui les connaissent très bien
-- Pour ce qui est de l’animation de ce temps de travail, ça va dépendre de la taille et de l’état de l’organisation en terme de clarté actuelle de vision et d’engagement des collaborateurs
+- Pour ce qui est de l’animation de ce temps de travail, ça va dépendre de la taille et de l’état de l’organisation en termes de clarté actuelle de vision et d’engagement des collaborateurs
 
 Tout cela partagé, [je vous offre un outil](https://liut.gumroad.com/l/vision) qui vous permettrait de dérouler 1 journée d'atelier vision en autonomie, si vous voulez commencer seul.
 

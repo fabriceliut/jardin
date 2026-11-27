@@ -2,7 +2,7 @@
 title: ignorance, curiosité et recherche scientifique
 tags:
  - Meta-analyse
- - moc
+ - ressource
  - evergreen
 
 ---

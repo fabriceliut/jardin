@@ -4,13 +4,14 @@ tags:
  - article
  - v1
  - candidate_post
+ - coopération
 
 ---
 Lorsqu'on pratique le [[Yoga]], très souvent, le maître répète durant la pratique en mouvement qu'il ne sert à rien de forcer. Il convient d'orienter tout le champ de sa [[conscience]] sur la posture, sur le corps et de laisser faire, sans forcer.
 On fait alors [[confiance]] au processus, sans plus rien essayer d'accélérer. On accepte que nous n'avons pas le contrôle, que c'est le corps qui fait le travail, qui s'adapte à ces nouvelles conditions, se renforce petit à petit...
 Bien entendu, il est toujours possible de forcer, comme dans la plupart des autres dimensions de la vie. Et comme ailleurs, forcer permet d'aller plus vite, mais pas plus longtemps : la blessure est vite arrivée.
 
-Tout dans [[le vivant]] demande son propre temps et c'est ce que la pratique du yoga accepte totalement : **faire avec ce qu'on a en présence, faire selon le rythme naturel et se réjouir de ce qui évolue**. C'est un gros travail d'acceptation, surtout pour quelqu'un qui serait de culture occidentale, voire latine — une culture « de terre & de feu » qui réclame toujours une forte activité, une forte intensité jusqu'à l'épuisement...
+Tout dans [[le vivant]] demande son propre temps et c'est-ce que la pratique du yoga accepte totalement : **faire avec ce qu'on a en présence, faire selon le rythme naturel et se réjouir de ce qui évolue**. C'est un gros travail d'acceptation, surtout pour quelqu'un qui serait de culture occidentale, voire latine — une culture « de terre & de feu » qui réclame toujours une forte activité, une forte intensité jusqu'à l'épuisement...
 
 La [[pensée analogique]] de cette note se porte sur l'analyse des projets que les humains montent ensemble, et principalement sur **comment les Occidentaux se comportent lorsqu'ils entreprennent ensemble.** L'exemple le plus représentatif serait celui de la start-up, voire de la [[Scale up]] : il faut aller vite, taper fort, lever beaucoup d'argent directement et mobiliser quantité de personnes pour ne pas rater une opportunité.
 

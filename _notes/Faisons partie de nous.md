@@ -2,7 +2,7 @@
 title: faisons partie de nous
 tags:
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---
@@ -22,4 +22,4 @@ Trouver la meilleure façon de voir, de comprendre et de prendre soin des person
 
 Traduction et réécriture [d'un article de Seth Godin](https://seths.blog/2020/07/are-you-part-of-us/) #article
 
-une des bases philosophique de l'[[Archipel Kyosei]].
+une des bases philosophiques de l'[[Archipel Kyosei]].

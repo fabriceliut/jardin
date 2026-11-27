@@ -6,6 +6,7 @@ tags:
  - moc
  - wip
  - to_update
+ - systémique
 
 ---
 Concept qui articule l'étude des [[système complexe]] et proche de la [[pensée systémique]] par la [[pensée complexe]].

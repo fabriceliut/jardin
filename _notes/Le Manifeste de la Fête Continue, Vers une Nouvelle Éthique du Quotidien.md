@@ -5,6 +5,7 @@ tags:
  - Meta-analyse
  - evergreen
  - candidate_post
+ - philosophie
 
 ---
 ## Le Constat : La joie mise en quarantaine

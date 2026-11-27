@@ -4,6 +4,7 @@ tags:
  - article
  - v1
  - candidate_post
+ - créativité
 image: /assets/echelle-creativite.png
 ---
 sur une échelle de [[la créativité]] vous êtes plutôt très originaux ou très adaptés? pourquoi c'est utile de savoir se positionner, pour soi et les autres aussi, sur cette jauge : explications 👇
@@ -33,4 +34,4 @@ ce n'est pas moi qui le dis : ce sont les avant-gardistes, ceux qui savent capte
 
 Grâce à eux, je vois ce qui arrive 4 ans avant. eux savent voir parfois 20-30 ans avant, sans réussir à l'expliquer et aussi parce que ça fait peur.
 
-![]({{page.image}})
+![[echelle-creativite.png|Les niveaux de l’échelle de la créativité]]

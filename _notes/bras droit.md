@@ -3,6 +3,7 @@ title: bras droit
 tags:
   - note
   - seed
+  - chiefofstaff
 
 ---
 **L'expression "bras droit" est utilisée pour désigner une personne qui est très proche et très importante pour une autre, généralement un dirigeant ou un chef d'entreprise.**

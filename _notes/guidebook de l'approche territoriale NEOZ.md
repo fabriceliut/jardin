@@ -61,7 +61,7 @@ Vouloir travailler sur un territoire c'est comme vouloir travailler avec quelqu'
 
 Il faut s'assurer que l'autre personne est la bonne personne. Et bien pour un territoire c'est pareil: ==il faut s'assurer que c'est le bon territoire==. En effet, il est très possible que le territoire visé ne soit pas adapté à votre projet, du moins, en l'état. Vous pourriez passer beaucoup de temps, d'énergie et d'économie à "forcer" un territoire alors qu'il suffit souvent de bien réaliser cette première phase de l'approche territoriale pour "dé-risquer" le choix du territoire.
 
-**Comment rencontrer un territoire? En l'explorant.** Et qu'est-ce qu'explorer un territoire? Et bien c'est ce que nous allons présenter en détail dans cette première partie de l'approche territoriale.
+**Comment rencontrer un territoire? En l'explorant.** Et qu'est-ce qu'explorer un territoire? Et bien c'est-ce que nous allons présenter en détail dans cette première partie de l'approche territoriale.
 Partons à la rencontre d'un territoire...
 
 ## Clarification préalable - comment définir un territoire et ses frontières?
@@ -110,15 +110,15 @@ Il est plus aisé pour se projeter et comprendre de visualiser ces réseaux d'ac
 Cette objet visualisation vous permet déjà à vous d'y "voir clair" et va également vous faciliter la présententation de votre exploration à d'autres acteurs en fluidifiant les échanges autour d'une ressource simple, commune et référence que vous allez pouvoir faire évoluer ensemble au fur et à mesure de vos compréhensions mutuelles.
 Sans un objet de cet ordre, très souvent, chaque acteur d'un projet est biaisé par son propre point de vue et ça risque de créer des débats qu'on peut facilement éviter.
 
-En visualisant très clairement les types de liens et relations, s'il y a des coopérations en cours ou des oppositions, etc...vous allez ainsi prendre conscience de la dynamique humaine du territoire vous permettant d'anticiper une stratégie pour que votre intégration sur face le plus possible "en douceur".
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/TOugR4mD5U)
+En visualisant très clairement les types de liens et relations, s'il y a des coopérations en cours ou des oppositions, etc...vous allez ainsi prendre conscience de la dynamique humaine du territoire vous permettant d'anticiper une stratégie pour que votre intégration se fasse le plus possible "en douceur".
+![Cartographie des relations entre les acteurs du territoire](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/TOugR4mD5U)
 
 *vous pourrez prochainement télécharger un canvas qui va vous guider dans la synthèse de cet axe exploratoire.*
 
 ### Enjeux & besoins identifiés par les responsables politiques du territoire
 Par défaut, chaque territoire a déjà des acteurs institutionnels déclarés comme "responsables politiques" du territoire (sur différentes échelles, com, com-com, département, région...).
 Lors de l'exploration de l'axe 2 (systèmes d'acteurs) vous les avez certainement découvert. Ce 3ème axe va vous inviter à creuser plus spécifiquement leurs enjeux et leurs contraintes. En effet, travailler avec un territoire veut nécessairement dire ==travailler avec les politiques en place== sur le territoire.
-- Quelle est la priorisation politique des enjeux du territoire? Le climat, la biodiversité, l'autonomie et la résilience, les activités économiques, sociales, culturuelles, etc...?
+- Quelle est la priorisation politique des enjeux du territoire? Le climat, la biodiversité, l'autonomie et la résilience, les activités économiques, sociales, culturelles, etc...?
 - Est-ce que vous êtes bien conscient de cette priorisation?
 - Par qui les enjeux politiques sont-ils portés?
 - Est-ce que votre projet s'inscrit dans les priorités politiques du développement du territoire?
@@ -166,7 +166,7 @@ Comme on le ferait pour représenter le corps humain, le faire pour le territoir
 - Qualifier les parties en santé et les parties malades
 
 Ce quatrième axe permet en partie de répondre à la question : pourquoi choisir ce territoire?
-Cet axe d'exploration est un peu particulier: il permet de faire synthèse et de croiser les informations des 3 autres axes précédent. C'est cette exploration et modélisation éco-systémique qui va vous permettre une bonne lecture du terrtioire et qui va vous fournir le nécessaire pour prioriser et décider si ce territoire est adapté ou non à votre projet.
+Cet axe d'exploration est un peu particulier: il permet de faire synthèse et de croiser les informations des 3 autres axes précédent. C'est cette exploration et modélisation éco-systémique qui va vous permettre une bonne lecture du territoire et qui va vous fournir le nécessaire pour prioriser et décider si ce territoire est adapté ou non à votre projet.
 > donner 2 exemples
 
 *vous pourrez prochainement télécharger un canvas qui va vous guider dans la synthèse de cet axe exploratoire.*
@@ -194,7 +194,7 @@ Vous allez ainsi procéder par itérations et en aller-retours:
 
 Si votre exploration vous indique que ce n'est pas le bon territoire, vous aurez la matière nécessaire pour redéfinir votre territoire ou plus radicalement vous désengager d'un territoire qui comporte trop de risque pour lancer une nouvelle exploration ailleurs.
 
-Autre effet intéressant de l'exploration d'un territoire: peut-être que votre projet en l'état n'est pas adapté mais grâce à votre recherche il sera possible de détecter d'autres opportunités pour d'autres projets... en effet, la logique d'approche territoire n'est pas forcément de trouver la place adaptée pour votre projet mais aussi de ==travailler à rafiner votre projet pour qu'il réponde mieux aux besoins des territoires==.
+Autre effet intéressant de l'exploration d'un territoire: peut-être que votre projet en l'état n'est pas adapté mais grâce à votre recherche il sera possible de détecter d'autres opportunités pour d'autres projets... en effet, la logique d'approche territoire n'est pas forcément de trouver la place adaptée pour votre projet mais aussi de ==travailler à raffiner votre projet pour qu'il réponde mieux aux besoins des territoires==.
 
 ---
 
@@ -261,7 +261,7 @@ Chaque profile d'acteur du territoire porte sa propre culture, son propre vocabu
 
 Par exemple, un acteur politique élu de com-com n'a pas les mêmes codes et comportement qu'un agriculteur ou qu'un citoyen engagé dans une association.
 
-Ne pas hésiter à prendre des RDV avec des acteurs qui semblent réfractaires à votre projet par défault!
+Ne pas hésiter à prendre des RDV avec des acteurs qui semblent réfractaires à votre projet par défaut!
 En effet, ils font partie intégrante du territoire et donc, il vont vous proposer un point de vue sur le territoire nécessaire à l'étude.
 
 **Durant cette étape, vous êtes juste en exploration, vous n'avez rien à proposer**. C'est donc l'opportunité idéale pour tout écouter sans subir de jugement de la part de votre interlocuteur.
@@ -380,7 +380,7 @@ Voir 👉 [[Initier les coopérations]]
 # Initier les coopérations
 *environ sur 4 mois*
 
-**A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de l'analyse collective via la phase d'exploration du terrtioire, il est temps de présenter aux différents acteurs vos apprentissages et d'imaginez ensemble, dans l'intérêt du territoire, les synergies possibles. Et si...?**
+**A ce stade, la posture et l'état d'esprit sont guidés par la nécessité d'engendrer des discussions qualitatives avec les acteurs du territoire. Forts de l'analyse collective via la phase d'exploration du territoire, il est temps de présenter aux différents acteurs vos apprentissages et d'imaginez ensemble, dans l'intérêt du territoire, les synergies possibles. Et si...?**
 
 ## Objectifs et éléments
 
@@ -494,7 +494,7 @@ Avant d'activer la co-construction, il est nécessaire de s'assurer de l'alignem
 Toujours partir de l'expression des besoins de l'interlocuteur et l'inviter à parler surtout avec des questions ouvertes.
 
 ### Se rendre "désirable" et "utile" au territoire
-L'approche de recherche et exploratoire permet de faire remonter beaucoup de connaissances ce qui est très utile à tous les acteurs du territoire ce qui fai déjà de vous un acteur désirable en terme de la connaissance qu'il permet de construire et de mettre en commun.
+L'approche de recherche et exploratoire permet de faire remonter beaucoup de connaissances ce qui est très utile à tous les acteurs du territoire ce qui fai déjà de vous un acteur désirable en termes de la connaissance qu'il permet de construire et de mettre en commun.
 Il faut cela dit bien se présenter : le projet principal est de comprendre le territoire et de le faire grâce à vous et avec vous. Voici ce que nous venons proposer dans un premier temps seulement. Ensuite, s'il y a des acteurs qui ont besoin des apports d'une entreprise comme un acteur de l'énergie, vous pouvez alors indiquer que vous vous positionnez et comment.
 
 >Quand la confiance est installée et que tout le monde peut connaître les besoins de tout le monde il est normal d'installer les besoins de votre projet initial au même niveau que les besoins de tous les autres acteurs.
@@ -616,8 +616,8 @@ Durant la phase de co-construction, tous les acteurs du territoire rentrent vrai
 les différentes ressources types:
 - système d'information
 - système numérique de gestion projet
-- système de communication - en continue tenir informé l'extérieur du groupe projet de ce qu'il se passe, semaines après semaines
-- système de Feedback - pour récolter en continue les retours, avis, apports d'autres acteurs qui ne sont pas encore actifs dans la gouvernance du projet - c'est notamment la cellule d'écoute nécessaire pour inclure les premiers réfractaires ou opposants
+- système de communication - en continu tenir informé l'extérieur du groupe projet de ce qu'il se passe, semaines après semaines
+- système de Feedback - pour récolter en continu les retours, avis, apports d'autres acteurs qui ne sont pas encore actifs dans la gouvernance du projet - c'est notamment la cellule d'écoute nécessaire pour inclure les premiers réfractaires ou opposants
 
 Avec toutes ces bases, le projet va pouvoir prendre son rythme et avancer : c'est [[la démarche itérative]], en boucles et cycles, et au rythme spécifique du territoire (et de ses acteurs).
 
@@ -740,8 +740,8 @@ Dans la Piège, la gouvernance partagée était très importante pour le présid
 
 Positionnement des autres acteurs sur le sujet de la gouvernance :
 - Les syndicats pourront être supports mais ne seront pas acteurs
-- Les membres présents étaient principalement en attente de "concret", c'est à dire de pouvoir visualiser et travailler ensemble sur une carte pour comprendre combien en taille, ou/et combien en économie crée - besoin de compter et de comprendre le deal envisagé
- - Est-ce que alors ils seront prêts à prendre des rôle de eux-même ou à comprendre l'intérêt d'une gouvernance projet ? A voir quel [[actionnement]] sera possible...
+- Les membres présents étaient principalement en attente de "concret", c'est-à-dire de pouvoir visualiser et travailler ensemble sur une carte pour comprendre combien en taille, ou/et combien en économie crée - besoin de compter et de comprendre le deal envisagé
+ - Est-ce que alors ils seront prêts à prendre des rôles d’eux-mêmes ou à comprendre l'intérêt d'une gouvernance projet ? À voir quel [[actionnement]] sera possible...
 
 ---
 
@@ -983,16 +983,16 @@ Biomimétisme et bio-inspiration
 
 - _3 à 5 slides GT de février_
 
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/5bJHJ1Nqa)
+![Illustration de la coopération](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/5bJHJ1Nqa)
 L'approche doit être systémique (s'intéressant à un système plutôt qu'à une somme d'individus ou de projets) et prendre en compte les interactions entre les acteurs.
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/c_seFisy4)
+![Schéma des interactions entre les acteurs](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/c_seFisy4)
 L'un des prérequis à la coopération porte sur la prise de conscience que chaque interaction est une source de dilemme. Interagir, c’est accepter de déléguer à un autre une partie des décisions qui vont avoir de l’influence sur son propre destin. Un acteur n’accepte de coopérer que s’il a l’espoir d’une attitude coopérative en retour. Toute interaction génère simultanément trois sentiments d’intensité variable :
 -	une « peur » de la non-coopération de l’autre acteur, de sa trahison
 -	un « attrait » pour la coopération mutuelle qui permettrait d’atteindre les résultats positifs d’une interaction réussie
 -	une « tentation » d’utiliser la coopération de l’autre acteur pour son propre profit
-La situation est favorable à la coopération si les attraits sont majoritaires par rapports aux peurs et tentations.
+La situation est favorable à la coopération si les attraits sont majoritaires par rapport aux peurs et tentations.
 
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/ChqZgs1QL)
+![Conditions favorables à la coopération](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/ChqZgs1QL)
 Le champ des acteurs vers qui se tourner est souvent bien plus vaste que ce que l'on croit et il faut faire l'effort d'élargir sa vision.
 
 
@@ -1111,7 +1111,7 @@ Co-construction
 - _7slides (GT février)_
 - _Plusieurs apports lors des points de synchro : à retrouver dans les CR Notion_
 
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/OQo88TzKw)
+![Support de travail sur la co-construction](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/OQo88TzKw)
 
 ## gouvernance projet
 
@@ -1125,7 +1125,7 @@ Si la personne ne veut plus porter le rôle elle a la responsabilité de trouver
 Pour qu'il soit possible de voir évoluer les contributeurs et que l'information soit au même niveau pour tout le monde, il y a différents moyens en place :
 Mise en place de réunions qui sont des rituels réguliers toutes les semaines pour se synchroniser entre rôles d'un même cercle et entre cercles
 Ces rituels sont documentés par des "secrétaires" qui ont la responsabilité de rendre accessible l'information du rituel aux autres membres de toute l'organisation
-L'information est toujours accessible à tous en toute transparence. Tout le monde est au même niveau en terme de "lecture" de ce qu'il se passe et en terme d'accès à la connaissance de l'organisation
+L'information est toujours accessible à tous en toute transparence. Tout le monde est au même niveau en termes de "lecture" de ce qu'il se passe et en terme d'accès à la connaissance de l'organisation
 La démarche itérative
 ### Les différentes étapes de la démarche itérative
 Définir une intention de projet
@@ -1153,7 +1153,7 @@ Recherche du besoin réel, suivant la population étudiée
 Recherche pour comprendre les systèmes économiques en place, les enjeux économiques
 Recherche pour comprendre les enjeux écologiques, sociaux et les repères de liens et d'impacts entre les différents systèmes du territoire
 Recherche sur le croisement entre économie, écologie, politique locale et globale, socio-dynamique, etc...
-Recherche en terme de faisabilité sur le territoire : étude des ressources en présence, les points d'autonomie et de dépendances etc...
+Recherche en termes de faisabilité sur le territoire : étude des ressources en présence, les points d'autonomie et de dépendances etc...
 Designer l'infrastructure
 Combien de MW
 Sur quelles superficies
@@ -1174,7 +1174,7 @@ https://drive.google.com/file/d/1_uhQLjAjVPgv-WBmOUqGx3S5cezj1cQ8/view
 
 Les types de relation
 - _Schéma Je + / Tu +, etc._
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/ebiSWNYjT)
+![Schéma des types de relations](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/ebiSWNYjT)
 !((9ac3db47-f733-4c5f-870e-4649cee12d0c))
 L'engagement
 Pour qu’une personne soit engagée dans une action, il faut :
@@ -1236,10 +1236,10 @@ Outils de tableaux blancs numériques comme http://miro.com
 Quelques exemples visuels
 !((8e2490bb-38ff-4e5b-866b-2b3bf610bc06))
 Dialectique
-Origine de la Grèce antique, pratique de Socrate comme "science de poser les bonnes questions" pour faire émerger une compréhension plus large d'une problématique, d'un sujet d'étude etc...
-caneva 9 cases
+Origine de la Grèce antique, pratique de Socrate comme "art de poser les bonnes questions" pour faire émerger une compréhension plus large d'une problématique, d'un sujet d'étude etc...
+canevas 9 cases
 _Développer du contenu..._
-![](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/SSjj43aAW)
+![Canevas en neuf cases](https://hypernotes.zenkit.com/api/v1/lists/2141737/files/SSjj43aAW)
 
 ---
 

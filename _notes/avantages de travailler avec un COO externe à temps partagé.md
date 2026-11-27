@@ -4,6 +4,7 @@ tags:
  - article
  - v1
  - candidate_post
+ - chiefofstaff
 
 ---
 **COO** : chef operating officer ou directeur des opérations.

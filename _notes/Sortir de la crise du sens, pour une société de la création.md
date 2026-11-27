@@ -2,6 +2,9 @@
 title: Sortir de la crise du sens, pour une société de la création
 tags:
   - article
+  - v1
+  - créativité
+  - société
 ---
 Nous parlons souvent de crise du sens comme d’un malaise diffus, presque abstrait. Pourtant, elle se manifeste très concrètement : dans la difficulté à se lever le matin, dans l’impression que nos efforts nourrissent un système qui exige toujours plus sans jamais rendre la vie plus vivante, **dans la sensation d’être pris dans une mécanique qui organise la survie, la production et la consommation, mais pas la joie d’exister**.
 
@@ -54,3 +57,5 @@ Alors, peut-être, nous aurons de nouveau une raison de nous lever le matin.
 Article source : [The Meaning Crisis — Indy Johar](https://indyjohar.substack.com/p/the-meaning-crisis)
 
 *Cet article vaut le coup d’être lu en complément parce qu’il pose avec clarté le diagnostic de la crise du sens. Mon texte essaie, lui, d’en formuler la réponse positive : remettre la créativité, la qualité des relations et la beauté du quotidien au cœur de l’organisation de la société.*
+
+À lire aussi dans le jardin : [[la créativité]] et [[coopération]].

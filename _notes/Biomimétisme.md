@@ -4,6 +4,7 @@ tags:
  - terminologie
  - note
  - seed
+ - bio-inspiration
 
 ---
 La [[bio-inspiration]] fait usage de la [[pensée analogique]] pour imaginer des solutions à des [[système complexe]] venant de systèmes parfois totalement différents là où le biomimétisme vient calquer une inspiration de la nature sur un usage humain très proche.

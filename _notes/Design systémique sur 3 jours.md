@@ -5,9 +5,10 @@ tags:
  - offre
  - note
  - v1
+ - systémique
 
 ---
-![]({{page.image}})
+![[troisjours.jpeg|Illustration du parcours de trois jours en design systémique]]
 
 *L’approche systémique de l'[[Archipel Kyosei]] se met en place grâce à trois journées construites spécifiquement pour poser concrètement, en coopération, le système d’une organisation et ainsi permettre à toutes les parties prenantes de prendre conscience des réelles priorités d’action & de transformation à initier.*
 

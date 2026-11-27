@@ -6,11 +6,11 @@ tags:
  - seed
 
 ---
-## point sur la logique occidentiale
+## point sur la logique occidentale
 
-Présenter l'histoire de la logique, le présocratisme qui était sur les mythes et légende — Ce que ça change au niveau de notre conscience, de notre manière de vivre avec nous-même, avec les autres et en terme de communication et de collaboration.
+Présenter l'histoire de la logique, le présocratisme qui était sur les mythes et légende — Ce que ça change au niveau de notre conscience, de notre manière de vivre avec nous-même, avec les autres et en termes de communication et de collaboration.
 
-Rebondir sur la dialectique de Socrate, la théorie mathématique et son histoire, l'histoire du language.
+Rebondir sur la dialectique de Socrate, la théorie mathématique et son histoire, l’histoire du langage.
 
 Continuer sur les modèles mentaux découlants de la logique, créant ainsi des méthodes, des matrices, des modèles conceptuels
 

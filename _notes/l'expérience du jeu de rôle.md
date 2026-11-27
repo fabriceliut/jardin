@@ -2,7 +2,7 @@
 title: l'expérience du jeu de rôle
 tags:
  - Meta-analyse
- - moc
+ - article
  - evergreen
 
 ---

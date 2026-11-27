@@ -6,9 +6,10 @@ tags:
  - note
  - wip
  - to_update
+ - créativité
 
 ---
-L'émergence de nouveautés qui sont en balance entre très originales ou très adaptés - c'est ce que permet le processus de créativité.
+L'émergence de nouveautés qui sont en balance entre très originales ou très adaptés - c'est-ce que permet le processus de créativité.
 
 ### une définition plus générique
 *La créativité est la capacité à imaginer ou à construire quelque chose de nouveau, original et souvent inattendu. Elle implique la capacité à voir les choses sous un nouveau jour, à trouver des solutions uniques à des problèmes et à générer ou à explorer des idées ou des concepts qui ne sont pas typiques ou traditionnels. Il s'agit d'un processus mentale qui implique l'utilisation de l'imagination ou des idées originales pour créer quelque chose.*

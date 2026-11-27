@@ -4,6 +4,7 @@ tags:
  - article
  - updated
  - candidate_post
+ - écologie
 
 ---
 **Points clés** : *Pour fusionner écologie et économie en un seul concept et intégrer leurs indicateurs sur un même tableau de bord, il faut adopter une approche holistique où les performances financières et environnementales sont gérées ensemble - mais comment ? découvrons-en quelques pistes* 👇

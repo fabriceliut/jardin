@@ -3,7 +3,7 @@ title: vibrer pour trouver le bonheur
 tags:
   - article
   - spiritualité
-  - V1
+  - v1
 
 ---
 *Peu importe ce que je fais dans ma vie, je vis et je crée des fluctuations dans le champ énergétique qui font évoluer moi,la Terre et l'Univers. Mais ce qui compte vraiment, c'est de vibrer et de ressentir de la joie et du bonheur, car c'est sur ce chemin que l'humain peut atteindre l'éveil et un état d'extase perpétuel.*
@@ -30,7 +30,7 @@ Et peu importe ce qu'on fait, on se sent juste bien.
 L'éveil, ça serait le plus haut niveau vibratoire où on a définitivement basculé dans un état d'extase perpétuel.
 
 > En cultivant une attitude de gratitude et en choisissant de vibrer à une fréquence élevée, nous pouvons trouver le bonheur dans chaque instant de notre vie.
-> En écoutant notre [[Intuition]], nos sensations, no émotions.. nous avons la boussole intérieure pour nous orienter aux bons endroits et aux bons moments
+> En écoutant notre [[retrouver la confiance en l’intuition|intuition]], nos sensations, no émotions.. nous avons la boussole intérieure pour nous orienter aux bons endroits et aux bons moments
 
 
 Pour nourrir la série [[décoder la vie]].

@@ -31,7 +31,7 @@ C’est l’objectif viable et valable.
 
 Outre passer l’ego pour développer les coopérations régénératrices.
 
-**Bonus :** avec les réseaux sociaux et les visios possible, les rassemblements ne sont même plus si nécessaire : il est possible de directement sauter à l’étape « tester ensemble » pour tisser la confiance.
+**Bonus :** avec les réseaux sociaux et les visios possibles, les rassemblements ne sont même plus si nécessaire : il est possible de directement sauter à l’étape « tester ensemble » pour tisser la confiance.
 
 Dès que j’ai un projet qui rentre, j’ai une liste de gens avec lesquels je sais qu’il serait génial de se tester et je propose direct.
 

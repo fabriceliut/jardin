@@ -25,7 +25,7 @@ Le soucis, c'est que nous devenons dépendant des outils. N'ayant pas participé
 - Dans les organisations, les collaborateurs sont formés aux outils de l'agilité, du design thinking etc... Demandez-leur d'utiliser ces outils autrement, dans un autre environnement que ce qu'ils ont pu expérimenter lors de leur formation ? La plupart du temps c'est eux-même qui vous diront qu'ils ne voient pas comment.
 - Les grandes structures, Google, Facebook, Microsoft, Apple, etc... placent leurs "outils" de gestion et de communication interne dans toutes les entreprises : **ils généralisent une manière de travailler, une manière de structurer l'information, une manière de penser !** Demandez à la plupart des collaborateurs utilisant des "manières Microsoft" de faire autrement ? Ils vous diront qu'ils ne voient pas comment.
 
-D'autres exemples, vous pourriez m'en trouver des tonnes, d'ailleurs, en commentaire, ils sont les bienvenus ! Le plus important est de se rendre compte que des outils, il y en a des millions et il y en aura toujours plus ! Pourquoi ? **Parce que c'est ce que les humains achètent !**
+D'autres exemples, vous pourriez m'en trouver des tonnes, d'ailleurs, en commentaire, ils sont les bienvenus ! Le plus important est de se rendre compte que des outils, il y en a des millions et il y en aura toujours plus ! Pourquoi ? **Parce que c'est-ce que les humains achètent !**
 
 Un des biais humain est de penser que l'outil sera la solution, parce que l'outil étant concret, il nous rassure et avec un bon discours de vente, on a confiance donc on achète ! Dans beaucoup de cas malheureusement, c'est un cadeau empoisonné !
 

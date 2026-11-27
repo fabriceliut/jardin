@@ -4,7 +4,7 @@ tags:
  - société
  - philosophie
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---
@@ -16,7 +16,7 @@ maintenant remplacez virus ou covid par "humanité" et hôte par "planète Terre
 > **l'humanité a besoin d'une planète terre pour s'installer et se dupliquer. mais si elle s'installe trop, elle risque de casser l'équilibre fragile de la planète et peut la détruire.**
 
 
-c'est ce que nous sommes en train de faire. nous sommes pour cette planète comme des virus qui continuons à nous dupliquer et à nous installer sans prendre en compte le contexte, l'environnement dans lequel on se développe.
+c'est-ce que nous sommes en train de faire. nous sommes pour cette planète comme des virus qui continuons à nous dupliquer et à nous installer sans prendre en compte le contexte, l'environnement dans lequel on se développe.
 
 le covid nous emmerde. l'humanité emmerde peut-être bien la planète. est-ce qu'on fera le saut de conscience pour se rendre compte que notre préoccupation principale ne devrait plus être de nous installer mais de nous assurer que notre installation et notre développement se fait en accord avec les besoins extérieurs à notre humanité?
 

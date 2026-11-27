@@ -4,6 +4,7 @@ tags:
  - tips
  - note
  - v1
+ - chiefofstaff
 
 ---
 **Quels sont les avantages pour un CEO de travailler avec un Chief Operating Officer et un Chief of Staff (COO et COS) ?**

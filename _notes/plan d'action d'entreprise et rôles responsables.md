@@ -16,7 +16,7 @@ Maintenant il faut mettre en place le système qui va activer et dynamiser ces s
 
 ## définir des rôles et responsabilités
 
-En effet, comme déjà vu à plusieurs reprises, disposer d’une vision et de stratégies fortes n’est pas suffisant pour que ce soit vivant : il faut aussi s’assurer que chacun « sâche qui fait quoi, quand et pour quoi ».
+En effet, comme déjà vu à plusieurs reprises, disposer d’une vision et de stratégies fortes n’est pas suffisant pour que ce soit vivant : il faut aussi s’assurer que chacun « sache qui fait quoi, quand et pour quoi ».
 
 Définir les rôles et responsabilités n’est pas chose aisée pour beaucoup de direction et la première des difficultés est de **dissocier les rôles des humains qui portent les rôles.**
 
@@ -32,7 +32,7 @@ Vous me direz c’est normal : répartir les rôles et les efforts avec intellig
 
 Pourtant, j’appuie vraiment sur ce point des répartitions de rôles parce que ce n’est pas la même chose que recruter sur des fiches de postes, qui sont plus des nécessaire d’ordre RH et financier. 
 
-Je pourrais développer sur les limites des fiches de postes dans un autre article mais ici, revenons sur comment bien définir et repartir des responsabilités. (je développe aussi sur les rôles dans [[gouvernance d'entreprise]])
+Je pourrais développer sur les limites des fiches de postes dans un autre article mais ici, revenons sur comment bien définir et répartir des responsabilités. (je développe aussi sur les rôles dans [[gouvernance d'entreprise]])
 
 
 ### Qu’est-ce que des rôles?
@@ -54,7 +54,7 @@ En somme, tout le nécessaire et didactique pour que l’humain qui va porter le
 
 Aussi, si un collaborateur clé ou historique quitte l’entreprise, l’entreprise perd un porteur de rôle et plus le rôle lui-même!
 
-Pour que ce fonctionnement en rôles fonctionne il faut aussi s’assurer de mettre en place une culture de la documentation pour que l’historique du rôle et ses ressources soient mises à jour en continue. 
+Pour que ce fonctionnement en rôles fonctionne il faut aussi s’assurer de mettre en place une culture de la documentation pour que l’historique du rôle et ses ressources soient mises à jour en continu. 
 
 Je développe dans un autre article sur le [[management de la connaissance]] comme ressource essentielle au bon fonctionnement d'une organisation. 
 
@@ -64,7 +64,7 @@ Un rôle nécessaire doit être dynamisé et c’est à la responsabilité du po
 
 Aussi, mais je ne développerais pas ici, il est possible que plusieurs humains dynamisent un rôle.
 
-Possible aussi pour un humains de dynamiser plusieurs rôles… mais je rentrerais dans la complexité des rôles dans une autre note sur la [[gouvernance d'entreprise]]. 
+Possible aussi pour un humain de dynamiser plusieurs rôles… mais je rentrerai dans la complexité des rôles dans une autre note sur la [[gouvernance d'entreprise]]. 
 
 
 ### Et les responsabilités?
@@ -83,7 +83,7 @@ Je vois tous les jours les limites des gouvernances hiérarchiques. 
 
 Je développerais sur les modèles de gouvernance horizontaux dans un autre article. 
 
-L’organisation en rôles est principalement un mode d’organisation horizontal c’est à dire que tous les collaborateurs sont au « même niveau » : ils portent juste des rôles nécessaire différents et des responsabilités différentes.
+L’organisation en rôles est principalement un mode d’organisation horizontal c’est-à-dire que tous les collaborateurs sont au « même niveau » : ils portent juste des rôles nécessaire différents et des responsabilités différentes.
 
 Si le collaborateur affirme dynamiser un rôle il s’engage à tenir les responsabilités du rôle et de maintenir à jour et efficient le rôle. 
 

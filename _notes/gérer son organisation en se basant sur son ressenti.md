@@ -8,7 +8,7 @@ tags:
 ---
 Gérer son organisation en se basant sur son ressenti est essentiel pour être en phase avec ses énergies et ses envies.
 
-Plutôt que de suivre des injonctions rationnelles, il est important d'écouter son [[Intuition]] et son feeling pour savoir quand et comment agir.
+Plutôt que de suivre des injonctions rationnelles, il est important d'écouter son [[retrouver la confiance en l’intuition|intuition]] et son feeling pour savoir quand et comment agir.
 
 Par exemple, si l'on se sent plus enclin à l'exploration ou au repos qu'à la production d'un projet, il est crucial d'adapter ses activités en conséquence.
 

@@ -6,7 +6,7 @@ tags:
  - v1
 image: /assets/plante_racine.png
 ---
-![]({{page.image}})
+![[plante_racine.png|Une plante et son système racinaire]]
 
 Voyez non pas une plante ici mais une entreprise. Ce qu’il se passe sous terre c’est ce dont on parle rarement, dans l’immatériel mais comme les racines, plus que nécessaire pour que l’entreprise se développe.
 

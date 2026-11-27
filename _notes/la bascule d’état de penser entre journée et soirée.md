@@ -1,15 +1,15 @@
 ---
-title: la bascule d’état de penser entre journée et soirée
+title: la bascule d’état de pensée entre journée et soirée
 tags:
  - atome
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---
 >c'est une analyse pour "[[pratiquer la meta conversation]]" : notre alternance de mode de fonctionnement cognitif.
 
-**La bascule d'état de penser entre la journée et la soirée est un phénomène naturel qui nous permet de trouver un équilibre entre notre côté rationnel et notre côté intuitif. En étant conscients de ces changements, nous pouvons mieux comprendre nos pensées et nos émotions et les utiliser de manière plus efficace pour notre bien-être.**
+**La bascule d’état de pensée entre la journée et la soirée est un phénomène naturel qui nous permet de trouver un équilibre entre notre côté rationnel et notre côté intuitif. En étant conscients de ces changements, nous pouvons mieux comprendre nos pensées et nos émotions et les utiliser de manière plus efficace pour notre bien-être.**
 
 La journée et la soirée sont deux moments de la journée où notre état de penser peut varier considérablement. Pendant la journée, nous sommes souvent occupés par nos tâches et nos responsabilités, ce qui peut nous amener à adopter un état de penser plus rationnel et pragmatique. Nous sommes concentrés sur nos objectifs et nos actions, et nous utilisons notre intellect pour résoudre les problèmes et prendre des décisions.
 

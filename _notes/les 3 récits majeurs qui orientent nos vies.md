@@ -8,7 +8,7 @@ tags:
 ---
 - 1.
 
- Soit vous êtes du genre « on est pas si mal » conscient de la médiocrité du système actuel mais prêt à l’accepter parce que ça pourrait être pire. Vous suivez sans chercher à remettre en question le status quo tout en profitant des avantages que vous avez même si ce n'est pas le bonheur non plus. C’est pas mal quoi 😐
+ Soit vous êtes du genre « on est pas si mal » conscient de la médiocrité du système actuel mais prêt à l’accepter parce que ça pourrait être pire. Vous suivez sans chercher à remettre en question le statu quo tout en profitant des avantages que vous avez même si ce n'est pas le bonheur non plus. C’est pas mal quoi 😐
 
 - 2.
 

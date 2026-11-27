@@ -4,9 +4,10 @@ tags:
  - article
  - v1
  - candidate_post
+ - IA
 
 ---
-J'utilise l'[[intelligence artificielle]] quotidiennement et sous diverses formes. Cependant, je fais partie de ceux qui disent « Attention ⚠️ ».
+J’utilise l’[[intelligence artificielle]] quotidiennement et sous diverses formes. Cependant, je fais partie de ceux qui disent « Attention ⚠️ ».
 
 Je voudrais aborder le sujet sous l'angle de la suffisance : notre manière d'approcher l'IA est toujours orientée vers le « plus », le « vite » et le « fort ». Plus d'investissements, plus de bénéfices, et donc une pression constante pour développer cette technologie, souvent en lien avec la robotique.
 

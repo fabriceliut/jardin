@@ -2,7 +2,7 @@
 title: Pour toi chez moi ça veut dire quoi
 tags:
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---
@@ -32,7 +32,7 @@ C'est partout sur la planète où j'ai envie de rester un peu. A force de voyage
 
 Je peux commencer par mon corps pour chez moi ? C'est mon corps ? Chez moi, c'est à l'intérieur de moi ? Ma maison intérieure ?
 
-Chez moi, c'est là ou je respire. Chez moi, c'est ce que j'ai le droit de défendre ! C'est mon Moi, c'est mon odeur, partout où je sens mon odeur, c'est chez moi...
+Chez moi, c'est là ou je respire. Chez moi, c'est-ce que j'ai le droit de défendre ! C'est mon Moi, c'est mon odeur, partout où je sens mon odeur, c'est chez moi...
 
 Chez moi, c'est partout où je me sens connecté de manière fluide et sans filtre. C'est partout où je sais que je peux être moi-même sans être jugé. C'est partout où c'est beau et lumineux et où ma tête n'écoute plus que mon cœur chanter...
 

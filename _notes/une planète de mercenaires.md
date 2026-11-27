@@ -8,9 +8,9 @@ tags:
 ---
 # Une planète de mercenaires
 
-Nous sommes sur une planète de mercenaires. Quasiment tous les humains à la surface de la planète se comportent ainsi, même s'ils ne sont pas en "temps de guerre" déclarée, j'entend par guerre le sens classique, c'est à dire des oppositions par la violence, la force, ou des gens sont tués et où il y a besoin d'humains pour bien tuer : les mercenaires.
+Nous sommes sur une planète de mercenaires. Quasiment tous les humains à la surface de la planète se comportent ainsi, même s'ils ne sont pas en "temps de guerre" déclarée, j'entend par guerre le sens classique, c'est-à-dire des oppositions par la violence, la force, ou des gens sont tués et où il y a besoin d'humains pour bien tuer : les mercenaires.
 
-Prenons la définition fondementale :
+Prenons la définition fondamentale :
 
 [Mercenaire](https://fr.wikipedia.org/wiki/Mercenaire)
 
@@ -32,7 +32,7 @@ Maintenant, si son client n'est pas non plus à l'initiative de production, il e
 
 ## L'initiative de production.
 
-Au final, il y a nécessairement besoin d'acteurs, d'entreprises, qui produisent quelques chose de concret, qui porte une valeur suffisante pour motiver un échange contre de l'argent _(Il y a besoin de ceux qui font la guerre directement)._
+Au final, il y a nécessairement besoin d'acteurs, d'entreprises, qui produisent quelque chose de concret, qui porte une valeur suffisante pour motiver un échange contre de l'argent _(Il y a besoin de ceux qui font la guerre directement)._
 
 Mais qu'est-ce qui peut bien porter une valeur suffisante pour qu'un humain échange de l'argent pour l'acquérir ? Qu'est-ce qui peut bien valoir la peine de "faire la guerre" ?
 

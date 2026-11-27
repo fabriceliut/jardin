@@ -6,6 +6,7 @@ tags:
  - article
  - updated
  - candidate_post
+ - systémique
 
 ---
 Je me dis actuellement acteur du [[design systémique]] et du [[design régénératif]]. Mais qu'est-ce que veulent dire ces termes associés ensemble pour une vision complète du Design ?

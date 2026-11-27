@@ -3,7 +3,7 @@ title: la toile de la Vie
 tags:
  - spiritualité
  - Meta-analyse
- - moc
+ - article
  - evergreen
 
 ---

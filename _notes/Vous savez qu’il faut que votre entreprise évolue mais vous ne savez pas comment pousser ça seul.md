@@ -9,7 +9,7 @@ tags:
 ---
 > comment est-ce possible, malgré toutes les informations dont on dispose aujourd'hui, qu'on continue de faire tourner l'entreprise et nos activités de la même manière sans chercher à transformer notre manière de faire face aux enjeux écologiques?”
 
-est-ce que vous aussi cette frustration vous remonte des trips chaque matin? est-ce que vous sentez une forme d'impuissance malgré le fait que vous pourriez proposer des choses pour faire évoluer votre entreprise?
+est-ce que vous aussi cette frustration vous remonte des tripes chaque matin? est-ce que vous sentez une forme d'impuissance malgré le fait que vous pourriez proposer des choses pour faire évoluer votre entreprise?
 
 est-ce que vous tentez de faire bouger les choses de l'intérieur mais que vous vous sentez trop seul et qu'il vous manque des ressources?
 
@@ -25,4 +25,4 @@ j'invite au premier lien et surtout ne restez jamais figés! s'il y a des choses
 
 **c'est ma raison d'être personnelle**: j'ai besoin de vous pour travailler à changer le système dans lequel vous évoluez au quotidien.
 
-alors, [on s'appelle](calendly.com/liut) et on voit comment faire évoluer les choses?
+alors, [on s'appelle](https://calendly.com/liut) et on voit comment faire évoluer les choses?

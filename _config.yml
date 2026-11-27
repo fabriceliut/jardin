@@ -2,6 +2,9 @@ title:               Jardin Liut.
 url:                 https://jardin.liut.me
 include:             ['_pages']
 exclude:
+  - docs
+  - tools
+  - _notes/_daily
   - _includes/notes_graph.json
   - _notes/all_files.txt
   - _notes/modified_files.txt

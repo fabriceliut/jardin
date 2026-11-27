@@ -5,6 +5,8 @@ tags:
  - cas-exemple
  - note
  - updated
+ - IA
+ - systémique
 
 ---
 

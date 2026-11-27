@@ -5,6 +5,7 @@ tags:
  - archipel
  - updated
  - candidate_post
+ - régénératif
 
 ---
 Je vous partage ici mon plan personnel, mon IKIGAI, qui a pour finalité de participer à la réussite de notre transformation de société en cours. **Je crois qu'il nous est possible d'être au monde autrement et de faire émerger une autre forme de société mieux vivante et en équilibre entre nous et avec le reste du vivant.**

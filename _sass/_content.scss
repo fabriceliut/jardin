@@ -426,3 +426,13 @@
     background: var(--color-accent-subtle);
   }
 }
+
+.note-content .image-fallback {
+  display: block;
+  color: var(--color-subtext);
+  font-style: italic;
+}
+
+.note-content .transclusion {
+  overflow-x: auto;
+}

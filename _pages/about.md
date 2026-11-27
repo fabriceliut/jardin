@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about
-image: assets/avatar_24.jpg
+image: /assets/avatar_24.jpg
 ---
 <picture>
   <source srcset="/assets/avatar_24.webp" type="image/webp">

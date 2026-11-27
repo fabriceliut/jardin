@@ -1,5 +1,5 @@
 ---
-title: et si demain vous choisissiez de vous replacer par des produits autonomes?
+title: et si demain vous choisissiez de vous remplacer par des produits autonomes ?
 tags:
  - contentmarketing
  - note

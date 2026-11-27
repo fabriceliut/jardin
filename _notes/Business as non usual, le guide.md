@@ -7,7 +7,7 @@ tags:
  - updated
 
 ---
-![]({{page.image}})
+![[businessnonusual.png|Illustration du guide Business as non usual]]
 
 *Je vous propose par cet article de basculer de modèle, vers ce qui semblerait l'inverse de notre système capitaliste « as usual »... enfin l’inverse... peut-être moins que vous pouvez l’imaginer et peut-être bien plus « performant »...*
 

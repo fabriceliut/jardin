@@ -3,7 +3,7 @@ title: L'être et l'étant
 tags:
  - philosophie
  - Meta-analyse
- - moc
+ - note
  - seed
 
 ---

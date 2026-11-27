@@ -14,7 +14,7 @@ est-ce encore un héritage de notre mode paléolithique de survie? est-ce possib
 
 et si l'impuissance était en réalité une source de puissance? impuissance personnelle peut-être mais nous sommes des êtres sociaux, nous sommes un organisme humanité. alors impuissance personnelle pour libérer plus de puissance collective.
 
-en effet, si je suis dans une situation d'impuissance, cela va m'amener déjà à me questionner sur moi-même et par rebond direct à évoluer. et si je me rend compte que je ne pourrais pas "m'en sortir" seul, accepter que c'est en demandant de l'aide que je pourrais faire évoluer la situation.
+en effet, si je suis dans une situation d'impuissance, cela va m'amener déjà à me questionner sur moi-même et par rebond direct à évoluer. et si je me rends compte que je ne pourrais pas "m'en sortir" seul, accepter que c'est en demandant de l'aide que je pourrais faire évoluer la situation.
 
 c'est déjà accepter ma vulnérabilité sans honte et en faire l'opportunité d'aller chercher l'autre en lui faisant comprendre que j'ai besoin de lui.
 

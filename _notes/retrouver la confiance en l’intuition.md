@@ -6,6 +6,7 @@ tags:
  - note
  - wip
  - to_update
+ - psychologie
 
 ---
-Sortir du rationnel, libérer l’émotionnel, développer l' [[Intuition]].
+Sortir du rationnel, libérer l’émotionnel, développer l’intuition.

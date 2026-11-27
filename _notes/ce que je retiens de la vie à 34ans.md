@@ -1,5 +1,5 @@
 ---
-title: ce que je retiens de la vie à 34ans
+title: ce que je retiens de la vie à 34 ans
 tags:
   - note
   - seed

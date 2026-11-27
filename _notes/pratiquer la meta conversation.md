@@ -2,7 +2,7 @@
 title: pratiquer la meta conversation
 tags:
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---

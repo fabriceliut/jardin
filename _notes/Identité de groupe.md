@@ -2,7 +2,7 @@
 title: identité de groupe
 tags:
  - Meta-analyse
- - moc
+ - article
  - evergreen
 
 ---
@@ -29,7 +29,7 @@ Je vois alors ici deux choix :
 - **S'il y a nouvelle entité, qui est-elle ? Comment est-ce qu'elle s'appelle ?**
 - **S'il n'y a pas nouvelle entité, alors comment définir cette association & le fait de faire ensemble, d'avoir un projet commun ?**
 
-De mon point de vue, et c'est ce que je questionne ici, **le premier choix** est bien plus fréquent que l'autre. Il est plus simple à appréhender et nous y sommes culturellement habitués. Quand on crée une association, une entreprise, c'est un objet intellectuel dont nous avons accepté l'existence, c'est une [[personne morale]]. **Cette entité n'existe pas physiquement car rien de plus n'existe que les individus & les objets qui la composent. Pourtant, dans notre esprit, elle existe.** Juridiquement, elle existe. La plupart du temps même, les individus ont besoin de son existence pour évoluer ensemble, sinon ils ne se sentent pas "appartenir à" quelque chose.
+De mon point de vue, et c'est-ce que je questionne ici, **le premier choix** est bien plus fréquent que l'autre. Il est plus simple à appréhender et nous y sommes culturellement habitués. Quand on crée une association, une entreprise, c'est un objet intellectuel dont nous avons accepté l'existence, c'est une [[personne morale]]. **Cette entité n'existe pas physiquement car rien de plus n'existe que les individus & les objets qui la composent. Pourtant, dans notre esprit, elle existe.** Juridiquement, elle existe. La plupart du temps même, les individus ont besoin de son existence pour évoluer ensemble, sinon ils ne se sentent pas "appartenir à" quelque chose.
 C'est avec cette [[personne morale]] et toutes les règles qu'on crée pour la définir que l'on crée une **identité de groupe**. Cette identité nous permet de faire "un", en partageant une raison d'être, des intentions, des valeurs & des principes de fonctionnement, etc.
 
 ## Et qu'en est-il du second choix ?

@@ -5,6 +5,7 @@ tags:
  - cas-étude
  - note
  - updated
+ - systémique
 
 ---
 
@@ -32,7 +33,7 @@ Comme le dit Gunter Pauli dans son livre sur la « Blue economy », **le pouv
 
 Et cette démonstration se passe à l’intérieur d’une organisation fermée. Imaginez la même logique systémique dans un contexte d’organisations ouvertes… Solutionner les problèmes des uns pour régler les problèmes des autres… Cela fonctionne aussi pour les agences, cabinets et collectifs d’intervenants de la transformation : au lieu d’avancer seuls dans la complexité isolée, trouver une collaboration bénéfique à tous !
 
-![]({{page.image}})
+![[banques.jpg|Illustration de l’article sur les banques]]
 
 *Exemple d’une démarche systémique avec nos banques.*
 

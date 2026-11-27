@@ -3,7 +3,7 @@ title: Apprendre à travers la vie humaine
 tags:
   - spiritualité
   - Meta-analyse
-  - V1
+  - v1
   - article
 ---
 > 🌌 Idée-noyau — la vie humaine n'est pas une prison à fuir mais un plan d'apprentissage choisi. Les états modifiés en sont des fenêtres, pas des sorties.

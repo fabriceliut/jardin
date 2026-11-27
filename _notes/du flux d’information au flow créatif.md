@@ -5,6 +5,7 @@ tags:
  - guidebook
  - ressource
  - updated
+ - créativité
 
 ---
 Comment fonctionne le processus créatif et plus précisément **comment est-ce qu’on va transformer de l’information type inspiration en une nouvelle pièce de connaissance ou créative ?**
@@ -66,7 +67,7 @@ Nous avons capturé des parties de livres, d’articles, de podcasts et nous avo
 Des propriétés par exemple ce sont des tags, des types de contenus, des thèmes, l’auteur en lien, etc… **nous allons qualifier un atome de contenu et ainsi construire au fil du temps toute une pépinière sur plein de sujets différents que nous allons ensuite pouvoir cultiver**.
 
 
-> **Outils pour organiser** : [Readwise](https://readwise.io/), [Tana](https://tana.inc/), Roam, [Logseq](https://logseq.com/), Notion (en général les “tools for thoughts” et autres outils de “PKM” c’est à dire “personal knowledge management”)
+> **Outils pour organiser** : [Readwise](https://readwise.io/), [Tana](https://tana.inc/), Roam, [Logseq](https://logseq.com/), Notion (en général les “tools for thoughts” et autres outils de “PKM” c’est-à-dire “personal knowledge management”)
 
 
 ### Le mode “distill” ou mise en culture

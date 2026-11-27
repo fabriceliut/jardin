@@ -3,6 +3,7 @@ title: la chaîne des changements systémiques
 tags:
   - note
   - seed
+  - systémique
 
 ---
 On cherche souvent à créer intellectuellement le système qui peut régler de manière complexe et macro nos problématiques de société.
@@ -24,7 +25,7 @@ Il faut comprendre et entrer par ses besoins du moment, assurer qu’on a les cl
 
 Cet humain doit aussi tisser la confiance avec un autre humain, encore plus proche du coeur du système et ainsi de suite.
 
-En bout de ce "relai de confiance", quelqu’un qui a un pouvoir de décision pour déclencher une chaîne d’actions financée.
+En bout de ce "relais de confiance", quelqu’un qui a un pouvoir de décision pour déclencher une chaîne d’actions financée.
 C'est ces chaînes d'actions qui sont les premiers pas locaux d'une transformation systémique plus large et complexe.
 
 ---

@@ -3,6 +3,7 @@ title: du système projet aux assemblages projets
 tags:
   - note
   - seed
+  - projectmanagement
 
 ---
 Une démarche en intelligence collective de la [[Pensée Rêve]] à l’action concrète au quotidien.

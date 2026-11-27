@@ -16,7 +16,7 @@ Lorsque vous découvrez quelque chose de génial sur Twitter, c'est rapide, comm
 
 Ne pensez-vous pas que nous devons passer plus de temps à ressentir des sensations réelles ? Ne pas y penser mais ressentir.
 
-L'amour ❤️ est ce que nous recherchons tous chaque jour mais si nous voulons être remplis d'amour, nous devons être remplis d'émotion grâce à une expérience sensationnelle incroyable et vides de pensées.
+L'amour ❤️ est-ce que nous recherchons tous chaque jour mais si nous voulons être remplis d'amour, nous devons être remplis d'émotion grâce à une expérience sensationnelle incroyable et vides de pensées.
 
 > Éteignez votre téléphone. Allez quelque part pour ressentir et restez dans ce ressenti jusqu'à ce que vous arrêtiez de penser. Vivez en répandant l'amour.
 

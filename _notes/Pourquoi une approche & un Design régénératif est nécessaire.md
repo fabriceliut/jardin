@@ -8,7 +8,7 @@ tags:
  - candidate_post
 
 ---
-![]({{page.image}})
+![[coopererregenerer.jpeg|Illustration sur la coopération et la régénération]]
 
 
 > *“It’s up to us to decide what kind of a world we want to leave to coming generations – a sustainable one, or a desolate one in which the civilisation we have built disintegrates rather than builds on past successes,”* - [Source inspirant cet article](https://www.independent.co.uk/environment/sixth-mass-extinction-endangered-animals-wildlife-markets-biodiversity-crisis-standford-study-a9544856.html).
@@ -28,7 +28,7 @@ tags:
 
 ## **Au quotidien, régénérer plutôt que dégénérer.**
 
-Le [[design régénératif]] porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est à dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
+Le [[design régénératif]] porte l'intention d'oeuvrer à organiser nos systèmes, nos projets, nos actions et nos dynamiques humaines dans le sens du vivant, c'est-à-dire porté par une contrainte forte, **celle de dynamiser la vie plutôt que de la ramollir**.
 
 ### **Comment est-ce que ça s'applique au quotidien ?**
 

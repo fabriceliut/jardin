@@ -2,6 +2,9 @@
 title: Franchir le mur de la peur et toucher l'extase
 tags:
   - article
+  - v1
+  - psychologie
+  - spiritualité
 ---
 Il existe un espace mental très précis que la plupart d'entre nous évitons soigneusement : la frontière du connu. C’est cette limite invisible où nos certitudes s'arrêtent, où le contrôle nous échappe, et où s'ouvre l'inconnu absolu.
 
@@ -60,4 +63,4 @@ Lorsque tu sens la crispation arriver face à l'incertitude, rappelle-toi cette 
 
 Accepter la limite ultime, ce n'est pas renoncer à la vie. C'est au contraire lui donner son espace maximal. Quand mourir ou échouer cesse d'être une menace, l'inconnu ne fait plus peur : il devient le plus grand des terrains de jeu.
 
-Dans la grande famille des réflexions autour du [[lâcher-prise]] pour continuer, ou avec [[joies actives]]...
+Dans la grande famille des réflexions autour du [[C'est quoi lâcher prise|lâcher-prise]] pour continuer, ou avec [[joies actives]]...

@@ -6,7 +6,7 @@ tags:
  - Meta-analyse
  - evergreen
  - candidate_post
-image: "[[eau-mur-coule Large.jpeg]]"
+image: /assets/eau-mur-coule%20Large.jpeg
 ---
 Il y a un cycle mental dans lequel je me surprends souvent à tourner en rond. Il commence invariablement par le regard que je porte sur les autres.
 
@@ -26,7 +26,7 @@ Comme je n'ai pas sorti "L'Album" légendaire, comme je n'ai pas publié "Le Liv
 
 C'est une protection redoutable : tant que je ne produis rien d'abouti, je peux continuer à fantasmer que mon potentiel est illimité. _"Je pourrais le faire, si je m'y mettais vraiment."_ Mais si je passe à l'acte, je prends le risque de produire quelque chose de moyen, et donc d'affronter mes propres limites. Pour éviter cette blessure narcissique, je m'arrête avant même d'essayer. Mon "humilité" n'est que la peur de l'échec déguisée en sagesse.
 
-![[eau-mur-coule Large.jpeg]]
+![[eau-mur-coule Large.jpeg|De l’eau ruisselle le long d’un mur]]
 ## Le piège de la Preuve : Confondre l'Acte et l'Objet
 
 En creusant ce blocage, j'ai réalisé que je faisais une erreur de logique fondamentale. Je confondais ma **puissance d'agir** avec l'**artefact** (le résultat matériel).

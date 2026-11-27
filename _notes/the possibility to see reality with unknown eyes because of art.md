@@ -4,7 +4,7 @@ tags:
  - art
  - Afairepousser
  - Meta-analyse
- - moc
+ - note
  - wip
  - to_update
 

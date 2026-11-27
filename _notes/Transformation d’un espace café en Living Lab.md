@@ -15,7 +15,7 @@ tags:
 
 Le modèle en développement depuis quelques années est celui du « Slow Café » : les visiteurs paient au temps qu’ils restent, et profitent d’un buffet à volonté. Pour compléter les revenus, SOFFFA est aussi ouvert à la privatisation pour les entreprises privées.
 
-En vision court terme, le modèle tient la route, mais demain ? Quand les entreprises ne voudront plus simplement un espace mais également divers accompagnements, que ce soit en terme de programmation d’événements comme d’expertises, comment est-ce que SOFFFA peut dès aujourd’hui se transformer pour anticiper ces futurs besoins ?
+En vision court terme, le modèle tient la route, mais demain ? Quand les entreprises ne voudront plus simplement un espace mais également divers accompagnements, que ce soit en termes de programmation d’événements comme d’expertises, comment est-ce que SOFFFA peut dès aujourd’hui se transformer pour anticiper ces futurs besoins ?
 
 Quand les entrepreneurs ne voudront plus simplement d’un bel endroit pour travailler chacun dans leur coin et chercheront de réelles opportunités de collaborations et de synergies, comment SOFFFA peut imaginer de nouveaux modèles pour « travailler ensemble » et au-delà, « vivre ensemble » ses projets et voir émerger des projets collectifs ?
 

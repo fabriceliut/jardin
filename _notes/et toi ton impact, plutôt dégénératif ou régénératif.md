@@ -15,7 +15,7 @@ l’étape suivante serait que la conscience et priorité écologique rentre dan
 
 > tout le monde s’en fout > dangereux > évident - est-ce qu'on serait sur cette progression?
 
-personnellement le passage à l’évidence reste un saut énorme en terme de conscience > c'est une bascule dans une nouvelle approche du monde et du quotidien beaucoup plus humble mais complexe aussi.
+personnellement le passage à l’évidence reste un saut énorme en termes de conscience > c'est une bascule dans une nouvelle approche du monde et du quotidien beaucoup plus humble mais complexe aussi.
 
 c’est accepter d’être « seulement » une petite partie d’un grand tout qui n’est qu'UN et que chaque pensée, parole et action porte son impact : **soit dégénératif soit régénératif**.
 

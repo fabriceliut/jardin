@@ -38,7 +38,7 @@ Dans ce récit nous ne sommes plus [des enfants gâtés](https://www.amazon.fr/E
 
 La technologie ne disparaîtra pas, ni internet: elle fait désormais partie de notre humanité, c’est notre maillage "neuronal" collectif et universel. Mais comme le reste, elle sera plus sobre, justement utilisée suivant les principes de convivialité. 
 
-Dans ce récit il n’y a privation de rien et pour personne: plutôt **une redirection de nos énergies, de notre attention et de notre temps sur des espaces qui nous font du bien aussi mais autremen**t: des nouvelles opportunités de joies, de rires et d’amusements émergents du plus sobre et convivial. 
+Dans ce récit il n’y a privation de rien et pour personne: plutôt **une redirection de nos énergies, de notre attention et de notre temps sur des espaces qui nous font du bien aussi mais autrement** : des nouvelles opportunités de joies, de rires et d’amusements émergents du plus sobre et convivial. 
 
 Dans ce récit, nous avons tout autant de chance d'être heureux que maintenant, mais pour plus de monde et en dégénérant moins le reste du vivant. Déjà rien que ça ce serait une autre forme de progrès. 
 

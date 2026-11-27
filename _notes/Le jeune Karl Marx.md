@@ -2,7 +2,7 @@
 title: Le jeune Karl Marx
 tags:
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---
@@ -26,4 +26,4 @@ Par exemple, le [[Design Sprint]] permet ça ainsi que les autres formes de trav
 - Lire Le capital, œuvre de Karl Marx
 - Importance des [[designs]] pour lier pensée et action concrètes
 
-**A pousser alors, tout un mouvement et des actions concrètes plutôt que des manifestes.**
+**À pousser alors, tout un mouvement et des actions concrètes plutôt que des manifestes.**

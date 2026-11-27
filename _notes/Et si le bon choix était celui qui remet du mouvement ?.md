@@ -3,6 +3,9 @@ title: Et si le bon choix était celui qui remet du mouvement ?
 tags:
   - article
   - Meta-analyse
+  - v1
+  - décision
+  - mouvement
 ---
 Je crois que j’ai mis très longtemps à comprendre un truc très simple.
 
@@ -447,3 +450,7 @@ Le guide est ici : [Guide — gauche ou droite : décider par le mouvement](http
 À garder pour la prochaine fois où tu sens que tu n’es plus en train de choisir.
 
 Mais seulement d’éviter.
+
+Dans le jardin, cette idée rejoint [[retrouver la confiance en l’intuition]] et [[Franchir le mur de la peur et toucher l'extase|la réflexion sur le rapport à la peur]].
+
+Voir aussi [[Un petit pas produit l’information qui manque pour décider]].

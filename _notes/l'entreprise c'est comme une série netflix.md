@@ -5,13 +5,13 @@ tags:
   - seed
 
 ---
-un consultant, facilitateur ou un intervenant externe arrive en cours d'un histoire qui est ent rain de s'écrire depuis bien plus longemps que lui, parfois à l'episode 10 de la saison 12... et ça permet de se rendre compte des avantages de parfois, pour les moments adaptés... se payer un accompagnement externe.
+un consultant, facilitateur ou un intervenant externe arrive en cours d'un histoire qui est ent rain de s'écrire depuis bien plus longtemps que lui, parfois à l'episode 10 de la saison 12... et ça permet de se rendre compte des avantages de parfois, pour les moments adaptés... se payer un accompagnement externe.
 
 ### avantages
 
 - Regard non jugeant et neuf sur tout sur l'organisation et sur tous les collaborateurs
 - Curiosités - il va poser les questions naïves pour comprendre que plus personne n'ose poser en interne
-- Invite à expliquer des évidences desquels parfois ceux qui sont dedans depuis longtemps ne se rendent plus compte
+- Invite à expliquer des évidences dont parfois ceux qui sont dedans depuis longtemps ne se rendent plus compte
 - Apporter une prise de recule nécessaire
 - … (à développer)
 

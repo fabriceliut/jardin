@@ -4,6 +4,7 @@ tags:
  - atome
  - note
  - v1
+ - chiefofstaff
 
 ---
 **Pourquoi travailler avec un soutien externe “type [[chief of staff]]”, même si le rôle est encore peu identifié en France ?**

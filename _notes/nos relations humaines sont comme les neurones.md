@@ -2,7 +2,7 @@
 title: nos relations humaines sont comme les neurones
 tags:
  - Meta-analyse
- - moc
+ - note
  - evergreen
 
 ---

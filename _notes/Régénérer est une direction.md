@@ -20,7 +20,7 @@ Cependant, dans notre société actuelle, beaucoup plus d'activités, de projets
 C'est ce qu'on pourrait appeler "le choix déterminant de la vie" - également en lien avec la [[civilisation de la vie]].
 
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FOmega%2Fd50EJqYA7l?alt=media&token=cd155080-20a1-4084-97ee-cb8d7ca1ee55)
+![Illustration de la note sur la régénération](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FOmega%2Fd50EJqYA7l?alt=media&token=cd155080-20a1-4084-97ee-cb8d7ca1ee55)
 
 Inspiration du [livre]([[Livres et vidéos]]) 👉 Le génie de Viktor.Schauberger, Naturaliste, garde forestier et scientifique intuitif par l'observation.
 

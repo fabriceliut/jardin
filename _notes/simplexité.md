@@ -6,6 +6,7 @@ tags:
  - note
  - wip
  - to_update
+ - systémique
 
 ---
 ## concept important : la simplexité. Il s'agit d'un mouvement de conscience qui consiste à passer de la complexité à la simplicité.

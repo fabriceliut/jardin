@@ -3,6 +3,8 @@ title: basculer d'une vision d'un monde économique de concurrence à coopérati
 tags:
   - note
   - seed
+  - coopération
+  - régénératif
 
 ---
 Le modèle actuel est de concurrence, établi comme étant « normal » et sans alternative réelle.

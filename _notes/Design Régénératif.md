@@ -5,6 +5,7 @@ tags:
  - terminologie
  - article
  - seed
+ - régénératif
 
 ---
 ### Définition synthétique

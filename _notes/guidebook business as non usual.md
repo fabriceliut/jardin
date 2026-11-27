@@ -8,7 +8,7 @@ tags:
  - updated
 
 ---
-![]({{page.image}})
+![[businessnonusual.png|Illustration du guide Business as non usual]]
 
 *Je vous propose par cet article de basculer de modèle, vers ce qui semblerait inverse à notre système capitaliste « as usual »... enfin l’inverse... peut-être moins que vous pouvez l’imaginer et peut-être bien plus «performant»...*
 
@@ -48,7 +48,7 @@ Le soucis ? On ne peut pas non plus comprendre l’intelligence de la machine, a
 
 ### Une quête de pouvoir & de richesse sans fin heureuse.
 
-Même ceux qui tirent à leur avantage ce système n’en sont pas heureux. **Parce que oui et c’est bien connu, l’argent en excès ne fait pas le bonheur**. Ni les 20 maisons qui vont avec. Ni le pouvoir, même absolu, qu’on peut avoir sur pleins d’autres humains. Le problème à se sentir au-dessus des autres, c’est qu’on finit par les mépriser et, surtout, à se sentir bien seul parmis les gens de pouvoir si rare sur cette terre. **Même si on se monte un club, non, ça ne rend toujours pas heureux.**
+Même ceux qui tirent à leur avantage ce système n’en sont pas heureux. **Parce que oui et c’est bien connu, l’argent en excès ne fait pas le bonheur**. Ni les 20 maisons qui vont avec. Ni le pouvoir, même absolu, qu’on peut avoir sur pleins d’autres humains. Le problème à se sentir au-dessus des autres, c’est qu’on finit par les mépriser et, surtout, à se sentir bien seul parmi les gens de pouvoir si rare sur cette terre. **Même si on se monte un club, non, ça ne rend toujours pas heureux.**
 
 ## La naissance d’un nouveau business.
 
@@ -64,11 +64,11 @@ Alors oui ça commence fort, ce changement de paradigme entraîne de gros mouvem
 
 ### Le ROI de l’intelligence collective.
 
-La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les languages... **c’est là où de nombreuses postures comme la [[facilitation]] prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle [[intelligence collective]] et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant mais l’avantage c’est que la confiance on la porte sur Nous-mêmes.**
+La mise en coopération de notre système implique déjà de nous considérer comme des êtres vivants : des besoins de base à remplir, une temporalité naturelle à respecter, du temps à passer pour accorder les violons et les langages... **c’est là où de nombreuses postures comme la [[facilitation]] prennent tout leur sens.** Et le cadeau quand ça commence à rouler ? L’émergence d’une réelle [[intelligence collective]] et d’un mouvement collectif. On aime parler de 1+1=3 et je peux vous assurer que ça fonctionne aussi avec des euros. Cette forme d’intelligence est naturelle et en nous depuis que nous sommes vivants. **C’est tout autant incompréhensible qu’un algorithme ultra puissant mais l’avantage c’est que la confiance on la porte sur Nous-mêmes.**
 
 ### Apprendre de la nature par [[bio-inspiration]] plutôt que faire de la R&D.
 
-En parlant de ce qui est vivant, nous voilà face au plus gros trésor que nous aillions à disposition depuis...toujours. **Au lieu de raser des forêts pour en faire de l’énergie pauvre, observons la pour en tirer la sagesse et les apprentissages**. Vous voulez optimiser des flux économiques, développer votre business modèle ? Observez et comprenez le fonctionnement souterrain d’une forêt primaire et des échanges entre les champignons et les arbres. Vous voulez optimiser le fonctionnement interne de votre organisation ? Le végétal et les insects savent faire au mieux depuis des millions d’années. **Peut-être que si la biodiversité redevenait notre « bibliothèque » nous aurions, en bonus, plutôt envie de l’enrichir que de l’appauvrir([1](https://usbeketrica.com/article/tous-les-indicateurs-sont-au-rouge-pour-la-biodiversite)).**
+En parlant de ce qui est vivant, nous voilà face au plus gros trésor que nous aillions à disposition depuis...toujours. **Au lieu de raser des forêts pour en faire de l’énergie pauvre, observons la pour en tirer la sagesse et les apprentissages**. Vous voulez optimiser des flux économiques, développer votre business modèle ? Observez et comprenez le fonctionnement souterrain d’une forêt primaire et des échanges entre les champignons et les arbres. Vous voulez optimiser le fonctionnement interne de votre organisation ? Le végétal et les insectes savent faire au mieux depuis des millions d’années. **Peut-être que si la biodiversité redevenait notre « bibliothèque » nous aurions, en bonus, plutôt envie de l’enrichir que de l’appauvrir([1](https://usbeketrica.com/article/tous-les-indicateurs-sont-au-rouge-pour-la-biodiversite)).**
 
 ### Developper la performance par les échecs en commun.
 

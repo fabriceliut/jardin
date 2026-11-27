@@ -4,6 +4,7 @@ tags:
  - index
  - moc
  - evergreen
+ - coopération
 
 ---
 Sujet au coeur de l'[[Archipel Kyosei]] & de beaucoup d'autres collectifs qui cherchent de nouveaux modèles pour évoluer ensemble.
@@ -21,3 +22,5 @@ Quelques pistes également à développer prochainement :
 - L'[[Entreprise Archipel]]
 - L'[[Entreprise de territoire]]
 - [[faisons partie de nous]]
+
+Pour explorer la place de la créativité dans la vie collective, voir [[Sortir de la crise du sens, pour une société de la création]].
